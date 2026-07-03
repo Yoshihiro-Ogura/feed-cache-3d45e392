@@ -4,5 +4,12 @@
 <title>ACS Bridge Error</title>
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <description>ACS Bridge Error (mirrored feed)</description>
+<item>
+<title>[2026-07-03 15:00 UTC] 1件の問題 / 1 issue(s)</title>
+<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
+<guid>acs-bridge-error-2026-07-03T15:00:06.778823+00:00</guid>
+<pubDate>Fri, 03 Jul 2026 15:00:06 +0000</pubDate>
+<description>[scraper] 全体が失敗 / stage failed entirely: WebDriverException()</description>
+</item>
 </channel>
 </rss>
