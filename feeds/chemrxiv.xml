@@ -117,6 +117,13 @@
 <description>Green chemistry, formalized in the mid-1990s, provides a design framework for reducing or eliminating hazardous substances, minimizing waste, and improving the overall sustainability of chemical products and processes. In parallel, the circular economy ...</description>
 </item>
 <item>
+<title>Highly stable microporous water for energy absorption</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006036/v1?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006036/v1?af=R</guid>
+<pubDate>2026-07-13T08:51:34Z</pubDate>
+<description>Water has poor compressibility. However, introducing hydrophobic porosity into water can make it highly compressible, as water molecules can be squeezed into the hydrophobic pores under pressure. This offers an exciting opportunity to use water to absorb ...</description>
+</item>
+<item>
 <title>Immobilized Thiol Catalysts for Native Chemical Ligation in Flow</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005023/v3?af=R</link>
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005023/v3?af=R</guid>
@@ -129,6 +136,13 @@
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005985/v1?af=R</guid>
 <pubDate>2026-07-13T08:49:20Z</pubDate>
 <description>Short peptides are promising building blocks for supramolecular soft materials yet controlling when and where hydrogelation occurs remains challenging. Here, we report a reactionprogrammed strategy for peptide hydrogel formation based on a biphasic ...</description>
+</item>
+<item>
+<title>Water transport in MOF monoliths under pressure</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006035/v1?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006035/v1?af=R</guid>
+<pubDate>2026-07-13T08:47:33Z</pubDate>
+<description>Pressurised intrusion into hydrophobic metal-organic frameworks (MOFs) is of considerable interest for energy absorption and fluid transport applications, yet the transport mechanisms in monolithic architectures remain poorly understood. Here, in-situ ...</description>
 </item>
 <item>
 <title>A Stable Ruthenium(CAAC-5) Olefin Metathesis Catalyst for Bioconjugation</title>
@@ -371,6 +385,20 @@
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005960/v1?af=R</guid>
 <pubDate>2026-07-13T05:33:41Z</pubDate>
 <description>Inspired by enzymatic proton-coupled electron transfer (PCET) control, introducing proton relays into catalysts' second coordination sphere accelerates proton-transfer reactions, yet this strategy remains underexplored for N–H bond cleavage in ammonia ...</description>
+</item>
+<item>
+<title>Extending the Python RESP Framework for Extra Point Charge Fitting</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002675/v3?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002675/v3?af=R</guid>
+<pubDate>2026-07-13T04:37:27Z</pubDate>
+<description>The Restrained Electrostatic Potential (RESP) method is widely used to derive electrostatic parameters for Newtonian-based models. However, conventional nuclei centered charge models can struggle to reproduce anisotropic features such as halogen σ-holes ...</description>
+</item>
+<item>
+<title>Topology-Based Lattice Engineering in DNA Nanomaterials</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-r17k1/v2?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-r17k1/v2?af=R</guid>
+<pubDate>2026-07-13T04:35:27Z</pubDate>
+<description>In this study, we establish the topological adaptability and structural resilience of periodic soft matter entanglements using the DNA tensegrity triangle, a foundational motif in structural DNA nanotechnology, as a model system. Motivated by the ...</description>
 </item>
 <item>
 <title>Insight and Optimization Derived from Principal Component Analysis of Free Energy Surfaces</title>
@@ -1020,34 +1048,6 @@
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005838/v1?af=R</guid>
 <pubDate>2026-07-09T06:53:31Z</pubDate>
 <description>Large language model agents can connect scientific text, molecular generation, simulation, and laboratory planning, but their use in materials discovery is limited by weak reproducibility, hidden intermediate state, and scarce domain-specific quantum-...</description>
-</item>
-<item>
-<title>Magnetic Structure Model of Hydrogen Molecule and Its Verification Method</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005837/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005837/v1?af=R</guid>
-<pubDate>2026-07-09T06:49:03Z</pubDate>
-<description>Magnetic structural model of hydrogen molecule, the opposite magnetic poles of two Bohr’s hydrogen atoms attract to form hydrogen molecule, is proposed in this article, which is completely consistent with the experimental results that “the electrons in ...</description>
-</item>
-<item>
-<title>Diradical vs zwitterion – Controlling π-spin polarization in donor-acceptor heterotriangulene dimers</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005836/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005836/v1?af=R</guid>
-<pubDate>2026-07-09T06:43:03Z</pubDate>
-<description>Polycyclic aromatic hydrocarbons (PAHs) with open-shell electronic structures have attracted increasing interest due to their potential applications in molecular electronics, spintronics and quantum technologies. However, controlling π-spin polarization ...</description>
-</item>
-<item>
-<title>More selective Grignard reactions via anion borrowing in deep eutectic /organic biphasic media</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005835/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005835/v1?af=R</guid>
-<pubDate>2026-07-09T06:39:25Z</pubDate>
-<description>The rational optimization of the Grignard reaction remains a considerable challenge for synthetic chemists. When assessing nucleophilic additions to unsaturated organic molecules, it has been shown that improved performance can be achieved using deep ...</description>
-</item>
-<item>
-<title>A Multitask Graph Neural Network Framework for AMES Mutagenicity Prediction</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.10001743/v3?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.10001743/v3?af=R</guid>
-<pubDate>2026-07-09T06:35:15Z</pubDate>
-<description>The long, complex, and costly process of drug development makes early, reliable toxicity assessment a central challenge in pharmaceutical research. Accurately predicting drug-induced toxicity and mutagenicity is crucial for guiding decision-making and ...</description>
 </item>
 </channel>
 </rss>
