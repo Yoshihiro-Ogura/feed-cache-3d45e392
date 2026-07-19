@@ -5,6 +5,13 @@
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <description>ACS Bridge Error (mirrored feed)</description>
 <item>
+<title>[2026-07-19 15:15 UTC] 1件の問題 / 1 issue(s)</title>
+<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
+<guid>acs-bridge-error-2026-07-19T15:15:05.240205+00:00</guid>
+<pubDate>Sun, 19 Jul 2026 15:15:05 +0000</pubDate>
+<description>[scraper] 全体が失敗 / stage failed entirely: InvalidSessionIdException()</description>
+</item>
+<item>
 <title>[2026-07-10 21:02 UTC] 13件の問題 / 13 issue(s)</title>
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <guid>acs-bridge-error-2026-07-10T21:02:26.088491+00:00</guid>
