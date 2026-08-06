@@ -144,11 +144,46 @@
 <description>We present MARS, an open-source Python package for automated conformational ensemble generation, infrared spectrum prediction, and explicit microsolvation of molecular systems. Built on JAX for GPU acceleration and automatic differentiation, MARS is ...</description>
 </item>
 <item>
+<title>From Sb2S3 to SbSI: An Orientation-First Roadmap for Quasi-1D Chalcohalide Photovoltaics, Indoor Energy Harvesting, and Outdoor Durability</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007124/v1?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007124/v1?af=R</guid>
+<pubDate>2026-08-06T08:57:26Z</pubDate>
+<description>A stage-gated, orientation-first roadmap for quasi-one-dimensional (quasi-1D) photovoltaics is presented, translating the established Sb2S3developmental trajectory to the emerging SbSI family (SbSI, SbSeI, BiSI, and related alloys). The focus is on chain-...</description>
+</item>
+<item>
+<title>Resolution Limits in Constrained Angle-Resolved XPS Depth-Profile Reconstruction</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007123/v1?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007123/v1?af=R</guid>
+<pubDate>2026-08-06T08:55:30Z</pubDate>
+<description>Angle-resolved X-ray photoelectron spectroscopy (ARXPS) provides non-destructive information about composition within the first few nanometres of a surface, but reconstruction of a free-form concentration depth profile is a severely ill-posed inverse ...</description>
+</item>
+<item>
+<title>Photon-Driven Catalytic Formic Acid Dehydrogenation Beyond the Sabatier Limit</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004643/v2?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004643/v2?af=R</guid>
+<pubDate>2026-08-06T08:53:29Z</pubDate>
+<description>Sabatier scaling relationships impose fundamental limits on the performance of heterogeneous catalysis by coupling the energetics of reactant activation, intermediate stabilization, and product desorption. We show that visible photons circumvent this ...</description>
+</item>
+<item>
+<title>High-Resolution Photoelectron Spectroscopy of Vibrationally Excited TiO2 Anions</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007122/v1?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007122/v1?af=R</guid>
+<pubDate>2026-08-06T08:51:26Z</pubDate>
+<description>High resolution photoelectron spectra of TiO2−excited to its 𝑣3= 1 state were obtained via slow electron velocity-map imaging of cryogenically cooled anions (cryo-SEVI). To determine the 𝑣3(antisymmetric stretch) anion frequency, growth and depletion ...</description>
+</item>
+<item>
 <title>Thickness from Color by Inverting the Physics:</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007086/v1?af=R</link>
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007086/v1?af=R</guid>
 <pubDate>2026-08-06T08:49:13Z</pubDate>
 <description>Estimating the thickness of exfoliated two-dimensional flakes from ordinary optical micrographs is a foundational task in 2D-material fabrication. Current learning systems use thin-film optics only offline, as a synthetic-data generator for networks that ...</description>
+</item>
+<item>
+<title>Empirical Corrections to the Activation Energy Barrier Allow Classical Nucleation Theory to Better Predict Phase Change Kinetics in Colloidal Hard Spheres and Beyond: The Use of Thermodynamic Reference States to Address Out-of-Equilibrium Conditions</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-cwqns/v2?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-cwqns/v2?af=R</guid>
+<pubDate>2026-08-06T08:39:25Z</pubDate>
+<description>Despite being a century old, classical nucleation theory (CNT) remains in wide use to this day for qualitatively describing the phase change kinetics spanning a wide variety of materials relevant to both natural and commercial processes.  Unfortunately, ...</description>
 </item>
 <item>
 <title>Ligand-Length Asymmetry Controls Nanoscale Heat Flow in Gold Janus Nanorods</title>
@@ -1015,41 +1050,6 @@
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006947/v1?af=R</guid>
 <pubDate>2026-08-03T11:14:40Z</pubDate>
 <description>This paper investigates the cryogenic behavior of 22-nm Fully Depleted Silicon-On-Insulator (FD-SOI) MOSFETs subjected to X-ray irradiation. In NMOSFETs, experimental results reveal that total ionizing dose (TID) radiation-induced degradations on Ioff and ...</description>
-</item>
-<item>
-<title>Hydrophilic Silica Surfaces Host a Hydrophobic-Like Two-Dimensional Water Network</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006946/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006946/v1?af=R</guid>
-<pubDate>2026-08-03T11:12:47Z</pubDate>
-<description>Silica–water interfaces are widely considered prototypically hydrophilic due to surface silanol groups enabling hydrogen bonding with interfacial water. However, this description primarily accounts for vertical surface–water interactions and neglects ...</description>
-</item>
-<item>
-<title>Decoupling Compliance and Toughness for Robust Hydrogel Adhesion on Hair-Covered Skin</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006395/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006395/v1?af=R</guid>
-<pubDate>2026-08-03T11:02:49Z</pubDate>
-<description>Electrophysiological recording and electrical stimulation require electrodes that maintain seamless contact with the skin, yet hair obstructs it. Solid bio-adhesive hydrogel electrodes offer better spatial control, ease of use, and stability than liquid ...</description>
-</item>
-<item>
-<title>Operando Monitoring of the Growth of Lithium Metal Dendrites Using EPR-on-a-Chip</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006945/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006945/v1?af=R</guid>
-<pubDate>2026-08-03T11:00:38Z</pubDate>
-<description>Lithium metal anodes offer significantly higher specific capacity than graphite anodes. However, inhomogeneous lithium deposition leads to dendritic microstructures that cause short circuits and limit industrial implementation. Characterization methods ...</description>
-</item>
-<item>
-<title>Electronic and Colorimetric Detection of Uric Acid employing Cyclo[n]Carbon: A Theoretical Investigation</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006944/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006944/v1?af=R</guid>
-<pubDate>2026-08-03T10:54:50Z</pubDate>
-<description>The detection of biologically relevant metabolites, such as uric acid (7,9dihydro-1H-purine-2,6,8(3H)-trione), is crucial for the early diagnosis and management of metabolic disorders, including gout and hyperuricemia. However, current sensing platforms ...</description>
-</item>
-<item>
-<title>Controlled hydration enables nucleophilic fluorination with KF in a green solvent</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006943/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006943/v1?af=R</guid>
-<pubDate>2026-08-03T10:54:40Z</pubDate>
-<description>Nucleophilic fluorination using KF is limited by its poor solubility in organic media, while water is generally considered detrimental because strong hydration reduces fluoride nucleophilicity. Here, we show that propylene carbonate enables efficient KF-...</description>
 </item>
 </channel>
 </rss>
