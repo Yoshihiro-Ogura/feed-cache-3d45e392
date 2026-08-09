@@ -5,6 +5,13 @@
 <link>https://chemrxiv.org/action/showFeed?type=latest&amp;format=rss</link>
 <description>ChemRxiv: Latest Preprints (mirrored feed)</description>
 <item>
+<title>TurboChIMES: Multi-Layered Machine-Learned Interatomic Models for Enhanced Simulation Efficiency</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007194/v1?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007194/v1?af=R</guid>
+<pubDate>2026-08-09T07:29:28Z</pubDate>
+<description>Machine-learned interatomic potentials (ML-IAPs) have emerged as a powerful tool for achieving nominally quantum-accurate simulations at reduced computational cost. However, for covalently bonded systems, a fundamental tension exists between the model ...</description>
+</item>
+<item>
 <title>Operando Impedance Spectroscopy Reveals Dynamic Liquid–Vapor Phase Transitions in Pervaporation Membranes</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007193/v1?af=R</link>
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007193/v1?af=R</guid>
@@ -1043,13 +1050,6 @@
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007030/v1?af=R</guid>
 <pubDate>2026-08-05T05:57:16Z</pubDate>
 <description>Tandem mass spectral similarity is widely used to infer whether molecules are structurally related, yet the fragmentation processes underlying this assumption remain incompletely understood. Structure–Spectrum Fidelity (SSF) measures the strength of this ...</description>
-</item>
-<item>
-<title>Deciphering Interfacial Phenomena in Hybrid Electrolytes: Pioneering Solid-State Battery Progress</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007029/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007029/v1?af=R</guid>
-<pubDate>2026-08-05T05:52:40Z</pubDate>
-<description>Understanding the interfacial behavior at the interface within solid hybrid polymer/ceramic electrolytes is crucial for advancing solid state battery technology. In this study, we investigate the effect of grafting various polymer monomers onto the ...</description>
 </item>
 </channel>
 </rss>
