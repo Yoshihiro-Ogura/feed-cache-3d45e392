@@ -186,6 +186,13 @@
 <description>Battery models can be degraded by EIS-derived parameters that fit spectra well but are not uniquely constrained: across 87 measured spectra from 13 commercial cells, equal-residual fits disagree on diffusion by 1.6–3.3 decades. We convert this hazard into ...</description>
 </item>
 <item>
+<title>Risk-controlled battery parameterization from electrochemical impedance spectroscopy for model inputs and measurement planning</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007286/v2?af=R</link>
+<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007286/v2?af=R</guid>
+<pubDate>2026-08-11T06:51:22Z</pubDate>
+<description>Physics-based parameterization from electrochemical impedance spectroscopy increasingly supplies parameters to battery models, yet a spectrum constrains some parameters far better than others. Across 87 spectra from 13 commercial lithium-ion cells, fits ...</description>
+</item>
+<item>
 <title>Rapid, Reliable and Accurate XPS Depth-Distribution Functions from the Berger–Doggett method</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007285/v1?af=R</link>
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007285/v1?af=R</guid>
@@ -1042,13 +1049,6 @@
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005841/v3?af=R</guid>
 <pubDate>2026-08-07T07:53:56Z</pubDate>
 <description>For nearly a century, Tafel slope analysis has anchored mechanistic interpretation across electrochemistry. We demonstrate that the contemporary framework relating Tafel slopes to rate-determining step identity and position is mathematically incomplete: ...</description>
-</item>
-<item>
-<title>Learning to Generalize: Deep Models and Robust Benchmarks for Drug–Target Affinity Prediction</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-gmrdb/v2?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-gmrdb/v2?af=R</guid>
-<pubDate>2026-08-07T07:53:43Z</pubDate>
-<description>Small-molecule binding to proteins drives biological processes and underpins drug discovery, with binding affinity serving as a key therapeutic metric. Traditional 3D structure-based approaches achieve high performance but remain computationally expensive ...</description>
 </item>
 </channel>
 </rss>
