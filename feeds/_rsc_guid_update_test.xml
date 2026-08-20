@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSC GUID/Image Update Test 2026-08-20</title>
+    <link>https://doi.org/10.1039/D6CS00041J</link>
+    <description>Temporary isolated feed for testing Inoreader update behavior.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Aug 2026 05:55:23 GMT</lastBuildDate>
+    <item>
+      <title>[GUID Test Phase 1] From Fenton reaction to ferroptosis</title>
+      <link>https://doi.org/10.1039/D6CS00041J</link>
+      <guid isPermaLink="false">urn:rsc-guid-update-test:cef6424a-aedc-4279-89a6-c0490a46b461:original</guid>
+      <pubDate>Thu, 20 Aug 2026 05:55:23 GMT</pubDate>
+      <description>&lt;p&gt;Phase 1 baseline: the RSS article body is available, but the graphical abstract is not yet available.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
