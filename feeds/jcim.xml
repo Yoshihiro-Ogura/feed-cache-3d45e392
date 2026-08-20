@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>J.Chem.Inf.Model.</title>
+<link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
+<description>J.Chem.Inf.Model. (mirrored feed)</description>
+<item>
+<title>Biasing Conformational
+Sampling in AlphaFold 3 and
+Boltz-2 via Pair Representation Scaling</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02094/5277226/Biasing-Conformational-Sampling-in-AlphaFold-3-and</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02094</guid>
+<pubDate>Thu, 20 Aug 2026 00:01:02 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02094/5277226/Biasing-Conformational-Sampling-in-AlphaFold-3-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02094/1/m_ci6c02094_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Deep learning has transformed protein structure prediction,
+yet
+most systems return a single dominant conformation with little control
+over the alternative functional states. We introduce pair representation
+scaling, an inference-time method that biases conformational sampling
+in diffusion-based structure predictors by multiplying the latent
+pair representation by a single scalar before the Pairformer trunk,
+without retraining, an auxiliary model, or a second forward pass.
+On 86 two-state targets spanning domain motions and membrane transporters,
+scaling broadens the conformational ensembles of both AlphaFold 3
+and Boltz-2 and recovers alternative states that default inference
+misses, most strongly in AlphaFold 3, where the gains extend even
+to targets deposited after the training cutoff. It approaches the
+alternative-state recovery of alignment-based sampling methods, and
+the benefit persists even without a multiple-sequence alignment. The
+predicted distance distributions show that scaling shifts the encoded
+two-state distribution toward the experimentally observed alternative
+state, a directed modulation rather than an arbitrary perturbation.
+Pair representation scaling is an interpretable, low-cost handle for
+the conformational ensembles of deep-learning structure predictors.&lt;/span&gt;</description>
+</item>
+<item>
+<title>MSR-ARN: A Multiscale
+Residual Attentive Deep Learning
+Framework for Chemical Space-Guided Prediction of Selective MMP-12
+Inhibitors</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01234/5276930/MSR-ARN-A-Multiscale-Residual-Attentive-Deep</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01234</guid>
+<pubDate>Wed, 19 Aug 2026 16:02:16 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01234/5276930/MSR-ARN-A-Multiscale-Residual-Attentive-Deep"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01234/1/m_ci6c01234_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Matrix metalloproteinase-12, also known as macrophage
+metalloelastase,
+plays a critical role in extracellular matrix remodelling and is strongly
+implicated in various pathological conditions, including cancer, inflammatory
+disorders, cardiovascular diseases, and pulmonary dysfunction. Consequently,
+the identification of potent and selective MMP-12 inhibitors has become
+an important objective in drug discovery. The current study presents
+a computational framework that integrates chemical space analysis,
+machine learning, and deep learning to predict MMP-12 inhibitory activity
+using a curated data set of 481 compounds. A novel deep learning architecture,
+termed the Multi-Scale Residual Attentive Regression Network, is proposed,
+and this architecture integrates multiscale convolutional feature
+extraction, dilated gated convolutions, and attention mechanisms to
+detect complex nonlinear structure–activity relationships.
+The proposed model demonstrated superior predictive ability with a
+test &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; of 0.924, significantly outperforming
+other predictive models. The proposed model performance was also evaluated
+using scaffold-based splitting to assess both predictive ability and
+generalizability. Model interpretability was investigated using SHAP
+analysis, which identified key fingerprint bits contributing to MMP-12
+inhibitory potency. Furthermore, the MMP-12 inhibitor prediction tool
+(MMP-12i predictor) was developed based on the proposed model. In
+addition, selectivity models were also developed to discriminate selective
+MMP-12 inhibitors from nonselective ones, revealing structural features
+associated with isoform selectivity. Overall, this framework provides
+a robust and interpretable strategy for predicting MMP-12 inhibitory
+activity and identifying molecular determinants of selectivity. The
+current study is limited by a moderate data set size and the lack
+of experimental validation, both of which should be addressed in future
+work.&lt;/span&gt;</description>
+</item>
+<item>
+<title>When Do Simple Models Win? Machine Learning Architectures
+for UV Absorption Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00943/5276929/When-Do-Simple-Models-Win-Machine-Learning</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00943</guid>
+<pubDate>Wed, 19 Aug 2026 16:02:16 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00943/5276929/When-Do-Simple-Models-Win-Machine-Learning"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00943/1/m_ci6c00943_0015.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;What
+determines which machine learning architecture wins for molecular
+property prediction? We address this question through a controlled
+comparison of five models spanning four architecture families: fingerprint-based
+ensembles (Random Forest, XGBoost), a directed message-passing graph
+neural network (GNN), a bidirectional gated recurrent network (BiGRU),
+and a pretrained Transformer, using UV absorption wavelength (λ&lt;sub&gt;max&lt;/sub&gt;) prediction as a testbed across 18,415 solute–solvent
+pairs (after applying the Greenman/Song duplicate-handling protocol;
+see Methods) with stratified 5-fold cross-validation and two external
+data sets totaling over 40,000 molecules. The answer depends on the
+task. For screening within known chemical space, RF with Morgan fingerprints
+is competitive with the best deep learning model at a fraction of
+the compute cost: RF and the D-MPNN are statistically indistinguishable
+(RMSE = 31.50 ± 1.47 vs 33.15 ± 3.27 nm, &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.16), and RF trains in 15 min on a CPU with only lightweight
+grid-search tuning (no GPU) while outperforming all sequence-based
+models. For exploring novel scaffolds, deep learning is superior:
+experimental validation on 16 novel UV-absorbing compounds shows that
+the GNN (MAE = 26.2 nm), Transformer (26.3 nm), and BiGRU (28.6 nm)
+all outperform RF (38.5 nm), as learned representations generalize
+where fixed fingerprints cannot. In either case, encoding solvent
+identity improves all models: a simple SMILES/fingerprint concatenation
+strategy reduces RMSE by 21–32% on chromophores with multisolvent
+training coverage (60% of test records) and 6–8% across the
+full benchmark (&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;  &amp;lt;  0.02), without
+domain-specific descriptor engineering. Interpretability analysis
+confirms that both RF feature importance and BiGRU gradient saliency
+independently highlight the same chromophore motifs, and that architectures
+with local inductive bias systematically outperform global-attention
+Transformers on this locally determined property. Within UV absorption
+prediction, optimal model choice depends on the relationship between
+target compounds and available training data: simple fingerprint-based
+models are an efficient and accurate alternative to deep learning
+for interpolation within known chemical space, while learned representations
+from graphs, sequences, or pretraining generalize better to novel
+scaffolds. We further hypothesize that this pattern (local-bias architectures
+favored for properties governed by local molecular features) may extend
+to other locally determined molecular properties; validating this
+across property types is left as future work.&lt;/span&gt;</description>
+</item>
+<item>
+<title>MMU-DPI: Enhancing
+Generalization in Drug–Protein
+Interaction Prediction through Multimodal Learning and a Label Mix
+Strategy</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01188/5276883/MMU-DPI-Enhancing-Generalization-in-Drug-Protein</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01188</guid>
+<pubDate>Wed, 19 Aug 2026 15:02:12 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01188/5276883/MMU-DPI-Enhancing-Generalization-in-Drug-Protein"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01188/1/m_ci6c01188_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of drug–protein interactions
+(DPIs)
+is crucial for accelerating the drug discovery process. However, the
+scarcity of experimentally validated interactions can limit the learning
+of transferable interaction patterns, particularly for previously
+unseen drugs and proteins. To address this fundamental challenge,
+we propose the MMU-DPI framework. A key component of this framework
+is a Label Mix strategy tailored to multimodal DPI prediction, which
+performs interpolation only in the label space while keeping the input
+modalities unchanged. This strategy provides stochastic soft-target
+regularization and improves generalization performance under reduced-data
+and independent external Cold-both evaluation settings. To effectively
+process and utilize multimodal data, MMU-DPI adopts a multimodal dual-branch
+architecture. The first branch uses a Message Passing Neural Network
+(MPNN) to extract structured representations from drug molecular graphs.
+It also uses a Convolutional Neural Network (CNN) to capture key biological
+and functional features from amino acid sequences. The second branch
+constructs a heterogeneous interaction graph and uses a Graph Attention
+Network (GAT) to learn deep contextual relationships between drugs
+and proteins. A learnable global fusion weight combines complementary
+branch logits to generate the final prediction for each drug–protein
+pair. Experimental results on multiple benchmark data sets demonstrate
+that MMU-DPI outperforms several state-of-the-art DPI prediction methods.
+Case studies further support the ability of MMU-DPI to identify potential
+DPIs. These results indicate that MMU-DPI can serve as a useful computational
+tool for drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Combining AI Structure
+Prediction and Integrative
+Modeling for Nanobody-Antigen Complexes</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01301/5276268/Combining-AI-Structure-Prediction-and-Integrative</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01301</guid>
+<pubDate>Wed, 19 Aug 2026 10:02:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01301/5276268/Combining-AI-Structure-Prediction-and-Integrative"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01301/1/m_ci6c01301_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Nanobodies exhibit antigen-binding affinities of the
+same order
+as those of antibodies, which, along with their small size and unique
+structural characteristics, makes them well-suited for therapeutic
+and diagnostic applications. The lack of coevolutionary signals in
+nanobody-antigen complexes, together with the broad complementarity
+determining region 3 loop (CDR3) conformational space, poses a challenge
+for predicting the 3D structure of those complexes with computational
+modeling and artificial intelligence-based methods. In this context,
+physics-based information-driven docking can provide an alternative
+solution. This study evaluates the state-of-the-art machine-learning-based
+methods for nanobody structure prediction and benchmarks various HADDOCK
+workflows to model their interaction with antigens using different
+input nanobody ensembles and information scenarios. We propose an
+ensemble docking pipeline that achieves high success rates starting
+from nanobody structural models predicted by AlphaFold2 and ImmuneBuilder.
+Provided that some information on the epitope is available, our pipeline
+achieves higher success rates than the AlphaFold baseline on all generated
+models.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Fast-Forward: Automatic
+Assignment and Assessment
+of Bonded Parameters for the Martini Force Field</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01107/5275812/Fast-Forward-Automatic-Assignment-and-Assessment</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01107</guid>
+<pubDate>Wed, 19 Aug 2026 00:01:50 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01107/5275812/Fast-Forward-Automatic-Assignment-and-Assessment"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01107/1/m_ci6c01107_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Coarse-grained molecular dynamics simulations of bio-
+and macromolecular
+systems offer a method of accessing otherwise unobtainable time and
+length scales, compared to atomistic simulation techniques. However,
+a limiting step is often the generation and validation of the coarse-grained
+models. Here, we describe a new software package, Fast-Forward, which
+aids parametrization of models for the widely used Martini coarse-grained
+force field. In comparison to other similar packages, Fast-Forward
+offers a system-agnostic suite of tools to parametrize molecules of
+any size, existing in any environment. It achieves this while maintaining
+ease of use and the use of interoperable file formats from the Martini
+software ecosystem. Through its three subprograms, the package offers
+tools for trajectory mapping, parameter generation, and model validation.
+We demonstrate the potential of the package for several different
+use cases, from small biological molecules (glutathione and glutathione
+disulfide) to models of synthetic polymers (poly(methyl methacrylate),
+PMMA).&lt;/span&gt;</description>
+</item>
+<item>
+<title>[ASAP] TextDTI: A Multimodal Context Representation Learning Framework for Drug–Target Interaction Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01435</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01435</guid>
+<pubDate>Thu, 23 Jul 2026 02:44:02 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01435/asset/images/medium/ci6c01435_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01435&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Structural Thermodynamics of Membrane Electroporation: Voltage-Driven Interdigitation Induces Electro-Topological Disparity</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01534</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01534</guid>
+<pubDate>Wed, 22 Jul 2026 12:51:05 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01534/asset/images/medium/ci6c01534_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01534&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Deep Learning-Driven Anticancer Drug Discovery: Emodepside as a Potential Therapeutic Candidate for Triple-Negative Breast Cancer</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01061</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01061</guid>
+<pubDate>Wed, 22 Jul 2026 06:50:28 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01061/asset/images/medium/ci6c01061_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01061&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Real-World Assessment of Machine-Learned Docking Using Bioassay-Derived Benchmarks</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.5c03020</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.5c03020</guid>
+<pubDate>Tue, 21 Jul 2026 12:12:49 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c03020/asset/images/medium/ci5c03020_0001.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c03020&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] MolGuidance: Advanced Guidance Strategies for Conditional Molecular Generation with Flow Matching</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00964</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00964</guid>
+<pubDate>Tue, 21 Jul 2026 06:17:01 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00964/asset/images/medium/ci6c00964_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00964&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Epistatic Modulation of Sec/Cys Catalysis in GPX6 Revealed by EVB Free-Energy Landscapes</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01502</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01502</guid>
+<pubDate>Tue, 21 Jul 2026 05:19:19 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01502/asset/images/medium/ci6c01502_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01502&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] ADMET-Driven Chemical Navigability Rules for Early-Stage Virtual Compound Prioritization</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01901</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01901</guid>
+<pubDate>Tue, 21 Jul 2026 01:50:16 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01901/asset/images/medium/ci6c01901_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01901&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Estimating Permeabilities from Biased Molecular Dynamics with a Green–Kubo Formalism for Transport across the Blood-Brain Barrier</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01624</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01624</guid>
+<pubDate>Tue, 21 Jul 2026 01:02:15 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01624/asset/images/medium/ci6c01624_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01624&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] MolT5-Linker: A Transformer-Based Sequence- and Putative Site-Guided Generative Framework for Antibody-Drug Conjugate Linkers</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01342</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01342</guid>
+<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01342/asset/images/medium/ci6c01342_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01342&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Extending Hamiltonian-Adaptive Resolution Simulation to Interfaces: An Updated LAMMPS Implementation and Application to Porous Solids</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01284</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01284</guid>
+<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01284/asset/images/medium/ci6c01284_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01284&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] FGSGT-DDI: An LLM-Enhanced Functional Group Semantic Graph Transformer for Drug–Drug Interaction Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01476</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01476</guid>
+<pubDate>Mon, 20 Jul 2026 11:55:01 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01476/asset/images/medium/ci6c01476_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01476&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Chemical Information Modeling for Component-Level Review Prioritization of Adverse-Reaction Signals in Multi-Component Medicines</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01464</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01464</guid>
+<pubDate>Mon, 20 Jul 2026 11:51:59 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01464/asset/images/medium/ci6c01464_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01464&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Mapping the Glycan Recognition Landscape of Galectin-3 through Enhanced Sampling Simulations</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00794</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00794</guid>
+<pubDate>Mon, 20 Jul 2026 10:13:47 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00794/asset/images/medium/ci6c00794_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00794&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] A Lightweight Universal Machine-Learning Interatomic Potential via Knowledge Distillation for Scalable Atomistic Simulations</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01103</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01103</guid>
+<pubDate>Mon, 20 Jul 2026 07:21:51 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01103/asset/images/medium/ci6c01103_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01103&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Influence of Lipomannan and Lipoarabinomannan Concentration on Mycobacterial Inner Membranes Characterized by All-Atom Simulations</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01169</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01169</guid>
+<pubDate>Mon, 20 Jul 2026 06:37:16 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01169/asset/images/medium/ci6c01169_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01169&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] lmp2gro: A Python Tool for Converting LAMMPS Data Files into GROMACS Topologies</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01430</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01430</guid>
+<pubDate>Mon, 20 Jul 2026 05:56:09 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01430/asset/images/medium/ci6c01430_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01430&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Self-Supervised Learning for Molecular Property Prediction: Methods, Multimodal Insights, and Benchmark Comparisons</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01209</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01209</guid>
+<pubDate>Mon, 20 Jul 2026 02:49:53 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01209/asset/images/medium/ci6c01209_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01209&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] CYPMol: A Single Model Framework Integrating Functional Residues with Protein Features and Molecule Embeddings to Predict CYP Substrates, Inhibitors, and Metabolism Sites</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01507</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01507</guid>
+<pubDate>Mon, 20 Jul 2026 01:16:38 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01507/asset/images/medium/ci6c01507_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01507&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Unlocking the Dynamics of Human SPPL2a: First Atomistic Characterization of an Alzheimer’s-Linked Intramembrane Protease</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01556</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01556</guid>
+<pubDate>Sun, 19 Jul 2026 11:03:37 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01556/asset/images/medium/ci6c01556_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01556&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] DeepHeptox: An Interpretable Deep Learning Model for Multi-Endpoint Hepatotoxicity Prediction of Chemical Compounds</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01434</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01434</guid>
+<pubDate>Sun, 19 Jul 2026 11:02:13 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01434/asset/images/medium/ci6c01434_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01434&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Pan-Cancer Landscape of Spatial PTM and Mutation Clusters Reveals Allosteric Regulation of Protein–Protein Interactions</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01767</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01767</guid>
+<pubDate>Fri, 17 Jul 2026 09:12:58 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01767/asset/images/medium/ci6c01767_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01767&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Physics-Inspired Latent Dynamics for Predicting Olfactory Mixture Similarity</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01297</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01297</guid>
+<pubDate>Fri, 17 Jul 2026 07:50:39 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01297/asset/images/medium/ci6c01297_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01297&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] CatIF-RL: Activity-Oriented Enzyme Sequence Design by Steered Inverse Protein Folding</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01587</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01587</guid>
+<pubDate>Fri, 17 Jul 2026 06:31:30 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01587/asset/images/medium/ci6c01587_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01587&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] SpaVCCA Identifies Spatial Transcriptomics Domains Across Slices by Coupling Variational Autoencoder with Canonical Correlation Analysis</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01401</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01401</guid>
+<pubDate>Thu, 16 Jul 2026 12:58:19 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01401/asset/images/medium/ci6c01401_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01401&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Quantum Pharmacophore-Based Virtual Screening Enables Prospective Discovery of Chemotype-Diverse Dengue NS5 Inhibitors</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01051</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01051</guid>
+<pubDate>Thu, 16 Jul 2026 12:43:19 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01051/asset/images/medium/ci6c01051_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01051&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Familywise Feature Importance Stability in Chemical and Materials Machine Learning</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00893</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00893</guid>
+<pubDate>Thu, 16 Jul 2026 11:02:34 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00893/asset/images/medium/ci6c00893_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00893&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] BenzDB, an Exhaustive Database of Benzenoids up to Nine 6-Membered Rings</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01744</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01744</guid>
+<pubDate>Thu, 16 Jul 2026 10:09:09 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01744/asset/images/medium/ci6c01744_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01744&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Unveiling the KRAS Relationship between Affinity and Dynamics: A Molecular Simulations Study</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01239</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01239</guid>
+<pubDate>Thu, 16 Jul 2026 09:44:04 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01239/asset/images/medium/ci6c01239_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01239&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Assessing Molecular Contacts Using Atom Environments Described by Ranked Lists</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00694</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00694</guid>
+<pubDate>Thu, 16 Jul 2026 09:43:43 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00694/asset/images/medium/ci6c00694_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00694&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] HELMify: A Hybrid Rule- and LLM-Based Generator of Peptide Monomer HELM Names</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00408</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00408</guid>
+<pubDate>Thu, 16 Jul 2026 09:00:03 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00408/asset/images/medium/ci6c00408_0014.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00408&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] LINKER: Learning Interactions between Functional Groups and Residues with Chemical Knowledge-Enhanced Reasoning and Explainability</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00527</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00527</guid>
+<pubDate>Thu, 16 Jul 2026 07:41:15 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00527/asset/images/medium/ci6c00527_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00527&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] NMR-AI: An Open Platform for NMR-Enhanced Molecular Representations and Physicochemical Property Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01026</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01026</guid>
+<pubDate>Thu, 16 Jul 2026 06:57:28 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01026/asset/images/medium/ci6c01026_0003.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01026&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Learning Diffusion from Sparse Data: A Machine-Learning Bridge between Molecular Motion and Macroscopic Transport</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00770</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00770</guid>
+<pubDate>Thu, 16 Jul 2026 06:42:51 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00770/asset/images/medium/ci6c00770_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00770&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Benchmarking Docking Protocols on Predicting Alternative Binding Modes</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00356</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00356</guid>
+<pubDate>Thu, 16 Jul 2026 04:53:37 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00356/asset/images/medium/ci6c00356_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00356&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Functionally Guided Graph Learning for Robust Cross-Patient Cell-Type Annotation in Single-Cell RNA Sequencing</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01857</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01857</guid>
+<pubDate>Wed, 15 Jul 2026 07:13:09 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01857/asset/images/medium/ci6c01857_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01857&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] HELM-BERT: Topology-Aware Representations for Chemically Modified Peptides</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00451</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00451</guid>
+<pubDate>Wed, 15 Jul 2026 04:33:51 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00451/asset/images/medium/ci6c00451_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00451&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Learning Fragment-Based Segmentation of Binding Sites from Molecular Dynamics: A Proof of Concept on Cardiac Myosin</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00549</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00549</guid>
+<pubDate>Wed, 15 Jul 2026 04:10:27 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00549/asset/images/medium/ci6c00549_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00549&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Gradient-Guided Graph Contrastive Learning for Mass Spectrometry-Based Proteomics Clustering</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01102</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01102</guid>
+<pubDate>Wed, 15 Jul 2026 01:20:58 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01102/asset/images/medium/ci6c01102_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01102&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Discovery and Mechanism of Action of a Novel Desloratadine Derivative Inhibiting Mycobacterium tuberculosis 3-Dehydroquinate Synthase</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00496</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00496</guid>
+<pubDate>Tue, 14 Jul 2026 12:54:45 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00496/asset/images/medium/ci6c00496_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00496&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Pharmacon: A Molecular Dynamics Simulation Analysis Toolkit</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00837</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00837</guid>
+<pubDate>Tue, 14 Jul 2026 12:00:00 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00837/asset/images/medium/ci6c00837_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00837&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Iterative Interaction Fingerprints-Guided Multiobjective Molecular Generation</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00955</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00955</guid>
+<pubDate>Tue, 14 Jul 2026 11:49:46 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00955/asset/images/medium/ci6c00955_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00955&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Atomic Uncertainty Pinpoints Critical Failure Structures for Trustworthy Molecular Property Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00973</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00973</guid>
+<pubDate>Tue, 14 Jul 2026 10:58:23 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00973/asset/images/medium/ci6c00973_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00973&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Machine Learning for RNA-Targeting Drug Design</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01094</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01094</guid>
+<pubDate>Tue, 14 Jul 2026 07:20:58 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01094/asset/images/medium/ci6c01094_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01094&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Bayesian Uncertainty-Guided Fidelity Fusion for Bioactivity Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01190</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01190</guid>
+<pubDate>Tue, 14 Jul 2026 06:51:34 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01190/asset/images/medium/ci6c01190_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01190&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] NeuroPpred-PSCG: A Multimodal Framework Using ProtT5 and Structural Features for Neuropeptide Prediction Based on Gated Cross-Attention Mechanism and Multiscale Gated Convolution</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01123</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01123</guid>
+<pubDate>Mon, 13 Jul 2026 12:30:32 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01123/asset/images/medium/ci6c01123_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01123&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] The BOS-Lig Data Set: Accurate Ligand Charges from a Consensus Approach for 66,810 Experimentally Synthesized Ligands</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01063</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01063</guid>
+<pubDate>Mon, 13 Jul 2026 12:05:54 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01063/asset/images/medium/ci6c01063_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01063&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Adaptive human-in-the-loop optimization using language-guided priors for chemical experiments</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00976</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00976</guid>
+<pubDate>Mon, 13 Jul 2026 12:00:00 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00976/asset/images/medium/ci6c00976_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00976&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] ProphDR: An Interpretable Deep Learning Model for Predicting Cancer Drug Response via Multi-Omics and Cross-Attention Mechanisms</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00167</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00167</guid>
+<pubDate>Mon, 13 Jul 2026 09:51:51 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00167/asset/images/medium/ci6c00167_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00167&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Correction to “Computational Insights into the N-Migration and Oxidative Rearrangement Involved in the N-Nitrosourea Formation Catalyzed by the Cupin Domain of Multidomain Metalloenzyme SznF</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c02051</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02051</guid>
+<pubDate>Mon, 13 Jul 2026 08:43:54 PDT</pubDate>
+<description>&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c02051&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] HTS-Oracle v2: Prospective Ai-Guided Discovery and Experimental Validation of Small Molecule Modulators Across Multiple Targets</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01522</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01522</guid>
+<pubDate>Mon, 13 Jul 2026 08:37:21 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01522/asset/images/medium/ci6c01522_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01522&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Scaling SMILES-Based Chemical Language Models for Therapeutic Peptide Engineering</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00652</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00652</guid>
+<pubDate>Mon, 13 Jul 2026 07:59:35 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00652/asset/images/medium/ci6c00652_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00652&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Machine Learning Models for Local Optimization of Red Fluorescent Protein Variants in a Low-Data Setting</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00632</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00632</guid>
+<pubDate>Mon, 13 Jul 2026 07:24:38 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00632/asset/images/medium/ci6c00632_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00632&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Evo-EquiGPS: Synergizing Dynamic Geometry, Global Topology, and Explicit Evolution for High-Precision Enzyme Active Site Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00969</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00969</guid>
+<pubDate>Mon, 13 Jul 2026 06:06:47 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00969/asset/images/medium/ci6c00969_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00969&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] ORIGAMI: Orientation-Aware Graph Neural Network for Assessing Multimeric Interfaces of Protein Complex Structures</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00988</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00988</guid>
+<pubDate>Mon, 13 Jul 2026 05:50:50 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00988/asset/images/medium/ci6c00988_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00988&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Protein Language Model-Based Fitness Estimates Facilitate Resistance Mutation Identification</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00768</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00768</guid>
+<pubDate>Mon, 13 Jul 2026 05:49:30 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00768/asset/images/medium/ci6c00768_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00768&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Protein Frustration Reveals Orthosteric and Allosteric Active Sites in GPCR:G Protein Complexes</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00203</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00203</guid>
+<pubDate>Mon, 13 Jul 2026 05:18:40 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00203/asset/images/medium/ci6c00203_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00203&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Deep Learning Models Capture Umbrella Sampling-Derived Energetic Trends: A Troponin C Case Study</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01925</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01925</guid>
+<pubDate>Mon, 13 Jul 2026 04:21:37 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01925/asset/images/medium/ci6c01925_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01925&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Hybrid Solvation Model for Analyzing the Binding of Yttrium and Calcium Cations to the Lanmodulin Protein Using the Fragment Molecular Orbital Method</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00602</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00602</guid>
+<pubDate>Mon, 13 Jul 2026 02:54:00 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00602/asset/images/medium/ci6c00602_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00602&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Insights into the Indexing of Powder X-ray Diffraction from a Robust Transformer Deep Learning</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01362</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01362</guid>
+<pubDate>Mon, 13 Jul 2026 02:29:54 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01362/asset/images/medium/ci6c01362_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01362&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01506</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01506</guid>
+<pubDate>Mon, 13 Jul 2026 01:15:23 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01506/asset/images/medium/ci6c01506_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01506&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Can LLMs Solve Solubility Tasks? The SoluBench Benchmark for Pure and Mixed Solvent Systems</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00677</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00677</guid>
+<pubDate>Sat, 11 Jul 2026 06:03:19 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00677/asset/images/medium/ci6c00677_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00677&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] TPS-Flow: Physics-Guided Flow-Based Generative Modeling of Protein Transition Paths</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00807</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00807</guid>
+<pubDate>Fri, 10 Jul 2026 12:10:58 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00807/asset/images/medium/ci6c00807_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00807&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Strategies for Identifying Molecules of Interest in Large Chemical Spaces</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01496</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01496</guid>
+<pubDate>Fri, 10 Jul 2026 06:10:57 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01496/asset/images/medium/ci6c01496_0017.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01496&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Collective Variable-Guided Engineering of the Free-Energy Surface of a Small Peptide</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00674</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00674</guid>
+<pubDate>Fri, 10 Jul 2026 01:44:31 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00674/asset/images/medium/ci6c00674_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00674&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Higher-Order Dynamic Disentangled Intent Sensing and Bidirectional Joint Updating Framework for NcRNA-Drug Resistance Association Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01116</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01116</guid>
+<pubDate>Fri, 10 Jul 2026 01:25:33 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01116/asset/images/medium/ci6c01116_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01116&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Enhancing Generalization in Synthesizability Prediction of Structurally Dissimilar Materials</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01171</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01171</guid>
+<pubDate>Thu, 09 Jul 2026 11:49:52 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01171/asset/images/medium/ci6c01171_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01171&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Unveiling Large-Scale Kinase-Centric Protein–Protein Interactions through a Knowledge-Informed Workflow</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00906</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00906</guid>
+<pubDate>Thu, 09 Jul 2026 10:29:12 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00906/asset/images/medium/ci6c00906_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00906&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Allosteric Inhibition Modulates SHP2 Diffusion Behavior from Rotational to Translational via C-SH2 Domain Stabilization</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01099</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01099</guid>
+<pubDate>Thu, 09 Jul 2026 08:53:43 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01099/asset/images/medium/ci6c01099_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01099&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] A Numerical Implementation to Calculate Elastic Properties of Biological Membrane Simulations</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00143</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00143</guid>
+<pubDate>Thu, 09 Jul 2026 08:29:58 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00143/asset/images/medium/ci6c00143_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00143&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Transition Mechanism of the Human Dopamine Transporter via Molecular Dynamics Simulations</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01395</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01395</guid>
+<pubDate>Thu, 09 Jul 2026 05:22:17 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01395/asset/images/medium/ci6c01395_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01395&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Circumventing the Synthesizability Problem in Generative Molecular Design</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00998</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00998</guid>
+<pubDate>Thu, 09 Jul 2026 01:58:54 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00998/asset/images/medium/ci6c00998_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00998&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Quantum Computing Calculations of Protein–Ligand Binding Energies Using Decomposition Methods on Simulated and Real Quantum Hardware</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00544</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00544</guid>
+<pubDate>Thu, 09 Jul 2026 01:57:10 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00544/asset/images/medium/ci6c00544_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00544&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Modeling the Sensitivity of Large-Scale Virtual Screening to Scoring Function Accuracy, Artifacts, and Library Composition</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01066</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01066</guid>
+<pubDate>Wed, 08 Jul 2026 12:59:35 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01066/asset/images/medium/ci6c01066_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01066&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Molecular Mechanism of Chiral Recognition of R- and S-Methamphetamine by the Human Dopamine Transporter: Insights from Thermodynamic and Kinetic Analyses</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01830</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01830</guid>
+<pubDate>Wed, 08 Jul 2026 07:13:33 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01830/asset/images/medium/ci6c01830_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01830&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] DeepDPM: A Deep Learning Method for MoRFs Prediction Based on Wavelet Transform and Dynamic Convolutional Attention Mechanism</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01251</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01251</guid>
+<pubDate>Wed, 08 Jul 2026 07:09:43 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01251/asset/images/medium/ci6c01251_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01251&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Graph-Based Generation and Reduction of Complex Chemical Reaction Networks</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01309</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01309</guid>
+<pubDate>Wed, 08 Jul 2026 04:25:59 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01309/asset/images/medium/ci6c01309_0014.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01309&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Machine Learning-Driven Discovery of Indole/Oxoindole–Piperazine Scaffolds as Dual MAO-B/Sig-1R Ligands for Neurodegenerative Disorders</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00379</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00379</guid>
+<pubDate>Tue, 07 Jul 2026 09:30:01 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00379/asset/images/medium/ci6c00379_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00379&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Mapping Evolution of Molecules across Biochemistry with Assembly Theory</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00939</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00939</guid>
+<pubDate>Tue, 07 Jul 2026 04:34:37 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00939/asset/images/medium/ci6c00939_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00939&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Structural Proteomics-Based Deciphering of Hydrophobic Packing Fingerprints Informing Protein Thermostability in TIM Barrels</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01179</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01179</guid>
+<pubDate>Tue, 07 Jul 2026 03:11:26 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01179/asset/images/medium/ci6c01179_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01179&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Bridging between Structure-Based and Data-Driven Affinity Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00697</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00697</guid>
+<pubDate>Tue, 07 Jul 2026 02:01:06 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00697/asset/images/medium/ci6c00697_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00697&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Reinforcement Learning-Driven Multiproperty Optimization in Molecular Design Using Multicontext Transcriptome Data</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00809</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00809</guid>
+<pubDate>Mon, 06 Jul 2026 12:29:09 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00809/asset/images/medium/ci6c00809_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00809&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] EnsembleCycPerm: Interpretable Modeling of Cyclic Peptide Permeability through Solvent-Dependent Conformational Ensembles</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01213</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01213</guid>
+<pubDate>Mon, 06 Jul 2026 12:25:05 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01213/asset/images/medium/ci6c01213_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01213&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] M-JEPA: Predictive Self-Supervised Learning for Molecular Graphs with Scaffold-Shift Evaluation on Tox21</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00828</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00828</guid>
+<pubDate>Mon, 06 Jul 2026 12:00:00 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00828/asset/images/medium/ci6c00828_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00828&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Resolving Conformational Preferences of Monosaccharides from 1H and 13C NMR Chemical Shifts Using an Integrated MD and QM Approach</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01310</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01310</guid>
+<pubDate>Mon, 06 Jul 2026 09:04:09 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01310/asset/images/medium/ci6c01310_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01310&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] PSDTA: An Approach to Drug-Target Binding Affinity Prediction by Integrating Physicochemical and Structural Information to Reduce Feature Redundancy</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.5c02783</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.5c02783</guid>
+<pubDate>Mon, 06 Jul 2026 08:57:29 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c02783/asset/images/medium/ci5c02783_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c02783&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Advancing Biochemical Molecule Registration, Representation and Search for New Drug Modalities</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00587</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00587</guid>
+<pubDate>Sun, 05 Jul 2026 06:50:18 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00587/asset/images/medium/ci6c00587_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00587&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] A Unified Molecular Graph and Protein Language Model Framework for Predicting Human Drug–Hormone Receptor Interactions with Structure-Aware Validation</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00806</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00806</guid>
+<pubDate>Sun, 05 Jul 2026 05:51:08 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00806/asset/images/medium/ci6c00806_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00806&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Intricate Role of Cholesterol in Membrane Fusion</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01044</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01044</guid>
+<pubDate>Sat, 04 Jul 2026 06:21:50 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01044/asset/images/medium/ci6c01044_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01044&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] tmGNN-XAI: An Explainable Graph Neural Network Tool for Predicting Electronic Properties of Transition Metal Complexes from SMILES</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01047</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01047</guid>
+<pubDate>Fri, 03 Jul 2026 12:13:39 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01047/asset/images/medium/ci6c01047_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01047&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] FoldDoF: Utilizing the Primary Degrees of Freedom of Protein Backbone for Geometric Modeling and Generation</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00617</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00617</guid>
+<pubDate>Fri, 03 Jul 2026 12:00:00 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00617/asset/images/medium/ci6c00617_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00617&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] QSAR in the Browser: An Interactive Cheminformatics Web Application</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01010</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01010</guid>
+<pubDate>Fri, 03 Jul 2026 07:18:50 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01010/asset/images/medium/ci6c01010_0003.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01010&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Derisking Affinity Optimization for Macrocycles and Cyclic Peptides: High-Precision Free Energy Simulations across Five Diverse Targets</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01122</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01122</guid>
+<pubDate>Fri, 03 Jul 2026 02:50:52 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01122/asset/images/medium/ci6c01122_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01122&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] An End-User Audit of Reproducibility, Data Leakage, and Overfitting of the Top-Ranked ADMET Prediction Models in TDC Leaderboards</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00819</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00819</guid>
+<pubDate>Thu, 02 Jul 2026 06:53:28 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00819/asset/images/medium/ci6c00819_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00819&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] PFASGroups: An Open-Source Framework for Automated Identification, Structural Classification, and Prioritization of Per- and Polyfluoroalkyl Substances</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01058</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01058</guid>
+<pubDate>Thu, 02 Jul 2026 05:11:08 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01058/asset/images/medium/ci6c01058_0003.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01058&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] DeepKbhb: Context-Aware Prediction of Human Lysine β-Hydroxybutyrylation Sites</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.5c02072</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.5c02072</guid>
+<pubDate>Wed, 01 Jul 2026 04:41:36 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c02072/asset/images/medium/ci5c02072_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c02072&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] HyperDC: A Non-Uniform Hypergraph Framework for Dual- and Higher-Order Drug Combination Recommendation Across Diverse Complex Diseases</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01470</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01470</guid>
+<pubDate>Wed, 01 Jul 2026 01:12:36 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01470/asset/images/medium/ci6c01470_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01470&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Structural and Thermodynamic Discrimination between Agonists and Antagonists of Retinoic Acid Receptor γ and the Vitamin D Receptor</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00912</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00912</guid>
+<pubDate>Tue, 30 Jun 2026 12:51:44 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00912/asset/images/medium/ci6c00912_0014.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00912&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Correction to “AstraMEV (AI-Guided Structural Assembly of Multi-Epitope Vaccines) Against Infectious Bronchitis Virus”</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01969</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01969</guid>
+<pubDate>Tue, 30 Jun 2026 11:46:13 PDT</pubDate>
+<description>&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01969&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] MolPy: A Large Language Model-Friendly Toolkit for Reactive Topology Editing in Polymer Simulations</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01137</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01137</guid>
+<pubDate>Tue, 30 Jun 2026 11:23:37 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01137/asset/images/medium/ci6c01137_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01137&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] PACEff Builder: An Efficient Platform for Constructing PACE Hybrid-Resolution Models for Molecular Dynamics Simulations of Aqueous Protein, Peptide Assembly, and Membrane Protein Systems</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01443</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01443</guid>
+<pubDate>Tue, 30 Jun 2026 08:21:38 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01443/asset/images/medium/ci6c01443_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01443&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Molecular Mechanisms of KIT Receptor Dimerization and Oncogenic Activation Revealed by Multiscale Simulations</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00160</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00160</guid>
+<pubDate>Tue, 30 Jun 2026 07:53:10 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00160/asset/images/medium/ci6c00160_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00160&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] TransKla: A Local-Global Cross-Attention Based Transformer Approach for Prediction of Lysine Lactylation Sites</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01478</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01478</guid>
+<pubDate>Tue, 30 Jun 2026 07:33:50 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01478/asset/images/medium/ci6c01478_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01478&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] CondenSimAdapter: A Versatile Builder for Multiscale Simulations of Protein Condensates with Broad Force-Field Compatibility and Robust Dense-Phase Relaxation</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00413</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00413</guid>
+<pubDate>Tue, 30 Jun 2026 04:41:12 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00413/asset/images/medium/ci6c00413_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00413&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Simulation Guided Design of a Potentially Hyperactive Ice Nucleating Protein</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00512</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00512</guid>
+<pubDate>Tue, 30 Jun 2026 03:52:08 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00512/asset/images/medium/ci6c00512_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00512&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Setting the Bases of the Photogenotoxicity of p-Aminobenzoic Acid</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01438</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01438</guid>
+<pubDate>Tue, 30 Jun 2026 01:08:52 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01438/asset/images/medium/ci6c01438_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01438&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Probing Charge-Controlled Inter-Domain Flexibility: Integrating Experimental and Coarse-Grained Approaches</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00989</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00989</guid>
+<pubDate>Mon, 29 Jun 2026 07:16:46 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00989/asset/images/medium/ci6c00989_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00989&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] FragScan: A Quantitative Fragment Scanning Strategy for Rational Drug Discovery</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01187</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01187</guid>
+<pubDate>Mon, 29 Jun 2026 04:27:28 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01187/asset/images/medium/ci6c01187_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01187&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Interaction Persistence-Based Identification of Key Binding Residues in the Cellular Retinol-Binding Protein 1 Complex</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00993</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00993</guid>
+<pubDate>Mon, 29 Jun 2026 02:40:25 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00993/asset/images/medium/ci6c00993_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00993&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] GeoPep: A Geometry-Aware Masked Language Model for Protein-Peptide Binding Site Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00187</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00187</guid>
+<pubDate>Mon, 29 Jun 2026 02:39:25 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00187/asset/images/medium/ci6c00187_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00187&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Tree-Guided Graph Neural Networks with Multilevel Optimization for Protein–Protein Interaction Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00948</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00948</guid>
+<pubDate>Mon, 29 Jun 2026 01:08:41 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00948/asset/images/medium/ci6c00948_0020.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00948&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] ASO-RASAR: A Read-Across Framework for Predicting Antisense Oligonucleotide Gapmer Activity Across Target Genes</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01314</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01314</guid>
+<pubDate>Sat, 27 Jun 2026 09:48:49 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01314/asset/images/medium/ci6c01314_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01314&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] ZHMolTopoRPI: A Commutative Algebra-Driven Deep Learning Framework for Robust RNA-Protein Interaction Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01199</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01199</guid>
+<pubDate>Fri, 26 Jun 2026 08:11:37 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01199/asset/images/medium/ci6c01199_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01199&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] PP-MAPS: Dynamic Pharmacophore Signatures of Protein–Peptide Interfaces from Molecular Dynamics Trajectories</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00605</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00605</guid>
+<pubDate>Fri, 26 Jun 2026 07:47:47 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00605/asset/images/medium/ci6c00605_0003.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00605&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Evaluating Molecular Representations for Predicting Cyclodextrin-PFAS Binding Energy with Machine Learning: Domain Transfer and Data Limitations</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.5c03121</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.5c03121</guid>
+<pubDate>Fri, 26 Jun 2026 05:40:01 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c03121/asset/images/medium/ci5c03121_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c03121&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Foldify: Web Application for Protein Structure Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01154</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01154</guid>
+<pubDate>Fri, 26 Jun 2026 04:53:45 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01154/asset/images/medium/ci6c01154_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01154&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Identification of Noncovalent Small-Molecules from Virtual Screening Toward the Development of Potential KRAS Inhibitors</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01372</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01372</guid>
+<pubDate>Fri, 26 Jun 2026 02:02:42 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01372/asset/images/medium/ci6c01372_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01372&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] LLM-Assembled Multiscale Cascades for High-Throughput Screening: The Case of Thermoelectric Materials</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01264</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01264</guid>
+<pubDate>Thu, 25 Jun 2026 09:15:01 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01264/asset/images/medium/ci6c01264_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01264&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] 3DTMC-LLM: A 3D Geometry-Aware Large Language Model for Transition Metal Complexes</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01415</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01415</guid>
+<pubDate>Thu, 25 Jun 2026 04:54:44 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01415/asset/images/medium/ci6c01415_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01415&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] ESM2-BiMamba: A Length-Adaptive Hybrid Framework for Efficient Concurrent Prediction of DNA-Binding Proteins and DNA-Binding Residue Sites</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01246</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01246</guid>
+<pubDate>Thu, 25 Jun 2026 02:21:27 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01246/asset/images/medium/ci6c01246_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01246&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Characterizing the MSMP–CCR2 Interaction through Molecular Dynamics Simulations and Machine Learning Approaches</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00048</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00048</guid>
+<pubDate>Thu, 25 Jun 2026 01:58:15 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00048/asset/images/medium/ci6c00048_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00048&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Guided Adaptive Diffusion: An Evolutionary Framework for Multimodal Atomistic Structure Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00843</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00843</guid>
+<pubDate>Thu, 25 Jun 2026 01:41:36 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00843/asset/images/medium/ci6c00843_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00843&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Guanine Exchange Factors Show Existence of Transient Pockets on Rac1 Surface</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.5c03073</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.5c03073</guid>
+<pubDate>Wed, 24 Jun 2026 12:43:25 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c03073/asset/images/medium/ci5c03073_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c03073&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] tmQM-RDF Data Set: A Knowledge Graph Representing Transition Metal Complexes</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01281</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01281</guid>
+<pubDate>Wed, 24 Jun 2026 06:49:06 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01281/asset/images/medium/ci6c01281_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01281&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Pathway-Aware Template-Based Retrosynthesis</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01458</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01458</guid>
+<pubDate>Wed, 24 Jun 2026 05:53:49 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01458/asset/images/medium/ci6c01458_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01458&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Critical Artifacts Improve Reproducibility of Protein–Ligand Binding Affinity Prediction Models on CASF-2016</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01192</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01192</guid>
+<pubDate>Wed, 24 Jun 2026 01:23:09 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01192/asset/images/medium/ci6c01192_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01192&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Balancing Data Quantity and Quality: Evaluating Curation Strategies for Bioactivity Prediction in Lead Optimization</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01018</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01018</guid>
+<pubDate>Tue, 23 Jun 2026 11:12:17 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01018/asset/images/medium/ci6c01018_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01018&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Mechanism-Informed Rules Tunably Balance Novelty and Feasibility of Predicted Enzymatic Reactions</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01595</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01595</guid>
+<pubDate>Tue, 23 Jun 2026 11:06:34 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01595/asset/images/medium/ci6c01595_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01595&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Robustness of Protein–Ligand Binding Affinity Prediction Models to Docked and Predicted Structures</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00592</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00592</guid>
+<pubDate>Tue, 23 Jun 2026 09:37:09 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00592/asset/images/medium/ci6c00592_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00592&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] PegaPlus─Interactive Machine Learning by Human Observation for Efficient Clustering and Analysis of Structure–Activity Data</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00524</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00524</guid>
+<pubDate>Tue, 23 Jun 2026 05:11:48 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00524/asset/images/medium/ci6c00524_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00524&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Finding Balance: Multiobjective Optimization in Molecular Generative Modeling</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00421</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00421</guid>
+<pubDate>Fri, 19 Jun 2026 01:24:56 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00421/asset/images/medium/ci6c00421_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00421&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Modeling hERG Channel Liability: From Structural Insight to Highly Accurate Qualitative and Quantitative Models</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00163</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00163</guid>
+<pubDate>Thu, 18 Jun 2026 10:42:33 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00163/asset/images/medium/ci6c00163_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00163&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Energetics of Noncovalent Interactions of Protein–Ligand Complexes for Drug Discovery</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01291</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01291</guid>
+<pubDate>Thu, 18 Jun 2026 10:21:33 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01291/asset/images/medium/ci6c01291_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01291&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Efficient Prediction of Transition-Metal NMR Chemical Shifts Using Machine Learning: Do Two-Dimensional Descriptors Suffice?</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01787</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01787</guid>
+<pubDate>Thu, 18 Jun 2026 09:50:42 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01787/asset/images/medium/ci6c01787_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01787&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] PAIRMAP: A Unified Geometry-Aware Pairwise-Map Framework for Molecular Representation Learning</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00702</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00702</guid>
+<pubDate>Thu, 18 Jun 2026 06:14:16 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00702/asset/images/medium/ci6c00702_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00702&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Learning High-Resolution Protein Embeddings from Multimodal Data via Self-Supervised Integration</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00618</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00618</guid>
+<pubDate>Thu, 18 Jun 2026 05:18:56 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00618/asset/images/medium/ci6c00618_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00618&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Structural Basis for Stepwise Substrate Transport and Disease Phenotypic Heterogeneity of the Mitochondrial ADP/ATP Carrier</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01006</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01006</guid>
+<pubDate>Wed, 17 Jun 2026 11:12:52 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01006/asset/images/medium/ci6c01006_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01006&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Advancing the CL&amp;Pol Polarizable Force Field for Accurate Modeling of Mg2+, Ca2+, and Zn2+ Electrolytes</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01158</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01158</guid>
+<pubDate>Wed, 17 Jun 2026 03:03:23 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01158/asset/images/medium/ci6c01158_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01158&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] MartiniSurf: Automated Simulations of Surface-Immobilized Biomolecular Systems with Martini</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00953</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00953</guid>
+<pubDate>Tue, 16 Jun 2026 11:24:58 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00953/asset/images/medium/ci6c00953_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00953&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Multimodal Information-Driven Heterogeneous Graph Neural Networks for Protein–Ligand Binding Affinity Prediction</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01317</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01317</guid>
+<pubDate>Tue, 16 Jun 2026 09:48:25 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01317/asset/images/medium/ci6c01317_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01317&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Toward Class Imbalance and Uncertainty in Powder XRD Analysis: A Dual-Channel Fusion Network for Space Group Classification</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00985</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00985</guid>
+<pubDate>Tue, 16 Jun 2026 08:14:03 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00985/asset/images/medium/ci6c00985_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00985&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] ToxiSpecies: Task-Aware Meta-Learning for Cross-Species Modeling of Acute Chemical Toxicity under Distribution Shift</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01358</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01358</guid>
+<pubDate>Tue, 16 Jun 2026 07:51:58 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01358/asset/images/medium/ci6c01358_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01358&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Systematic Multi-Target QSAR Benchmarking: Machine Learning Algorithms, Molecular Descriptors, and Validation</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c01237</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01237</guid>
+<pubDate>Tue, 16 Jun 2026 05:00:08 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01237/asset/images/medium/ci6c01237_0016.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01237&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Can Graph Neural Networks Understand Chemical Elements?</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00384</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00384</guid>
+<pubDate>Tue, 16 Jun 2026 04:32:43 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00384/asset/images/medium/ci6c00384_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00384&lt;/div&gt;</description>
+</item>
+<item>
+<title>[ASAP] Force Field Evaluation for an Intrinsically Disordered Domain: MD–NMR–FCS Benchmarking of Protein 4.1G Headpiece Ensembles</title>
+<link>http://dx.doi.org/10.1021/acs.jcim.6c00359</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00359</guid>
+<pubDate>Tue, 16 Jun 2026 02:50:27 PDT</pubDate>
+<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00359/asset/images/medium/ci6c00359_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00359&lt;/div&gt;</description>
+</item>
+</channel>
+</rss>
