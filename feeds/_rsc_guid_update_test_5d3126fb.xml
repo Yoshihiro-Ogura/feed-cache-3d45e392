@@ -5,13 +5,20 @@
     <link>https://doi.org/10.1039/D6CS00041J</link>
     <description>Temporary isolated feed for testing Inoreader update behavior.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 02:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:01:31 GMT</lastBuildDate>
     <item>
       <title>[GUID Test Phase 1] From Fenton reaction to ferroptosis</title>
       <link>https://doi.org/10.1039/D6CS00041J</link>
       <guid isPermaLink="false">urn:rsc-guid-update-test:5d3126fb-730c-4025-b3c4-c88f22219b2e:original</guid>
       <pubDate>Fri, 21 Aug 2026 02:59:32 GMT</pubDate>
-      <description>&lt;p&gt;Phase 1 baseline: the RSS article body is available, but the graphical abstract is not yet available.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Phase 2 update: the graphical abstract is now available on the original GUID item.&lt;/p&gt;&lt;p&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/cs/pap/10.1039_d6cs00041j/1/d6cs00041j-ga.png" alt="Graphical abstract" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[GUID Test Phase 2] Graphical abstract added — From Fenton reaction to ferroptosis</title>
+      <link>https://doi.org/10.1039/D6CS00041J</link>
+      <guid isPermaLink="false">urn:rsc-guid-update-test:5d3126fb-730c-4025-b3c4-c88f22219b2e:graphical-abstract</guid>
+      <pubDate>Fri, 21 Aug 2026 03:01:31 GMT</pubDate>
+      <description>&lt;p&gt;Graphical abstract added after the original RSS item was published.&lt;/p&gt;&lt;p&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/cs/pap/10.1039_d6cs00041j/1/d6cs00041j-ga.png" alt="Graphical abstract" /&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
