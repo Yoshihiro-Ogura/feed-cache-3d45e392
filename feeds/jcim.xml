@@ -5,6 +5,97 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>PPsAMP: A Novel
+Computational Framework for Short
+Antimicrobial Peptide Identification by Fusing Fine-Tuned Semantic
+and Physicochemical Features via Cross-Attention</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01300/5278481/PPsAMP-A-Novel-Computational-Framework-for-Short</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01300</guid>
+<pubDate>Thu, 20 Aug 2026 16:01:02 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01300/5278481/PPsAMP-A-Novel-Computational-Framework-for-Short"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01300/1/m_ci6c01300_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The widespread misuse of antibiotics has led to a global
+antimicrobial
+resistance crisis, highlighting the urgent need for novel antibacterial
+strategies. Short antimicrobial peptides (sAMPs), while maintaining
+strong antimicrobial activity, offer superior bioavailability and
+synthetic feasibility, thus holding great promise in the development
+of next-generation antibiotics. In recent years, AI-based approaches
+have achieved notable progress in AMP prediction; however, most existing
+models are trained primarily on medium and long peptides, resulting
+in limited accuracy and representation capability when applied to
+identify sAMPs. To address this problem, a novel prediction model,
+PPsAMP, is proposed in this paper. First, the protein language model
+ProtBert-BFD is fine-tuned by sAMPs and non-sAMPs to extract more
+discriminative representations, which are then integrated with physicochemical
+features through a cross-attention mechanism. The fused representation
+is further processed by a feature learning module to achieve the identification
+of sAMP. The feature learning module consists of a multihead self-attention
+mechanism and feedforward layers, with residual connections added
+to enhance generalization ability. Experimental results demonstrate
+that PPsAMP significantly outperforms state-of-the-art models for
+identifying sAMPs. Moreover, PPsAMP has identified 14,839 candidate
+sAMPs from environmental metagenomes, most of which have not been
+previously reported. The predicted MIC values indicate that they possess
+potential antibacterial activity. PPsAMP is freely available at https://github.com/shengxiliu/PPsAMP.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Residue Interaction Network Reveals Allosteric Pathways
+Linking Orthosteric and Intracellular Sites in Class A GPCRs</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00526/5277363/Residue-Interaction-Network-Reveals-Allosteric</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00526</guid>
+<pubDate>Thu, 20 Aug 2026 08:01:13 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00526/5277363/Residue-Interaction-Network-Reveals-Allosteric"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00526/1/m_ci6c00526_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding how
+allosteric modulators influence protein dynamics
+is essential for guiding drug design. This work analyses a total of
+45 μs of classical molecular dynamics simulations for four class
+A G-protein-coupled receptors (GPCRs), namely the Complement C5a receptor
+(C5AR1), the Purinergic Receptor   P2Y (P2RY1), and the Cannabinoid
+Receptors 1 and 2 (CNR1/CNR2). Protein dynamics is essential to detect
+the shallow extrahelical binding sites, such as the one found in P2RY1.
+Current methods for computing Allosteric Communication Networks (ACNs)
+produce complex outputs requiring expert interpretation. To address
+this, we focus on the shortest paths of information transfer between
+the orthosteric and G-protein binding sites in Class A GPCRs. Our
+retrospective analysis reveals state- and bias ligand-dependent residue
+interactions along these communication pathways. Furthermore, focusing
+on the predicted binding site of allosteric modulator EC21a at cannabinoid
+receptors, the ACN framework was used to prioritize two residues for
+mutational analysis that may contribute to allosteric communication.&lt;/span&gt;</description>
+</item>
+<item>
+<title>To ML-Predict or
+Not to ML-Predict: The Impact of
+Machine Learning-Predicted Protein Structures on FEP Accuracy and
+Data Augmentation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01024/5277344/To-ML-Predict-or-Not-to-ML-Predict-The-Impact-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01024</guid>
+<pubDate>Thu, 20 Aug 2026 06:01:26 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01024/5277344/To-ML-Predict-or-Not-to-ML-Predict-The-Impact-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01024/1/m_ci6c01024_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The rapid advancement of machine learning (ML)-based
+protein structure
+prediction, exemplified by AlphaFold2 and extended by newer models
+such as AlphaFold3 and Boltz-2, has generated significant optimism
+for structure-guided drug discovery. In particular, ligand–protein
+cofolding approaches offer the potential to overcome limitations in
+generating starting structures for physics-based free energy perturbation
+(FEP) calculations. However, the practical readiness of ML-predicted
+structures for FEP applications remains insufficiently evaluated.
+Here, we systematically assess experimentally determined crystal structures,
+a homology model, and ML-predicted protein structures as inputs for
+FEP using a well-characterized congeneric series targeting the tyrosine
+kinase cSrc. A data set of 133 compounds was evaluated through more
+than 1400 FEP calculations under minimal optimization to approximate
+“out-of-the-box” performance. By maintaining consistent
+preparation protocols, we isolate the impact of structural origin
+on predictive accuracy. Variable performance was observed across both
+experimental and ML-predicted structures, highlighting that even under
+this idealized benchmark scenario, significant challenges remain in
+reliably generating and refining predictive protein–ligand
+complexes. This study demonstrates that predictive variation in micro
+and macro conformational states─rather than the structural
+source─governs predictive reliability, underscoring the need
+for careful validation when integrating ML-derived structures into
+FEP workflows.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Biasing Conformational
 Sampling in AlphaFold 3 and
 Boltz-2 via Pair Representation Scaling</title>
@@ -1189,27 +1280,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01358</guid>
 <pubDate>Tue, 16 Jun 2026 07:51:58 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01358/asset/images/medium/ci6c01358_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01358&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Systematic Multi-Target QSAR Benchmarking: Machine Learning Algorithms, Molecular Descriptors, and Validation</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01237</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01237</guid>
-<pubDate>Tue, 16 Jun 2026 05:00:08 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01237/asset/images/medium/ci6c01237_0016.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01237&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Can Graph Neural Networks Understand Chemical Elements?</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00384</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00384</guid>
-<pubDate>Tue, 16 Jun 2026 04:32:43 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00384/asset/images/medium/ci6c00384_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00384&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Force Field Evaluation for an Intrinsically Disordered Domain: MD–NMR–FCS Benchmarking of Protein 4.1G Headpiece Ensembles</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00359</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00359</guid>
-<pubDate>Tue, 16 Jun 2026 02:50:27 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00359/asset/images/medium/ci6c00359_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00359&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

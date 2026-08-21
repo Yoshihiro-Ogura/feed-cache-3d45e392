@@ -5,6 +5,42 @@
 <link>https://pubs.acs.org/rss/oprdfk/asap.xml</link>
 <description>OPR&amp;D (mirrored feed)</description>
 <item>
+<title>Enhanced Scale-Up
+of Rotor-Stator Wet Milling Using
+Population Balance Modeling with a Novel Exponential Shear-Activated
+Kernel</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00161/5278600/Enhanced-Scale-Up-of-Rotor-Stator-Wet-Milling</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00161</guid>
+<pubDate>Thu, 20 Aug 2026 20:00:57 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00161/5278600/Enhanced-Scale-Up-of-Rotor-Stator-Wet-Milling"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00161/1/m_op6c00161_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Wet milling is a critical operation in drug substance
+manufacturing,
+enabling control of the particle size distribution of active pharmaceutical
+ingredients. Scaling up of the wet milling process usually involves
+equipment change. Due to material availability limitations during
+the early stage of development, there is a limited opportunity to
+experimentally determine optimal operating conditions for scale-up
+equipment. As a result, model-based approaches are essential for a
+reliable transition from the laboratory to commercial production.
+Existing population balance modeling (PBM) frameworks have enabled
+model-aided scale-up but typically employ empirical linear relationships
+between the breakage rate and the shear number, limiting their mechanistic
+interpretability and cross-scale robustness. This study presents an
+enhanced PBM kernel formulation that introduces an exponential dependence
+of the breakage rate on the shear number, reflecting a stress-activated
+mechanism analogous to barrier-crossing kinetics observed in material
+deformation and fracture. The proposed kernel retains the structure
+of the conventional PBM while embedding physical meaning into the
+shear dependence. Using experimental data from laboratory- and pilot-scale
+wet mills, the model successfully predicts clinical-scale performance
+without empirical refitting, demonstrating improved predictive capability.
+The exponential shear-activated formulation strengthens the physical
+foundation of the PBM-based scale-up and provides a more generalizable
+framework for wet milling process design. In addition, a model credibility
+and regulatory validation framework is proposed to support the regulatory
+acceptance of model-based digital design approaches for pharmaceutical
+manufacturing processes.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Practical Scale-Up
 of Trickle Bed Continuous Hydrogenation
 for Pharmaceuticals</title>
