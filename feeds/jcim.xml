@@ -5,6 +5,172 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>DASH: A Pocket-Aware and Objective-Aware Framework
+for Million-Scale Structure-Based Molecular Generation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01357/5292068/DASH-A-Pocket-Aware-and-Objective-Aware-Framework</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01357</guid>
+<pubDate>Sat, 22 Aug 2026 01:02:08 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Structure-based
+molecular diffusion models have shown considerable
+potential for de novo drug design. However, their practical use in
+million-scale candidate-library construction remains limited by fixed
+target-agnostic inference settings, insufficient support for objective-aware
+molecular prioritization, and limited integration of scalable property
+evaluation with standardized library production. Here, we present
+DASH, a pocket-aware and objective-aware framework for converting
+protein-conditioned diffusion outputs into property-tagged molecular
+libraries for computational prioritization. DASH combines pocket-complexity-aware
+sampling, configurable objective-aware molecular scoring, and a scalable
+production layer. The sampling strategy adjusts inference effort according
+to geometric and physicochemical features of the target binding pocket.
+The Objective-Aware Quality Module (OQM) filters and reranks generated
+molecules using configurable descriptors, desirability functions,
+and scoring profiles. The production layer supports million-scale
+execution through asynchronous GPU–CPU processing, streaming
+output, molecular scoring, and SDF annotation. We evaluated DASH through
+pocket-complexity analysis, OQM profile analysis, execution benchmarks,
+and multi-GPU/multinode scaling experiments. The results show that
+DASH can adapt inference effort across pockets, rerank generated libraries
+under different design objectives, and produce standardized molecular
+libraries for downstream analysis. An EGFR-oriented case study further
+demonstrates how DASH-generated libraries can support downstream computational
+prioritization and representative candidate selection. Together, these
+results demonstrate that DASH extends protein-conditioned diffusion
+models from raw molecular generation toward practical-scale, objective-aware
+candidate-library construction and computational hit prioritization.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AI-Driven Drug–Target
+Interaction Prediction:
+From Data Representation to Model Design</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01920/5288232/AI-Driven-Drug-Target-Interaction-Prediction-From</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01920</guid>
+<pubDate>Fri, 21 Aug 2026 18:02:35 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug–target interaction (DTI) prediction is central
+to drug
+discovery, target identification, and drug repurposing. With the rapid
+growth of biomedical data and advances in artificial intelligence
+(AI), DTI prediction has shifted from docking, similarity-based inference,
+and hand-crafted features toward data-driven representation learning
+and interaction modeling. This review examines AI-driven DTI prediction
+methodologies, covering binding theories, task formulations, data
+representation, model design, translational applications, and unresolved
+challenges. First, we introduce classical molecular binding theories,
+including the lock-and-key model, induced fit, and conformational
+selection, highlighting the transition from static matching to dynamic
+interaction. Second, we summarize major DTI task settings, including
+binary interaction classification, binding affinity regression, and
+multitask prediction with uncertainty assessment. We then discuss
+data resources and multimodal representation approaches for drugs,
+target proteins, interaction labels, and auxiliary biomedical data,
+including molecular sequences, graph structures, 3D conformations,
+physicochemical properties, biological perturbation profiles, protein
+sequences and structures, and biomedical knowledge networks. Representative
+approaches are compared across orthogonal methodological dimensions,
+including input representation, encoder architecture, interaction-modeling
+mechanism, representation learning and pretraining, learning objective,
+prediction output, data acquisition or optimization strategy, and
+generalization setting. Finally, we outline DTI applications in disease
+target mining, compound virtual screening, affinity and selectivity
+optimization, complex structure prediction, and industrial drug discovery
+pipelines and discuss key challenges such as data distribution shifts,
+dynamic protein conformational variability, and insufficient experimental
+validation. This survey aims to provide a systematic reference for
+future algorithm design, mechanism exploration, and real-world drug
+discovery applications.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Leveraging the
+Condensed Graph of Reaction for Clustering
+Retrosynthetic Pathways</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00489/5287153/Leveraging-the-Condensed-Graph-of-Reaction-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00489</guid>
+<pubDate>Fri, 21 Aug 2026 16:01:27 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Modern retrosynthetic tools can propose hundreds of alternative
+pathways for a single target, making it challenging to effectively
+explore and navigate the resulting route space. We present a CGR-based
+framework for the analysis and clustering of synthetic routes that
+integrates both target-centered and all-species-centered perspectives.
+Entire reaction pathways are encoded as single-molecule graphs (RouteCGR)
+or reduced representations retaining only target atoms (SB-CGR), enabling
+automatic identification of strategic bond patterns (SBPs). These
+representations can be transformed into Morgan fingerprints for a
+quantitative route similarity assessment. We propose a two-level clustering
+strategy in which routes are first grouped by shared SBPs, ensuring
+high interpretability based on key retrosynthetic disconnections,
+and then further differentiated using RouteCGR similarity to capture
+variations in starting materials and auxiliary transformations. The
+method demonstrates near-linear scalability and computational efficiency
+for large data sets. Application to synthetic routes for apatinib
+generated by multiple planning tools reveals tool-dependent diversity
+in strategic disconnections and highlights the benefit of combining
+tools to expand route space. The framework also supports cross-target
+analysis, enabling the identification of reusable route families that
+share common strategic disconnections and building blocks across related
+molecules. Overall, the SBP-based approach provides an interpretable
+and scalable solution for automated synthesis route analysis and informed
+decision-making. The proposed approach is implemented in SynPlanner
+retrosynthesis planning software and is available as a standalone
+module at https://github.com/Laboratoire-de-Chemoinformatique/SynPlanner.&lt;/span&gt;</description>
+</item>
+<item>
+<title>High-Throughput
+Multireference Calculations of Magnetic
+Properties of Lanthanide Complexes</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01565/5285842/High-Throughput-Multireference-Calculations-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01565</guid>
+<pubDate>Fri, 21 Aug 2026 13:02:16 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Lanthanide molecular magnets are promising candidates
+for quantum
+information technologies, but their discovery is limited by the computational
+cost of accurately predicting their electronic and magnetic properties.
+Multireference methods provide the required accuracy, yet their application
+at scale has been hindered by the need to manually select the model
+space (the states considered in the spin–orbit treatment).
+We present an automated multireference workflow for single-lanthanide
+complexes, based on complete active space wave functions followed
+by state-interaction spin–orbit (SISO) coupling. Its central
+feature is an iterative protocol for constructing the SISO model space,
+which enables reliable and reproducible calculations across diverse
+coordination environments. Benchmark calculations on lanthanide hexachlorides
+show that including spin–orbit-free states up to approximately
+5 eV above the ground state reproduces experimental ligand-field splittings
+with mean absolute errors of 100–200 cm&lt;sup&gt;–1&lt;/sup&gt; across the lanthanide series. We further examine how the model-space
+size affects magnetic anisotropy and &lt;span style="font-style:italic;"&gt;g&lt;/span&gt;-tensors in
+representative dysprosium- and erbium-based single-ion magnets and
+in the [Ln(DOTA)(H&lt;sub&gt;2&lt;/sub&gt;O)]&lt;sup&gt;−&lt;/sup&gt; family.
+Finally, we apply the protocol to 299 lanthanide complexes to generate
+a consistent data set of ligand-field splittings, &lt;span style="font-style:italic;"&gt;g&lt;/span&gt;-tensors, magnetic axes, and approximate barriers to magnetization
+reversal. This work establishes a practical framework for high-throughput
+multireference calculations and data generation for lanthanide molecular
+magnets.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Conformational
+Ensemble and Stabilization of Insulin
+by a Choline Ionic Liquid Elucidated through Markov State Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01378/5284942/Conformational-Ensemble-and-Stabilization-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01378</guid>
+<pubDate>Fri, 21 Aug 2026 10:02:07 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Proteins in solution continually fluctuate between conformational
+states, and these dynamics play a central role in their structural
+and colloidal stability. Using molecular dynamics simulations, we
+show that insulin exists as a conformational ensemble in solution,
+which can be quantitatively described using a Markov state model.
+This analysis resolves the two slowest motions of the insulin monomer:
+unfolding of the A3(Val)-A6(Cys) region and a side-chain rotation
+of B4(Gln). We further demonstrate that the ionic liquid choline dihydrogen
+phosphate (CDHP) stabilizes insulin by reducing the population of
+partially unfolded states formed via unraveling of the A1-A6 α-helix.
+This effect is supported experimentally, where CDHP also increased
+insulin’s resistance to aggregation. Simulations suggest that
+the stabilization is primarily driven by the dihydrogen phosphate
+anion, which preferentially interacts with residues in proximity to
+the unfolding hotspot. Together, this study demonstrates how modulating
+the conformational ensemble may directly improve protein stability
+and mitigate protein aggregation.&lt;/span&gt;</description>
+</item>
+<item>
 <title>PPsAMP: A Novel
 Computational Framework for Short
 Antimicrobial Peptide Identification by Fusing Fine-Tuned Semantic
@@ -12,7 +178,7 @@ and Physicochemical Features via Cross-Attention</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01300/5278481/PPsAMP-A-Novel-Computational-Framework-for-Short</link>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01300</guid>
 <pubDate>Thu, 20 Aug 2026 16:01:02 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01300/5278481/PPsAMP-A-Novel-Computational-Framework-for-Short"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01300/1/m_ci6c01300_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The widespread misuse of antibiotics has led to a global
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The widespread misuse of antibiotics has led to a global
 antimicrobial
 resistance crisis, highlighting the urgent need for novel antibacterial
 strategies. Short antimicrobial peptides (sAMPs), while maintaining
@@ -1245,41 +1411,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01006</guid>
 <pubDate>Wed, 17 Jun 2026 11:12:52 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01006/asset/images/medium/ci6c01006_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01006&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Advancing the CL&amp;Pol Polarizable Force Field for Accurate Modeling of Mg2+, Ca2+, and Zn2+ Electrolytes</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01158</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01158</guid>
-<pubDate>Wed, 17 Jun 2026 03:03:23 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01158/asset/images/medium/ci6c01158_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01158&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] MartiniSurf: Automated Simulations of Surface-Immobilized Biomolecular Systems with Martini</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00953</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00953</guid>
-<pubDate>Tue, 16 Jun 2026 11:24:58 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00953/asset/images/medium/ci6c00953_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00953&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Multimodal Information-Driven Heterogeneous Graph Neural Networks for Protein–Ligand Binding Affinity Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01317</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01317</guid>
-<pubDate>Tue, 16 Jun 2026 09:48:25 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01317/asset/images/medium/ci6c01317_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01317&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Toward Class Imbalance and Uncertainty in Powder XRD Analysis: A Dual-Channel Fusion Network for Space Group Classification</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00985</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00985</guid>
-<pubDate>Tue, 16 Jun 2026 08:14:03 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00985/asset/images/medium/ci6c00985_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00985&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] ToxiSpecies: Task-Aware Meta-Learning for Cross-Species Modeling of Acute Chemical Toxicity under Distribution Shift</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01358</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01358</guid>
-<pubDate>Tue, 16 Jun 2026 07:51:58 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01358/asset/images/medium/ci6c01358_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01358&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

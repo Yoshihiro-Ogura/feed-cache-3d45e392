@@ -5,13 +5,48 @@
 <link>https://pubs.acs.org/rss/abmcb8/asap.xml</link>
 <description>ACS Bio &amp; Med Chem Au (mirrored feed)</description>
 <item>
+<title>Structural
+and Functional Characterization of Cysteate
+Fatty Acyltransferases Involved in Bacterial Sulfonolipid Biosynthesis</title>
+<link>https://pubs.acs.org/abmcb8/article/doi/10.1021/acsbiomedchemau.6c00154/5292065/Structural-and-Functional-Characterization-of</link>
+<guid>http://dx.doi.org/10.1021/acsbiomedchemau.6c00154</guid>
+<pubDate>Sat, 22 Aug 2026 01:02:08 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Sulfonolipids are bacterial sphingolipid-like lipids
+featuring
+a sulfonated long-chain base derived from cysteate. Although several
+cysteate-utilizing enzymes have been implicated in sulfonolipid biosynthesis,
+their phylogenetic relationships and the structural basis of cysteate
+utilization remain poorly understood. Here, we combined phylogenetic
+analysis, biochemical characterization, X-ray crystallography, and
+mutagenesis to investigate cysteate fatty acyltransferase (CFAT) homologues
+involved in bacterial sulfonolipid biosynthesis. Phylogenetic analysis
+revealed that previously characterized cysteate-utilizing enzymes
+form a distinct branch within the broader serine palmitoyltransferase
+(SPT)-related pyridoxal 5′-phosphate (PLP)-dependent enzyme
+superfamily. Biochemical assay on six representatives confirmed a
+conserved cysteate-dependent long-chain-base synthase activity and
+a strong preference for cysteate over serine, glycine, and alanine.
+To elucidate this specificity, we solved crystal structures of a representative
+CFAT from &lt;span style="font-style:italic;"&gt;Capnocytophaga ochracea&lt;/span&gt; in
+both PLP-bound and PLP–cysteate-bound states, capturing a PLP–cysteate
+external aldimine intermediate. This structure reveals a composite
+active-site pocket formed across the dimer interface, where the conserved
+PLP-dependent catalytic scaffold is retained but the substrate-binding
+pocket is significantly remodeled compared to canonical SPTs. Structure-guided
+mutagenesis identified key residues important for cysteate-dependent
+catalysis but failed to generate serine activity. Together, these
+findings establish CFAT homologues as a functionally coherent family
+of cysteate-utilizing enzymes and provide critical molecular insights
+into bacterial sulfonolipid biosynthesis.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Rational Tuning of Intracellular Release Kinetics
 in PROTAC–Peptide Conjugates via Positional Modulation of Functional
 Peptide Domains</title>
 <link>https://pubs.acs.org/abmcb8/article/doi/10.1021/acsbiomedchemau.6c00158/5278591/Rational-Tuning-of-Intracellular-Release-Kinetics</link>
 <guid>http://dx.doi.org/10.1021/acsbiomedchemau.6c00158</guid>
 <pubDate>Thu, 20 Aug 2026 20:00:57 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/abmcb8/article/doi/10.1021/acsbiomedchemau.6c00158/5278591/Rational-Tuning-of-Intracellular-Release-Kinetics"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/abmcb8/pap/10.1021_acsbiomedchemau.6c00158/1/m_bg6c00158_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Proteolysis-targeting
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Proteolysis-targeting
 chimeras (PROTACs) can induce degradation
 of otherwise challenging proteins, but their large size and unfavorable
 physicochemical properties often limit cellular delivery. We designed
