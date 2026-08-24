@@ -5,6 +5,41 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Predicting Antibody–Antigen
+Mutation ΔΔ G  via Side-Specific Protein
+Language Models and Paired Geometric
+Graph Learning</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01919/5313840/Predicting-Antibody-Antigen-Mutation-G-via-Side</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01919</guid>
+<pubDate>Sun, 23 Aug 2026 16:00:59 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01919/5313840/Predicting-Antibody-Antigen-Mutation-G-via-Side"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01919/1/m_ci6c01919_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Mutation-induced changes in binding free energy (ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;) at antibody–antigen interfaces are important for
+antibody optimization, mutational scanning, and viral immune escape
+assessment. However, computational prediction remains challenging
+because antibodies and antigens have distinct sequence backgrounds,
+mutation effects are often localized at interfaces, and related complexes
+may remain across training and evaluation partitions. We present AbAgMut-GNN
+as a task-oriented paired graph framework that coordinates established
+sequence and geometric learning components around explicit comparison
+of wild-type (WT) and mutant (MUT) antibody–antigen complexes.
+AntiBERTy and ESM2 provide frozen residue-level embeddings for antibody
+and antigen chains, respectively, while mutation-centered, interface-aware,
+paired-residue, and contact-delta representations capture local perturbations
+and interaction remodeling. We evaluate AbAgMut-GNN under four complementary
+internal settings, including the PDB-based split, the complex-cluster
+split, the antibody-family preserving validation split, and the antigen-cluster-preserving
+validation split. Under the complex-cluster split, AbAgMut-GNN achieves
+Pearson correlation coefficients of 0.5841 on AB-Bind and 0.5480 on
+SKEMPI v2.0. External validation on SARS-CoV-2 and influenza antibody–antigen
+systems further shows useful mutation-effect correlation trends, although
+absolute-error performance varies across target systems. Contact-masking
+and residue-class enrichment analyses indicate that model-derived
+importance patterns are associated with biologically relevant interface
+interactions. Overall, AbAgMut-GNN is best viewed as a task-oriented
+computational tool for trend-level mutation ranking and pre-experimental
+candidate prioritization rather than as a high-precision substitute
+for quantitative biophysical measurement.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Structural Hierarchy
 and Maturation of Amyloid Fibrils
 Revealed by Interface Descriptor Analysis</title>
@@ -1427,13 +1462,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00702</guid>
 <pubDate>Thu, 18 Jun 2026 06:14:16 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00702/asset/images/medium/ci6c00702_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00702&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Learning High-Resolution Protein Embeddings from Multimodal Data via Self-Supervised Integration</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00618</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00618</guid>
-<pubDate>Thu, 18 Jun 2026 05:18:56 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00618/asset/images/medium/ci6c00618_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00618&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

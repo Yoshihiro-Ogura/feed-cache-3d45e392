@@ -5,6 +5,33 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Comprehensive Evaluation
+of Oxidation Resistance for
+Tertiary Phosphines Using Universal Machine Learning Interatomic Potential-Aided
+Molecular Dynamics Simulation</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00783/5312647/Comprehensive-Evaluation-of-Oxidation-Resistance</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00783</guid>
+<pubDate>Sun, 23 Aug 2026 15:01:01 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00783/5312647/Comprehensive-Evaluation-of-Oxidation-Resistance"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00783/1/m_au6c00783_0016.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Tertiary phosphines
+play important roles in a wide range of chemical
+reactions, but they suffer from oxidation in air. Here, we propose
+a computational workflow for the comprehensive prediction of oxidation
+resistance in tertiary phosphines based on molecular dynamics (MD)
+simulations using Matlantis PFP, a universal machine learning interatomic
+potential (uMLIP). MD simulations were conducted for 51 different
+tertiary phosphines and analyzed to estimate mean survival time by
+survival analysis (τ). The resulting τ reproduced experimentally
+and theoretically recognized trends in oxidation resistance across
+chemically diverse phosphines. In particular, it captured electronic,
+steric, and aromatic effects on oxidation resistance, even in systems
+where these factors are intertwined. Comparisons with reported oxidation
+behaviors further showed that τ correctly identifies both highly
+air-sensitive and highly air-stable phosphines. These results demonstrate
+that the present workflow provides a practical, generalizable tool
+for pre-experimental assessment of phosphine oxidation resistance
+and for more rational ligand design.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Cobalt-Catalyzed
 Halogen-Retentive C–H Activation
 and Its Application in Medicinal Chemistry</title>

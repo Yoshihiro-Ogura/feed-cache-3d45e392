@@ -5,6 +5,13 @@
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <description>ACS Bridge Error (mirrored feed)</description>
 <item>
+<title>[2026-08-24 15:08 UTC] 6件の問題 / 6 issue(s)</title>
+<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
+<guid>acs-bridge-error-2026-08-24T15:08:34.106537+00:00</guid>
+<pubDate>Mon, 24 Aug 2026 15:08:34 +0000</pubDate>
+<description>[scraper] Chem.Commun.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/cc/latest-articles'; interactive_challenge=True")&lt;br&gt;[scraper] Nat. Prod. Rep.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/np/latest-articles'; interactive_challenge=True")&lt;br&gt;[scraper] Med.Chem.Commun.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/md/latest-articles'; interactive_challenge=True")&lt;br&gt;[scraper] Chem.Sci.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/sc/latest-articles'; interactive_challenge=True")&lt;br&gt;[scraper] Chem. Soc. Rev.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/cs/latest-articles'; interactive_challenge=True")&lt;br&gt;[scraper] Digital Discovery: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/dd/latest-articles'; interactive_challenge=True")</description>
+</item>
+<item>
 <title>[2026-08-23 21:08 UTC] 6件の問題 / 6 issue(s)</title>
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <guid>acs-bridge-error-2026-08-23T21:08:08.685383+00:00</guid>
@@ -345,13 +352,6 @@
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <guid>acs-bridge-error-2026-07-30T15:02:25.611440+00:00</guid>
 <pubDate>Thu, 30 Jul 2026 15:02:25 +0000</pubDate>
-<description>[scraper] ACS Catalysis: FAIL: ValueError("取得結果がRSS/Atomと認識できない / response doesn't look like RSS/Atom")&lt;br&gt;[scraper] ACS Central Science: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Chem.Rev.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Med.Chem.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Org.Lett.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] OPR&amp;D: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Chem.Inf.Model.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Chemical Biology: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Omega: FAIL: &lt;HTTPError 404: 'Not Found'&gt;</description>
-</item>
-<item>
-<title>[2026-07-29 21:02 UTC] 13件の問題 / 13 issue(s)</title>
-<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
-<guid>acs-bridge-error-2026-07-29T21:02:17.184863+00:00</guid>
-<pubDate>Wed, 29 Jul 2026 21:02:17 +0000</pubDate>
 <description>[scraper] ACS Catalysis: FAIL: ValueError("取得結果がRSS/Atomと認識できない / response doesn't look like RSS/Atom")&lt;br&gt;[scraper] ACS Central Science: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Chem.Rev.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Med.Chem.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Org.Lett.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] OPR&amp;D: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Chem.Inf.Model.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Chemical Biology: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Omega: FAIL: &lt;HTTPError 404: 'Not Found'&gt;</description>
 </item>
 </channel>
