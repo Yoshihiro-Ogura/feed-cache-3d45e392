@@ -101,6 +101,62 @@
 <pubDate>2026-08-24T07:45:22Z</pubDate>
 </item>
 <item>
+<title>Electrochemical Robustness and Spin-Selective Transport in Self-Assembled MYG-0 Peptide Monolayers</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007779/v1?af=R</link>
+<guid>10.26434/chemrxiv.15007779/v1</guid>
+<pubDate>2026-08-24T07:45:14Z</pubDate>
+<description>Chiral Induced Spin Selectivity (CISS) in biomolecules offers a revolutionary pathway for the development of molecular spintronic devices. However, achieving both high spin-filtering efficiency and robust electrochemical stability under high electric ...</description>
+</item>
+<item>
+<title>Room-Temperature Tunable Dual Exciton Emission in Hybrid Lead Bromides with an Unreported Two-Dimensional Framework</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007778/v1?af=R</link>
+<guid>10.26434/chemrxiv.15007778/v1</guid>
+<pubDate>2026-08-24T07:33:17Z</pubDate>
+<description>Low-dimensional hybrid lead halides offer a platform for tunable light emission, yet the relationship between structural topology and exciton dynamics in two-dimensional frameworks remains poorly understood. Here, we report two hybrid lead bromides, (IM)2(...</description>
+</item>
+<item>
+<title>GLPlot: GPU-accelerated interactive scientific visualization with a Matplotlib-like interface</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007777/v1?af=R</link>
+<guid>10.26434/chemrxiv.15007777/v1</guid>
+<pubDate>2026-08-24T07:05:12Z</pubDate>
+<description>Interactive visualization is part of the scientific reasoning process: researchers use plots to inspect convergence, identify outliers, compare simulations, assess uncertainty, and decide which analyses or experiments to perform next. Furthermore, plots ...</description>
+</item>
+<item>
+<title>Electrostatic Preorganisation Shapes a Hypercoordination Valley Along the Donor–Acceptor Bonding Continuum</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007776/v1?af=R</link>
+<guid>10.26434/chemrxiv.15007776/v1</guid>
+<pubDate>2026-08-24T06:49:17Z</pubDate>
+<description>Understanding how ligands approach electron-deficient centres is a fundamental challenge, as the energetic landscape bridging weak encounter complexes and fully developed bonds remains poorly characterised. Here, we combine crystallographic and quantum-...</description>
+</item>
+<item>
+<title>Electrostatic preactivation of dioxygen without metal redox activity</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007775/v1?af=R</link>
+<guid>10.26434/chemrxiv.15007775/v1</guid>
+<pubDate>2026-08-24T06:47:13Z</pubDate>
+<description>Dioxygen is the terminal oxidant of aerobic life and one of the most widely used reagents in chemistry, yet it reacts slowly with closed-shell molecules. Its persistence is usually attributed to spin restrictions and to the cost of the first one-electron ...</description>
+</item>
+<item>
+<title>Efficient and reversible boron coordination in a fluorescent BODIPY rotaxane</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007774/v1?af=R</link>
+<guid>10.26434/chemrxiv.15007774/v1</guid>
+<pubDate>2026-08-24T06:15:25Z</pubDate>
+<description>We report the synthesis of a fluorescent rotaxane based on the threading of a BODIPY core through a macrocycle containing a biphenol unit. After stoppering, the macrocycle was efficiently released from the boron centre using BF3.OEt2, affording the ...</description>
+</item>
+<item>
+<title>Electrocatalytic Formic Acid Oxidation Behavior of Pt–N/C</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007772/v1?af=R</link>
+<guid>10.26434/chemrxiv.15007772/v1</guid>
+<pubDate>2026-08-24T05:57:11Z</pubDate>
+<description>Pt–N/C was prepared by impregnation of a carbon support with a Pt precursor followed by urea-assisted thermal treatment at 950 °C under Ar. X-ray diffraction revealed the broad carbon diffraction feature together with weak reflections indexed to fcc Pt, ...</description>
+</item>
+<item>
+<title>Topochemical Fluorination of the Ruddlesden−Popper In/Sb-Mixed Oxide Ba2In0.5Sb0.5O4; Staged Anion Insertion and Structural Evolution toward the Fluorine-Rich Oxyfluoride Ba2In0.5Sb0.5O2F4</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007771/v1?af=R</link>
+<guid>10.26434/chemrxiv.15007771/v1</guid>
+<pubDate>2026-08-24T05:45:18Z</pubDate>
+<description>Layered Ruddlesden–Popper oxides provide a versatile platform for topochemical anion modification, enabling access to metastable mixed-anion phases with tuneable structural and electronic properties. In this work, we present a comprehensive investigation ...</description>
+</item>
+<item>
 <title>Risk-Aware Design of Nanostructured All-Perovskite Tandem Solar Cells under Fabrication Variability Using Gaussian Process Surrogates and CVaR Optimization</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007735/v1?af=R</link>
 <guid>10.26434/chemrxiv.15007735/v1</guid>
@@ -992,62 +1048,6 @@
 <guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007608/v1?af=R</guid>
 <pubDate>2026-08-19T10:49:12Z</pubDate>
 <description>Self-interaction and charge-delocalization errors remain important limitations of approximate density functional theory (DFT), affecting reaction barriers, self-consistent densities, and charged-fragment dissociation limits. Constrained DFT (CDFT) can ...</description>
-</item>
-<item>
-<title>Quantifying and Eliminating Self-Interaction Error in Density Functionals: A Recipe for Traditional and Machine-Learning DFT</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007608/v1?af=R</link>
-<guid>10.26434/chemrxiv.15007608/v1</guid>
-<pubDate>2026-08-19T10:49:12Z</pubDate>
-<description>Self-interaction and charge-delocalization errors remain important limitations of approximate density functional theory (DFT), affecting reaction barriers, self-consistent densities, and charged-fragment dissociation limits. Constrained DFT (CDFT) can ...</description>
-</item>
-<item>
-<title>Nonlinear Imaging of Bacterial Membranes During Adhesion</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003874/v2?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003874/v2?af=R</guid>
-<pubDate>2026-08-19T10:49:06Z</pubDate>
-<description>Electrostatic interactions between bacteria and abiotic surfaces induce changes that propagate from the cell exterior to perturb the inner membrane and associated cellular processes. Direct optical readouts that disentangle the potentially coupled effects ...</description>
-</item>
-<item>
-<title>Nonlinear Imaging of Bacterial Membranes During Adhesion</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003874/v2?af=R</link>
-<guid>10.26434/chemrxiv.15003874/v2</guid>
-<pubDate>2026-08-19T10:49:06Z</pubDate>
-<description>Electrostatic interactions between bacteria and abiotic surfaces induce changes that propagate from the cell exterior to perturb the inner membrane and associated cellular processes. Direct optical readouts that disentangle the potentially coupled effects ...</description>
-</item>
-<item>
-<title>Chemical Descriptors as Bases and Metrics across Interpolation and Unseen-Element Transfer</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007610/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007610/v1?af=R</guid>
-<pubDate>2026-08-19T10:49:04Z</pubDate>
-<description>Chemical descriptors determine both the effect functions a model can express and the chemical levels across which it shares information. On complete perovskite and protein grids, we separate these roles as the rank and geometry of a common kernel: free ...</description>
-</item>
-<item>
-<title>Chemical Descriptors as Bases and Metrics across Interpolation and Unseen-Element Transfer</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007610/v1?af=R</link>
-<guid>10.26434/chemrxiv.15007610/v1</guid>
-<pubDate>2026-08-19T10:49:04Z</pubDate>
-<description>Chemical descriptors determine both the effect functions a model can express and the chemical levels across which it shares information. On complete perovskite and protein grids, we separate these roles as the rank and geometry of a common kernel: free ...</description>
-</item>
-<item>
-<title>Wastewater Treatment Plants as Anchor Infrastructure for Geothermal Energy in Cold Regions</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007611/v1?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007611/v1?af=R</guid>
-<pubDate>2026-08-19T10:48:54Z</pubDate>
-<description>Thermal constraints in cold regions suppress biological treatment, increase energy demand, and elevate greenhouse gas emissions of existing wastewater treatment plants (WWTPs), and remain a major barrier to the deployment of adequate sanitation ...</description>
-</item>
-<item>
-<title>Wastewater Treatment Plants as Anchor Infrastructure for Geothermal Energy in Cold Regions</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007611/v1?af=R</link>
-<guid>10.26434/chemrxiv.15007611/v1</guid>
-<pubDate>2026-08-19T10:48:54Z</pubDate>
-<description>Thermal constraints in cold regions suppress biological treatment, increase energy demand, and elevate greenhouse gas emissions of existing wastewater treatment plants (WWTPs), and remain a major barrier to the deployment of adequate sanitation ...</description>
-</item>
-<item>
-<title>Phonon Spectra Reveal How Selective Fluorination Enhances Hole Transport in Benzodithiophenes (BDT)</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006076/v2?af=R</link>
-<guid>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006076/v2?af=R</guid>
-<pubDate>2026-08-19T10:48:46Z</pubDate>
-<description>Selective fluorination is one of the most widely used chemical modifications for improving hole mobility in donor-type organic semiconductors. It is commonly assumed that the benefits arise from isolated geometric or electronic descriptors, such as a ...</description>
 </item>
 </channel>
 </rss>
