@@ -5,6 +5,499 @@
 <link>https://pubs.acs.org/rss/acsodf/asap.xml</link>
 <description>ACS Omega (mirrored feed)</description>
 <item>
+<title>Reduced-Feature
+Hybrid Machine Learning for Coal Ash
+Sintering-Temperature Prediction Using Chemistry and Physicochemical
+Descriptors</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07639/5328156/Reduced-Feature-Hybrid-Machine-Learning-for-Coal</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c07639</guid>
+<pubDate>Mon, 24 Aug 2026 20:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of the coal ash sintering temperature
+is essential
+for mitigating slagging, agglomeration, fouling, and operational instability
+in combustion and gasification systems. In this study, three reduced-feature
+machine-learning frameworks were developed and compared for predicting
+the coal ash sintering temperature using experimentally measured ash
+composition data collected from multiple literature sources. The first
+framework employed a chemistry-informed extreme gradient boosting
+(XGBoost) model using the most influential oxide descriptors identified
+through feature importance analysis. The second framework utilized
+a physics-derived approach based on weighted physicochemical descriptors,
+including log-transformed weighted viscosity at the melting point,
+weighted melting point, and weighted surface tension. The third framework
+integrated chemistry-informed and physics-derived descriptors within
+a hybrid XGBoost architecture. Feature-ranking analysis identified
+CaO, TiO&lt;sub&gt;2&lt;/sub&gt;, and SO&lt;sub&gt;3&lt;/sub&gt; as the dominant chemistry
+descriptors, while log-transformed weighted viscosity at melting point,
+weighted melting point, and weighted surface tension emerged as the
+most influential physics-based descriptors. The chemistry-informed
+XGBoost model achieved R&lt;sup&gt;2&lt;/sup&gt; values of 0.740 under Leave-One-Out
+Cross-Validation (LOOCV) and 0.505 under independent 50/50 validation.
+The physics-derived framework exhibited lower predictive performance,
+with Random Forest and Gradient Boosting models achieving R&lt;sup&gt;2&lt;/sup&gt; values of 0.457 and 0.253, respectively. Hybrid physics–chemistry
+models consistently outperformed both individual frameworks. The Top-2
+Chemistry + Top-2 Physics configuration achieved the highest LOOCV
+performance (R&lt;sup&gt;2&lt;/sup&gt; = 0.869), while the Top-3 Chemistry + Top-3
+Physics configuration demonstrated the strongest independent validation
+performance (R&lt;sup&gt;2&lt;/sup&gt; = 0.741, MAE = 20.55 °C, and RMSE
+= 24.80 °C). The improved performance of the hybrid models suggests
+that combining oxide chemistry with property-derived descriptors improves
+prediction of coal ash sintering temperature within the present data
+set. The results highlight the value of hybrid machine-learning framework
+using property-derived descriptors for improving predictive accuracy,
+enhancing interpretability, and reducing model complexity. The proposed
+framework provides a promising methodology for predicting ash behavior
+in coal combustion, gasification, PFBC systems, and other thermal
+conversion technologies.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Pyrrolizidine Alkaloids
+in Tea and Dietary Exposure
+Assessment of Tea Intake</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06636/5328134/Pyrrolizidine-Alkaloids-in-Tea-and-Dietary</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06636</guid>
+<pubDate>Mon, 24 Aug 2026 20:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Pyrrolizidine alkaloids (PAs) and pyrrolizidine alkaloid &lt;span style="font-style:italic;"&gt;N&lt;/span&gt;-oxides (PANOs) are secondary metabolites found in plants.
+63 samples, which include green tea, lightly fermented tea, semifermented
+tea, and fermented tea, were tested to assess the dietary exposure
+risk of PAs/PANOs. We apply high-performance liquid chromatography
+coupled to tandem mass spectroscopy (HPLC-MS/MS) to detect the PAs/PANOs
+in tea. This study applies the margin of exposure (MoE) approach in
+dietary exposure assessment, and the MoE of 10,000 or higher would
+be of low exposure risk for health. Among the 25 PAs/PANOs tested,
+four PAs/PANOs, including &lt;span style="font-style:italic;"&gt;Lycopsamine&lt;/span&gt;&lt;span style="font-style:italic;"&gt;N&lt;/span&gt;-oxide, &lt;span style="font-style:italic;"&gt;Intermedine&lt;/span&gt;&lt;span style="font-style:italic;"&gt;N&lt;/span&gt;-oxide, &lt;span style="font-style:italic;"&gt;Senkirkine&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;Lasiocarpine&lt;/span&gt;, were identified
+in more than 10 samples. Six PAs/PANOs were simultaneously detected
+in a sample of fermented tea. In this research, 77.78% of detected
+samples contained PAs or PANOs, and the mean value is 17.67 μg/kg.
+Using the Monte Carlo simulation for the MoEs, there is only 0.2%
+probability that the MoE value is lower than 10,000. Calculated at
+the 50th percentile of total PAs/PANO levels, continuous tea intake
+exceeding 94 days results in the MoE value of less than 10,000.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Study on the Evolution
+Mechanism of Dynamic Conductivity
+of Hydraulic Fracturing Fractures Based on Proppant Flowback</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05902/5328133/Study-on-the-Evolution-Mechanism-of-Dynamic</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05902</guid>
+<pubDate>Mon, 24 Aug 2026 20:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Proppant flowback during the posthydraulic fracturing
+flowback
+stage can induce instability of the internal proppant support structure
+and conductivity degradation within fractures, which are critical
+factors constraining long-term stable production of low-permeability
+tight oil and gas reservoirs. However, existing studies have mostly
+focused on static fracture conductivity evaluation, and the understanding
+of the coupling mechanism among dynamic proppant migration, particle
+contact network reconstruction, and time-dependent conductivity evolution
+during the flow-back process remains insufficient. To address this
+gap, this study adopts an integrated approach combining visualized
+physical simulations, confining-pressure conductivity experiments,
+and numerical simulation. Through a two-dimensional visualized fracture
+model, the effects of the flowback rate, flowback fluid viscosity,
+and proppant particle size on particle migration behavior and accumulation
+morphology evolution were analyzed. Furthermore, combined with confining-pressure
+core experiments, the synergistic regulation mechanisms of drawdown
+pressure, fluid viscosity, and proppant size on the flowback rate
+and fracture conductivity were investigated under in situ stress conditions.
+The results show that fluid momentum transfer during flowback is the
+dominant factor inducing proppant destabilization and migration. As
+the flowback intensity increases, the fluid drag force gradually approaches
+and exceeds the critical shear resistance provided by the particle
+contact network, triggering large-scale destabilization and migration
+of the proppant pack, with the flowback rate increasing significantly.
+Confinement-pressure experimental results further indicate that conductivity
+degradation is not caused by a single flowback behavior alone but
+rather results from a cascade damage process involving proppant migration,
+particle crushing, stress-induced embedment, and flow channel compaction.
+Under high drawdown pressure, the internal proppant support structure
+within the fracture undergoes nonuniform reconstruction, leading to
+continuous shrinkage of the effective conductive channels, with the
+dynamic conductivity exhibiting significant time-dependent degradation
+characteristics. Numerical simulation results further validate the
+intrinsic relationship between the proppant spatial distribution reconstruction
+and production decline. This study reveals the dynamic mechanism of
+fluid–solid coupling, particle destabilization, and conductivity
+degradation within complex fracture networks during the flowback stage,
+providing a theoretical basis for optimizing flowback strategies and
+maintaining the long-term fracture conductivity in low-permeability
+tight reservoirs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Berberine as a
+Promising Antifungal Agent: Insights
+into Molecular Mechanisms and Therapeutic Potential</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05321/5328132/Berberine-as-a-Promising-Antifungal-Agent-Insights</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05321</guid>
+<pubDate>Mon, 24 Aug 2026 20:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Due to the increasing prevalence of antifungal resistance
+and the
+limitations of existing therapeutic options, fungal infections represent
+a significant global health burden. Berberine (BBR), a naturally occurring
+isoquinoline alkaloid compound derived from various medicinal plants
+such as &lt;span style="font-style:italic;"&gt;Coptis chinensis&lt;/span&gt;, has garnered
+attention for the antifungal activities. In this review, we present
+the current knowledge-base on the multifaceted antifungal effects
+of BBR and its underlying mechanisms. It involves the inhibition of
+the biofilm formation, the disruption of fungal cell membrane integrity,
+the interference with key metabolic pathways and the induction of
+apoptotic cell death. BBR also exhibited potential significant synergistic
+effects with some common antifungal drugs. Beneficially, BBR has been
+″demonstrated to improve oxidative stress damage and inflammatory
+response induced by fungal infections. We also discuss its safety,
+clinical applications, formulation strategies and existing challenges.
+Finally, we propose future directions for leveraging BBR in the fight
+against antifungal resistance. The integration of BBR into antifungal
+therapy represents a compelling strategy to address the urgent need
+for effective, safe and affordable treatments for fungal infections.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Codelivering Polymyxin
+B and Phage Using Thermosensitive
+Hydrogel for Treating Carbapenem-Resistant  Acinetobacter baumannii -Mediated Wound Infections</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c00358/5327339/Codelivering-Polymyxin-B-and-Phage-Using</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c00358</guid>
+<pubDate>Mon, 24 Aug 2026 18:00:59 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The increasing prevalence of wound infections caused
+by multidrug-resistant
+Gram-negative bacteria, particularly carbapenem-resistant &lt;span style="font-style:italic;"&gt;Acinetobacter baumannii&lt;/span&gt; (CRAB), necessitates novel
+therapeutic strategies to overcome the limitations of single-agent
+treatments. This study presents a synergistic treatment strategy by
+co-delivering bacteriophages and polymyxin B loaded within a poloxamer
+F127-based thermosensitive hydrogel. Sodium hyaluronate (HA) was incorporated
+to improve the poor viscoelasticity of the pure F127 hydrogel at low
+temperatures, thereby enabling practical handling without compromising
+its thermogelling properties. In a mouse model of full-thickness wounds
+infected with CRAB, the hydrogel-treated group exhibited significantly
+accelerated wound closure and improved histopathological outcomes
+compared to those observed in the controls receiving monotherapies
+or a blank hydrogel. This study establishes a practical and effective
+co-delivery platform that combines enhanced material properties with
+a potent synergistic antimicrobial strategy for managing complex resistant
+wound infections.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Optimization of
+an Ion-Bridge-Based Microbial Fuel
+Cell for Treatment of a Municipal Wastewater Sample</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05166/5327215/Optimization-of-an-Ion-Bridge-Based-Microbial-Fuel</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05166</guid>
+<pubDate>Mon, 24 Aug 2026 18:00:59 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This study investigates
+the effect of types and concentrations
+of salts and agar concentration that influence the performance of
+an ion-bridge-based microbial fuel cell (MFC) in terms of open circuit
+voltage (OCV) and chemical oxygen demand (COD) removal efficiency.
+When an optimal ion bridge was constructed by mixing 10.0%(w/v) agar
+with 4.0 M KCl solution and used in the MFC, it exhibited a maximum
+OCV of 340 mV and a COD removal efficiency of 66.8%(w/w). The MFC
+fed with a real wastewater (WW) sample performed slightly less, with
+the maximum OCV and COD removal efficiency decreasing to 315 mV and
+56.2%(w/w), respectively, compared to that fed with pure glucose solution.
+The characteristic properties of the WW sample after the MFC treatment
+improved substantially and fell within the normal range of the effluent
+discharge. The OCV of the ion-bridge-based MFCs was not comparable
+to that of the proton exchange membrane (PEM)-based MFCs; however,
+it performed comparably in removing various pollutants from the WW
+sample. Future work may optimize other components and parameters to
+develop a cheap and simple ion-bridge-based MFC for real-world WW
+treatment and efficient bioelectricity generation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Fluorinated Iron
+Phthalocyanine–rGO Hybrid
+Cathodes for Fast and Stable Aqueous Zinc Batteries</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05388/5325507/Fluorinated-Iron-Phthalocyanine-rGO-Hybrid</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05388</guid>
+<pubDate>Mon, 24 Aug 2026 14:01:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Aqueous zinc batteries have become an attractive alternative
+for
+energy storage due to their low cost, safety, and low toxicity compared
+to traditional lithium-ion batteries, which suffer from safety concerns.
+However, they are limited by the lack of high-performance, stable
+cathodes. Herein, we report the electrochemical study of iron phthalocyanine-reduced
+graphene oxide hybrid materials as cathodes for aqueous zinc batteries.
+The prepared materials had a voltage of 1.2 V and displayed high cyclic
+stability with a capacity retention of over 70% after 2500 cycles
+and a high-rate performance up to 2000 mA/g, which represents an improvement
+compared to bare iron phthalocyanine, highlighting the positive effect
+of the incorporation of reduced graphene oxide to prepare a hybrid.
+Furthermore, incorporating fluorine into the phthalocyanine ring led
+to improved battery performance, which highlights the positive effect
+of tuning the phthalocyanine ring for the design of high-performance
+phthalocyanine-based cathodes for aqueous zinc-ion batteries.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Molecular Insights
+into the Separation of Iron by
+18-Crown-6 Ethers from Hydrochloric Acid</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05328/5325360/Molecular-Insights-into-the-Separation-of-Iron-by</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05328</guid>
+<pubDate>Mon, 24 Aug 2026 14:01:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Anomalous iron extraction
+has been observed in 18-crown-6-based
+extraction chromatographic resins for radiochemical and nuclear forensic
+separations. The molecular basis for this behavior was examined using
+three crown ethers: 18-crown-6 (18C6), dicyclohexano-18-crown-6 (DCH18C6),
+and dibenzo-18-crown-6 (DB18C6). Batch solvent extraction, spectroscopy,
+and density functional theory (DFT) calculations show that Fe is maximally
+extracted in highly concentrated hydrochloric acid (HCl) (&amp;gt;6 M),
+where
+FeCl&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt; predominates in solution. Data
+support hydrogen-bonding interactions of hydronium (H&lt;sub&gt;3&lt;/sub&gt;O&lt;sup&gt;+&lt;/sup&gt;) within the macrocyclic cavity, followed by ion-pair association
+with FeCl&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt;. The DC18C6 and 18C6 form
+predominantly 1:1 complexes, whereas DB18C6 exhibits features of composite
+binding. Extraction is spontaneous, with negligible enthalpic contributions
+within experimental uncertainty. These results provide quantitative
+data for the unexpected iron extraction by crown ether-based systems,
+offering mechanistic insight into the expanded use and design of crown
+ether-based radiochemical separations.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Sustainable Synthesis
+of Defect-Rich NiO Nanoparticles
+from Seaweed for Enhanced Oxygen Evolution</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05066/5325300/Sustainable-Synthesis-of-Defect-Rich-NiO</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05066</guid>
+<pubDate>Mon, 24 Aug 2026 14:01:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Green synthesis has
+emerged as a sustainable alternative for preparing
+nanostructured electrocatalysts using renewable biological resources.
+In this work, NiO nanoparticles were synthesized using an ethanolic
+extract of &lt;span style="font-style:italic;"&gt;Sargassum sp.&lt;/span&gt; as a biogenic mediator,
+and the influence of calcination temperature (300, 500, and 700 °C)
+on their physicochemical and electrocatalytic properties was systematically
+investigated. X-ray diffraction confirmed the formation of NiO cubic
+phase and showed an increase in crystallite size with increasing calcination
+temperature. FTIR, Raman, XPS, and EPR analyses revealed temperature-dependent
+changes in surface composition and defect chemistry, including mixed
+Ni&lt;sup&gt;2+&lt;/sup&gt;/Ni&lt;sup&gt;3+&lt;/sup&gt; species and oxygen-vacancy-related
+centers. EPR signals at &lt;span style="font-style:italic;"&gt;g&lt;/span&gt; ≈ 2.0005–2.0006
+are assigned to &lt;span style="font-style:italic;"&gt;F&lt;/span&gt;&lt;sup&gt;+&lt;/sup&gt;-type centers. Electrochemical
+measurements in 1.0 mol L&lt;sup&gt;–1&lt;/sup&gt; KOH showed that NiO-300
+exhibited the highest OER activity, requiring an overpotential of
+352 mV to reach 10 mA cm&lt;sup&gt;–2&lt;/sup&gt;, compared with 368 and
+356 mV for NiO-500 and NiO-700, respectively. Although NiO-300 displayed
+the lowest estimated electrochemically active surface area among the
+samples, it consistently showed the lowest charge-transfer resistance,
+indicating more favorable interfacial kinetics. Its enhanced performance
+is therefore associated with the combined effects of defect-related
+surface species, oxygen-vacancy-related centers, and improved charge-transfer
+dynamics. Chronopotentiometric measurements at 10 and 100 mA cm&lt;sup&gt;–2&lt;/sup&gt; further demonstrated the excellent electrochemical
+stability of NiO-300, while post-OER XRD and Raman analyses confirmed
+the preservation of its crystalline framework after prolonged operation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Metal-Free Photoinduced
+Hydrogen Atom Transfer for
+Direct Thiolation of Hydridic α-C(sp 3 )–H
+of Ethers</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06146/5324877/Metal-Free-Photoinduced-Hydrogen-Atom-Transfer-for</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06146</guid>
+<pubDate>Mon, 24 Aug 2026 13:00:59 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;C–S bond formation
+via hydrogen atom transfer (HAT) remains
+underdeveloped despite the importance of thioethers in organic synthesis,
+materials science, and medicinal chemistry. Herein, we report a mild,
+rapid, and operationally simple method for the direct α-C(sp&lt;sup&gt;3&lt;/sup&gt;)–S bond formation in ethers using alkyl or aryl thiosulfonates
+as sulfur sources and (4-methoxyphenyl)(4-(trifluoromethyl)phenyl)methanone
+as the diaryl ketone catalyst. The reaction proceeds at room temperature
+under a 390 nm irradiation, delivering a broad range of thioethers
+in the absence of metals or stoichiometric oxidants. The method exhibits
+excellent functional group tolerance, predictable regioselectivity
+favoring the most hydridic C–H bonds, and compatibility with
+various cyclic and acyclic ethers and amides. Preliminary mechanistic
+studies support a radical pathway consistent with a well-established
+photoexcited ketone-mediated HAT followed by radical addition to the
+thiosulfonate. This approach expands the toolkit for redox-neutral
+C(sp&lt;sup&gt;3&lt;/sup&gt;)–S bond construction.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Aptamer-Conjugated
+Tin Oxide Nanoparticles for Noninvasive
+Detection of Cancer</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05392/5324828/Aptamer-Conjugated-Tin-Oxide-Nanoparticles-for</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05392</guid>
+<pubDate>Mon, 24 Aug 2026 13:00:59 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;To fundamentally
+address the limited tissue penetration of conventional
+fluorescence-based imaging, X-ray attenuation–based imaging
+approaches have been proposed. In this study, mesoporous tin oxide
+(SnO&lt;sub&gt;2&lt;/sub&gt;) nanoparticles (NPs) with a diameter of approximately
+70 nm were synthesized and functionalized with PAp7T8 and HER2apt28
+aptamers, which target pancreatic and breast cancer cells, respectively.
+The synthesized SnO&lt;sub&gt;2&lt;/sub&gt; NPs exhibit greater X-ray attenuation
+than any of the tested metal oxide NPs in the tens of keV energy range
+corresponding to plain X-ray imaging. The surface-conjugated aptamers
+enable selective binding of the NPs to cancer cells, leading to efficient
+cellular uptake and internalization. In a model X-ray imaging experiment,
+as little as 5 mg of the SnO&lt;sub&gt;2&lt;/sub&gt; NPs placed beneath 3 cm-thick
+biological tissues is distinctly identified with high contrast. Overall,
+the excellent X-ray attenuation capabilities and target specificity
+of these aptamer-conjugated SnO&lt;sub&gt;2&lt;/sub&gt; NPs demonstrate their
+significant potential as a nanoplatform for the noninvasive imaging
+and diagnosis of deep-seated cancers.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Research on Migration
+and Surface Deformation during
+Goaf CO 2  Geological Storage─Taking Mindong No.1
+Mine in Hulunbuir as an Example</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c03093/5324706/Research-on-Migration-and-Surface-Deformation</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c03093</guid>
+<pubDate>Mon, 24 Aug 2026 12:01:04 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Goaf CO&lt;sub&gt;2&lt;/sub&gt; geological storage is a key technology
+for
+addressing the dual issues of the utilization of large-scale coal
+mine goaf and the space for CO&lt;sub&gt;2&lt;/sub&gt; storage. Exploring the
+migration range of CO&lt;sub&gt;2&lt;/sub&gt; and the surface deformation during
+the storage process is the core challenge in ensuring the safety and
+stability. Based on the geological conditions of Mengdong Energy’s
+Mindong No.1 mine in Hulunbuir, a real geological structure model
+of the goaf, overburden of goaf, caprock, and overburden was established,
+and numerical simulation experiments on CO&lt;sub&gt;2&lt;/sub&gt; migration and
+surface deformation were conducted. The research results indicate
+that a higher storage pressure led to a larger CO&lt;sub&gt;2&lt;/sub&gt; migration
+range and a faster migration rate. After 20 years of storage, the
+amount of CO&lt;sub&gt;2&lt;/sub&gt; diffused from the overburden to the surface
+was consistently below 0.02% under all pressures investigated, and
+no significant leakage was observed. The amount of CO&lt;sub&gt;2&lt;/sub&gt; diffused
+in the first five years exceeded 50% of the total migration over the
+20 year period. In contrast, the amount diffused in the last five
+years was less than 7.4% of the total. In the first year of storage,
+pressure was identified as the dominant force driving CO&lt;sub&gt;2&lt;/sub&gt; migration. By the twentieth year, the pressure difference had diminished,
+and the various forces mutually counteracted each other. Consequently,
+CO&lt;sub&gt;2&lt;/sub&gt; migration nearly ceased. During the process of CO&lt;sub&gt;2&lt;/sub&gt; storage in the goaf, the surface deformation is characterized
+by an initial uplift followed by a progressive decline from the peak-uplift
+position, while the surface remains above its preinjection level.
+Under the storage pressures of 10, 15, and 20 MPa, the maximum uplift
+amounts are 0.060, 0.0917, and 0.123 m, respectively. The evolution
+can be divided into three stages: rapid uplift-decline period, slow
+adjustment period, and stabilization period. The decline in uplift
+is mainly governed by changes in effective stress: at the initial
+stage of storage, the pore pressure is the highest and the effective
+stress is the lowest, and the surface uplift reaches the peak; when
+the pore pressure decreases and the effective stress increases, compression
+of the strata causes the surface displacement to decline from its
+peak-uplift position. After 20 years of storage, the Surface-uplift
+recovery ratios under the storage pressures of 10, 15, and 20 MPa
+are 27.48%, 14.99%, and 9.76%, respectively. The higher the storage
+pressure, the smaller the reduction from the peak uplift and the lower
+the recovery rate. These findings confirm the target strata’s
+suitability for long-term CO&lt;sub&gt;2&lt;/sub&gt; storage.&lt;/span&gt;</description>
+</item>
+<item>
+<title>In Silico Identification
+of Novel Leads as Potential
+DPP-IV Inhibitors as Antidiabetic Agents Using Virtual Screening</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.5c13626/5323251/In-Silico-Identification-of-Novel-Leads-as</link>
+<guid>http://dx.doi.org/10.1021/acsomega.5c13626</guid>
+<pubDate>Mon, 24 Aug 2026 10:02:27 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Dipeptidyl peptidase-IV (DPP-IV)
+is a validated
+therapeutic target for type 2 diabetes mellitus due to its role in
+incretin hormone degradation. This study aimed to identify novel small-molecule
+DPP-IV inhibitors from the ECBD database using an integrated virtual
+screening and molecular dynamics (MD) approach, acknowledging that
+experimental validation is necessary to confirm biological activity. &lt;strong&gt;Methods:&lt;/strong&gt; Structure-based virtual screening of 5,500 ECBD compounds
+was performed using molecular docking to identify high-affinity ligands,
+followed by interaction analysis with key catalytic residues. Pharmacokinetic
+suitability was evaluated through in-silico ADMETox profiling. The
+top-ranked hits were further subjected to 100 ns MD simulations to
+assess complex stability and conformational effects on the DPP-IV
+active site. Binding free energies were calculated using the MM/GBSA
+method, and docking reliability was validated through redocking experiments. &lt;strong&gt;Results and Discussion:&lt;/strong&gt; Five compounds EOS34295, EOS4915,
+EOS9480, EOS2567, and EOS62725 exhibited stronger noncovalent binding
+affinities than vildagliptin and formed stable interactions with essential
+residues, including GLU205, GLU206, ASN710, and PHE357. ADMETox predictions
+indicated favorable oral drug-likeness. MD simulations revealed stable
+protein–ligand complexes, with lower RMSD values for the hit
+ligands (1.20–1.51 Å) compared with vildagliptin (1.90
+Å). RMSF analysis showed consistent flexibility without destabilizing
+fluctuations. Additional hydrogen-bond interactions with PHE357 emerged
+during MD simulations, indicating enhanced binding persistence. MM/GBSA
+analysis confirmed stronger binding energies for EOS34295 (−56.58
+kcal/mol), EOS62725 (−37.90 kcal/mol), and EOS2567 (−31.27
+kcal/mol) relative to vildagliptin (−23.88 kcal/mol). &lt;strong&gt;Conclusion:&lt;/strong&gt; This study identifies EOS34295, EOS2567, and EOS62725
+emerged as promising DPP-IV inhibitory hits with superior binding
+stability, supporting their potential as antidiabetic leads for future
+experimental validation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Materials and Spin
+Characteristics of Nanodiamonds
+Partially Covered with Amino Groups and Embedded with Nitrogen-Vacancy
+Color Centers</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06903/5322684/Materials-and-Spin-Characteristics-of-Nanodiamonds</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06903</guid>
+<pubDate>Mon, 24 Aug 2026 09:01:06 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Fluorescent nanodiamonds
+(FNDs) with optically read qubits
+hold
+great potential for detecting electric and magnetic fields, temperature,
+and other nanoscale physicochemical quantities relevant to chemistry
+and biology. Proper surface functionalization is essential for their
+application as probes, but surface modifications can impact qubit
+sensor properties. In this work, we systematically study nitrogen-vacancy
+(NV) color centers in FNDs as a function of size and surface termination.
+FNDs were produced from high-pressure, high-temperature diamonds,
+with NV centers introduced via electron irradiation and annealing.
+The initial oxygen-covered FNDs were homogenized with hydroxyl (−OH)
+groups as reference samples, while the noninvasive Hofmann degradation
+introduced amino (−NH&lt;sub&gt;2&lt;/sub&gt;) groups for potential direct
+biomolecule attachment. Although amino groups may not homogeneously
+cover these nanodiamonds, we simply label them as −NH&lt;sub&gt;2&lt;/sub&gt; terminated FNDs in this context. We monitored charge state stability
+and the zero-field splitting parameters of the embedded NV centers.
+This study yields two principal advances. First, we resolve the size
+dependence of the NV(−) zero-field splitting parameters across
+the 10–140 nm range and show that the symmetry-breaking &lt;span style="font-style:italic;"&gt;E&lt;/span&gt; parameter decreases monotonically from ∼8 to ∼5
+MHz with increasing size while the axial &lt;span style="font-style:italic;"&gt;D&lt;/span&gt; parameter
+is shifted only in the smallest (≤30 nm) particles, thereby
+disentangling the static-strain and fluctuating electric-field contributions
+to the spin levels. Second, while NV charge state stabilization was
+observed in both −OH- and −NH&lt;sub&gt;2&lt;/sub&gt;-terminated
+FNDs above a certain size, we demonstrate that a remarkably high and
+laser-power-independent NV(−) content (&lt;span style="font-style:italic;"&gt;f&lt;/span&gt;&lt;sub&gt;NV&lt;/sub&gt;(−) ≈ 0.8) is achieved by wet-chemical Hofmann
+amino termination only in 140 nm particles, an effect we link through
+electron spin resonance to the degradation of surface paramagnetic
+defects rather than to the introduction of new ones.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Antifungal Activity
+of Organic Acid-Based Natural
+Deep Eutectic Solvents against Necrotrophic Phytopathogen  Agroathelia rolfsii</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08058/5321947/Antifungal-Activity-of-Organic-Acid-Based-Natural</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c08058</guid>
+<pubDate>Mon, 24 Aug 2026 07:00:59 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Natural deep eutectic solvents (NADES) have become a
+popular green
+solvent due to their environmentally friendly properties. The present
+study investigated the biocompatibility of organic acid-based NADES
+systems, specifically glucose: citric acid mixtures, and their methanolic
+blends (20% v/v) against the phytopathogen &lt;span style="font-style:italic;"&gt;Agroathelia rolfsii&lt;/span&gt;. &lt;span style="font-style:italic;"&gt;A. rolfsii&lt;/span&gt; is a necrotrophic phytopathogen affecting more than 500 plant species.
+Physicochemical analysis, including conductivity, viscosity, polarity,
+and density, revealed that methanol addition increased viscosity,
+decreased conductivity, and caused minimal changes in polarity and
+density. Fourier transform infrared (FTIR) and nuclear magnetic resonance
+(NMR) spectroscopy confirmed the enhanced hydrogen bonding in methanol-mixed
+NADES, while differential scanning calorimetry (DSC) demonstrated
+the characteristic amorphous thermal behavior of the glucose–citric
+acid NADES, supporting their successful formation. Among the three
+NADES formulations (glucose:citric acid in molar ratios of 1:1, 1:2,
+and 2:1), the 1:2 ratio demonstrated the highest antifungal activity,
+even at low concentrations (25–50 μL/mL). Conductivity
+and nucleic acid leakage assays showed increased release of intracellular
+ions and nucleic acids from treated fungal cells, confirming membrane
+damage and loss of cellular integrity. Scanning electron microscopy
+revealed disrupted, uneven hyphae in &lt;span style="font-style:italic;"&gt;A. rolfsii&lt;/span&gt; treated with NADES, while methanol-enriched NADES completely inhibited
+fungal growth. These findings suggest that hydrogen bonding and electrostatic
+interactions in the solvents compromised fungal cell walls and membranes,
+disrupting cellular integrity. This study demonstrates that economical
+sugar:organic acid-based NADES exhibited notable antifungal activity
+against phytopathogens under &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt; conditions,
+supporting their further exploration as sustainable antifungal formulations.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Suppression of
 Leidenfrost Rebound and Enhanced Heat
 Transfer by Ionic Wind</title>
@@ -3405,111 +3898,6 @@ candidates for use as practical C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;5&lt;/sub&g
 <guid>http://dx.doi.org/10.1021/acsomega.6c04472</guid>
 <pubDate>Tue, 21 Jul 2026 01:33:32 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c04472/asset/images/medium/ao6c04472_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c04472&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Stability of Amines with Minerals and Metal Salts in Hydrothermal Fluids</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c05119</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05119</guid>
-<pubDate>Mon, 20 Jul 2026 11:24:43 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c05119/asset/images/medium/ao6c05119_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c05119&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Colloidal AgBiSe2 and AgBi(S1–xSex)2 Nanocrystals with Composition-Tunable Properties Based on Bis(acyl) Selenide Precursors</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c04337</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c04337</guid>
-<pubDate>Mon, 20 Jul 2026 10:09:44 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c04337/asset/images/medium/ao6c04337_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c04337&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Hydrogen-Assisted Calcination of CaCO3: Kinetics and Mechanistic Insights under Desorption-Enhanced Reverse Water Gas Shift Conditions</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c05266</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05266</guid>
-<pubDate>Mon, 20 Jul 2026 09:59:44 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c05266/asset/images/medium/ao6c05266_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c05266&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Structure–Affinity Relationship Optimization of SYA16263 Yields New Ligands with Improved Receptor Affinity and Antipsychotic-Like Properties</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c02255</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c02255</guid>
-<pubDate>Mon, 20 Jul 2026 09:54:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c02255/asset/images/medium/ao6c02255_0018.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c02255&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Investigation of CO2 Mineralization under Dynamic Conditions in Carbonate Formations</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c03458</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c03458</guid>
-<pubDate>Mon, 20 Jul 2026 09:24:27 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c03458/asset/images/medium/ao6c03458_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c03458&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Cost-Effective 3D Printing of Geopolymer Concrete Enhanced by Na-CMC as a Viscosity Modifier</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c03385</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c03385</guid>
-<pubDate>Mon, 20 Jul 2026 09:02:50 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c03385/asset/images/medium/ao6c03385_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c03385&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Developing Mixed Micelle Delivery Systems for Aromatase Inhibitors</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c01669</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c01669</guid>
-<pubDate>Mon, 20 Jul 2026 08:41:49 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c01669/asset/images/medium/ao6c01669_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c01669&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Title: Citric Acid-Stabilized Amorphous CaCO3 as a High-Surface-Area Carrier for Functional Food Ingredients</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c02212</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c02212</guid>
-<pubDate>Mon, 20 Jul 2026 07:19:54 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c02212/asset/images/medium/ao6c02212_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c02212&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Research on the Prevention and Control of Blast Impact Pressure in Deep Holes and the Mechanism of Coordinated Extraction of Harmful Gases</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c04639</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c04639</guid>
-<pubDate>Mon, 20 Jul 2026 07:17:39 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c04639/asset/images/medium/ao6c04639_0014.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c04639&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Recycling of Mo and V from Spent Hydrogenation Catalysts via a One-Step Soda-Roasting Process</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c02148</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c02148</guid>
-<pubDate>Mon, 20 Jul 2026 07:08:16 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c02148/asset/images/medium/ao6c02148_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c02148&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Lathyrol Targets G6PD to Disrupt Redox Homeostasis in Non-Small Cell Lung Cancer</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c03709</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c03709</guid>
-<pubDate>Mon, 20 Jul 2026 07:06:58 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c03709/asset/images/medium/ao6c03709_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c03709&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Data-Efficient Mapping of Copolymerization Curves and Reactivity Ratios via Gradient Flow Polymerization, Inline ATR-FTIR, and Lasso Regression</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c06915</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c06915</guid>
-<pubDate>Mon, 20 Jul 2026 06:38:42 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c06915/asset/images/medium/ao6c06915_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c06915&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Dissolution Behavior of Niobium Compounds under Alkaline Conditions</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c05225</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05225</guid>
-<pubDate>Mon, 20 Jul 2026 06:20:44 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c05225/asset/images/medium/ao6c05225_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c05225&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] In Situ Construction of Multifunctional Organosilicon/Organic Hybrid Resin Coatings on Wood Surfaces Based on the PMHS Si–H Click Reaction</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c05204</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05204</guid>
-<pubDate>Mon, 20 Jul 2026 05:56:32 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c05204/asset/images/medium/ao6c05204_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c05204&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Liquid-Metal-Filled Porous Elastomers for Highly Stretchable and High-Output Triboelectric Nanogenerators toward Wearable Electronics and Self-Powered Sensors</title>
-<link>http://dx.doi.org/10.1021/acsomega.6c04960</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c04960</guid>
-<pubDate>Mon, 20 Jul 2026 05:55:06 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acsomega.6c04960/asset/images/medium/ao6c04960_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Omega&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsomega.6c04960&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

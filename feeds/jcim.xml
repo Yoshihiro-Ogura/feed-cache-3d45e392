@@ -5,6 +5,156 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Generative Chemical
+Language Models for Energetic
+Materials Discovery</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01013/5328185/Generative-Chemical-Language-Models-for-Energetic</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01013</guid>
+<pubDate>Tue, 25 Aug 2026 01:01:17 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The
+discovery of new energetic materials remains a pressing
+challenge,
+hindered by the limited availability of high-quality data. To address
+this, we have developed generative chemical language models that have
+been pretrained on extensive molecular data and then fine-tuned with
+curated energetic material data. This transfer learning strategy extends
+the chemical language model capabilities beyond the pharmacological
+space in which they have been predominantly developed, offering a
+framework that is applicable to other data-spare discovery problems.
+After fine-tuning, we observe modest distributional shifts in predicted
+detonation performance as benchmarked by density functional theory
+as well as the presence of chemical motifs associated with energetic
+materials. Furthermore, we discuss the benefits of fragment-based
+molecular encodings for chemical language models, in particular, in
+constructing synthetically accessible structures. Together, these
+advances provide a foundation for accelerating the design of next-generation
+energetic materials.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Data-Driven Critical
+Evaluation of the General Solubility
+Equation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01182/5327720/Data-Driven-Critical-Evaluation-of-the-General</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01182</guid>
+<pubDate>Mon, 24 Aug 2026 19:00:56 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Solubility is a widely measured physicochemical property
+and a
+highly sought-after descriptor in the evaluation of molecules for
+drug design and development, medicinal chemistry, and agrochemical
+sciences. Consequently, a wide range of &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; models based on deductive and inductive reasoning have been developed.
+However, the General Solubility Equation (GSE) stands out as a simple,
+thermodynamically derived equation to predict intrinsic solubility
+(log &lt;span style="font-style:italic;"&gt;S&lt;/span&gt;&lt;sub&gt;0&lt;/sub&gt;, in mol/L) of molecules
+from their melting point and &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;-octanol/water partition
+coefficient (log &lt;span style="font-style:italic;"&gt;P&lt;/span&gt;&lt;sub&gt;N&lt;/sub&gt;). Despite its
+widespread use, the applicability of this equation has not been rigorously
+evaluated to establish when it can or cannot produce accurate predictions.
+Therefore, a large-scale evaluation of the GSE was conducted using
+an extensive database of fully experimental melting point and log &lt;span style="font-style:italic;"&gt;P&lt;/span&gt;&lt;sub&gt;N&lt;/sub&gt; data for 2740, mostly drug-like compounds.
+A systematic analysis based on cheminformatics descriptors was conducted
+to identify the primary factors that allow the GSE to achieve predictions
+within the experimental uncertainty range (±1 log &lt;span style="font-style:italic;"&gt;S&lt;/span&gt; unit). This information has been used to create GSESolver:
+a supervised machine learning classification model that, based on
+the selected descriptors, can predict whether the GSE will perform
+accurately solely from its SMILES string. GSESolver tool can be used
+by anyone in the scientific community to quickly assess molecule solubility
+and it was developed under the FAIR principles (Findable, Accessible,
+Interoperable, and Reusable) in a Google Colab notebook to ensure
+ease of use. Finally, the utility of the GSESolver tool was exploited
+in medicinal chemistry applications for the &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; prediction of the Maximum Absorbable Dose (MAD) of potential drugs,
+and in a rational agrochemical design application where solubility
+is a key factor.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Is AI Capable of
+Real-World Drug Discovery?</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01513/5325489/Is-AI-Capable-of-Real-World-Drug-Discovery</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01513</guid>
+<pubDate>Mon, 24 Aug 2026 14:01:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Small-molecule drug
+discovery frequently operates in
+regimes where
+slight structural changes have large consequences. These are situations
+in which current artificial intelligence (AI) methods, trained on
+mass data, may perform poorly. For a substantial fraction of drug-discovery
+projects, limited biological understanding and sparse data further
+constrain progress and define regimes where AI approaches remain difficult
+to apply. Despite these limitations, the global investment in AI continues
+to grow rapidly. Using two case studies characterized by structural
+and biochemical data, this article examines how the close integration
+of computational and medicinal chemistry coupled with a deep understanding
+of chemical shape and protein interactions enabled targeted computational
+molecular design to produce disproportionate gains in efficacy and
+selectivity. These examples highlight a challenge for current AI methods:
+sensitivity to subtle, low-data perturbations. For AI to achieve a
+transformative impact in drug discovery, it must move beyond pattern
+recognition to understand, or explicitly simulate, the mechanistic
+“&lt;span style="font-style:italic;"&gt;why&lt;/span&gt;” linking subtle structural changes
+to biological outcomes. Pending such advances, clear opportunities
+for AI to productively complement human efforts, rather than be used
+as a stand-alone solution, are delineated.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Thermodynamics
+of Disassembly and Denaturation of
+Protein Crystals in Osmolyte Solutions</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01330/5325488/Thermodynamics-of-Disassembly-and-Denaturation-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01330</guid>
+<pubDate>Mon, 24 Aug 2026 14:01:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cosolvent effects
+on protein fold stability are widely
+studied,
+whereas their role in regulating protein assembly remains less characterized.
+Here, we explore the additive transfer formalism to quantify the free
+energy of disassembly of crystal protein self-assemblies in response
+to cosolvents and compare it with protein denaturation. Using crystal
+structures of hundreds of assemblies from the Protein Data Bank, we
+obtain &lt;span style="font-style:italic;"&gt;m&lt;/span&gt;-values for disassembly and denaturation
+in urea, betaine, proline, sorbitol, sucrose, sarcosine, and TMAO.
+Disassembly &lt;span style="font-style:italic;"&gt;m&lt;/span&gt;-values are about 1 order of magnitude
+smaller than denaturation &lt;span style="font-style:italic;"&gt;m&lt;/span&gt;-values, consistently
+with the smaller surface area exposed during this process. The magnitude
+of the disassembly &lt;span style="font-style:italic;"&gt;m&lt;/span&gt;-values increases with the number
+of exposed residues, but at comparable contact numbers they are not
+uniquely determined by exposed surface area, indicating regulation
+by the physicochemical composition of protein–protein contacts.
+In contrast, denaturation shows a greater correlation with raw residue
+exposure upon unfolding. Thus, compared to denaturation, disassembly
+is more strongly regulated by the residue composition of protein–protein
+contacts than by the raw exposed area. Correlations between disassembly &lt;span style="font-style:italic;"&gt;m&lt;/span&gt;-values and residue type are opposite for urea relative
+to the other cosolvents. Betaine and proline tend to promote crystal
+disassembly, but in a highly composition-dependent manner. The classification
+of the cosolvents according to their thermodynamic effects in disassembly
+and denaturation provides a basis for identifying conditions that
+stabilize assemblies while preserving native monomer structures. This
+is essential for regulating the biological function of assemblies
+and dense protein aggregates. The methods to compute solvent accessible
+surface area and &lt;span style="font-style:italic;"&gt;m&lt;/span&gt;-values, supporting periodic boundary
+conditions, are available in the free, open-source, &lt;strong&gt;PDBTools.jl&lt;/strong&gt; package, and can be used to understand cosolvent effects on general
+protein structural transformations.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AutoMulti: An Integrated
+Graphical Platform for Computational
+Chemistry Analysis and Molecular Data Generation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01910/5324708/AutoMulti-An-Integrated-Graphical-Platform-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01910</guid>
+<pubDate>Mon, 24 Aug 2026 12:01:04 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Computational chemistry supports molecular interpretation
+and the
+generation of reusable data sets for statistical modeling and machine
+learning. However, molecular construction, quantum-chemical input
+preparation, result analysis, reference-data retrieval, and descriptor
+generation are often handled by separate programs and assembled manually.
+AutoMulti is a graphical platform that connects these operations in
+one desktop environment. In a diimine–Ni catalyst case study,
+AutoMulti was used for catalyst enumeration, batch GFN2-xTB calculations,
+QM-feature and descriptor extraction, and structured data export.
+The exported data set was subsequently analyzed in an independent
+graph neural network (GNN) workflow, which reproduced the GFN2-xTB-derived
+IM/TS energy-difference labels.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Predicting Antibody–Antigen
 Mutation ΔΔ G  via Side-Specific Protein
 Language Models and Paired Geometric
@@ -1427,41 +1577,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00524</guid>
 <pubDate>Tue, 23 Jun 2026 05:11:48 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00524/asset/images/medium/ci6c00524_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00524&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Finding Balance: Multiobjective Optimization in Molecular Generative Modeling</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00421</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00421</guid>
-<pubDate>Fri, 19 Jun 2026 01:24:56 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00421/asset/images/medium/ci6c00421_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00421&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Modeling hERG Channel Liability: From Structural Insight to Highly Accurate Qualitative and Quantitative Models</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00163</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00163</guid>
-<pubDate>Thu, 18 Jun 2026 10:42:33 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00163/asset/images/medium/ci6c00163_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00163&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Energetics of Noncovalent Interactions of Protein–Ligand Complexes for Drug Discovery</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01291</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01291</guid>
-<pubDate>Thu, 18 Jun 2026 10:21:33 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01291/asset/images/medium/ci6c01291_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01291&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Efficient Prediction of Transition-Metal NMR Chemical Shifts Using Machine Learning: Do Two-Dimensional Descriptors Suffice?</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01787</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01787</guid>
-<pubDate>Thu, 18 Jun 2026 09:50:42 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01787/asset/images/medium/ci6c01787_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01787&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] PAIRMAP: A Unified Geometry-Aware Pairwise-Map Framework for Molecular Representation Learning</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00702</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00702</guid>
-<pubDate>Thu, 18 Jun 2026 06:14:16 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00702/asset/images/medium/ci6c00702_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00702&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
