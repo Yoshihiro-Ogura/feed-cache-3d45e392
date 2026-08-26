@@ -5,6 +5,13 @@
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <description>ACS Bridge Error (mirrored feed)</description>
 <item>
+<title>[2026-08-26 21:09 UTC] 5件の問題 / 5 issue(s)</title>
+<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
+<guid>acs-bridge-error-2026-08-26T21:09:39.776861+00:00</guid>
+<pubDate>Wed, 26 Aug 2026 21:09:39 +0000</pubDate>
+<description>[scraper] Chem.Commun.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/cc/latest-articles'; interactive_challenge=True")&lt;br&gt;[scraper] Nat. Prod. Rep.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/np/latest-articles'; interactive_challenge=True")&lt;br&gt;[scraper] Med.Chem.Commun.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/md/latest-articles'; interactive_challenge=True")&lt;br&gt;[scraper] Chem.Sci.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/sc/latest-articles'; interactive_challenge=True")&lt;br&gt;[scraper] Chem. Soc. Rev.: FAIL: RuntimeError("TimeoutException(); title='しばらくお待ちください...'; url='https://pubs.rsc.org/cs/latest-articles'; interactive_challenge=True")</description>
+</item>
+<item>
 <title>[2026-08-26 15:10 UTC] 6件の問題 / 6 issue(s)</title>
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <guid>acs-bridge-error-2026-08-26T15:10:16.659556+00:00</guid>
@@ -345,13 +352,6 @@
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <guid>acs-bridge-error-2026-08-02T15:02:29.765440+00:00</guid>
 <pubDate>Sun, 02 Aug 2026 15:02:29 +0000</pubDate>
-<description>[scraper] ACS Catalysis: FAIL: ValueError("取得結果がRSS/Atomと認識できない / response doesn't look like RSS/Atom")&lt;br&gt;[scraper] ACS Central Science: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Chem.Rev.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Med.Chem.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Org.Lett.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] OPR&amp;D: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Chem.Inf.Model.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Chemical Biology: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Omega: FAIL: &lt;HTTPError 404: 'Not Found'&gt;</description>
-</item>
-<item>
-<title>[2026-08-01 21:02 UTC] 13件の問題 / 13 issue(s)</title>
-<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
-<guid>acs-bridge-error-2026-08-01T21:02:30.522981+00:00</guid>
-<pubDate>Sat, 01 Aug 2026 21:02:30 +0000</pubDate>
 <description>[scraper] ACS Catalysis: FAIL: ValueError("取得結果がRSS/Atomと認識できない / response doesn't look like RSS/Atom")&lt;br&gt;[scraper] ACS Central Science: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Chem.Rev.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Med.Chem.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Org.Lett.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] OPR&amp;D: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Chem.Inf.Model.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Chemical Biology: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Omega: FAIL: &lt;HTTPError 404: 'Not Found'&gt;</description>
 </item>
 </channel>
