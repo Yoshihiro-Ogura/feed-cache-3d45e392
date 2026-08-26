@@ -5,6 +5,165 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>MolADR: Multi-Scale
+Complementary Learning of Dual-Granularity
+Molecules and Knowledge Graphs for ADR Prediction in Drug Combinations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01536/5329135/MolADR-Multi-Scale-Complementary-Learning-of-Dual</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01536</guid>
+<pubDate>Wed, 26 Aug 2026 02:01:02 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01536/5329135/MolADR-Multi-Scale-Complementary-Learning-of-Dual"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01536/1/m_ci6c01536_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;With the increasing use of multiple medications in clinical
+practice,
+accurate and interpretable prediction of organ-level adverse drug
+reactions (ADRs) induced by drug combinations is essential for drug
+safety assessment and precision medicine. Existing knowledge graph
+(KG)-based methods primarily model biomedical associations but leave
+direct structure-level interactions within drug pairs undercharacterized,
+while molecular representation methods often rely on whole-molecule
+or latent substructure encodings, offering limited chemically meaningful
+evidence for ADR risks. This study proposes MolADR, a multiscale complementary
+learning framework that integrates GNN-based KG learning with dual-granularity
+molecular cross-attention modeling to combine macro-level biomedical
+associations with microlevel molecular interaction cues. Under an
+emerging-drug setting, MolADR achieves PR-AUC scores of 81.17 ±
+3.97, 84.04 ± 4.67, and 74.37 ± 9.90 on three data sets,
+consistently outperforming state-of-the-art baselines, with further
+analyses supporting its robustness and suggesting its ability to highlight
+chemically plausible atoms and functional groups for organ-level ADR
+prediction.&lt;/span&gt;</description>
+</item>
+<item>
+<title>SSE-DDI: Selective
+Substructure Encoding with Bond-Centered
+Molecular Representations for Drug–Drug Interaction Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01505/5328973/SSE-DDI-Selective-Substructure-Encoding-with-Bond</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01505</guid>
+<pubDate>Tue, 25 Aug 2026 17:01:01 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01505/5328973/SSE-DDI-Selective-Substructure-Encoding-with-Bond"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01505/1/m_ci6c01505_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug–drug interactions (DDIs) can alter therapeutic
+efficacy
+or cause severe adverse reactions, posing major risks in polypharmacy.
+Accurate DDI prediction is therefore important for medication safety
+and early stage drug screening. Although molecular graph learning
+has been widely used for DDI prediction, many methods still rely on
+atom-centered propagation and global graph aggregation, which may
+obscure interaction-relevant local structural patterns. To address
+this limitation, we propose SSE-DDI, a molecular structure-driven
+framework centered on selective substructure encoding for relation-specific
+DDI prediction. SSE introduces a bond-level substructure-selective
+encoder in molecular line graphs, where chemical bonds serve as fundamental
+representation units and DDI-relevant local patterns are emphasized
+before drug-level representation learning. The encoder performs selective
+information routing between adjacent bond states and condenses interaction-relevant
+substructures into compact molecular representations. These representations
+are further refined by an edge-fusion graph transformer. To complement
+local structural modeling, SSE-DDI refines SMILES-derived Morgan-fingerprint
+similarity profiles to suppress noisy global structural signals without
+external biomedical annotations. Experiments on DrugBank and Twosides
+under transductive and inductive settings show that SSE-DDI outperforms
+representative baselines across multiple metrics. Ablation and visualization
+analyses verify the effectiveness of selective encoding and highlight
+DDI-relevant molecular substructures. The source code is available
+at https://github.com/qichi77/SSE-DDI.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Combining Device
+Information and Molecular Fingerprints
+into a Global Model for Reliable Prediction of Power Conversion Efficiency
+of Dye-Sensitized Solar Cells</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01826/5328366/Combining-Device-Information-and-Molecular</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01826</guid>
+<pubDate>Tue, 25 Aug 2026 11:00:59 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01826/5328366/Combining-Device-Information-and-Molecular"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01826/1/m_ci6c01826_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Solar cells hold the potential to meet the growing worldwide
+demand
+for clean and sustainable energy. Today most solar cells are based
+on silicon, yet new alternatives are continuously emerging. In particular,
+dye-sensitized solar cells (DSSCs) constitute low-cost electrochemical
+energy-harvesting devices. The design of new DSSCs with improved properties
+could be aided by computational techniques, in particular machine
+learning (ML) models. In this work, we therefore present the first
+global ML model based on nearly all entries (4351 out of 4426) in
+the DSSC Database (DSSCDB). Recognizing that the performance of DSSCs
+depends on both dye and device, cells were characterized by a combination
+of Morgan fingerprints and device features, and the resulting dye-device
+pairs were subjected to Histogram-based Gradient Boosting (HGB) regression
+using Power Conversion Efficiency (PCE) as the modeled end point.
+Considering both dye and device properties allowed us to resolve duplicate
+dye entries found in the DSSCDB and to highlight the importance of
+both components to cell performance. The resulting global model boasts
+high predictive ability on the test set (Q&lt;sup&gt;2&lt;/sup&gt; = 0.73 ±
+0.02, MAE = 0.97 ± 0.03 standard deviation over 100 random splits)
+and has a broad applicability domain, covering organic compounds of
+various scaffolds, metal-organic compounds, and dye mixes. SHAP analysis
+was performed to elucidate structure–property relationships.
+The implications of this study contribute methodological and chemical
+novelty in the search for technology that can meet the world’s
+energy demand.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Ensemble-Based
+Reconstruction and Prioritization of
+Binding Sites in Influenza A Nucleoprotein</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01350/5328361/Ensemble-Based-Reconstruction-and-Prioritization</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01350</guid>
+<pubDate>Tue, 25 Aug 2026 11:00:59 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01350/5328361/Ensemble-Based-Reconstruction-and-Prioritization"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01350/1/m_ci6c01350_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Influenza A nucleoprotein (NP) is essential for viral
+RNA binding,
+ribonucleoprotein assembly, and NP oligomerization, making it an attractive
+antiviral target; however, static structures incompletely capture
+the conformational variability governing pocket formation and accessibility.
+Here, 17,178 pockets detected across 753 monomeric NP conformations
+from three independent molecular dynamics simulations were grouped
+by pocket-lining residue composition to reconstruct recurrent binding-site
+regions. Six potentially druggable sites were retained and characterized
+according to their recurrence, residue-level organization, conformational
+plasticity, and assembly context, revealing three compact, residue-stable
+sites, two adaptive RNA-proximal regions, and an extended E339-centered
+interdomain groove. Four sites corresponded to experimentally characterized
+or structurally supported ligand-binding environments, while assembly
+mapping revealed context-dependent exposure near RNA- and NP–NP
+interaction surfaces, thereby identifying dynamic NP binding-site
+regions prioritized for ligand-specific investigation and distinguishing
+stable pockets from plastic regions whose organization and accessibility
+depend on conformational and assembly context.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Mutation-Guided Recovery of Ligand-Compatible Holo-Like
+Conformations in Proteins with Cryptic Pockets</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01260/5328301/Mutation-Guided-Recovery-of-Ligand-Compatible-Holo</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01260</guid>
+<pubDate>Tue, 25 Aug 2026 06:01:23 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01260/5328301/Mutation-Guided-Recovery-of-Ligand-Compatible-Holo"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01260/1/m_ci6c01260_0021.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cryptic
+pockets are transient ligand-binding sites that remain
+hidden in apo protein structures and become accessible only through
+conformational change, making them difficult to identify and exploit
+in structure-based ligand discovery. Although recent AI/ML approaches
+can identify residues associated with cryptic pocket formation, they
+do not directly yield the corresponding holo-like conformations. Enhanced-sampling
+and mixed-solvent strategies can promote pocket opening, but often
+under non-native conditions and without demonstrating stable ligand-bound
+holo-like states. Here, we present a computational framework in which
+residues with high cryptic-pocket propensity are used as mutation
+handles to perturb the free-energy landscape and expose ligand-compatible
+open states even in the absence of ligand binding. We establish this
+strategy on TEM-1 β-lactamase, a canonical cryptic-pocket system,
+and show that mutation-induced perturbations can shift the conformational
+ensemble toward an open pocket state prior to ligand binding. The
+resulting open state supports ligand binding in both docked structures
+and unbiased simulations, and the ligand remains stably bound after
+reversion to the wild-type sequence, consistent with recovery of a
+holo-like wild-type conformation. Importantly, the residues targeted
+for mutation are not the principal determinants of the ligand interactions
+observed in the bound state, indicating that their role is to reshape
+the conformational landscape and promote access to an open, ligand-compatible
+pocket rather than to form the binding interface itself. We further
+generalize this framework to LfrR, FtsZ, and &lt;span style="font-style:italic;"&gt;Bombyx mori&lt;/span&gt; pheromone-binding protein, where mutation of
+predicted cryptic residues likewise generates open conformations capable
+of supporting ligand binding. Together, these results show that cryptic
+residue predictions can be used not only to identify hidden binding
+sites but also to recover holo-like conformations from apo structures,
+providing a practical framework for studying and targeting cryptic
+pockets.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Generative Chemical
 Language Models for Energetic
 Materials Discovery</title>
@@ -1542,41 +1701,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01458</guid>
 <pubDate>Wed, 24 Jun 2026 05:53:49 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01458/asset/images/medium/ci6c01458_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01458&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Critical Artifacts Improve Reproducibility of Protein–Ligand Binding Affinity Prediction Models on CASF-2016</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01192</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01192</guid>
-<pubDate>Wed, 24 Jun 2026 01:23:09 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01192/asset/images/medium/ci6c01192_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01192&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Balancing Data Quantity and Quality: Evaluating Curation Strategies for Bioactivity Prediction in Lead Optimization</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01018</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01018</guid>
-<pubDate>Tue, 23 Jun 2026 11:12:17 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01018/asset/images/medium/ci6c01018_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01018&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Mechanism-Informed Rules Tunably Balance Novelty and Feasibility of Predicted Enzymatic Reactions</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01595</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01595</guid>
-<pubDate>Tue, 23 Jun 2026 11:06:34 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01595/asset/images/medium/ci6c01595_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01595&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Robustness of Protein–Ligand Binding Affinity Prediction Models to Docked and Predicted Structures</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00592</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00592</guid>
-<pubDate>Tue, 23 Jun 2026 09:37:09 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00592/asset/images/medium/ci6c00592_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00592&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] PegaPlus─Interactive Machine Learning by Human Observation for Efficient Clustering and Analysis of Structure–Activity Data</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00524</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00524</guid>
-<pubDate>Tue, 23 Jun 2026 05:11:48 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00524/asset/images/medium/ci6c00524_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00524&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
