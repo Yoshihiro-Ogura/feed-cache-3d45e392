@@ -5,6 +5,106 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Efficient, Few-Shot
+Directed Evolution with Energy
+Rank Alignment</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01333/5331673/Efficient-Few-Shot-Directed-Evolution-with-Energy</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01333</guid>
+<pubDate>Thu, 27 Aug 2026 00:01:22 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01333/5331673/Efficient-Few-Shot-Directed-Evolution-with-Energy"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01333/1/m_ci6c01333_0010.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Directed evolution is a powerful and widely used technique
+for
+protein engineering, and reducing the cost of iterated experimental
+observations has become a major priority for practitioners. A number
+of recent efforts to use machine-learning-based predictors to improve
+sequence selection have led to remarkable improvements in efficiency,
+but the sparse data at each experimental iteration restricts these
+approaches to extremely simple models. Adapting large-scale pretrained
+protein language models using experimental data offers an alternative
+that we show productively leverages the strong inductive biases of
+the natural distribution of protein sequences to navigate high-dimensional,
+combinatorially large fitness landscapes. Our approach uses a general-purpose
+“post-training” algorithm grounded in statistical physics
+that employs quantitative experimental rankings to directly produce
+a sampler for diverse, high fitness sequences with fewer data points
+than competing methods. The resulting adapted protein language model
+can itself be studied and interpreted, shedding further light on the
+biophysical characteristics of highly fit sequences and their properties.&lt;/span&gt;</description>
+</item>
+<item>
+<title>The Chemical Imitation
+Game: Navigating Spaces of
+Meaning in Language and Chemistry</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01773/5329805/The-Chemical-Imitation-Game-Navigating-Spaces-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01773</guid>
+<pubDate>Wed, 26 Aug 2026 17:00:57 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01773/5329805/The-Chemical-Imitation-Game-Navigating-Spaces-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01773/1/m_ci6c01773_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The historical evolution of chemistry bears striking
+parallels
+to the evolution of language. Both disciplines began as domains governed
+by tacit practitioner knowledge, underwent successive stages of formalization
+through systematic symbolic representations, and have ultimately converged
+toward geometric frameworks that enable machine-guided exploration.
+From Lavoisier’s nomenclature and Kekulé’s structural
+formulas to SMILES notation, molecular fingerprints, and learned embeddings,
+chemistry has progressively transformed molecular representations
+into navigable spaces. A comparable trajectory can be traced in linguistics,
+from Dante’s formalization of the vernacular and de Saussure’s
+structural linguistics to distributed semantic embeddings, large language
+models, and generative AI. In this Perspective, we argue that these
+parallels are not merely historical or metaphorical but reflect a
+deeper representational transition shared by both disciplines: symbols
+become representations, representations become geometries, and geometries
+become spaces that can be explored by humans and machines alike. Building
+on concepts from computational linguistics, molecular machine learning,
+Free Energy Perturbation (FEP), and diffusion-based generative modeling,
+we propose a conceptual framework in which molecular properties may
+be interpreted as forms of chemical meaning emerging from molecular
+structure. Within this framework, semantic interpolation in latent
+spaces and alchemical transformations in molecular simulation appear
+as related strategies for navigating continuous manifolds that connect
+discrete chemical states. We suggest that modern molecular AI is best
+understood not simply as a collection of predictive or generative
+algorithms, but as a new set of tools for exploring chemical meaning
+within learned representations of chemical space. Recent examples
+from molecular generative modeling, including our own work on normalizing-flow
+architectures, illustrate both the promise and the inherent challenges
+of machine-guided navigation of chemical space. We further propose
+the concept of a Chemical Imitation Game as a possible framework for
+evaluating progress in molecular AI beyond syntactic validity and
+toward chemically meaningful reasoning. This Perspective highlights
+the opportunities and the limitations of such approaches and argues
+for a future in which human intuition and machine navigation operate
+as complementary and mutually reinforcing components of chemical innovation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Which Metrics Best
+Capture Protein Structural Changes
+in Molecular Dynamics Simulations? Evaluating Score Combinations and
+Force-Field Effects</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01218/5329319/Which-Metrics-Best-Capture-Protein-Structural</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01218</guid>
+<pubDate>Wed, 26 Aug 2026 11:01:01 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01218/5329319/Which-Metrics-Best-Capture-Protein-Structural"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01218/1/m_ci6c01218_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The scores RMSD, TM-score, GDT, lDDT, SphereGrinder,
+CAD, QCS,
+FlexE, and MolProbity provide an automated, comprehensive assessment
+of conformational changes and structural quality of proteins and thus
+represent a promising tool for routine use in molecular dynamics (MD)
+simulations, particularly in high-throughput settings. However, it
+remains unclear to what extent these scores provide redundant information
+and which scores are most informative for capturing conformational
+changes. Based on MD simulations of 268 diverse proteins, we demonstrate
+that the investigated scores are highly correlated and that one global
+score (or QCS), one local score, and FlexE capture almost 90% of the
+variance across all scores. Since MD randomness partially explains
+FlexE’s variability, we argue that a combination of one global
+and one local score is sufficient for most practical applications.
+We also investigate the influence of simulation setups and find that
+the choice of the force field can significantly affect scoring results.
+In particular, the setup using the Amber ff19sb force field yields
+systematically different scores than all CHARMM36m-based setups, emphasizing
+the importance of methodological choices when designing MD experiments
+and interpreting their results.&lt;/span&gt;</description>
+</item>
+<item>
 <title>MolADR: Multi-Scale
 Complementary Learning of Dual-Granularity
 Molecules and Knowledge Graphs for ADR Prediction in Drug Combinations</title>
@@ -1680,27 +1780,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00843</guid>
 <pubDate>Thu, 25 Jun 2026 01:41:36 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00843/asset/images/medium/ci6c00843_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00843&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Guanine Exchange Factors Show Existence of Transient Pockets on Rac1 Surface</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.5c03073</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.5c03073</guid>
-<pubDate>Wed, 24 Jun 2026 12:43:25 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c03073/asset/images/medium/ci5c03073_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c03073&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] tmQM-RDF Data Set: A Knowledge Graph Representing Transition Metal Complexes</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01281</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01281</guid>
-<pubDate>Wed, 24 Jun 2026 06:49:06 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01281/asset/images/medium/ci6c01281_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01281&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Pathway-Aware Template-Based Retrosynthesis</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01458</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01458</guid>
-<pubDate>Wed, 24 Jun 2026 05:53:49 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01458/asset/images/medium/ci6c01458_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01458&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

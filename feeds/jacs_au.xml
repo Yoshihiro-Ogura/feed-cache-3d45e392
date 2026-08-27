@@ -5,6 +5,71 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Aqueous Accumulation
+and Co-Accumulation of Multiple
+Cationic Porphyrins within a Polyaromatic Capsule</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00880/5329784/Aqueous-Accumulation-and-Co-Accumulation-of</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00880</guid>
+<pubDate>Wed, 26 Aug 2026 17:00:57 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00880/5329784/Aqueous-Accumulation-and-Co-Accumulation-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00880/1/m_au6c00880_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In contrast to stable cation–anion assemblies
+in nonpolar
+solvents, neither cations nor anions assemble themselves due to electrostatic
+repulsion and/or hydration in bulk solution. Here we report the multiple
+accumulation of cationic porphyrins in water using a polyaromatic
+capsule formed from bent amphiphiles. Simple stirring of the aqueous
+capsule with cationic Au(III)-tetraphenylporphyrins in water leads
+to the efficient formation of new host–guest composites, much
+more efficiently than that with nonionic Zn(II) derivatives under
+the same conditions. The detailed UV–visible, NMR, DLS, AFM,
+TEM, and molecular modeling studies reveal that the accumulated multication
+composite is  a ∼2 nm-sized spherical particle, consisting
+of stacked, three porphyrin cations in the capsule as a major product,
+through effective host–guest π–π and CH−π
+interactions. The theoretical analysis indicates the importance of
+large dispersion force-based stabilization between the cationic porphyrins.
+Notably, the cationic Au(III)-porphyrins and nonionic polyaromatic
+compounds such as Cu(II)-phthalocyanine and fullerene are co-accumulated
+efficiently in the cavity through a stepwise grinding-stirring protocol.
+Otherwise unstable multicationic accumulation as well as unusual cationic-nonionic
+co-accumulation are demonstrated in the adaptable cavity of the polyaromatic
+capsule even under hydratable aqueous conditions.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Enhanced Sampling
+of Protein Conformations in AlphaFold3
+with Repulsive Bias in the Diffusion Generative Model</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00596/5329160/Enhanced-Sampling-of-Protein-Conformations-in</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00596</guid>
+<pubDate>Wed, 26 Aug 2026 05:01:18 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00596/5329160/Enhanced-Sampling-of-Protein-Conformations-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00596/1/m_au6c00596_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Conformational changes in proteins are vital to their
+function
+yet remain challenging for state-of-the-art artificial intelligence,
+such as AlphaFold3 (AF3), to predict. It has been observed that AF3
+sometimes fails to capture ligand-induced conformational changes,
+even though it explicitly includes ligand molecules that induce such
+changes. To address this challenge, we develop an enhanced sampling
+scheme that leverages the diffusion-based generative model used in
+AF3 to predict protein structures. Interpreting the diffusion generative
+model as a stochastic sampling process analogous to molecular dynamics
+(MD) simulations, we introduce here a repulsive biasing potential
+between predicted structures to explore wider conformational space.
+We demonstrate that the developed sampling scheme, AF3-ReD, successfully
+samples multiple conformational states in the AF3 distribution, including
+ligand-bound conformations of motor, kinase, and transporter proteins,
+which are rarely captured by the default AF3 settings. Consistency
+with experimentally determined structures not only at the global structural
+level but also in local ligand-binding poses confirms reliable conformational
+sampling with AF3-ReD. Notably, AF3-ReD succeeded in sampling conformational
+states of transporters that were unresolved at the AF3 training cutoff.
+Compared to another strategy based on multiple sequence alignment
+(MSA), AF3-ReD predicted intermediate conformations that are relatively
+closer to the stable states. Thus, AF3-ReD provides a promising approach
+to predicting dynamic conformational changes of proteins associated
+with ligand binding, which could be further extended to other diffusion-based
+generative models, such as those for protein design, potentially expanding
+their accessible design space.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Comprehensive Evaluation
 of Oxidation Resistance for
 Tertiary Phosphines Using Universal Machine Learning Interatomic Potential-Aided
