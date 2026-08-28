@@ -5,6 +5,253 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Mimotope-Guided
+Molecular Dynamics Enables Precise
+Functional Epitope Mapping</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01562/5343086/Mimotope-Guided-Molecular-Dynamics-Enables-Precise</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01562</guid>
+<pubDate>Thu, 27 Aug 2026 23:01:12 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01562/5343086/Mimotope-Guided-Molecular-Dynamics-Enables-Precise"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01562/1/m_ci6c01562_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Mimotopes selected by phage display have been used for
+antibody
+epitope mapping for nearly four decades, but residue-level recovery
+of functional epitopes has remained unreliable. This is not a problem
+of algorithms but of assumptions: mimotopes recapitulate native epitope
+recognition through compensatory interaction networks that preserve
+binding energetics, without conserving sequence or surface geometry.
+Predictors trained on sequence similarity or static interface geometry
+therefore miss the residues that drive recognition. We present a physics-based
+workflow that refines antibody-bound mimotope conformations by microsecond-scale
+molecular dynamics and maps the resulting structures onto the cognate
+antigen using Folddisco. Across four antibody–antigen systems
+with crystallographically defined epitopes, the workflow reaches 60
+to 100% precision in epitope localization and recovers 100% of mutagenesis-
+or structurally validated functional hotspots, compared with at most
+25% for three widely used benchmarks (EpiSearch, ClusPro, SEPPA-mAb).
+For the clinically relevant ChiLob 7/4 system, it further identifies
+a minimal tetrapeptide (PWVP) sufficient for antibody recognition,
+validated by Western blot and immunoprecipitation. By grounding epitope
+prediction in experimentally selected binding information and energy-resolved
+conformational refinement, the workflow connects phage display to
+mechanistic structural insight.&lt;/span&gt;</description>
+</item>
+<item>
+<title>PolluCarc-MFSE:
+A Multi-Fingerprint Stacking Ensemble
+Learning Model for Chemical Pollutant Carcinogenicity</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01404/5343028/PolluCarc-MFSE-A-Multi-Fingerprint-Stacking</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01404</guid>
+<pubDate>Thu, 27 Aug 2026 23:01:12 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01404/5343028/PolluCarc-MFSE-A-Multi-Fingerprint-Stacking"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01404/1/m_ci6c01404_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Traditional carcinogenicity assessment relies on animal
+experiments,
+which are costly, time-consuming, and difficult to extrapolate across
+species. Consequently, the carcinogenic potential of most chemical
+pollutants remains uncharacterized, posing significant risks to human
+health. Here, we combined 2356 compounds from public databases with
+six molecular fingerprints, five base machine learning models, and
+ensemble strategies to develop PolluCarc-MFSE (a multifingerprint
+stacking ensemble learning model using Klekota-Roth, extended-connectivity
+fingerprint (ECFP), and MACCS (Molecular ACCess System) fingerprints)
+as the optimal predictive model. This model was then applied to predict
+the carcinogenicity of 179 petrochemical pollutants with unknown carcinogenic
+potential, as listed in the emission standard of pollutants for the
+petroleum chemistry industry (GB 31571-2015, 2024 amendment). Among
+213 carcinogenic compounds (130 predicted by the model and 83 identified
+via dataset intersection), the major types were high-ring-number polycyclic
+aromatic hydrocarbons, halogenated unsaturated hydrocarbons, and multisubstituted
+aromatics. To assess biological relevance, disease-associated targets
+for ten pollutant-linked cancers were retrieved from GeneCards. Using
+a novel multimetric scoring approach in network analysis, we identified
+29 hub targets (e.g., JAK2, EGFR, TP53, MYC) that exhibit stable binding
+to the predicted carcinogens. Pathway enrichment confirmed involvement
+in cancer-related, PI3K-Akt, and JAK-STAT signaling pathways, while
+Disease Ontology linked these targets to liver, breast, and lung malignancies.
+This integrated “data–model–mechanism”
+framework provides a practical tool for prioritizing high-risk chemical
+pollutants and demonstrates how computational toxicology can support
+regulatory decision-making and the adoption of New Approach Methodologies
+in chemical risk assessment.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Mechanism and Origin
+of Stereoselectivity of Halohydrin
+Dehalogenase-Catalyzed Ring-Expansion Reaction of Spiro-Epoxides</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02380/5340654/Mechanism-and-Origin-of-Stereoselectivity-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02380</guid>
+<pubDate>Thu, 27 Aug 2026 19:01:12 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02380/5340654/Mechanism-and-Origin-of-Stereoselectivity-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02380/1/m_ci6c02380_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The detailed mechanism of halohydrin
+dehalogenase (HHDH)-catalyzed
+ring-expansion reaction between spiro-epoxides and the nucleophile
+OCN&lt;sup&gt;–&lt;/sup&gt; to form spiro-oxazolidinones was investigated
+using molecular docking, molecular dynamics (MD) simulations, and
+quantum mechanics/molecular mechanics (QM/MM) calculations. Molecular
+docking and molecular mechanics/Poisson–Boltzmann surface area
+(MM-PBSA) results revealed that the &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;-configurational
+substrate exhibited significantly superior binding affinity compared
+to the &lt;span style="font-style:italic;"&gt;S&lt;/span&gt;-configurational one, validating the stable
+binding mode within the enzyme′s active pocket. The fundamental
+pathway initiates with the nucleophilic attack of OCN&lt;sup&gt;–&lt;/sup&gt; accompanied by proton transfer, which is followed by ring closure
+coupled with a proton transfer to form a five-membered ring. A total
+of four possible selective nucleophilic attack pathways were evaluated,
+and the most energetically favorable pathway associated with the &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;-configurational product has an energy barrier of 17.1
+kcal/mol, which is close to the experimental value of 18.1 kcal/mol
+derived from kinetic parameters. This study provides valuable theoretical
+insights for the future engineering of HHDHs for chiral spiro-oxazolidinone
+synthesis.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Autogenerating
+a Domain-Specific Question-Answering
+Data Set to Enable High-Performing Language Models for Magnetic Materials</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00136/5339775/Autogenerating-a-Domain-Specific-Question</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00136</guid>
+<pubDate>Thu, 27 Aug 2026 17:01:15 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00136/5339775/Autogenerating-a-Domain-Specific-Question"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00136/1/m_ci6c00136_0021.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Domain-specific language models are attractive because
+they can
+be tailored to suit their users. However, the high-end computational
+resources needed to pretrain large language models (LLMs) by conventional
+methods tend to prohibit their development. Furthermore, there is
+a dearth of large, domain-specific, question-answering (QA) data sets
+to finetune LLMs for prompt engineering, even when computational resources
+can be found to pretrain LLMs. Our paper presents a method for autogenerating
+a data set of 168,080 domain-specific QA pairs relating to magnetic
+materials. We show how this can be employed to finetune LLMs for the
+downstream task of Question-Answering (QA) for the magnetic materials
+domain. We use the bidirectional encoder representations from transformers
+(BERT) architecture as our benchmark LLM to compare the relative performance
+of 6 LLMs. These include 3 vanilla (BERT-base-cased) LLMs that have
+been finetuned on various QA data sets (i) our domain-specific QA
+data set (MagQA); (ii) the Stanford Question-Answering Data set (SQuAD
+v2); (iii) our QA data set mixed with SQuAD v2. The other 3 (BERT-base-cased)
+LLMs have been subjected to domain-adaptive pretraining on a corpus
+of 97,308 magnetic papers prior to their finetuning on the same combination
+of QA data sets (i)-(iii). As well as our QA data set autogeneration
+pipeline, we show how our work can be extrapolated to the larger architectures
+of RoBERTa-base and DeBERTa-base. We also undertake an ablation study
+of the finetuning process using four sizes of QA data sets to gain
+insights into the quantity of data that are needed for sufficient
+domain-specification. The highest performing LLM was MagBERT_MagQA_Mixed,
+a vanilla BERT-base-cased LLM that had been finetuned on the combination
+of our autogenerated MagQA data set and SQuAD v2, achieving an &lt;span style="font-style:italic;"&gt;F&lt;/span&gt;1 score of 78.43% and an exact-match score of 72.84% when
+tested on a manually annotated data set on magnetic materials. These
+results demonstrate that domain-specific BERT models only need to
+be finetuned from vanilla BERT models (&lt;span style="font-style:italic;"&gt;i.e&lt;/span&gt;. no domain-adaptive
+pretraining is needed), pending the availability of sufficiently large,
+high-quality, domain-specific QA data sets that this work shows how
+to autogenerate.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Halogen-Bonding-like
+Interactions Complement Hydrogen
+Bonding in a Human Flavin-Dependent Dehalogenase</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00986/5337641/Halogen-Bonding-like-Interactions-Complement</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00986</guid>
+<pubDate>Thu, 27 Aug 2026 12:01:24 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00986/5337641/Halogen-Bonding-like-Interactions-Complement"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00986/1/m_ci6c00986_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;An accurate description of halogen bonding in biomolecules
+remains
+a challenge in modern biochemistry, as exemplified by the flavin-dependent
+human dehalogenase, iodotyrosine deiodinase. Analyses of the static
+crystal structure and kinetics data suggested that halogen bonding
+is absent in the enzyme’s active site, which does not preclude
+its transient formation along the binding or unbinding pathway. No
+studies have yet explored iodotyrosine deiodinase’s dynamic
+behavior from the perspective of halogen bonding. Here, extensive
+equilibrium and nonequilibrium molecular dynamics (MD) simulations
+together with quantum-mechanical calculations are performed to elucidate
+how the cooperative interplay of transient halogen bonds and stable
+hydrogen bonds governs substrate recognition and retention. An extra-point
+charge model is employed to describe σ-hole of the halogen to
+capture its charge anisotropy in classical simulation. The isotropic
+steered molecular dynamics simulations and dynamic time warping algorithm
+identify dominant unbinding pathways for I-Tyr, Cl-Tyr, and I-Phenol.
+Substrate release kinetics is controlled by a stepwise disruption
+of key hydrogen bonds and salt bridges with K182, Y161, E157, and
+the flavin cofactor. Molecular dynamics simulation-derived geometries
+were screened, representative poses were chosen based on structural
+criteria, and halogen-bond-like interactions were validated through
+natural bond orbital and energy-decomposition analyses. Geometries
+consistent with halogen-bond-like interactions (0.5–2.0 kcal/mol)
+are observed for I-Tyr and I-Phenol near the protein surface. In contrast,
+Cl-Tyr interactions identified solely by structural criteria largely
+correspond to false positives, underscoring the necessity of quantum-mechanical
+validation for reliably characterizing halogen-bond-like interactions.
+These early, short-lived halogen bonds help orient the native substrate
+toward a possible alternate site, triggering a communication network
+that grows with strong hydrogen bonds during substrate recognition.
+By integrating dynamic simulations with quantum-mechanical validation,
+this work reconciles conflicting views on halogen bonding in human
+iodotyrosine deiodinase, revealing transient geometries consistent
+with halogen-bond-like interactions alongside persistent hydrogen
+bonds.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Multiscale Free-Energy
+Methods for Protonation-Coupled
+Light-Responsive Binding of Ionizable Photoswitchable eDHFR Inhibitors</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02133/5337543/Multiscale-Free-Energy-Methods-for-Protonation</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02133</guid>
+<pubDate>Thu, 27 Aug 2026 12:01:24 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02133/5337543/Multiscale-Free-Energy-Methods-for-Protonation"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02133/1/m_ci6c02133_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Photoswitchable ligands enable photocontrol of biomolecular
+activity
+by binding to targets in an isomer-dependent, light-responsive manner.
+Recent developments in ionizable photoswitchable ligands greatly expand
+their applications but introduce a major design challenge: light-responsive
+binding can depend on isomeric form, chemical substitution, and binding-induced
+shifts in protonation equilibria. These effects are tightly coupled,
+subtle in magnitude, and difficult to predict. Consequently, few computational
+methods have been developed and systematically benchmarked for quantitatively
+predicting them. Here, we establish a multiscale free energy method
+and benchmark it against experimental data for a series of recently
+developed photoswitchable inhibitors of &lt;span style="font-style:italic;"&gt;Escherichia coli&lt;/span&gt; dihydrofolate reductase (eDHFR), a crucial target
+in photopharmacology. Constant pH replica-exchange molecular dynamics
+and quantum mechanics/molecular mechanics umbrella sampling simulations
+quantitatively characterize the ligand’s protonation-state
+change upon binding to the eDHFR’s active site. Thermodynamic
+integration (TI) simulations using alternative alchemical pathways,
+thermodynamic cycles, and protonation-state assignments were evaluated
+for predicting light-responsive affinity differentials and substituent
+effects. Direct &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-to-&lt;span style="font-style:italic;"&gt;trans&lt;/span&gt; transformations
+with explicit treatment of environment-dependent protonation states
+best reproduce experimental trends. Compound-to-compound pathways
+are less reliable because force-field inaccuracies introduce large
+p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; errors that are difficult to correct
+when protonation/deprotonation processes implicitly enter the thermodynamic
+cycle. TI simulations that ignore binding-induced protonation-state
+changes fail to consistently reproduce experimental trends. Protein–ligand
+and ligand-water interaction analyses further reveal the energetic
+and structural origins of isomer-dependent binding. This study presents
+a multiscale free-energy framework applied to ionizable photoswitches
+targeting eDHFR, and highlights the importance of explicitly accounting
+for binding-induced changes in protonation state when predicting light-responsive
+binding behavior.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Exploring Protein Conformational Ensembles Using Evolutionary
+Conditional Diffusion</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01319/5336932/Exploring-Protein-Conformational-Ensembles-Using</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01319</guid>
+<pubDate>Thu, 27 Aug 2026 11:01:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01319/5336932/Exploring-Protein-Conformational-Ensembles-Using"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01319/1/m_ci6c01319_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein
+conformational ensembles encode the dynamic landscapes
+underlying biological function, regulation, and allostery. Accurately
+reconstructing such ensembles while balancing the accuracy of conformational
+distributions and physical plausibility remains a fundamental challenge
+in structural biology, particularly when dynamic data are scarce.
+Here, we propose DiffEnsemble, a diffusion-based framework designed
+for modeling protein conformational ensembles. DiffEnsemble learns
+latent dynamical representations from static protein structures in
+the Protein Data Bank and integrates the structural profile derived
+from the AlphaFold Protein Structure Database as conditional guidance
+during the diffusion process. Benchmarking on 72 protein targets from
+the ATLAS molecular dynamics simulation data set demonstrates that
+DiffEnsemble outperforms existing methods, including BioEmu and AlphaFLOW.
+Compared with AlphaFLOW, DiffEnsemble achieves improvements of 28.9%
+and 7.5% in Pearson correlation coefficients for ensemble pairwise
+root-mean-square deviation and root-mean-square fluctuation, respectively.
+The results demonstrate that latent dynamical information embedded
+in static structural data can effectively support the modeling of
+protein conformational ensembles.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Efficient, Few-Shot
 Directed Evolution with Energy
 Rank Alignment</title>
@@ -1731,55 +1978,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.5c03121</guid>
 <pubDate>Fri, 26 Jun 2026 05:40:01 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c03121/asset/images/medium/ci5c03121_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c03121&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Foldify: Web Application for Protein Structure Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01154</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01154</guid>
-<pubDate>Fri, 26 Jun 2026 04:53:45 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01154/asset/images/medium/ci6c01154_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01154&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Identification of Noncovalent Small-Molecules from Virtual Screening Toward the Development of Potential KRAS Inhibitors</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01372</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01372</guid>
-<pubDate>Fri, 26 Jun 2026 02:02:42 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01372/asset/images/medium/ci6c01372_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01372&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] LLM-Assembled Multiscale Cascades for High-Throughput Screening: The Case of Thermoelectric Materials</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01264</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01264</guid>
-<pubDate>Thu, 25 Jun 2026 09:15:01 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01264/asset/images/medium/ci6c01264_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01264&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] 3DTMC-LLM: A 3D Geometry-Aware Large Language Model for Transition Metal Complexes</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01415</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01415</guid>
-<pubDate>Thu, 25 Jun 2026 04:54:44 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01415/asset/images/medium/ci6c01415_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01415&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] ESM2-BiMamba: A Length-Adaptive Hybrid Framework for Efficient Concurrent Prediction of DNA-Binding Proteins and DNA-Binding Residue Sites</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01246</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01246</guid>
-<pubDate>Thu, 25 Jun 2026 02:21:27 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01246/asset/images/medium/ci6c01246_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01246&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Characterizing the MSMP–CCR2 Interaction through Molecular Dynamics Simulations and Machine Learning Approaches</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00048</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00048</guid>
-<pubDate>Thu, 25 Jun 2026 01:58:15 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00048/asset/images/medium/ci6c00048_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00048&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Guided Adaptive Diffusion: An Evolutionary Framework for Multimodal Atomistic Structure Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00843</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00843</guid>
-<pubDate>Thu, 25 Jun 2026 01:41:36 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00843/asset/images/medium/ci6c00843_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00843&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

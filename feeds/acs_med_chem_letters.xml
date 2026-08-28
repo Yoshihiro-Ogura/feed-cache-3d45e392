@@ -5,6 +5,34 @@
 <link>https://pubs.acs.org/rss/amclct/asap.xml</link>
 <description>ACS Medicinal Chemistry Letters (mirrored feed)</description>
 <item>
+<title>A-iMPO:
+A Design-Time Prediction Toolbox for
+Blood Brain Barrier Permeation Using an Integrated and Interpretable
+Multiparameter Optimization Framework</title>
+<link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00347/5336023/A-iMPO-A-Design-Time-Prediction-Toolbox-for-Blood</link>
+<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00347</guid>
+<pubDate>Thu, 27 Aug 2026 09:01:40 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00347/5336023/A-iMPO-A-Design-Time-Prediction-Toolbox-for-Blood"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/amclct/pap/10.1021_acsmedchemlett.6c00347/1/m_ml6c00347_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Design
+time prioritization of central nervous system
+(CNS) drug
+candidates remains a challenge due to the restrictive nature of the
+blood–brain barrier (BBB) governing brain exposure. Although
+various multiparameter optimization (MPO) strategies have guided CNS
+medicinal chemistry for over a decade, existing frameworks rely heavily
+on heuristic cutoffs and offer limited interpretability across chemically
+diverse scaffolds. Here, we introduce a next generation CNS-MPO framework─Aragen-iMPO,
+(A-iMPO)─which was developed using 5,129 curated compounds
+through an integrated workflow combining explainable machine learning,
+rigorous descriptor selection, and low-dimensional discriminant mapping.
+This yielded six chemically intuitive features capturing polarity,
+ionization, size, rigidity, and electronic distribution. The resulting
+score provides a transparent discriminant function enabling direct
+compound prioritization through a simple threshold rule. Across internal
+and external validation sets, A-iMPO outperformed established CNS-focused
+scoring methods while maintaining mechanistic interpretability, providing
+a practical and design ready tool for CNS drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Discovery
 of JH-XIII-05-01, a First-in-Class Dual
 IRAK1/IRAK4 Degrader for MYD88 Mutant Lymphomas</title>
