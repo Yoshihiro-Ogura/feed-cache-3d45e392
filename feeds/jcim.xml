@@ -5,6 +5,336 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Molecular Determinants
+of Receptor-Specific Membrane
+Interactions in EphA1 and EphA2 from Coarse-Grained Simulations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01459/5353677/Molecular-Determinants-of-Receptor-Specific</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01459</guid>
+<pubDate>Fri, 28 Aug 2026 20:00:51 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01459/5353677/Molecular-Determinants-of-Receptor-Specific"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01459/1/m_ci6c01459_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ephrin receptors (Ephs) are receptor tyrosine kinases
+that regulate
+cellular growth, differentiation, and motility. EphA2, often overexpressed
+in cancer, is notable for its ligand-independent activation, which
+drives pro-oncogenic signaling distinct from the canonical, ligand-dependent
+pathway that restricts cell movement. While ligand binding induces
+extracellular clustering, kinase activation depends on dimerization
+within the transmembrane (TM) region. EphA1 and EphA2 differ substantially
+in their function, likely due to differences in their TM, but more
+so in their juxtamembrane (JM), and membrane-proximal fibronectin
+type III (FN1/FN2) domains. How these latter two regions modulate
+dimerization has not yet been investigated. To address this, we performed
+extensive coarse-grained (CG) simulations using Martini3 in an anionic
+POPC/PS/PIP2 model of the plasma membrane. Both receptors formed stable
+TM dimers, though EphA1 favored a symmetric AXXXGXXXG-centered interface,
+whereas EphA2 favored an alternate leucine zipper interface. All protein
+constructs sampled multiple configurations, reflecting substantial
+intrinsic variability. AlphaFold3 does not yield reliable predictions
+and cannot account for the effects of the lipid bilayer. In the CG
+simulations, basic residues in the JM region remained membrane-bound,
+and the EphA2 FN domain displayed sustained PIP2 interactions, consistent
+with previous observations. Notably, constructs with the FN2 domain
+alone (a fragment relevant to Alzheimer's Disease) restricted
+TM association
+in both receptors, whereas inclusion of the second FN1 domain restored
+dimerization but produced receptor-specific extracellular interfaces.
+These differences arise from distinct FN1-FN2 linker flexibilities,
+a different level of sequence conservation of EphA1 compared to several
+other Ephs and FN-domain membrane contacts, which together shape TM
+geometry and lipid engagement. Our results predict how TM and TM-proximal
+elements cooperatively tune dimerization in Eph receptors. This work
+offers a molecular rationale for the divergent activation behaviors
+of EphA1 and EphA2 and provides testable models relevant to cancer
+and neurodegeneration biology as well as  Eph-driven signaling.&lt;/span&gt;</description>
+</item>
+<item>
+<title>On-the-Fly Machine-Learned
+Force Fields for High-Fidelity
+Polymer Glass Transition Simulations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02116/5353336/On-the-Fly-Machine-Learned-Force-Fields-for-High</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02116</guid>
+<pubDate>Fri, 28 Aug 2026 20:00:51 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02116/5353336/On-the-Fly-Machine-Learned-Force-Fields-for-High"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02116/1/m_ci6c02116_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predicting polymer glass transition temperatures (&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;g&lt;/span&gt;&lt;/sub&gt;) with first-principles fidelity
+has
+long remained out of reach, as cooling multithousand-atom systems
+over a broad temperature range at acceptable rates exceeds the computational
+limits of ab initio molecular dynamics (AIMD). Here we employ a hybrid
+scheme that merges AIMD with accelerated on-the-fly (OTF) machine-learned
+force-field (MLFF) construction, enabling &lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;g&lt;/span&gt;&lt;/sub&gt; prediction at near quantum-mechanical accuracy with
+near-classical computational cost. The OTF protocol to construct MLFFs
+adaptively triggers first-principles calculations only when newly
+encountered configurations lie outside the current model’s
+domain of confidence, allowing robust, parameter-free MLFFs to be
+built from merely ∼1000 AIMD-sampled configurations per polymer.
+These MLFFs are then utilized to perform long-time cooling simulations
+on amorphous supercells containing several thousand atoms. Applied
+across 12 polymers spanning aromatic, aliphatic, heteroatomic, and
+branched chemistries, the method yields predictions in excellent accord
+with experiment while reducing computational cost by approximately
+6 orders of magnitude relative to AIMD. This work establishes a new
+paradigm for predictive polymer modeling, demonstrating that OTF-MLFFs
+provide a generalizable, accurate, and scalable route to simulating
+the thermophysical behavior of complex disordered materials at near
+quantum-mechanical fidelity.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Automated Classification
+and Representation of sp 2 –sp 2  Atropisomers
+in the MolBar Identifier</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00688/5352467/Automated-Classification-and-Representation-of-sp2</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00688</guid>
+<pubDate>Fri, 28 Aug 2026 18:00:53 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00688/5352467/Automated-Classification-and-Representation-of-sp2"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00688/1/m_ci6c00688_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Atropisomerism, a form of chirality arising from restricted
+rotation
+around single bonds, holds significant pharmacological importance.
+Yet, the automated identification and representation of atropisomerism
+in molecular databases and cheminformatics tools remain limited. Identifying
+bonds that lead to stable atropisomers typically involves labor-intensive
+experiments or costly quantum chemical scans. In this work, we present
+an extension of the molecule identifier MolBar that automatically
+classifies each sp&lt;sup&gt;2&lt;/sup&gt;–sp&lt;sup&gt;2&lt;/sup&gt; bond in a three-dimensional
+molecular structure as either rapidly convertible or configurationally
+stable (rotational barrier ≥ 20 kcal/mol), specifying the absolute
+configuration for the latter. Our methodology uses two distinct classifiers:
+a physically motivated classifier for steric hindrance and a message-passing
+graph neural network for electronic effects. Integrated into MolBar,
+this module enables unsupervised, large-scale annotation of atropisomeric
+bonds along with their absolute configurations. This advancement facilitates
+the representation of atropisomerism in databases and supports atropisomerism-aware
+machine learning in drug discovery. A new version of MolBar (1.2.0)
+is available on the Python Package Index (PyPI) and can be installed
+using the pip command: pip install molbar.&lt;/span&gt;</description>
+</item>
+<item>
+<title>TvTPPIMI: A Boundary-Aware
+Dual-View Framework for
+Predicting PPI-Modulator Interactions</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01921/5351829/TvTPPIMI-A-Boundary-Aware-Dual-View-Framework-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01921</guid>
+<pubDate>Fri, 28 Aug 2026 17:00:52 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01921/5351829/TvTPPIMI-A-Boundary-Aware-Dual-View-Framework-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01921/1/m_ci6c01921_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein–protein interactions (PPIs) regulate essential
+cellular
+processes and represent an important class of therapeutic targets;
+however, discovering effective modulators of PPIs remains a formidable
+challenge. Although deep learning approaches have been widely explored
+for PPI modulator discovery, many rely on simplified representations
+that obscure interchain boundary information and fine-grained PPI–modulator
+interaction (PPIMI) patterns, limiting their robustness under distribution
+shifts. To address this challenge, we introduce TvTPPIMI, a framework
+that leverages learnable boundary tokens to encode partner-aware boundary
+information and models PPIMI at atom–residue resolution. In
+a case study targeting the AURKA–TPX2 interaction, TvTPPIMI
+prioritized putative modulatory candidates from a small-molecule screening
+library. Structure-based docking, attention analysis, multireplica
+molecular dynamics simulations, MM/GBSA binding free-energy estimation,
+and noncovalent interaction analyses provided post hoc physical support
+for the stable AURKA binding of selected candidates, highlighting
+CE02–6266 as the most favorable compound among the tested hits.
+Together, these results suggest that TvTPPIMI provides a generalizable
+computational framework with coarse-grained, attention-based interpretive
+cues for PPIMI prediction and can be integrated with structure- and
+dynamics-based analyses to support PPI modulator discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Improving Reliability
+of Machine Learning Interatomic
+Potentials with Physics-Informed Pretraining</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00826/5351550/Improving-Reliability-of-Machine-Learning</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00826</guid>
+<pubDate>Fri, 28 Aug 2026 16:01:00 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00826/5351550/Improving-Reliability-of-Machine-Learning"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00826/1/m_ci6c00826_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Machine Learning interatomic potentials (MLIPs) have
+emerged as
+powerful tools for molecular dynamics (MD) simulations with their
+competitive accuracy and computational efficiency. However, MLIPs
+often exhibit unphysical behavior when encountering configurations
+that deviate significantly from their training data distribution,
+leading to simulation instabilities and unreliable dynamics. This
+limits their reliability for materials simulations. We therefore present
+a physics-informed pretraining strategy that leverages simple empirical
+potentials to improve the robustness and stability of MLIPs for MD
+simulations. We demonstrate this approach through a pretraining-finetuning
+pipeline where MLIPs are initially pretrained on data labeled with
+embedded atom model (EAM) potentials and subsequently finetuned on
+the quantum mechanical ground truth data. Evaluation across three
+material systems (phosphorus, silica, and a subset of Materials Project)
+and three representative MLIP architectures (CGCNN, M3GNet, and TorchMD-NET)
+demonstrates that this physics-informed pretraining consistently improves
+both prediction accuracy as well as stability in MD compared to the
+baseline models.&lt;/span&gt;</description>
+</item>
+<item>
+<title>TCRspec: A Recognition
+Interface-Informed Multimodal
+Method for TCR–pMHC Specificity Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01399/5351372/TCRspec-A-Recognition-Interface-Informed</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01399</guid>
+<pubDate>Fri, 28 Aug 2026 16:01:00 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01399/5351372/TCRspec-A-Recognition-Interface-Informed"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01399/1/m_ci6c01399_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Specific recognition between T-cell receptors (TCRs)
+and peptide–major
+histocompatibility complexes (pMHCs) is central to adaptive immunity,
+yet accurate prediction of TCR–pMHC specificity remains challenging.
+Existing models mainly rely on sequence features or isolated molecular
+structures, limiting their ability to capture interface-level determinants
+within the ternary recognition complex. Here, we constructed the multimodal
+TCR–pMHC ternary complex (MM-TCR) data set, integrating paired
+TCR–pMHC sequences, V/J gene annotations, and modeled TCR–pMHC
+complex structures refined by short molecular dynamics-based relaxation.
+Based on MM-TCR, we developed TCRspec, an interpretable multimodal
+framework combining sequence embeddings, gene-usage features, and
+complex-level structural representations. Under a stringent CD-HIT
+TCR-cluster-disjoint split, TCRspec achieved an average AUROC of 0.896
+and AUPRC of 0.882 across seven antigen-specific test data sets, outperforming
+representative baseline models. Cross-validation and ablation analyses
+confirmed the contribution of ternary complex structural information
+and MD-refined structures. In independent OOD peptide–TCR systems,
+TCRspec retained discriminative performance and identified model-inferred
+peptide positions associated with TCR recognition, providing a structure-informed
+framework for TCR specificity prediction.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Artificial Intelligence
+in the Discovery and Design
+of Ionic Liquids for Thermal Energy Applications</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02407/5351234/Artificial-Intelligence-in-the-Discovery-and</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02407</guid>
+<pubDate>Fri, 28 Aug 2026 16:01:00 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02407/5351234/Artificial-Intelligence-in-the-Discovery-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02407/1/m_ci6c02407_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This review addresses
+a critical need in the emerging intersection
+of digital chemistry and material properties by critically evaluating
+the current capabilities and future prospects of applying machine
+learning (ML) to ionic liquids (ILs) for thermal energy storage (TES)
+applications. We examine available data sets for key thermophysical
+properties relevant to TES, including thermal conductivity, heat capacity,
+density, viscosity, surface tension, melting point, enthalpy, CO&lt;sub&gt;2&lt;/sub&gt; solubility, and toxicity. Particular emphasis is placed on
+chemical space coverage, biases, and practical limitations. We compare
+different modeling approaches, spanning from conventional QSPR/QSAR
+and group-contribution methods to contemporary ML approaches, including
+kernel models, ensemble methods, graph neural networks (GNNs), and
+deep learning architectures. The impact of molecular representations
+and descriptor choices and validation strategies in determining model
+robustness and transferability is examined. To structure this assessment,
+we introduce a three-tier property-selection framework for IL-based
+TES and apply a six-criterion evaluation checklist consistently across
+all nine reviewed properties. The analysis is supported by literature-summary
+tables that consolidate data sets, chemical space coverage, modeling
+approaches, and validation practices across different property domains.
+Finally, we outline recommendations for data set standardization,
+open sharing of data and code, and the establishment of benchmark
+validation protocols to improve reproducibility and accelerate the
+discovery of ILs for TES applications.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Toward Imbalanced
+Molecular Property Regression: A
+Benchmark Study and Interval-Aware Mixture of Experts</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01847/5350961/Toward-Imbalanced-Molecular-Property-Regression-A</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01847</guid>
+<pubDate>Fri, 28 Aug 2026 15:00:57 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01847/5350961/Toward-Imbalanced-Molecular-Property-Regression-A"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01847/1/m_ci6c01847_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular property prediction is a key task in AI-driven
+drug discovery,
+yet the prevalence and impact of label imbalances in molecular property
+regression remain poorly understood. Through a systematic benchmark
+of widely used molecular property data sets, we show that target values
+are often highly imbalanced and that prediction errors are consistently
+concentrated in sparsely represented regions of the label space. We
+further evaluate representative imbalance-learning approaches developed
+for general regression tasks and find that their effectiveness on
+molecular data sets is limited. To address this challenge, we propose
+interval-aware mixture-of-experts (IA-MoE), a plug-in framework that
+partitions the continuous target space into intervals and promotes
+expert specialization across different regions of the label distribution.
+IA-MoE can be seamlessly integrated with diverse molecular encoders
+without modifying their underlying architectures. Experiments on five
+molecular property benchmarks and four graph neural network backbones
+demonstrate that IA-MoE consistently improves the predictive performance
+in underrepresented regions while maintaining or improving overall
+accuracy. Our findings establish label imbalance as an important challenge
+in molecular property regression and highlight interval-aware expert
+learning as an effective strategy for addressing this challenge.&lt;/span&gt;</description>
+</item>
+<item>
+<title>UniPoseScore: A Unified Graphormer3D-Based Framework
+for Protein–Ligand Binding Pose Scoring and Refinement</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00858/5348843/UniPoseScore-A-Unified-Graphormer3D-Based</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00858</guid>
+<pubDate>Fri, 28 Aug 2026 11:00:56 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00858/5348843/UniPoseScore-A-Unified-Graphormer3D-Based"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00858/1/m_ci6c00858_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate
+prediction of protein–ligand binding poses is essential
+for structure-based drug discovery. In recent years, computational
+approaches, particularly molecular docking, have generated large numbers
+of candidate ligand poses. However, existing scoring functions remain
+limited in their ability to distinguish near-native poses from incorrect
+docking decoys. In this work, we propose UniPoseScore, a Graphormer3D-based
+framework for ligand pose scoring and refinement. The model simultaneously
+predicts pose RMSD and atomic displacement vectors to guide ligand
+pose refinement. Across four benchmark data sets, UniPoseScore showed
+consistently strong performance and better generalization, with a
+particularly clear advantage in RMSD correlation. Visualization of
+the learned embeddings further suggests that the model captures structural
+features correlated with pose accuracy. On the CASF-2016 benchmark,
+UniPoseScore achieves a refinement success rate of 74.3%, highlighting
+the effectiveness of UniPoseScore in improving ligand binding poses
+and its potential applications in drug discovery. The UniPoseScore
+is available at https://github.com/April-Zhangjq/UniPoseScore.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Catalytic Mechanism
+of γ-Elimination
+and Michael Addition Catalyzed by Pyridoxal-5′-Phosphate-Dependent
+γ-Substitution Enzyme Fub7 Involved in the Biosynthesis
+of 5-Alkyl-pipecolic Acid</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02530/5348001/Catalytic-Mechanism-of-Elimination-and-Michael</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02530</guid>
+<pubDate>Fri, 28 Aug 2026 09:01:03 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02530/5348001/Catalytic-Mechanism-of-Elimination-and-Michael"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02530/1/m_ci6c02530_0013.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Fub7 is a rare pyridoxal 5′-phosphate (PLP)-dependent
+enzyme
+that can subsequently catalyze the γ-elimination of O-acetyl-&lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;l&lt;/span&gt;-homoserine (OAH) and Michael addition with &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;-valeraldehyde (NVA) to synthesize 5-alkyl-pipecolic acid, which
+shows significant potential in synthetic chemistry. In this study,
+we constructed the computational models and performed MD and QM/MM
+calculations to illuminate the complete catalytic cycle of Fub7, which
+contains five reaction stages, including external aldimine formation,
+γ-elimination, Michael addition, reformation of the internal
+aldimine, and final cyclization and dehydration, of which γ-elimination
+and Michael addition correspond to relatively high energy barriers.
+In addition, according to our test calculations, Fub7 can also catalyze
+the β-elimination. During the catalysis, the terminal amino
+of Lys211 exhibits significant conformational changes and was found
+to play multiple roles. On one hand, Lys211 forms internal aldimine
+with the cofactor PLP. On the other hand, Lys211 functions as a catalytic
+base/acid or as a bridge to mediate a series of proton transfer in
+the γ-elimination and Michael addition. Tyr109 only participates
+in the Michael addition. The deprotonated Tyr109 acts as a base to
+abstract the α-proton of NVA to generate the carbanion nucleophile,
+which is the key for Michael addition. These findings may provide
+useful information for understanding the catalysis of PLP-dependent
+enzymes and designing biocatalysts for γ-substitution.&lt;/span&gt;</description>
+</item>
+<item>
+<title>ChemLint: Conversational
+Cheminformatics with Large
+Language Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00638/5346216/ChemLint-Conversational-Cheminformatics-with-Large</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00638</guid>
+<pubDate>Fri, 28 Aug 2026 04:00:58 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00638/5346216/ChemLint-Conversational-Cheminformatics-with-Large"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00638/1/m_ci6c00638_0002.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We introduce ChemLint, an open-source Model Context Protocol
+(MCP)
+server that connects any MCP-compatible large language model to a
+curated suite of local cheminformatics and machine learning tools,
+enabling rigorous molecular data handling through a conversational
+interface. Molecular machine learning studies are frequently undermined
+by inconsistent data preprocessing, including invalid SMILES, unresolved
+duplicates, and train-test leakage, yet existing large language model
+(LLM)-based chemistry tools do not address these data-centric challenges.
+ChemLint provides tools for data exploration and diagnostics, molecule
+standardization, and machine learning modeling. All operations are
+executed deterministically by established libraries and recorded in
+a project manifest that traces every action, supporting reproducibility
+and making curation choices explicit. We demonstrate through several
+examples how ChemLint can be used to identify common data quality
+issues, evaluate splitting strategies, and execute complete modeling
+pipelines from raw data to evaluation. ChemLint is freely available
+at https://github.com/molML/ChemLint.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Mimotope-Guided
 Molecular Dynamics Enables Precise
 Functional Epitope Mapping</title>
@@ -1901,83 +2231,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00413</guid>
 <pubDate>Tue, 30 Jun 2026 04:41:12 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00413/asset/images/medium/ci6c00413_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00413&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Simulation Guided Design of a Potentially Hyperactive Ice Nucleating Protein</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00512</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00512</guid>
-<pubDate>Tue, 30 Jun 2026 03:52:08 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00512/asset/images/medium/ci6c00512_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00512&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Setting the Bases of the Photogenotoxicity of p-Aminobenzoic Acid</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01438</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01438</guid>
-<pubDate>Tue, 30 Jun 2026 01:08:52 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01438/asset/images/medium/ci6c01438_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01438&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Probing Charge-Controlled Inter-Domain Flexibility: Integrating Experimental and Coarse-Grained Approaches</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00989</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00989</guid>
-<pubDate>Mon, 29 Jun 2026 07:16:46 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00989/asset/images/medium/ci6c00989_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00989&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] FragScan: A Quantitative Fragment Scanning Strategy for Rational Drug Discovery</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01187</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01187</guid>
-<pubDate>Mon, 29 Jun 2026 04:27:28 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01187/asset/images/medium/ci6c01187_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01187&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Interaction Persistence-Based Identification of Key Binding Residues in the Cellular Retinol-Binding Protein 1 Complex</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00993</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00993</guid>
-<pubDate>Mon, 29 Jun 2026 02:40:25 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00993/asset/images/medium/ci6c00993_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00993&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] GeoPep: A Geometry-Aware Masked Language Model for Protein-Peptide Binding Site Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00187</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00187</guid>
-<pubDate>Mon, 29 Jun 2026 02:39:25 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00187/asset/images/medium/ci6c00187_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00187&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Tree-Guided Graph Neural Networks with Multilevel Optimization for Protein–Protein Interaction Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00948</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00948</guid>
-<pubDate>Mon, 29 Jun 2026 01:08:41 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00948/asset/images/medium/ci6c00948_0020.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00948&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] ASO-RASAR: A Read-Across Framework for Predicting Antisense Oligonucleotide Gapmer Activity Across Target Genes</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01314</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01314</guid>
-<pubDate>Sat, 27 Jun 2026 09:48:49 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01314/asset/images/medium/ci6c01314_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01314&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] ZHMolTopoRPI: A Commutative Algebra-Driven Deep Learning Framework for Robust RNA-Protein Interaction Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01199</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01199</guid>
-<pubDate>Fri, 26 Jun 2026 08:11:37 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01199/asset/images/medium/ci6c01199_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01199&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] PP-MAPS: Dynamic Pharmacophore Signatures of Protein–Peptide Interfaces from Molecular Dynamics Trajectories</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00605</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00605</guid>
-<pubDate>Fri, 26 Jun 2026 07:47:47 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00605/asset/images/medium/ci6c00605_0003.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00605&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Evaluating Molecular Representations for Predicting Cyclodextrin-PFAS Binding Energy with Machine Learning: Domain Transfer and Data Limitations</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.5c03121</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.5c03121</guid>
-<pubDate>Fri, 26 Jun 2026 05:40:01 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c03121/asset/images/medium/ci5c03121_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c03121&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
