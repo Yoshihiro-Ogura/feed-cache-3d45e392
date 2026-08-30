@@ -5,6 +5,27 @@
 <link>https://pubs.acs.org/rss/accacs/asap.xml</link>
 <description>ACS Catalysis (mirrored feed)</description>
 <item>
+<title>Excited Perylene Radical as Strong Photoreductant in Water Using Red Light</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c05978/5363760/Excited-Perylene-Radical-as-Strong-Photoreductant</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c05978</guid>
+<pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Excited organic radicals are emerging as powerful key species for driving highly demanding photocatalytic redox transformations. However, detailed characterization of these photoactive intermediates remains essential, and their operation in water has been largely unexplored. Herein, we report the design, investigation and utilization of a biphotonic consecutive photoinduced electron transfer (conPET) system operating in water that exploits the excited radical anion of perylene-3,4,9,10-tetracarboxylate (&lt;strong&gt;PTC&lt;/strong&gt;&lt;strong&gt;·&lt;/strong&gt;&lt;strong&gt;&lt;sup&gt;–&lt;/sup&gt;&lt;/strong&gt;) as a potent photoreductant. Sensitization of triplet &lt;strong&gt;PTC&lt;/strong&gt; by an osmium complex, followed by reductive quenching with ascorbate, enables efficient formation of &lt;strong&gt;PTC&lt;/strong&gt;&lt;strong&gt;·&lt;/strong&gt;&lt;strong&gt;&lt;sup&gt;–&lt;/sup&gt;&lt;/strong&gt; with near-unity cage escape efficiency. Combined electrochemical, spectroscopic and computational analyses reveal an excited state oxidation potential of &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;ox&lt;/sub&gt;(&lt;strong&gt;*PTC&lt;/strong&gt;&lt;strong&gt;·&lt;/strong&gt;&lt;strong&gt;&lt;sup&gt;–&lt;/sup&gt;&lt;/strong&gt;) ∼ –2.6 V vs SCE. Ultrafast two-color pump–pump–probe transient absorption spectroscopy identifies a short-lived excited doublet state (&lt;span style="font-style:italic;"&gt;τ&lt;/span&gt; = 9.0 ps), thereby excluding the involvement of solvated electrons. The system enables biphotonic red light-driven reduction of quaternary ammonium compounds in water, including a harmful benzalkonium pollutant. Notably, the anionic nature of &lt;strong&gt;PTC&lt;/strong&gt;&lt;strong&gt;·&lt;/strong&gt;&lt;strong&gt;&lt;sup&gt;–&lt;/sup&gt;&lt;/strong&gt; in combination with its short excited state lifetime enabled selective reductions of cationic substrates via ion-pairing in the presence of anionic substrates. These in-depth spectroscopic and mechanistic investigations as well as initial applications establish&lt;strong&gt;PTC&lt;/strong&gt;&lt;strong&gt;·&lt;/strong&gt;&lt;strong&gt;&lt;sup&gt;–&lt;/sup&gt;&lt;/strong&gt; as organic radical super-reductant for aqueous photoredox catalysis.&lt;/span&gt;</description>
+</item>
+<item>
+<title>On the Factors Influencing Electrode Poisoning and Recovery for Isopropanol Oxidation on Platinum</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c01692/5362052/On-the-Factors-Influencing-Electrode-Poisoning-and</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c01692</guid>
+<pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The isopropanol-acetone redox couple, consisting of two abundant and inexpensive chemicals, is a potential energy and hydrogen transport/storage vector. The selective electrooxidation of isopropanol (IPA) to acetone has primarily been explored on platinum-group metals and their alloys. Given their high cost and relative scarcity, strategies are needed to ensure that these catalysts are used efficaciously without sacrificing device performance (e.g., power densities, energy/faradaic efficiencies, and longevity). While three-electrode experiments provide a means to estimate catalytic activity, metrics obtained from literature-sourced cyclic voltammetry (CV) are concerningly discrepant. To clarify the reasons for such a range in observed behavior, we perform CV experiments in quiescent electrolyte and using a rotating disk electrode. We find that small amounts of impurities suppress IPA oxidation, especially under convection. Furthermore, scan rate, convection, electrolyte purity, and IPA concentration can individually substantially influence the reaction rate, explaining some of the breadth in the published literature. Because the accumulation of impurities and reactive intermediates at the surface over time convolutes the understanding of CVs, we also perform chronoamperometry (CA) experiments to assess the timescales, extent, and persistence of performance decay. Finally, we show, through modeling and experiments, that potential pulsing offers a way to repeatedly recover catalyst performance and increase average reaction rates. Without a dynamic strategy to sustain IPA oxidation, measures of performance from transient means (e.g., CV or CA) are challenging to contextualize for durational performance.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Thermally Regulated Photocarrier Dynamics Govern the Evolution of Key Intermediates in Photothermal Dry Reforming of Methane</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c03698/5360934/Thermally-Regulated-Photocarrier-Dynamics-Govern</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c03698</guid>
+<pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Photothermal catalysis offers a promising pathway for the conversion of CH&lt;sub&gt;4&lt;/sub&gt; and CO&lt;sub&gt;2&lt;/sub&gt; into value-added chemicals at relatively lower temperatures than conventional thermocatalysis, and understanding the synergy between photogenerated charge carriers and thermal energy is essential for the precise manipulation and rational design of this reaction. Ni/ZnO serves as a model catalyst for investigating the photothermal synergistic mechanism in dry reforming of methane (DRM). Femtosecond transient absorption spectroscopy (TAS) reveals that Ni loading introduces interfacial defect states that accelerate the trapping of photogenerated holes and electrons from the ZnO band-edge states, thereby redistributing the carrier-relaxation pathways. Temperature-dependent TAS further shows that thermal fields promote the transfer of photogenerated electrons to Ni nanoparticles by enabling the thermal detrapping of defect-trapped electrons and accelerating interfacial electron injection at elevated temperatures. In situ TAS under reactive atmospheres shows that CH&lt;sub&gt;4&lt;/sub&gt; and CO&lt;sub&gt;2&lt;/sub&gt; introduce additional photocarrier-depletion channels during DRM, with an apparent carrier-consumption efficiency of approximately 61%. Corroborated by in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS), these results suggest that enhanced photocarrier utilization promotes the formation and transformation of key intermediates (CH&lt;sub&gt;x&lt;/sub&gt;O* and HCOO*) under photothermal conditions. This more efficient utilization of photogenerated carriers is associated with markedly reduced apparent activation barriers for DRM, lowering the activation energies for CO and H&lt;sub&gt;2&lt;/sub&gt; formation by 29.4 and 27.1%, respectively. This study reveals how thermal fields modulate photogenerated charge dynamics, provides essential insights into photothermal synergistic effects, and guides the design and optimization of more efficient photothermal catalytic systems.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Revealing a Pretreatment-Induced ZnO/Na–Fe 2 C Working Interface for CO 2  Hydrogenation to C 2+  Oxygenates</title>
 <link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c04643/5352587/Revealing-a-Pretreatment-Induced-ZnO-Na-Fe2C</link>
 <guid>http://dx.doi.org/10.1021/acscatal.6c04643</guid>
@@ -73,6 +94,13 @@
 <guid>http://dx.doi.org/10.1021/acscatal.6c04965</guid>
 <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c04965/5347469/Beyond-Conductive-Supports-Carbon-Regulated"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/pap/10.1021_acscatal.6c04965/1/m_cs-2026-04965c_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cu-based catalysts in contact with carbon supports are promising for electrochemical CO&lt;sub&gt;2&lt;/sub&gt; reduction, with their product selectivity strongly governed by the local interfacial microenvironment. Carbon supports are typically regarded as passive conductive scaffolds, yet their role in programming the Cu interfacial microenvironment remains underexplored. Here, we identify the carbon defect state as a structural descriptor for reorganizing interfacial water and regulating CO&lt;sub&gt;2&lt;/sub&gt; reduction pathways, establishing a defect water-*CO selectivity relationship across carbon powder (CP)-, fullerene (C&lt;sub&gt;60&lt;/sub&gt;)-, and graphene (GNS)- supported Cu catalysts. CP/Cu strongly biases the reaction pathway toward CO and C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; formation (FE&lt;sub&gt;CO&lt;/sub&gt; = 48.7%, FE&lt;sub&gt;C2H4&lt;/sub&gt; = 50.6%), representing about a 3.7-fold enhancement in C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; selectivity compared with GNS/Cu. In sharp contrast, GNS/Cu redirects the reaction toward the hydrogenation-dominated CH&lt;sub&gt;4&lt;/sub&gt; pathway (FE&lt;sub&gt;CH4&lt;/sub&gt; = 43.1%, approximately 15 times higher than that of CP/Cu), while C&lt;sub&gt;60&lt;/sub&gt;/Cu yields a transitional selectivity regime between the two extremes. &lt;span style="font-style:italic;"&gt;In situ&lt;/span&gt; infrared spectroscopy reveals carbon-dependent *CO adsorption and distinct interfacial hydrogen-bonding environments near Cu sites. These carbon-dependent water-related spectral signatures correlate with the divergent evolution of *CO-derived intermediates and the resulting product selectivity trends. This work identifies carbon supports as active microenvironment modulators and provides a defect engineering strategy for tuning Cu-based CO&lt;sub&gt;2&lt;/sub&gt; electroreduction.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Efficient and Stereoselective Enzymatic Synthesis of Multisubstituted  α , β -Diamino Acid</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c03940/5356875/Efficient-and-Stereoselective-Enzymatic-Synthesis</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c03940</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;α,β-Diamino acids are privileged motifs present in numerous bioactive natural products and synthetic molecules, yet their asymmetric synthesis remains challenging and limited in scope. Herein, we repurpose &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;l&lt;/span&gt;-threonine aldolases to catalyze a stereoselective intermolecular Mannich-type reaction, enabling the direct and scalable synthesis of densely functionalized α,β-diamino acids. By exploiting enzyme sequence diversity, we accessed more than 50 derivatives from simple precursors with high efficiency (up to 97% yield) and selectivity (up to &amp;gt;99% d.r. and &amp;gt;99% e.r.). The reaction achieves total turnover numbers of up to 18,000 and titers reaching 77.4 g L&lt;sup&gt;–1&lt;/sup&gt;, representing the highest reported productivity for this class of biocatalytic transformation and meeting key benchmarks for industrial application. Mechanistic investigations suggest that the deprotonation of glycine contributes to the rate-determining step of the highly efficient catalytic cycle. Selected derivatives were shown to effectively suppress osteoclastogenesis, identifying a chemotype with potential for osteoporosis intervention.&lt;/span&gt;</description>
 </item>
 <item>
 <title>[Graphical abstract added] [ASAP] Adjacent Metal Sites Steering Sequential C–H Activation and C–C Coupling for Efficient Methane Conversion to Ethanol</title>
@@ -1025,34 +1053,6 @@
 <guid>http://dx.doi.org/10.1021/acscatal.6c01299</guid>
 <pubDate>Mon, 13 Jul 2026 12:00:00 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acscatal.6c01299/asset/images/medium/cs6c01299_toc.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c01299&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Upgrading Lignin Monomers with Alcohols via Selective C−C Coupling over a Defective CdZnS Photocatalyst</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c01949</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c01949</guid>
-<pubDate>Mon, 13 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acscatal.6c01949/asset/images/medium/cs6c01949_toc.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c01949&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Chemo-enzymatic Total Synthesis and Combinatorial Biosynthesis of Maculalactones Enables Discovery of Anticancer Agents</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c02607</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c02607</guid>
-<pubDate>Mon, 13 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c02607/5/m_cs-2026-02607m_0006.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c02607&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Modulating Interfacial Molecular Vibration for Enhanced CO Electrolysis via Coated-Carbon Layers</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c03047</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c03047</guid>
-<pubDate>Mon, 13 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/pap/10.1021_acscatal.6c03047/1/m_cs-2026-030479_0007.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c03047&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Switch CO2 Hydrogenation Selectivity from CH4 to CO by Decorating Sulfur on Ru Nanoparticles</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c03222</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c03222</guid>
-<pubDate>Mon, 13 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c03222/5/m_cs-2026-03222e_0007.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c03222&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
