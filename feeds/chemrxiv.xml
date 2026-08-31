@@ -327,6 +327,13 @@
 <description>Electrochemical systems couple reaction kinetics and mass transport across multiple temporal and spatial scales. To address this multiscale coupling, we present an integrated Julia-based simulation framework for defining and solving complex kinetic–...</description>
 </item>
 <item>
+<title>Kinetic Criteria for Finite CSTR Staging toward Plug-Flow Performance</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007934/v2?af=R</link>
+<guid>10.26434/chemrxiv.15007934/v2</guid>
+<pubDate>2026-08-31T07:33:58Z</pubDate>
+<description>Finite CSTR cascades converge hydrodynamically toward plug flow as the number of stages increases, but the number of stages required to preserve reaction performance cannot be determined from residence-time variance alone. This work derives a ...</description>
+</item>
+<item>
 <title>Interface-Engineered MXene/TMD Heterostructures for Efficient Hydrogen Evolution: Progress, DFT-Guided Mechanisms, and Perspectives</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007800/v2?af=R</link>
 <guid>10.26434/chemrxiv.15007800/v2</guid>
@@ -1045,13 +1052,6 @@
 <guid>10.26434/chemrxiv.15007936/v1</guid>
 <pubDate>2026-08-27T08:44:39Z</pubDate>
 <description>Chemical substitution o!ers a powerful route to tune molecular quantum materials, but its e!ects on optical decoherence extend beyond the simple dilution of interacting emitters; here, we investigate these e!ects in the molecular crystal [Eu(III)(TMHD)3(...</description>
-</item>
-<item>
-<title>Inducing Surface Symmetry Breaking via Organic Molecule Templating for Phase-Stable Halide Perovskites</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007935/v1?af=R</link>
-<guid>10.26434/chemrxiv.15007935/v1</guid>
-<pubDate>2026-08-27T08:42:33Z</pubDate>
-<description>Local symmetry breaking in soft ionic semiconductors can control functional properties, yet deliberate spatial confinement of structural desymmetrisation via chemical programming remains unexplored. Here we present a mechanism to induce surface-localised ...</description>
 </item>
 </channel>
 </rss>
