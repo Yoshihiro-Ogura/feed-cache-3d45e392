@@ -5,6 +5,75 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Hydrogen Spillover
+from Pt, Pd, and Au Evaluated with
+MnO  x   Temperature-Programmed Reduction</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00822/5387313/Hydrogen-Spillover-from-Pt-Pd-and-Au-Evaluated</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00822</guid>
+<pubDate>Mon, 31 Aug 2026 18:00:50 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00822/5387313/Hydrogen-Spillover-from-Pt-Pd-and-Au-Evaluated"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00822/1/m_au6c00822_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Hydrogen spillover occurs when H&lt;sub&gt;2&lt;/sub&gt; adsorbs
+on an active
+metal and is then transferred to a reducible metal oxide. While spillover
+is involved in many catalytic reactions, fundamental studies of spillover
+have been limited by the paucity of experimental methods available
+to study it. Here, we develop an experimental temperature-programmed
+reduction (TPR) protocol to rapidly compare spillover from different
+metals (Pt, Pd, Au ) onto P25 titania, using MnO&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt; reduction probe reaction. X-ray photoelectron and UV–visible
+spectroscopies indicated reduction to MnO in the presence and absence
+of active metals, and quantitative H&lt;sub&gt;2&lt;/sub&gt; consumption measurements
+were consistent across all samples. Observed MnO&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt; reduction temperatures, which decrease by shifting as much
+as 150 °C, depend strongly on the metal loading and confirm H&lt;sub&gt;2&lt;/sub&gt; activation occurs at metal sites. Adding only 300 ppm Au
+caused the Kissinger apparent activation energy to decrease from 55
+to &amp;lt;10 kJ/mol. Comparisons across metals and loadings indicate
+that MnO&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt; reduction is limited by H&lt;sub&gt;2&lt;/sub&gt; activation only at very low metal loadings and temperatures.
+Gold induces the largest shift in MnO&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt; reduction, indicating that it is the most competent spillover metal
+under these conditions. At moderately higher loadings (≥1 site/100
+nm&lt;sup&gt;2&lt;/sup&gt;), Pt and Au become equivalent, signaling that MnO&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt; reduction is no longer limited by H&lt;sub&gt;2&lt;/sub&gt; activation at higher metal loadings. Palladium is moderately
+slower, consistent with the generation of a PdH&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt; phase at low temperature. At higher active site loadings,
+MnO&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt; reduction depends primarily on the
+surface concentration of spillover H, providing a simple and useful
+approach for comparing catalysts.&lt;/span&gt;</description>
+</item>
+<item>
+<title>MacroTox: A Macroscopic
+Graph Topology-Based Multimodal
+Learning Framework for Robust Molecular Toxicity Prediction</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01105/5386822/MacroTox-A-Macroscopic-Graph-Topology-Based</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01105</guid>
+<pubDate>Mon, 31 Aug 2026 17:00:52 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01105/5386822/MacroTox-A-Macroscopic-Graph-Topology-Based"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01105/1/m_au6c01105_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Despite breakthroughs in predicting acute organ toxicities,
+advanced
+computational models continue to struggle with complex, insidious
+end points like drug-induced bone toxicity. A fundamental limitation
+of most supervised pipelines is their failure to explicitly model
+intermolecular similarities during task-specific training. Neglecting
+this macroscopic topology of the chemical space leads to fragmented
+latent representations, poor generalization, and high false negative
+rates. To address this, we propose MacroTox, a macroscopic topology-driven
+multimodal deep learning framework. Beyond intramolecular fusion,
+its core innovation is the dynamic construction of an intrabatch drug–drug
+similarity graph. Guided by a topology-aware synergistic optimization,
+this mechanism captures latent network correlations, maximizing the
+utilization of the chemical space to resolve representational fragmentation
+and enhance the predictive capacity under data scarcity. Evaluated
+on
+a rigorously curated bone toxicity data set, MacroTox achieved an
+area under the receiver operating characteristic curve of 0.93 and
+a Matthews correlation coefficient of 0.73. Crucially, it effectively
+balances the sensitivity-specificity trade-off (SEN: 0.88, SPE: 0.86),
+substantially mitigating the underreporting risks in bone toxicity
+screening. Notably, ablation studies confirm that these predictive
+enhancements stem from the synergistic effect of dynamic graph topology
+and edge loss regularization. Extensive benchmarking of MoleculeNet
+further confirms its robust transferability. Furthermore, via multilevel
+feature attribution, MacroTox elucidates chemically intuitive structure–activity
+relationships. By pinpointing specific toxicophores and resolving
+complex activity cliffs, the framework proves that it captures authentic
+toxicological mechanisms rather than memorizing superficial data set
+biases. Ultimately, MacroTox offers an reliable, generalizable, and
+interpretable virtual screening engine for early stage drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Assessing G-Quadruplex
 Stability and Nonspecific
 Interactions in Living Cells Using  19 F NMR</title>

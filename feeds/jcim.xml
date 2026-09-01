@@ -5,6 +5,208 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Pro-GAT: Reconnecting Fragmented PROTACs Using Graph
+Attention Transformer</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01049/5391811/Pro-GAT-Reconnecting-Fragmented-PROTACs-Using</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01049</guid>
+<pubDate>Tue, 01 Sep 2026 02:01:21 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01049/5391811/Pro-GAT-Reconnecting-Fragmented-PROTACs-Using"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01049/1/m_ci6c01049_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;PROTACs recruit an E3 ligase to a
+protein of interest via a bifunctional
+linker, and their activity is critically dependent on the geometry
+and chemical integrity of that linker. Diffusion-based generative
+models, which operate in continuous coordinate space, lack explicit
+mechanisms for enforcing discrete bond connectivity under fixed anchor
+constraints; as a result, they routinely produce linker structures
+that are geometrically plausible yet chemically disconnected or valence
+invalid. Because these generation artifacts arise from a systematic
+gap between the continuous output space and the discrete requirements
+of chemical bonding, they recur across samples and are not remedied
+by naive resampling. Pro-GAT is a graph attention-based framework
+for geometry-preserving molecular graph repair that operates on chemically
+disconnected diffusion-generated PROTAC candidates by predicting bounded
+coordinate corrections and constrained atom-type modifications through
+geometry-aware graph attention layers. The model is trained on PROTAC
+data sets with introduced disconnections to address systematic connectivity
+challenges inherent to diffusion-based PROTAC generation under fixed
+anchor constraints and recovers 31.58% of disconnected structures
+in the DiffPROTAC test set. When combined with DiffPROTAC and DiffLinker
+fine-tuned on PROTAC-specific data, Pro-GAT improves the proportion
+of chemically valid candidates in the aggregated output from 76.70%
+to 83.92% and from 63.16% to 68.73%, while maintaining uniqueness
+levels of 80.18% and 63.80% among valid candidates, respectively,
+thereby converting otherwise unusable disconnected diffusion outputs
+into viable PROTAC candidates. Structural validation was performed
+across three experimentally characterized ternary complexes: 7Z76
+(SMARCA2–VHL), 7JTO (WDR5–VHL), and 6W8I (BTK–cIAP1),
+where repaired candidates yielded docking scores comparable to reference
+crystal poses across all three systems; in the BTK–cIAP1 case
+(6W8I), repair produced an improvement from −9.9 to −11.3
+kcal/mol, with anchor coordinates fixed throughout repair by construction.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Leveraging a Deep
+Learning Model and Computational
+Screening for the Discovery of ABCG2 Inhibitors against Drug-Resistant
+Breast Cancer</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00582/5388498/Leveraging-a-Deep-Learning-Model-and-Computational</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00582</guid>
+<pubDate>Mon, 31 Aug 2026 20:00:47 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00582/5388498/Leveraging-a-Deep-Learning-Model-and-Computational"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00582/1/m_ci6c00582_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Multidrug resistance (MDR) mediated by ATP-binding cassette
+transporter
+G2 (ABCG2) remains a major clinical challenge in breast cancer chemotherapy,
+primarily due to its role in reducing intracellular adriamycin (ADR)
+concentrations. To address this challenge, we developed an integrated
+computational strategy for the rapid identification of potent ABCG2
+inhibitors capable of reversing ADR resistance. We first established
+the Prediction of Protein–Ligand’s p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;d&lt;/sub&gt; (PPLK), a specialized deep learning model that employs
+multimodal sequence-ligand representations and feedforward neural
+networks to accelerate the discovery of ABCG2 inhibitors. Next, computational
+virtual screening of a compound library (∼1.58 million) was
+conducted, coupled with molecular dynamics simulations, focusing on
+the key binding residues THR542, PHE439, ASN436, and SER440. Among
+the top-ranked candidates, reserpine was validated as a potent ABCG2
+inhibitor, achieving 1.90-fold sensitization in ADR-resistant cells,
+thereby confirming the predictive accuracy of the PPLK model. Notably,
+we identified a small-molecule compound, F0161-0219, as a promising
+ABCG2 inhibitor, which led to a 1.94-fold sensitization enhancement
+in ADR-resistant cells. Direct target engagement of F0161-0219 with
+ABCG2 was confirmed by biolayer interferometry, DARTS, and CETSA assays.
+Collectively, our research underscores the potential of leveraging
+deep learning models and computational screening for the discovery
+of ABCG2 inhibitors.&lt;/span&gt;</description>
+</item>
+<item>
+<title>MolSelector: A
+Machine Learning Framework for Interpretable
+Subset Selection from Molecular Science Data Sets</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01332/5386758/MolSelector-A-Machine-Learning-Framework-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01332</guid>
+<pubDate>Mon, 31 Aug 2026 17:00:52 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01332/5386758/MolSelector-A-Machine-Learning-Framework-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01332/1/m_ci6c01332_0013.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We describe MolSelector,
+a machine learning framework for selecting
+representative subsets of molecular science data sets for efficient
+and accurate neural network training. As part of MolSelector, we introduce
+the interpretable Atypicality Score algorithm, which identifies molecules
+that are typical versus atypical of their data set and selects a representative
+sample of the data set on that basis. These subsets can be used for
+subsequent neural network training, leading to fast model training
+with reduced memory requirements while still maintaining low test
+set error across several molecular property prediction tasks. Our
+experiments demonstrated that the Atypicality Score subsets resulted
+in errors close to the errors obtained when the entire training set
+is used, while achieving a 3× or greater training time speedup
+compared to this baseline. Additionally, we analyzed the Atypicality
+Score algorithm’s typical and atypical molecule assignments
+to gain insight into the molecular characteristics the algorithm determined
+most beneficial for subset selection.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Probe-Atom Distributions
+Obtained from Mixed-Solvent
+Molecular Dynamics Improve the Scoring of Docking Calculations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00947/5386756/Probe-Atom-Distributions-Obtained-from-Mixed</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00947</guid>
+<pubDate>Mon, 31 Aug 2026 17:00:52 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00947/5386756/Probe-Atom-Distributions-Obtained-from-Mixed"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00947/1/m_ci6c00947_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Structure-based virtual screening (VS) is widely used
+for the computational
+selection of drug candidates from compound libraries. Protein–ligand
+docking calculations are often performed as key steps in the early
+stages of this process. However, current docking calculations have
+limited accuracy. Thus, improvements are needed to more efficiently
+identify promising drug candidates. In this study, we performed mixed-solvent
+molecular dynamics (MSMD) simulations using four types of probe molecules
+to improve the accuracy of large-scale VS. We proposed a method for
+the modification of the docking scoring function for five selected
+atom classifications (XS_types). This approach integrated the grid
+free energy derived from the relevant atoms across the probe molecules.
+VS experiments conducted on nine target proteins showed improved accuracy,
+with the average EF&lt;sub&gt;1%&lt;/sub&gt; increasing from 6.65 to 7.36. Our
+method may facilitate drug discovery with higher accuracy than that
+of conventional methods.&lt;/span&gt;</description>
+</item>
+<item>
+<title>GAPEK: A General
+Framework for Multiparameter Enzyme
+Kinetic Prediction with Adaptive Learning</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02546/5385492/GAPEK-A-General-Framework-for-Multiparameter</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02546</guid>
+<pubDate>Mon, 31 Aug 2026 14:01:34 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02546/5385492/GAPEK-A-General-Framework-for-Multiparameter"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02546/1/m_ci6c02546_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The enzyme kinetic parameters, including the turnover
+number, Michaelis
+constant, and inhibition constant, are key metrics for assessing catalytic
+performance. Although deep learning models have recently incorporated
+multimodal information from enzymes and substrates to predict these
+parameters, several obstacles still persist. First, current data sets
+suffer from limited size, inconsistency, and a lack of unified standards.
+Second, most existing approaches prioritize cross-modal consistency
+but fail to sufficiently exploit the unique information residing in
+each individual modality. Meanwhile, although a limited number of
+studies have recognized that collaborative exploration of shared and
+specific information can enhance model performance, these methods
+remain difficult to directly apply to enzyme–substrate pairs,
+as enzyme–substrate relationships are inherently interactive
+rather than semantically equivalent counterparts. Third, the measured
+kinetic parameters are often unevenly distributed, which severely
+undermines the predictive accuracy of existing models when dealing
+with extreme value ranges. To resolve the above challenges, we first
+compile Kinetic-DB, a large-scale and consistently formatted data
+set from public resources. Building upon this data set, we develop
+GAPEK, a new framework for estimating enzyme kinetic parameters. In
+particular, an adaptive data augmentation module is devised to enrich
+the diversity of both enzyme and substrate sequences, thereby alleviating
+the adverse effects of data imbalance. Subsequently, we perform feature
+extraction using two pretrained models, ESM-2 for enzymes and Mole-BERT
+for substrates, to obtain multimodal embeddings. To decouple these
+complex interacting features, we introduce a tailored dual information
+exploration module to capture both modality-specific and cross-modal
+information, further refined by domain classification and distribution
+alignment loss functions. To explicitly handle the imbalanced data
+distribution, our base model, GAPEK, incorporates an adaptive density-weighted
+loss function. Building on this, we propose GAPEK+, which integrates
+the Squared Error Relevance Area (SERA) function to reconfigure the
+learning objective. By prioritizing high-relevance regions, GAPEK+
+effectively calibrates the model’s sensitivity to rare but
+critical extreme values, substantially mitigating the prediction bias
+inherent in heavy-tailed regression tasks. Experimental results demonstrate
+that both GAPEK and GAPEK+ achieve superior performance over existing
+state-of-the-art approaches, particularly across extreme parameter
+ranges, highlighting their potential as valuable tools applicable
+to enzyme engineering, synthetic biology, and drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>In-Context Learning
+Meets Small Molecule Property
+Prediction: Benchmarking Novel Machine Learning Approaches</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02361/5382778/In-Context-Learning-Meets-Small-Molecule-Property</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02361</guid>
+<pubDate>Mon, 31 Aug 2026 09:01:06 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02361/5382778/In-Context-Learning-Meets-Small-Molecule-Property"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02361/1/m_ci6c02361_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Recently,
+a new category of machine learning approaches for tabular
+data has emerged: tabular foundation models (TFM), based on in-context
+learning. A TFM is a neural network (usually a transformer) pretrained
+primarily on synthetic data. Its input is an entire data set: features
+and labels for training records, along with features for the target
+records. This study comprehensively benchmarked these methods for
+predicting the properties of small organic molecules. Several TFM
+were compared with multiple machine learning methods across 11 data
+sets (regression, random and structure-aware splits, up to 10,000
+molecules each). The evaluation showed that TFM consistently outperform
+XGBoost, CatBoost, multilayer perceptrons, and other descriptor-based
+methods, even with careful hyperparameter selection for the baselines.
+TFM also demonstrate accuracy on par with or better than graph-based
+methods, including those pretrained on chemical data. Uni-Mol2, a
+pretrained deep neural network operating on 3D atomic coordinates,
+slightly outperforms TFM in some experiments. However, this comparison
+deliberately disfavors TFM, as they do not use any chemical pretraining
+and rely on a minimalistic set of 2D molecular descriptors without
+feature engineering. Some further improvement in results for relatively
+large data sets and random splits is achieved using retrieval: for
+each test molecule, the 500 closest neighbors (by Tanimoto similarity)
+are selected from the training set, and TFM inference is performed
+on this local subset. Overall, TFM (particularly the TabPFN family)
+are highly promising for predicting the properties of small molecules.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Rational Polyligand
 Design for G-Quadruplex
 Multimer Stabilization</title>
@@ -2236,48 +2438,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.5c02072</guid>
 <pubDate>Wed, 01 Jul 2026 04:41:36 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c02072/asset/images/medium/ci5c02072_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c02072&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] HyperDC: A Non-Uniform Hypergraph Framework for Dual- and Higher-Order Drug Combination Recommendation Across Diverse Complex Diseases</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01470</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01470</guid>
-<pubDate>Wed, 01 Jul 2026 01:12:36 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01470/asset/images/medium/ci6c01470_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01470&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Structural and Thermodynamic Discrimination between Agonists and Antagonists of Retinoic Acid Receptor γ and the Vitamin D Receptor</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00912</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00912</guid>
-<pubDate>Tue, 30 Jun 2026 12:51:44 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00912/asset/images/medium/ci6c00912_0014.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00912&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Correction to “AstraMEV (AI-Guided Structural Assembly of Multi-Epitope Vaccines) Against Infectious Bronchitis Virus”</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01969</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01969</guid>
-<pubDate>Tue, 30 Jun 2026 11:46:13 PDT</pubDate>
-<description>&lt;p&gt;&lt;a href="http://dx.doi.org/10.1021/acs.jcim.6c01969"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/issue/66/13/2/m_jcisd8.2026.66.issue-13.xlargecover.jpeg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01969&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] MolPy: A Large Language Model-Friendly Toolkit for Reactive Topology Editing in Polymer Simulations</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01137</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01137</guid>
-<pubDate>Tue, 30 Jun 2026 11:23:37 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01137/asset/images/medium/ci6c01137_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01137&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] PACEff Builder: An Efficient Platform for Constructing PACE Hybrid-Resolution Models for Molecular Dynamics Simulations of Aqueous Protein, Peptide Assembly, and Membrane Protein Systems</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01443</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01443</guid>
-<pubDate>Tue, 30 Jun 2026 08:21:38 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01443/asset/images/medium/ci6c01443_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01443&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Molecular Mechanisms of KIT Receptor Dimerization and Oncogenic Activation Revealed by Multiscale Simulations</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00160</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00160</guid>
-<pubDate>Tue, 30 Jun 2026 07:53:10 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00160/asset/images/medium/ci6c00160_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00160&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
