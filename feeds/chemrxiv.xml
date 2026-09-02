@@ -299,6 +299,13 @@
 <description>Scoring functions built with advanced deep learning algorithms have recently gained prominence in protein-ligand pose generation and binding affinity prediction for computational drug design. However, a number of shortcomings make it increasingly ...</description>
 </item>
 <item>
+<title>Rescuable Stagnation: A Diagnostic for Benchmark Suitability in LLM-Guided Materials Optimization</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007890/v3?af=R</link>
+<guid>10.26434/chemrxiv.15007890/v3</guid>
+<pubDate>2026-09-02T03:00:53Z</pubDate>
+<description>Large language models (LLMs) are increasingly incorporated into closed-loop materials optimization, yet existing benchmarks provide little controlled evidence of what they contribute once Bayesian optimization stalls. We introduce a benchmark ...</description>
+</item>
+<item>
 <title>Ordered interfacial assembly of rough microellipsoids</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003744/v3?af=R</link>
 <guid>10.26434/chemrxiv.15003744/v3</guid>
@@ -1043,13 +1050,6 @@
 <guid>10.26434/chemrxiv.15006300/v2</guid>
 <pubDate>2026-08-31T06:27:44Z</pubDate>
 <description>Our previous studies on the hydrogen evolution reaction (HER) catalyzed by Pt(II)-based molecular catalysts often demonstrated a second-order dependence of the HER rate on the catalyst concentration, suggesting the importance of stabilizing a ...</description>
-</item>
-<item>
-<title>Rapid acid-catalyzed synthesis and surface modification of isopropanol-derived carbon dots</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008052/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008052/v1</guid>
-<pubDate>2026-08-31T06:25:36Z</pubDate>
-<description>A rapid acid-catalyzed carbonization route was developed for the synthesis of carbon dots from isopropyl alcohol in concentrated sulfuric acid. Initial screening showed that reaction at 150–170 °C produced nanoparticles with narrow size distributions. The ...</description>
 </item>
 </channel>
 </rss>
