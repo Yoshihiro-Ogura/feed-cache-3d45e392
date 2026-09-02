@@ -5,6 +5,171 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Performances and Critical Limitations of Docking and
+Protein–Ligand Interactions for Efficacy-Driven Virtual Screening
+Targeting Class A GPCRs</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02252/5398497/Performances-and-Critical-Limitations-of-Docking</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02252</guid>
+<pubDate>Tue, 01 Sep 2026 17:01:06 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02252/5398497/Performances-and-Critical-Limitations-of-Docking"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02252/1/m_ci6c02252_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Structure-based virtual
+screening of chemical libraries is an established
+and widely used strategy for identifying novel ligands for G-protein-coupled
+receptors. An enhancement based on integrating protein–ligand
+interaction with docking has previously been proposed, but its actual
+impact on improving screening outcomes has remained unclear. Here,
+we present a comprehensive assessment based on systematic benchmarking
+using a diverse set of class A G-protein-coupled receptors and different
+approaches to represent protein–ligand, including dynamic patterns
+extracted from molecular dynamics simulations. Our results demonstrate
+that the combined approach overall improves the efficacy bias of selected
+ligands as compared to docking alone (ranking by scoring function).
+All tested variations prove broadly functional; however, the most
+sophisticated one─incorporating simulation and a learning model─emerges
+as the most robust alternative for a prospective setting. The analysis
+of two prospective cases, the design of both agonists and antagonists
+of CNR1 and the more challenging search for CXCR4 nonpeptidic agonist,
+reveals both great potential and inherent structural limitations,
+highlighting the need for an accurate and suitable three-dimensional
+structure.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Adaptive Topology-Semantic
+Fusion Contrastive Learning
+for Drug Repositioning</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01393/5398384/Adaptive-Topology-Semantic-Fusion-Contrastive</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01393</guid>
+<pubDate>Tue, 01 Sep 2026 17:01:06 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01393/5398384/Adaptive-Topology-Semantic-Fusion-Contrastive"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01393/1/m_ci6c01393_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug repositioning offers an efficient alternative to
+de novo drug
+development; however, accurately identifying potential drug–disease
+associations remains challenging. Existing methods do not fully exploit
+higher-order collaborative information at the drug–drug and
+disease–disease levels, and their feature fusion strategies
+are often static, lacking adaptability to node-specific differences.
+To address these limitations, we propose ATSFCL-DR, an adaptive topology–semantic
+fusion contrastive learning framework for drug repositioning. The
+method constructs a topology graph and a semantic graph, and introduces
+an adaptive fusion strategy to integrate node representations learned
+from these two views, thereby enabling more effective use of higher-order
+information. In addition, the framework designs a multiview fusion
+contrastive learning mechanism to enhance the consistency and discriminative
+ability of cross-view representations. To mitigate the noise introduced
+during higher-order neighborhood aggregation, the framework further
+incorporates a layer-level contrastive learning objective to improve
+the robustness of representation learning. Experiments using 10 repetitions
+of 10-fold cross-validation on three public benchmark data sets show
+that ATSFCL-DR outperforms representative baseline methods, achieving
+an average AUROC of 0.9093 and an average AUPR of 0.5362. Furthermore,
+by predicting previously unknown drug–disease associations
+on the Gdata set and validating them against authoritative databases,
+ATSFCL-DR identifies pramipexole as a promising candidate drug for
+Alzheimer’s disease. In summary, ATSFCL-DR provides an effective
+approach for drug–disease association prediction and candidate
+drug screening by adaptively integrating topological and semantic
+information within a contrastive learning framework.&lt;/span&gt;</description>
+</item>
+<item>
+<title>KinEAGER: An Evidence-Aware
+Multitask Model with Calibrated
+Uncertainty for Enzyme Kinetics Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02075/5396673/KinEAGER-An-Evidence-Aware-Multitask-Model-with</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02075</guid>
+<pubDate>Tue, 01 Sep 2026 13:01:26 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02075/5396673/KinEAGER-An-Evidence-Aware-Multitask-Model-with"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02075/1/m_ci6c02075_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Public enzyme-kinetics records have
+labels that are incomplete
+across tasks, assay conditions that vary across sources, and structure-associated
+evidence that is not uniformly available. Consequently, naive multimodal
+concatenation is limited, and scores from random splits are weak proxies
+for deployment performance. We present KinEAGER, an evidence-aware
+multitask framework that jointly predicts &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt; and &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;m&lt;/sub&gt; and analytically derives &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt;/&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;m&lt;/sub&gt; under missing
+modalities and distribution shift. KinEAGER combines frozen ESM-2
+and MolT5 encoders, low-rank adapters (LoRA), cross-modal interaction
+layers, availability-aware soft gating, domain-by-task heteroscedastic
+training, and a &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt; specialist engaged
+according to distance from the training distribution for out-of-distribution
+(OOD) queries; three independently trained models form a deep ensemble
+that supplies sample-level uncertainty. On a grouped enzyme–substrate
+split, &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt; reaches a MAE of 0.719 (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.542) and &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;m&lt;/sub&gt; reaches a MAE of 0.722 (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.737)
+in log&lt;sub&gt;10&lt;/sub&gt; units, with a macro-average MAE of 0.817. Under
+sequence-cluster OOD evaluation, KinEAGER achieves the lowest MAE
+among the locally evaluated models and approaches the performance
+reported for CatPred. Three-run ablations show a consistent pattern:
+the Full configuration gives the best overall performance, structure
+randomization causes the largest degradation in point prediction,
+domain-by-task uncertainty primarily improves NLL and coverage, and
+either physicochemical or structural evidence alone is weaker than
+the Full configuration. Prediction disagreement among the three independent
+models is positively correlated with absolute error (macro-average
+Spearman correlation 0.144). When ensemble disagreement is used as
+a split-conformal normalizer, validation-calibrated sample-adaptive
+intervals achieve empirical coverage of 0.903/0.951 at the nominal
+90%/95% levels (Cov90/Cov95). Calibration degrades on new data sources,
+while a small target-source calibration set can restore coverage.
+A Nitrocefin assay on four beta-lactamases reproduces the predicted
+HIGH/LOW ranking, with KPC-family 0G8 exceeding the CTX-M-1 reference.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Coupled-Cluster
+Theory for Water Empowered by Quantum
+Fragmentation and Deep Learning</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01715/5395515/Coupled-Cluster-Theory-for-Water-Empowered-by</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01715</guid>
+<pubDate>Tue, 01 Sep 2026 11:01:45 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Water exhibits many anomalous properties, which have
+given rise
+to uninterrupted interest in it. A large number of theoretical models
+have been proposed to elucidate the unique behavior of water, yet
+the long-sought-after “universal water model” capable
+of describing the properties of water across diverse thermodynamic
+conditions remains elusive. Herein, combining advanced fragment-based
+quantum mechanical calculation and deep learning approach, we present
+a Deep neural network Potential at the Coupled Cluster considering
+single, double, and perturbative triple excitations (CCSD(T)) level
+of theory (DP-CC) to represent the first-principles potential energy
+surface of water. Utilizing the DP-CC potential, our simulations demonstrate
+overall good agreement with experimental observations regarding the
+structural, dynamical, and thermodynamic properties of liquid water
+and ice Ih. The DP-CC potential provides a reliable way for efficient
+coupled-cluster-level simulations of liquid water and ice Ih, which
+may contribute to a better understanding of the origin of the anomalous
+water properties.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Simulation-Free Topological Basis for Building Compact
+Koopman Models of Protein Folding</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01905/5395304/A-Simulation-Free-Topological-Basis-for-Building</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01905</guid>
+<pubDate>Tue, 01 Sep 2026 10:01:43 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Unravelling protein-folding
+mechanisms and kinetics is a key challenge
+to biochemical science. The variational approach for Markov processes
+(VAMP) is a powerful tool to build Markov Models that capture key
+kinetic and structural information despite the conformational complexity
+and long time scales associated with protein folding. However, VAMP-based
+Markov models use data from exhaustive molecular dynamics (MD) simulations
+to construct an underlying basis set describing the “coarse-grained”
+kinetics; the same MD data can be used to predict transition probabilities
+between partitioned configuration space, enabling the extraction of
+folding time scales and mechanism. Here, we propose an alternative
+strategy for Markov model construction that does not rely on extensive,
+computationally demanding MD data for configuration space partitioning.
+Specifically, we show that graph-driven sampling (GDS) can generate
+a complete “landscape” of intermediate contact-maps
+linking unfolded and folded protein conformations; importantly, extensive
+MD simulations are not required in GDS. When combined with a physically
+intuitive shortest-contact-hop metric to discriminate different intermediate
+states, GDS mapping of protein-folding configuration space generates
+a reliable “structurally aware” partitioning for VAMP
+model construction. To demonstrate this strategy, we show that a GDS-constructed
+Markov model variationally improves folding time scale estimates for
+all-atom models of the WW domain protein─and has the additional
+advantage of easily resolving kinetic traps in the folding landscape
+that have proven challenging to confirm otherwise. Together, the combination
+of GDS and VAMP opens a new route toward rapid characterization of
+protein-folding intermediates and kinetics traps to help address frontier
+challenges such as protein misfolding, aggregation, and protein design.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Pro-GAT: Reconnecting Fragmented PROTACs Using Graph
 Attention Transformer</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01049/5391811/Pro-GAT-Reconnecting-Fragmented-PROTACs-Using</link>
@@ -2403,41 +2568,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00617</guid>
 <pubDate>Fri, 03 Jul 2026 12:00:00 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00617/asset/images/medium/ci6c00617_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00617&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] QSAR in the Browser: An Interactive Cheminformatics Web Application</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01010</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01010</guid>
-<pubDate>Fri, 03 Jul 2026 07:18:50 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01010/asset/images/medium/ci6c01010_0003.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01010&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Derisking Affinity Optimization for Macrocycles and Cyclic Peptides: High-Precision Free Energy Simulations across Five Diverse Targets</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01122</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01122</guid>
-<pubDate>Fri, 03 Jul 2026 02:50:52 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01122/asset/images/medium/ci6c01122_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01122&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] An End-User Audit of Reproducibility, Data Leakage, and Overfitting of the Top-Ranked ADMET Prediction Models in TDC Leaderboards</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00819</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00819</guid>
-<pubDate>Thu, 02 Jul 2026 06:53:28 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00819/asset/images/medium/ci6c00819_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00819&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] PFASGroups: An Open-Source Framework for Automated Identification, Structural Classification, and Prioritization of Per- and Polyfluoroalkyl Substances</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01058</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01058</guid>
-<pubDate>Thu, 02 Jul 2026 05:11:08 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01058/asset/images/medium/ci6c01058_0003.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01058&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] DeepKbhb: Context-Aware Prediction of Human Lysine β-Hydroxybutyrylation Sites</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.5c02072</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.5c02072</guid>
-<pubDate>Wed, 01 Jul 2026 04:41:36 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c02072/asset/images/medium/ci5c02072_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c02072&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

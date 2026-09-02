@@ -5,6 +5,114 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Nitrogen in Supramolecular
+Chemistry: Understanding
+the Pervasive Role as Acceptor of Halogen, Chalcogen, Pnictogen and
+Tetrel Bonds</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00809/5398590/Nitrogen-in-Supramolecular-Chemistry-Understanding</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00809</guid>
+<pubDate>Tue, 01 Sep 2026 17:01:06 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Nitrogen-centered Lewis bases are well established as
+nucleophiles
+in synthetic chemistry, as ligands in coordination chemistry and as
+pervasive components of hydrogen bonding in chemistry and structural
+biology. Their role as acceptors of halogen, chalcogen, pnictogen
+and tetrel bonds, collectively σ-hole interactions, is also
+well established experimentally, but only selectively investigated
+through exploration of geometric and energetic trends. Here we report
+a comprehensive study, in which we identify the prevalence of this
+class of interactions and analyze experimental geometric trends from
+crystallographic data. These analyses are supported by high-accuracy
+coupled-cluster quantum chemical calculations of interaction energies
+and use of symmetry-adapted perturbation theory (SAPT) to examine
+the underlying energetic contributions. Our focus is on comparison,
+across the four families of σ-hole interactions, of the behavior
+for N&lt;sub&gt;sp&lt;sup&gt;3&lt;/sup&gt;&lt;/sub&gt; vs N&lt;sub&gt;sp&lt;sup&gt;2&lt;/sup&gt;&lt;/sub&gt; vs N&lt;sub&gt;sp&lt;/sub&gt; hybridization at the nitrogen atom bearing the lone pair.
+Halogen and chalcogen bonds are more abundant than pnictogen and tetrel
+bonds, whereas interaction prevalence tends to be greatest for the
+heavier congeners in each σ-hole donor group (i.e., I, Te, Sb/Bi,
+Sn/Pb). The relative prevalence of tetrel bonds compared to halogen
+bonds increases from N&lt;sub&gt;sp&lt;sup&gt;3&lt;/sup&gt;&lt;/sub&gt; to N&lt;sub&gt;sp&lt;sup&gt;2&lt;/sup&gt;&lt;/sub&gt; to N&lt;sub&gt;sp&lt;/sub&gt; acceptors, highlighting the importance of
+steric demands. The heavier congeners among the σ-hole donors
+generally form interactions with shorter normalized interaction distances,
+although this is mitigated by sterics, most prominently for tetrel
+bonds and for N&lt;sub&gt;sp&lt;sup&gt;3&lt;/sup&gt;&lt;/sub&gt; Lewis bases. Preference for
+linearity with respect to the σ-hole angle and the angle at
+the nitrogen lone pair follow the trend N&lt;sub&gt;sp&lt;sup&gt;3&lt;/sup&gt;&lt;/sub&gt; &amp;gt; N&lt;sub&gt;sp&lt;sup&gt;2&lt;/sup&gt;&lt;/sub&gt; &amp;gt; N&lt;sub&gt;sp&lt;/sub&gt; also as a consequence
+of steric demands. More generally, SAPT analysis of interaction energies
+clearly indicates the prominent influence of sterics, through exchange
+repulsion, on angular preferences of all interactions. The broader
+implications of these comprehensive results in areas such as supramolecular,
+materials and medicinal chemistry are considered.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Multiobjective Fluorescent Molecule Design with a
+Data-Physics Dual-Driven Generative Framework</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00832/5398382/Multiobjective-Fluorescent-Molecule-Design-with-a</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00832</guid>
+<pubDate>Tue, 01 Sep 2026 17:01:06 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Designing fluorescent
+small molecules requires simultaneous control
+over optical responses, brightness, and physicochemical constraints
+across vast, underexplored chemical spaces. Conventional generate-score-screen
+approaches become impractical under such realistic design specifications,
+owing to their low search efficiency, unreliable generalizability
+of machine-learning predictions, and the prohibitive cost of quantum
+chemical calculations. Here, we present LUMOS, a data- and physics-driven
+framework for inverse design of fluorescent molecules. LUMOS couples
+the generator and predictor within a shared latent representation,
+enabling direct specification-to-molecule design and efficient exploration.
+Moreover, LUMOS combines neural networks with a fast time-dependent
+density functional theory (TD-DFT) calculation workflow to build a
+suite of complementary predictors spanning different trade-offs in
+speed, accuracy, and generalizability, enabling reliable property
+prediction across diverse scenarios. Finally, LUMOS employs a property-guided
+diffusion model integrated with multiobjective evolutionary algorithms,
+enabling &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; design and molecular optimization
+under multiple objectives and constraints. Benchmarks across random,
+scaffold, and fluorophore splits show competitive or improved predictive
+accuracy together with enhanced physical consistency, while multiobjective
+optimization yields substantially improved Pareto fronts over representative
+baselines. Further validation using TD-DFT and molecular dynamics
+(MD) simulations demonstrates that LUMOS can generate valid fluorophores
+that meet various target specifications. Overall, these results establish
+LUMOS as a data-physics dual-driven framework for fluorophore inverse
+design.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Photocatalytic Proximity
+Labeling Maps RNA and Protein
+Subcellular Landscapes</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01018/5398381/Photocatalytic-Proximity-Labeling-Maps-RNA-and</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01018</guid>
+<pubDate>Tue, 01 Sep 2026 17:01:06 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Mapping the molecular
+landscapes within subcellular compartments
+is critical for understanding cellular function. Photocatalytic proximity
+labeling has emerged as an increasingly diversified chemical strategy
+for interrogating biomolecular microenvironments in living systems.
+However, a modular small-molecule platform that can be readily retargeted
+and used to capture both protein and RNA neighborhoods within specific
+organelles remains underdeveloped. Existing photocatalytic approaches
+have employed distinct probe-activation modes for biomolecular labeling.
+Here, PhotoPL adopts an oxidative activation design based on established
+selenide photooxidation chemistry within a modular organelle-targeted
+platform. This method employs an organelle-targeted photocatalyst
+and an activatable selenide probe. Upon visible light irradiation,
+the localized catalyst generates short-lived reactive intermediates
+that covalently tag proximal biomolecules. We successfully applied
+PhotoPL to profile the proteomes and transcriptomes of mitochondria
+and the endoplasmic reticulum (ER), validating the high-fidelity capture
+of organelle-specific molecules. Unlike enzyme-based methods, PhotoPL
+utilizes small-molecule components, minimizing cellular perturbation.
+Its key advantage is a modular, “plug-and-play” design
+that allows for rapid retargeting to new subcellular locations without
+laborious genetic cloning. This modular and scalable platform expands
+the current chemical toolbox for dissecting the molecular organization
+of cells and exploring the interplay between proteins and RNAs in
+health and disease.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Hydrogen Spillover
 from Pt, Pd, and Au Evaluated with
 MnO  x   Temperature-Programmed Reduction</title>

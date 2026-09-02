@@ -103,6 +103,39 @@
 <description>&lt;p&gt;&lt;a href="http://dx.doi.org/10.1021/acscentsci.6c01102"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acscii/12/7/10.1021_acscentsci.6c01102/1/m_oc6c01102_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 <item>
+<title>Multimodal Transformer
+for Sample-Aware Prediction
+of Metal–Organic Framework Properties</title>
+<link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c01049/5396260/Multimodal-Transformer-for-Sample-Aware-Prediction</link>
+<guid>http://dx.doi.org/10.1021/acscentsci.6c01049</guid>
+<pubDate>Tue, 01 Sep 2026 12:01:40 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c01049/5396260/Multimodal-Transformer-for-Sample-Aware-Prediction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acscii/pap/10.1021_acscentsci.6c01049/1/m_oc6c01049_0008.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Metal–organic frameworks (MOFs) are a major target
+of machine-learning-based
+property prediction, yet most models assume that a single framework
+representation maps to a single property value. This assumption becomes
+problematic for experimental MOFs, where samples reported as the same
+framework can exhibit different properties because of differences
+in crystallinity, phase purity, defects, and other sample-dependent
+factors. Here we introduce Experimental X-ray Diffraction Integrated
+Transformer (EXIT), a multimodal transformer for sample-aware prediction
+of MOF properties that combines MOFid with X-ray diffraction (XRD).
+In EXIT, MOFid encodes MOF identity, whereas XRD provides complementary
+information about the experimentally realized sample state. EXIT is
+pretrained on one million hypothetical MOFs with simulated XRD to
+learn transferable representations. The pretrained model is first
+evaluated through fine-tuning on downstream tasks using simulated
+XRD, where it achieves improved performance relative to existing approaches,
+and is subsequently fine-tuned on literature-derived experimental
+XRD–property data sets for surface area and pore volume prediction.
+Incorporating experimental XRD improves predictive performance relative
+to models without experimental XRD, and attention analysis and sample-level
+case studies further show that EXIT assigns different predictions
+to samples sharing the same MOF identity when their XRD patterns differ.
+These results establish a practical step from framework-aware to sample-aware
+MOF property prediction and highlight the value of incorporating experimental
+characterization into porous materials informatics.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Oxonium-Embedded
 Benzo[ b ]perylene:
 A Redox-Switchable Closed-Shell π-Cation, and Its Paramagnetic

@@ -5,6 +5,132 @@
 <link>https://pubs.acs.org/rss/jacsat/asap.xml</link>
 <description>J.Am.Chem.Soc (mirrored feed)</description>
 <item>
+<title>AbSynth: A Century
+of Total Syntheses as a Machine-Readable
+Resource for Analyzing Strategic Logic in Organic Chemistry</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08434/5401944/AbSynth-A-Century-of-Total-Syntheses-as-a-Machine</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c08434</guid>
+<pubDate>Wed, 02 Sep 2026 01:00:59 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08434/5401944/AbSynth-A-Century-of-Total-Syntheses-as-a-Machine"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c08434/1/m_ja6c08434_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The design of synthetic routes to complex, stereochemically
+rich
+targets remains one of the most demanding challenges in organic chemistry.
+To interrogate the strategic logic underlying such efforts, we curated
+and digitized over 3,000 classical total syntheses comprising close
+to 60,000 individual steps, now freely available as the AbSynth collection.
+Analyses across this data set reveal that synthesis planning cannot
+be reduced to purely local, one-step-at-a-time decision-making: known
+complexity metrics and scoring functions fail to vary monotonically
+along synthetic trajectories, and conventional bond-disconnection
+heuristics apply only sporadically and lack the specificity required
+for automation. Instead, our study shows that nearly half of all steps
+correspond to structurally unproductive – yet strategically
+essential – plateaus of skeletal complexity. Navigating these
+plateaus requires retrosynthetic algorithms to embrace multistep reasoning
+rather than incremental scoring. We identify several such multistep
+heuristics, including tolerable lengths of nonskeletal disconnections
+and the “longevity” of functional groups across routes,
+and anticipate that AbSynth will serve as a resource for uncovering
+additional trends in synthesis design. By providing a century-spanning,
+machine-readable data set of complete routes, this work offers a foundation
+for advancing chemical AI toward the complexity of human expert planning.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Biosynthesis of YM-216391
+Unveils a Bifunctional α-Ketoglutarate-Dependent
+Enzyme Catalyzes Hydroxylation and Epimerization in RiPPs</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11815/5401708/Biosynthesis-of-YM-216391-Unveils-a-Bifunctional</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c11815</guid>
+<pubDate>Wed, 02 Sep 2026 01:00:59 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11815/5401708/Biosynthesis-of-YM-216391-Unveils-a-Bifunctional"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c11815/1/m_ja6c11815_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Nonheme
+iron/α-ketoglutarate-dependent dioxygenases
+(Fe/αKGDs)
+catalyze diverse oxidative transformations, including hydroxylation,
+desaturation, and ring expansion. Although these reactions are well
+established, Fe/αKGD-catalyzed epimerization remains rare and
+has not been characterized in ribosomally synthesized and post-translationally
+modified peptides (RiPPs). Here, we report the RiPP-modifying enzyme
+YmI, a bifunctional Fe/αKGD that catalyzes Cβ-hydroxylation
+of Phe19 and Cα-epimerization of Ile20 on the precursor peptide
+YmA toward the formation of YM-216391. The hydroxylation generates
+(2&lt;span style="font-style:italic;"&gt;S&lt;/span&gt;,3&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;)-β-hydroxyphenylalanine,
+whose &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;l&lt;/span&gt;-threonine-like stereochemistry facilitates subsequent
+formation of an unusual 5-phenyloxazole moiety. Substrate profiling
+analyses reveal leader peptide dependence for catalytic activity.
+Structural and docking studies provide insights into the substrate
+binding and active site architecture. Deuterium labeling demonstrates
+that YmI catalyzes Ile epimerization by directly abstracting the Cα-hydrogen,
+generating a Cα radical that is subsequently reprotonated by
+a nonexchangeable hydrogen source within the enzyme. These results
+unveil an unprecedented mechanism and novel bifunctionality, markedly
+expanding the reaction landscape for αKG-dependent enzymes in
+RiPP biosynthesis.&lt;/span&gt;</description>
+</item>
+<item>
+<title>The
+Obligate Mutualism in Metal Nanoclusters</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12226/5400330/The-Obligate-Mutualism-in-Metal-Nanoclusters</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c12226</guid>
+<pubDate>Tue, 01 Sep 2026 22:01:00 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12226/5400330/The-Obligate-Mutualism-in-Metal-Nanoclusters"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12226/1/m_ja6c12226_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Metal
+nanoclusters have garnered significant attention owing to
+their unique physicochemical properties. However, the synthesis of
+reduced, reactive metal-based nanoclusters, such as reduced Ni nanoclusters,
+remains challenging because of their intrinsic instability. Herein,
+we first reported ambient-stable, reduced Ni nanoclusters by subtly
+engineering the protecting ligands, and particularly revealed a previously
+unrecognized stabilization mechanism in which two Ni nanoclusters,
+each difficult to isolate individually, are stabilized through coexistence.
+Remarkably, the paired clusters remain stable in both the solid and
+solution phases and exhibit interdependent stability reminiscent of
+obligate mutualism in biological systems. This finding suggests that
+weak intercluster interactions can be harnessed to engineer mutually
+stabilized assemblies, providing access to metal nanoclusters that
+would otherwise be unattainable. Further studies reveal that the two
+nanoclusters play complementary catalytic roles and synergistically
+promote nitrate reduction. Hydrogen spillover between the paired clusters
+facilitates catalytic turnover, resulting in markedly enhanced activity
+relative to the individual nanoclusters. These results demonstrate
+that nanocluster supra-assembly, beyond the specific case of obligate
+mutualism, can simultaneously enhance stability and functionality.
+More broadly, this work establishes intercluster assembly as a general
+strategy for accessing, stabilizing, and optimizing atomically precise
+nanoclusters, opening new opportunities for the rational design of
+advanced catalytic systems.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Native Proteomics Reveals
+Protease-Mediated Hemophore
+Release by Bacterial Pathogens</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c04584/5400235/Native-Proteomics-Reveals-Protease-Mediated</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c04584</guid>
+<pubDate>Tue, 01 Sep 2026 22:01:00 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c04584/5400235/Native-Proteomics-Reveals-Protease-Mediated"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c04584/1/m_ja6c04584_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Iron is an essential micronutrient for nearly all forms
+of life,
+including pathogenic microbes that must acquire it from their host
+during infection. At the host–pathogen interface, humans restrict
+microbial access to iron through nutritional immunity, which many
+pathogens overcome by secreting hemophores that scavenge extracellular
+heme (iron protoporphyrin IX). However, identifying hemophores and
+other ligand-binding proteoforms in complex proteomes remains challenging
+using conventional peptide-based bottom-up mass spectrometry (MS).
+Here, we introduce ProteoMIX (Proteome Analysis by Mixing), a function-based
+native top-down proteomics workflow that combines slow-mixing mode
+native MS with charge reduction to identify ligand-binding proteoforms
+directly from complex mixtures. Applying ProteoMIX to the &lt;span style="font-style:italic;"&gt;Corynebacterium diphtheriae&lt;/span&gt; exoproteome identified
+ChtA&lt;sub&gt;30–314&lt;/sub&gt;, an abundant soluble hemophore generated
+by proteolytic processing of the surface-exposed ChtA heme receptor.
+Using native top-down MS sequencing, cell fractionation, and gene
+deletion, we show that the protease DIP2069 releases ChtA&lt;sub&gt;30–314&lt;/sub&gt; by removing ChtA’s transmembrane helix, producing a soluble
+proteoform that delivers heme to support microbial growth. In contrast,
+the related paralog ChtC is not processed, enabling &lt;span style="font-style:italic;"&gt;C. diphtheriae&lt;/span&gt; to generate localization-specific
+heme-binding proteoforms from related gene products. Extending this
+approach to &lt;span style="font-style:italic;"&gt;Staphylococcus aureus&lt;/span&gt;,
+ProteoMIX also revealed soluble IsdA hemophores that coexist with
+surface-anchored variants, demonstrating the generality of the method
+and suggesting that protease-mediated hemophore release may operate
+across Gram-positive pathogens.&lt;/span&gt;</description>
+</item>
+<item>
 <title>[Graphical abstract added] Orientational
 Order of Linkers Controls ZIF-8
 Crystallization</title>
@@ -12,6 +138,422 @@ Crystallization</title>
 <guid>urn:acs-graphical-abstract:10.1021/jacs.6c09046</guid>
 <pubDate>Tue, 01 Sep 2026 21:02:58 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09046/5371485/Orientational-Order-of-Linkers-Controls-ZIF-8"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c09046/1/m_ja6c09046_0016.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>Wide-Temperature-Range
+Near-Zero Thermal Expansion
+via Stuffing-Controlled Dynamics in Diamond-Like Materials</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10467/5398088/Wide-Temperature-Range-Near-Zero-Thermal-Expansion</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c10467</guid>
+<pubDate>Tue, 01 Sep 2026 16:01:05 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10467/5398088/Wide-Temperature-Range-Near-Zero-Thermal-Expansion"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c10467/1/m_ja6c10467_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Near-zero thermal expansion (NZTE) materials are essential
+for
+emerging precision technologies, such as optical instruments and aerospace
+components. However, existing materials with robust performance over
+a broad temperature range are limited, especially if functional properties
+in addition to NZTE are sought. We report a data-driven materials
+design investigation and find that the zinc-blende structure is an
+excellent platform for obtaining NZTE and elucidating underlying crystal-chemical
+principles. Based on these, we introduced vacancy engineering and
+stuffed-atom incorporation, yielding a series of cubic quaternary
+chalcogenides &lt;span style="font-style:italic;"&gt;AM&lt;/span&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;M&lt;/span&gt;′&lt;span style="font-style:italic;"&gt;X&lt;/span&gt;&lt;sub&gt;4&lt;/sub&gt;, where linkage ion vibrations are systematically
+modulated. We found that NaAg&lt;sub&gt;3&lt;/sub&gt;TiS&lt;sub&gt;4&lt;/sub&gt;, NaAg&lt;sub&gt;3&lt;/sub&gt;TiSe&lt;sub&gt;4&lt;/sub&gt;, and RbAg&lt;sub&gt;3&lt;/sub&gt;TiSe&lt;sub&gt;4&lt;/sub&gt; are
+promising NZTE candidates with coefficients of thermal expansion below
+2 × 10&lt;sup&gt;–6&lt;/sup&gt; K&lt;sup&gt;–1&lt;/sup&gt; over extended
+temperature windows (300–600 K). These are semiconducting materials
+distinct from low-thermal-expansion oxides. We explain the NZTE via
+the synergistic contributions of lattice softening, rigid-unit tilting,
+and linkage-ion transverse vibrations to the negative Grüneisen
+parameters. The stuffing of the zinc blende-based lattice provides
+a chemical way of tuning the linkage-ion transverse modes, thus controlling
+the thermal expansion in order to obtain NZTE.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Group Transfer Radical
+Polymerization of Sulfone-Substituted
+Aliphatic Alkynes</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16074/5398031/Group-Transfer-Radical-Polymerization-of-Sulfone</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c16074</guid>
+<pubDate>Tue, 01 Sep 2026 16:01:05 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16074/5398031/Group-Transfer-Radical-Polymerization-of-Sulfone"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c16074/1/m_ja6c16074_0008.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Radical homopolymerization of aliphatic
+alkynes remains
+a formidable
+challenge, primarily because the high reactivity of propagating vinyl
+radicals renders inevitable chain transfer via hydrogen atom transfer
+kinetically more favorable than chain propagation. By harnessing rationally
+designed distal sulfone-substituted aliphatic alkynes as monomers,
+here we report an efficient radical homopolymerization of aliphatic
+alkynes via 1,4-group transfer, affording a series of new polymers
+with defined ABC-type sequence. DFT calculations reveal that the 1,4-group
+transfer plays a critical role in facilitating chain propagation.
+The resulting polymers further exhibit outstanding performance as
+binders for high-temperature proton-exchange membrane fuel cells.
+Furthermore, the polymers can be chemically degraded to yield a diversity
+of valuable crotylamines. This work achieves the elusive radical polymerization
+of aliphatic alkynes that is inaccessible by traditional methods,
+providing a promising platform for the development of functional polymers.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Electrode Potential
+in Ionic Liquid Enlightened by
+Liquid Madelung Theory</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09488/5397385/Electrode-Potential-in-Ionic-Liquid-Enlightened-by</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c09488</guid>
+<pubDate>Tue, 01 Sep 2026 15:01:12 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09488/5397385/Electrode-Potential-in-Ionic-Liquid-Enlightened-by"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c09488/1/m_ja6c09488_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Electrode potentials
+in electrolytes vary systematically
+with salt
+concentration, yet establishing a quantitative connection between
+electrolyte structure and electrode potential remains a longstanding
+challenge. Here, we demonstrate that the liquid Madelung energy─an
+atomistically resolved Coulombic descriptor obtained from simulations
+of all constituent molecules and ions─quantitatively accounts
+for electrode-potential shifts observed for the solvent-based and
+ionic liquid electrolytes investigated in the present study, the latter
+representing the concentrated limit. Decomposition of the Li&lt;sup&gt;+&lt;/sup&gt; electrostatic energy into contributions from surrounding species
+reveals two key electrostatic factors governing the potential shift:
+reduced electrostatic stabilization arising from Li&lt;sup&gt;+&lt;/sup&gt;–anion
+coordination in the first coordination shell and enhanced Li&lt;sup&gt;+&lt;/sup&gt;–Li&lt;sup&gt;+&lt;/sup&gt; repulsion emerging in the second coordination
+shell at high concentrations. This atomistic framework captures structural
+fluctuations inaccessible to classical Debye–Hückel
+and pseudo-lattice theories, and can be applied to ionic liquids exhibiting
+apparent nanoscale heterogeneity. These results demonstrate that the
+liquid Madelung framework can be extended from conventional solvent-based
+to ionic liquid electrolytes and provide an atomistic electrostatic
+perspective for the rational design of next-generation electrolytes
+composed of complex polyatomic species.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Reconfiguring
+Lone-Pair Electrons for High-Performance
+n-Type SnSe Thermoelectrics</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15566/5396738/Reconfiguring-Lone-Pair-Electrons-for-High</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c15566</guid>
+<pubDate>Tue, 01 Sep 2026 13:01:26 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15566/5396738/Reconfiguring-Lone-Pair-Electrons-for-High"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c15566/1/m_ja6c15566_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Direct
+conversion of abundant waste heat into electricity offers
+a promising route to more efficient energy use, motivating the development
+of thermoelectric materials with high figure of merit (&lt;span style="font-style:italic;"&gt;ZT&lt;/span&gt;). In SnSe, Sn 5s&lt;sup&gt;2&lt;/sup&gt; LPEs are widely recognized as the origin
+of ultralow lattice thermal conductivity. However, their role in charge
+transport remains insufficiently understood. Here, by introducing
+trace Ce&lt;sup&gt;3+&lt;/sup&gt; that lack stereochemically active LPEs, we reconfigure
+the collective activity of LPEs in SnSe, thereby enabling robust n-type
+conduction and enhanced three-dimensional (3D) charge transport through
+strengthened interlayer orbital overlap and improved carrier mobility.
+Consequently, Sn&lt;sub&gt;0.99&lt;/sub&gt;Ce&lt;sub&gt;0.01&lt;/sub&gt;Se crystal achieves
+a peak &lt;span style="font-style:italic;"&gt;ZT&lt;/span&gt; of ∼3.0 at 745 K and a maximum power-generation
+efficiency of ∼10.4%. This work establishes a new paradigm
+for optimizing the thermoelectric performance of materials containing
+LPEs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Simultaneous
+Site- and Residue-Specific Incorporation
+of Fluorinated Amino Acids for In-Cell Structural Biology by  19 F Magic Angle Spinning NMR Spectroscopy</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10748/5396720/Simultaneous-Site-and-Residue-Specific</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c10748</guid>
+<pubDate>Tue, 01 Sep 2026 13:01:26 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10748/5396720/Simultaneous-Site-and-Residue-Specific"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c10748/1/m_ja6c10748_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Magic-angle spinning
+(MAS) nuclear magnetic resonance (NMR) spectroscopy
+is uniquely positioned to yield atomic-level structural and dynamic
+information on large proteins and protein assemblies in cellular environments.
+Yet, in-cell MAS NMR applications using the most common biomolecular
+reporter nuclei-&lt;sup&gt;1&lt;/sup&gt;H, &lt;sup&gt;13&lt;/sup&gt;C, and &lt;sup&gt;15&lt;/sup&gt;N-remain
+hampered by a large cellular background, inherently low sensitivity,
+and limited resolution. In contrast, &lt;sup&gt;19&lt;/sup&gt;F is a high-receptivity
+nucleus that is naturally absent in biological molecules and is an
+excellent probe for in-cell MAS NMR. Here, we report a &lt;sup&gt;19&lt;/sup&gt;F-labeling strategy that combines site-specific incorporation of
+4-(trifluoromethyl)-&lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;l&lt;/span&gt;-phenylalanine (tfmF) via genetic code
+expansion with fluorination of all tryptophan residues at the 7 position
+of the indole ring. We apply this approach to the N-terminal domain
+of the nucleocapsid protein from SARS-CoV-2, N&lt;sup&gt;NTD&lt;/sup&gt;. For
+a microcrystalline 7F-Trp,tfmF28,U–&lt;sup&gt;15&lt;/sup&gt;N–N&lt;sup&gt;NTD&lt;/sup&gt; sample, &lt;sup&gt;19&lt;/sup&gt;F–&lt;sup&gt;19&lt;/sup&gt;F correlations
+between the CF&lt;sub&gt;3&lt;/sub&gt; group of the tfmF and the F atoms of the
+three 7F-Trp residues are detected in 2D dipolar-based experiments,
+spanning a distance range from 10 to 21 Å. Additionally, for
+7F-Trp,tfmF28,U–&lt;sup&gt;15&lt;/sup&gt;N–N&lt;sup&gt;NTD&lt;/sup&gt; electroporated
+into A2780 cells, the increased spectral resolution and sensitivity
+afforded by the incorporation of the CF&lt;sub&gt;3&lt;/sub&gt; group enable the
+acquisition of high-quality &lt;sup&gt;19&lt;/sup&gt;F in-cell MAS NMR spectra
+within a few hours. The simultaneous labeling with an aromatic fluorine
+atom and a CF&lt;sub&gt;3&lt;/sub&gt; group expands the toolbox of &lt;sup&gt;19&lt;/sup&gt;F MAS NMR for cellular structural biology.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Electrochemical
+Deoxygenation of a Ti IV –Oxo Complex to Enable Catalytic
+Reductive Oxygen-Atom Transfer
+from Organic Molecules</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11967/5396392/Electrochemical-Deoxygenation-of-a-TiIV-Oxo</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c11967</guid>
+<pubDate>Tue, 01 Sep 2026 12:01:40 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11967/5396392/Electrochemical-Deoxygenation-of-a-TiIV-Oxo"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c11967/1/m_ja6c11967_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Well-defined (TTP)Ti&lt;sup&gt;II&lt;/sup&gt; (TTP = 5,10,15,20-tetratolylporphyrin)
+complexes have been shown to promote stoichiometric deoxygenation
+of organic molecules, such as sulfoxides and epoxides, forming a stable
+(TTP)Ti&lt;sup&gt;IV&lt;/sup&gt;=O product. Here, we explore strategies to promote
+catalytic deoxygenation reactivity by regenerating (TTP)Ti&lt;sup&gt;II&lt;/sup&gt; through chemical or electrochemical reduction. A survey of Lewis
+acids revealed the effectiveness of B(OPh)&lt;sub&gt;3&lt;/sub&gt; in promoting
+activation and loss of the Ti-oxo group, enabling Ti&lt;sup&gt;II&lt;/sup&gt;-mediated
+reductive oxygen-atom transfer (OAT) of diphenyl sulfoxide. Cyclic
+voltammetry, coulometry, EPR spectroscopy, and X-ray crystallography
+have been used to probe and characterize Ti&lt;sup&gt;III&lt;/sup&gt; and Ti&lt;sup&gt;II&lt;/sup&gt; species from the electroreductive deoxygenation of the Ti&lt;sup&gt;IV&lt;/sup&gt;=O complex. The data implicate a Lewis-acid-coupled electron-transfer
+deoxygenation pathway for Ti&lt;sup&gt;IV&lt;/sup&gt;=O turnover. These fundamental
+studies are complemented by electrochemical reactions demonstrating
+catalytic reductive oxygen-atom transfer from sulfoxides, pyridine &lt;span style="font-style:italic;"&gt;N&lt;/span&gt;-oxides, and epoxides.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Digital Nanopore Counting
+Enabling Direct Identification
+of Trace-Level Neoantigens in Native Biological Samples</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11903/5396328/Digital-Nanopore-Counting-Enabling-Direct</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c11903</guid>
+<pubDate>Tue, 01 Sep 2026 12:01:40 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11903/5396328/Digital-Nanopore-Counting-Enabling-Direct"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c11903/1/m_ja6c11903_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Tumor-specific
+neoantigens have been the most promising
+targets
+for TCR-based cancer therapies; however, their detection is greatly
+hindered by low abundance, sequence variability, and potential modifications.
+To address these, we developed a digital nanopore framework to unambiguously
+identify and effectively quantify candidate neoantigens directly in
+cell samples via event-resolved molecular identification and counting.
+By engineering a multirecognition-region nanopore and developing a
+universal water-osmosis driving force, we simultaneously enhanced
+the detection throughput and specificity. Combined with enriched current
+signatures and a gradient-boosting decision-tree classifier, the platform
+identifies individual ovalbumin-derived model neoantigens with single-amino-acid
+resolution from digitally assigned events in both exogenously incubated
+and endogenously expressed cell samples. We show that the limit of
+quantification is improved to the fmol level in native biological
+environments, enabling the direct identification of neoantigens from
+as few as 5000 cells within 30 min. We further demonstrate the identification
+of a native Epstein–Barr virus-associated neoantigen, highlighting
+the potential of this approach in ultrasensitive analysis of rare
+biomolecular species directly in biological samples.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Light-Driven Active
+Separation Sustains a Transmembrane
+Proton-Activity Difference for Electrochemical Microenvironment Regulation</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10380/5396025/Light-Driven-Active-Separation-Sustains-a</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c10380</guid>
+<pubDate>Tue, 01 Sep 2026 11:01:45 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10380/5396025/Light-Driven-Active-Separation-Sustains-a"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c10380/1/m_ja6c10380_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Electrochemical water technologies often require spatially
+distinct
+proton activities, yet passive membranes allow these microenvironments
+to equilibrate. Here we construct a topology-defined series of donor–acceptor
+covalent organic framework (COF) membranes with rhombic, honeycomb,
+and kagome lattices and establish a connection between local photoinduced
+responses and membrane-scale active ion transport. Among them, rhombic
+COF-PY-BT exhibits the strongest local photoresponse and the largest
+light-induced transmembrane bias under one-sided illumination. Crossed-control
+experiments establish that the direction of the macroscopic response
+follows the illumination direction, while periodic Berry-phase calculations
+reveal framework-dependent retention and cancellation of dipolar components.
+The resulting transmembrane bias counteracts proton back-diffusion
+and enables uphill proton transport, helping sustain a bulk ΔpH
+&amp;gt; 4 between near-neutral anodic and acidic cathodic compartments.
+When integrated as an active separator in a two-compartment electrolysis
+cell, COF-PY-BT lowers the apparent full-cell voltage by approximately
+45% under dilute conditions and improves voltage stability. These
+results establish light-driven active membrane regulation as a strategy
+for sustaining nonequilibrium proton environments during electrochemical
+operation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>3D-to-3D Topotactic
+Transformation in Extra-Large-Pore
+Pure-Silica Zeolite</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c05613/5395458/3D-to-3D-Topotactic-Transformation-in-Extra-Large</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c05613</guid>
+<pubDate>Tue, 01 Sep 2026 10:01:43 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c05613/5395458/3D-to-3D-Topotactic-Transformation-in-Extra-Large"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c05613/1/m_ja6c05613_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Stable
+silica-based extra-large-pore (ELP) zeolites are
+highly
+desirable for processing bulky molecules but remain exceedingly challenging
+to synthesize directly. Here, we report JU-87, a stable, fully connected
+pure-silica ELP zeolite formed through a 3D-to-3D topotactic condensation
+of an interrupted 24-membered-ring zeolite precursor (JU-86). The
+calcination-induced full condensation of the SiO&lt;sup&gt;–&lt;/sup&gt;···HOSi defects in JU-86 yields JU-87, which features
+one-dimensional 18-membered-ring channels (max. dimension: 17.36 Å)
+lined with pocket-like cavities and contains abundant, unprecedented,
+highly strained three-membered-ring units. Owing to its spacious channels,
+JU-87 can accommodate bulky dye molecules, demonstrating its potential
+for the adsorption and catalytic upgrading of large substrates.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Family
+of β-Propeller Diels–Alderases
+Directs  cis -Decalin Formation in Polyketide Biosynthesis</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12942/5395285/Family-of-Propeller-Diels-Alderases-Directs-cis</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c12942</guid>
+<pubDate>Tue, 01 Sep 2026 10:01:43 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12942/5395285/Family-of-Propeller-Diels-Alderases-Directs-cis"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12942/1/m_ja6c12942_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Decalin-forming
+Diels–Alderases (pericyclases) exemplify
+how Nature repeatedly recruits unrelated protein folds to control
+[4 + 2] cycloadditions, yet &lt;span style="font-style:italic;"&gt;exo&lt;/span&gt;-selective intramolecular
+Diels–Alder (IMDA) reactions that yield &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-fused decalins remain rare and poorly understood. Here, we uncover
+a previously unrecognized bacterial pericyclase family that enforces
+an &lt;span style="font-style:italic;"&gt;exo&lt;/span&gt;-IMDA trajectory in polyketide assembly. Using
+alchivemycin A, a macrocyclic antibacterial polyketide whose scaffold
+is defined by a highly functionalized &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-decalin
+core, we identify AvmG as the dedicated decalin-forming enzyme. Disruption
+of avmG diverts pathway flux to &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-decalin shunt
+isomers consistent with spontaneous, &lt;span style="font-style:italic;"&gt;endo&lt;/span&gt;-biased
+cyclization that cannot be processed by the downstream macrocyclase,
+whereas AvmG enables formation of the authentic &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-decalin intermediate. AvmG is unrelated to known [4 + 2] cyclases
+and adopts an integrin α N-terminal domain-like β-propeller
+architecture, revealing an unexpected scaffold for pericyclic stereocontrol.
+Genome mining shows that AvmG-like proteins are widespread and enriched
+in actinomycete polyketide gene clusters; characterization of the
+lydicamycin homolog LymR establishes conserved &lt;span style="font-style:italic;"&gt;exo&lt;/span&gt;-IMDA activity in a distinct pathway. Structural and mutational analyses
+implicate a loop-defined catalytic cavity in steering the kinetically
+demanding &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-decalin outcome. Together, these findings
+expand the fold and mechanistic diversity of Diels–Alderases,
+define an &lt;span style="font-style:italic;"&gt;exo&lt;/span&gt;-selective β-propeller pericyclase
+superfamily, and provide a new handle for mining and bioengineering &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-decalin biosynthetic pathways.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Large-Mesopore Covalent
+Organic Framework Nanoparticles
+for Small Interfering RNA Delivery toward Cancer Immunotherapy</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10067/5395281/Large-Mesopore-Covalent-Organic-Framework</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c10067</guid>
+<pubDate>Tue, 01 Sep 2026 10:01:43 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10067/5395281/Large-Mesopore-Covalent-Organic-Framework"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c10067/1/m_ja6c10067_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Small interfering RNA (siRNA) offers a promising modality
+for tumor
+immunotherapy through a precise gene-silencing mechanism, whereas
+its efficient loading and &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; delivery rely on
+specialized carriers because of its polyanionic nature. Porous nanomaterials
+represent attractive platforms for designing such carriers. However,
+constructing biocompatible porous organic materials for efficient
+siRNA loading and &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; delivery is challenging
+because structurally stable organic nanoparticles (NPs) with abundant,
+ordered, and large mesopores have rarely been reported. Herein, a
+linker-design strategy that balances rigidity and flexibility was
+used to synthesize covalent organic frameworks (COFs), resolving the
+dilemma of simultaneously producing organic NPs and preserving ordered
+large mesopores. Specifically, grafting flexible allyloxy chains onto
+rigid, poorly soluble linkers enhanced linker solubility and interlayer
+interactions, enabling the synthesis of a series of mesoporous COF
+nanoparticles. Thereinto, 4,4′-(1,2-ethynediyl)bis(2-allyloxybenzaldehyde)
+and 1,3,5-tris(4-aminophenyl)benzene-derived COF (TECOF)
+NPs exhibited a mesopore aperture of 4.5 nm, which, to the best of
+our knowledge, is the largest reported for COF nanoparticles to date.
+Subsequently, TECOF NPs were applied as platforms to covalently graft
+a cisplatin-COOH complex (Pt(IV)) and encapsulate a model siRNA (siPDL1)
+to generate siPDL1@TECOF-Pt. After tumor-cell uptake, grafted Pt(IV)
+was proven to induce pyroptosis, while channel-loaded siPDL1 was released
+to silence PD-L1 expression. Such a nanoscale-mesoporous-COF-assisted
+immunotherapy strategy demonstrated significant tumor growth inhibition
+and prolonged survival in 4T1 tumor-bearing mice. This study provides
+a proof-of-concept for the construction of large-mesopore COF NPs
+for efficient siRNA loading and &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; delivery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Mapping
+the Chemical Space of TADF Sensitizers Coupled
+with Virtual Screening for Narrowband Hyperfluorescence OLEDs</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15924/5394679/Mapping-the-Chemical-Space-of-TADF-Sensitizers</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c15924</guid>
+<pubDate>Tue, 01 Sep 2026 09:02:17 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15924/5394679/Mapping-the-Chemical-Space-of-TADF-Sensitizers"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c15924/1/m_ja6c15924_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Developing
+efficient thermally activated delayed fluorescence (TADF)
+sensitizers for narrowband red hyperfluorescence organic light-emitting
+diodes (HF-OLEDs) remains a major challenge because long-wavelength
+sensitization requires the simultaneous optimization of a small singlet–triplet
+energy gap (Δ&lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;ST&lt;/sub&gt;), a low singlet
+excited-state energy (&lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;S1&lt;/sub&gt;), and a high
+solid-state photoluminescence quantum yield (Φ&lt;sub&gt;PL&lt;/sub&gt;).
+Unlike their successful blue and green counterparts, red HF-OLEDs
+are still largely reliant on noble-metal phosphorescent sensitizers.
+Here, we establish a donor–acceptor–linker chemical-space
+mapping framework coupled with virtual screening to enable the rapid
+discovery of metal-free TADF sensitizers suitable for narrowband red
+HF-OLEDs while circumventing conventional iterative trial-and-error
+molecular optimization. Screening a virtual library of 160 molecular
+architectures identifies linker topology, rather than donor–acceptor
+identity alone, as the key structural determinant of excited-state
+energetics, with the 1,8-disubstituted naphthalene scaffold emerging
+as a privileged motif that simultaneously minimizes Δ&lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;ST&lt;/sub&gt; and &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;S1&lt;/sub&gt;. Guided
+by these insights, a gram-scalable modular synthesis furnishes a family
+of &lt;span style="font-style:italic;"&gt;peri&lt;/span&gt;-naphthalene-based, spatially confined through-space
+charge-transfer (TSCT) TADF sensitizers exhibiting emission maxima
+reaching 667 nm, ultralow Δ&lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;ST&lt;/sub&gt; values
+below 0.01 eV, and solid-state Φ&lt;sub&gt;PL&lt;/sub&gt; values of up to
+98% through aggregation-induced emission (AIE). When paired with all-carbon
+polycyclic aromatic hydrocarbon (PAH) emitters, these sensitizers
+deliver narrowband red HF-OLEDs with a maximum external quantum efficiency
+(EQE) of 27.6%, setting a benchmark for all-carbon PAH-based red HF-OLEDs.
+Moreover, the same TSCT platform is readily extendable to shorter-wavelength
+systems, as demonstrated by yellow PAH-based HF-OLEDs with an outstanding
+maximum EQE of 27.7%.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Epoxide-Mediated Carbon
+Dioxide Coupling Yields the
+Five-Membered Cyclic Carbonate in Cytosporin Biosynthesis</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12612/5394056/Epoxide-Mediated-Carbon-Dioxide-Coupling-Yields</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c12612</guid>
+<pubDate>Tue, 01 Sep 2026 07:01:15 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12612/5394056/Epoxide-Mediated-Carbon-Dioxide-Coupling-Yields"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12612/1/m_ja6c12612_0005.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Organic
+carbonates (OCs) have a wide range of applications
+across
+materials science, synthetic chemistry, and medicine. The development
+of efficient catalytic processes for converting carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;) into OCs represents a crucial objective in sustainable chemistry
+and energy research. Among available strategies, the coupling of CO&lt;sub&gt;2&lt;/sub&gt; with epoxides to form cyclic carbonates is one of the most
+technologically and economically promising routes for CO&lt;sub&gt;2&lt;/sub&gt; valorization. Although considerable progress has been made in designing
+high-performance catalysts for this transformation, several limitations
+remain, including dependence on organic solvents, transition metal-based
+catalytic systems, and energy-intensive conditions, typically involving
+elevated temperatures and high CO&lt;sub&gt;2&lt;/sub&gt; pressures. While an
+increasing number of naturally occurring OCs have been identified,
+the biosynthetic mechanisms underlying their formation, especially
+for fungal-derived five-membered cyclic carbonates, remain largely
+unknown. In this study, we identified and functionally characterized
+all enzymes involved in cytosporin biosynthesis and elucidated the
+complete biosynthetic pathway. We demonstrated that the five-membered
+cyclic carbonate moiety in cytosporin E arises through a nonenzymatic,
+epoxide-mediated CO&lt;sub&gt;2&lt;/sub&gt; coupling reaction under neutral aqueous
+conditions. This strategy for constructing a five-membered cyclic
+carbonate is unprecedented in natural product biosynthesis and may
+offer valuable insights for developing environmentally benign synthetic
+routes toward OCs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Spirobifluorene-Cored
+Tetrameric Acceptors with a
+Perpendicular Interlocking Toroidal Topology for Efficient and Stable
+Organic Solar Cells</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c06602/5393049/Spirobifluorene-Cored-Tetrameric-Acceptors-with-a</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c06602</guid>
+<pubDate>Tue, 01 Sep 2026 05:01:30 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c06602/5393049/Spirobifluorene-Cored-Tetrameric-Acceptors-with-a"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c06602/1/m_ja6c06602_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Small-molecule
+fused-ring electron acceptors (FREAs) have greatly
+advanced the efficiency of organic solar cells (OSCs), yet their long-term
+operational stability remains a critical hurdle for practical applications.
+Covalently linking FREA units into oligomers offers a promising strategy
+to address this issue, but the rational design of molecular topology
+in such systems remains largely unexplored. In this work, we report
+a novel three-dimensional (3D) oligomeric acceptor with a high glass-transition
+temperature (192 °C), namely LT-F, constructed from an orthogonally
+configured spirofluorene core. This unique 3D configuration adopts
+a perpendicularly interlocking toroidal topology, which not only effectively
+suppresses excessive aggregation and moderates the crystallinity of
+the acceptor phase but also promotes a more uniform vertical phase
+distribution with a favorable gradient. Notably, LT-F enables strong
+intermolecular interactions with the host L8-BO acceptor, significantly
+inhibiting its thermal diffusion and thus substantially enhancing
+morphological stability under operational stress. As a result, the
+ternary device based on PM6:L8-BO:LT-F delivers champion power conversion
+efficiencies of 19.49% and 20.10% when using PEDOT:PSS and a self-assembly
+layer as the hole-transporting layers (HTLs), respectively, both outperforming
+the PM6:L8-BO binary counterparts. Moreover, the ternary device with
+a PEDOT:PSS HTL exhibits markedly improved long-term stability, retaining
+90.6% of its initial efficiency after 1000 h of thermal aging at 100
+°C and 80.1% after 1200 h under maximum power point tracking.
+These results highlight the critical importance of 3D topological
+design in oligomeric acceptors for simultaneously achieving high efficiency
+and robust stability, providing valuable guidelines for future molecular
+engineering in high-performance organic photovoltaics.&lt;/span&gt;</description>
 </item>
 <item>
 <title>Potassium Amide-Promoted
@@ -3812,525 +4354,6 @@ C&lt;sub&gt;2+&lt;/sub&gt; selectivity. These insights clarify to what extent
 lattice dislocations alone can influence reaction pathways, resolve
 discrepancies in the existing literature, and guide the design of
 CO&lt;sub&gt;2&lt;/sub&gt;RR systems to produce desirable C&lt;sub&gt;2+&lt;/sub&gt; products.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Chemical Tuning of
-Charge Transport Polarity in Light-Emitting
-Transistors Enabling Neuromorphic Display, Computing, and Optocoupler</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10068/5321176/Chemical-Tuning-of-Charge-Transport-Polarity-in</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c10068</guid>
-<pubDate>Mon, 24 Aug 2026 05:01:30 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10068/5321176/Chemical-Tuning-of-Charge-Transport-Polarity-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c10068/1/m_ja6c10068_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Long-afterglow light-emitting transistors (LALETs) represent
-an
-efficient platform for neuromorphic computing by integrating in-memory
-processing, optical output, and noise-filtering functionality within
-a single device. Here, we have synthesized a series of donor–acceptor
-(D–A) conjugated copolymers comprising a diketopyrrolopyrrole
-(DPP) acceptor and oligo-thiophene (T) donors of tunable length to
-investigate the impact of charge-transport polarity on LALET performance.
-By terpolymerization, the D:A ratio was adjusted from 4:1 to 6:1,
-8:1, and 12:1, yielding DPP4T, DPP6T, DPP8T, and DPP12T copolymers,
-respectively. Among them, DPP8T exhibited a favorable combination
-of high hole mobility (0.42 cm&lt;sup&gt;2&lt;/sup&gt; V&lt;sup&gt;–1&lt;/sup&gt; s&lt;sup&gt;–1&lt;/sup&gt;) and strongly suppressed electron mobility, enabling
-high electroluminescence of 1189 cd m&lt;sup&gt;–2&lt;/sup&gt; while maintaining
-programming currents below 10 μA. The resulting LALET displayed
-dual operation mode, long-afterglow, and click-on upon employing the
-opposite gate stimuli. In long-afterglow mode, both electrical and
-optical postsynaptic signals enabled reservoir computing system with
-Fashion-MNIST recognition accuracies exceeding 90%. Furthermore, the
-intrinsic noise-filtering function of LALET emulated neuronal all-or-none
-firing, allowing a neuromorphic optocoupler to implement complex “stimulus-computing-decision-action”
-logic and to be used as the output layer for a reservoir computing
-framework toward a noise-filtering display. These results highlight
-the importance of the chemical modulation of the polarity in charge
-transport for high-performance neuromorphic devices.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Frustrated
-Interfacial Solvation Enhances Reaction
-Rates at Acidified Ice Grain Boundaries in Frozen Microdroplets</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11450/5321175/Frustrated-Interfacial-Solvation-Enhances-Reaction</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c11450</guid>
-<pubDate>Mon, 24 Aug 2026 05:01:30 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11450/5321175/Frustrated-Interfacial-Solvation-Enhances-Reaction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c11450/1/m_ja6c11450_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ice
-is ubiquitous in natural environments, yet the interstitial
-liquid trapped within polycrystalline grain boundaries remains difficult
-to access, limiting mechanistic understanding of accelerated reactions
-in ice. Here, we combine cryogenic stimulated Raman scattering microscopy
-with multivariate curve resolution to visualize and spectroscopically
-resolve internal constituents of frozen microdroplets. We identify
-pronounced structural heterogeneity: the entrapped interstitial liquid
-displays more strongly hydrogen-bonded water signatures than bulk
-supercooled water, whereas the ice–water interface shows diminished
-orientational ordering, whereby water hydrogen atoms are less preferentially
-aligned toward solutes, consistent with frustrated solvation and partial
-desolvation. Using sulfur dioxide autoxidation as a model reaction,
-we find that frozen microdroplets exhibit an approximately 20-fold
-faster apparent oxidation rate than supercooled liquid microdroplets
-under otherwise comparable conditions. Kinetic analysis and simulations
-suggest that interfacial frustrated solvation, together with grain
-boundary acidification, lowers the effective barrier for electron
-transfer and radical initiation and the associated enhancement of
-sulfate formation. These findings provide a microscopic link between
-buried ice–water interfacial structure and low-temperature
-reaction kinetics, with implications for atmospheric chemistry in
-cold and mixed-phase environments.&lt;/span&gt;</description>
-</item>
-<item>
-<title>A Structurally Distinct
-High-Entropy Zeolitic Imidazolate
-Framework Enabled by Entropy-Assisted Co-Ligation</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c07851/5321174/A-Structurally-Distinct-High-Entropy-Zeolitic</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c07851</guid>
-<pubDate>Mon, 24 Aug 2026 05:01:30 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c07851/5321174/A-Structurally-Distinct-High-Entropy-Zeolitic"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c07851/1/m_ja6c07851_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;High-entropy metal–organic frameworks are commonly
-realized
-within framework families that are already accessible as isostructural
-single-metal analogues. As a result, multimetal incorporation usually
-preserves pre-existing topologies rather than generating structurally
-distinct frameworks. In zeolitic imidazolate frameworks (ZIFs), this
-challenge is amplified by strong metal–imidazolate preference,
-rendering structurally distinct high-entropy ZIFs particularly elusive.
-Here we report an entropy-assisted coligation strategy that enables
-the synthesis of a genuinely distinct high-entropy zeolitic imidazolate
-framework (HE-ZIF), [Fe&lt;sub&gt;0.26&lt;/sub&gt;Ni&lt;sub&gt;0.23&lt;/sub&gt;Mn&lt;sub&gt;0.26&lt;/sub&gt;Co&lt;sub&gt;0.2&lt;/sub&gt;Zn&lt;sub&gt;0.05&lt;/sub&gt;(C&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;)(Hmim)&lt;sub&gt;2&lt;/sub&gt;]&lt;sub&gt;n&lt;/sub&gt; from an equimolar five-metal system. In contrast
-to conventional ZIF chemistry, this HE-ZIF does not inherit the tetrahedral
-topology of known single-metal ZIFs. Instead, three-dimensional electron
-diffraction resolves a new monoclinic structure featuring multimetal
-nodes, reduced metal–imidazolate coordination, and enhanced
-linker flexibility. Synchrotron powder diffraction further confirms
-that this distinct framework is retained as the bulk single phase.
-Residual coordination maps derived from density functional theory
-calculations show that increasing configurational complexity progressively
-balances metal–ligand coordination preferences, enabling coligation
-inaccessible in low-entropy systems. This design extends to additional
-multimetal compositions. As a proof of concept, incorporation of HE-ZIF
-into a perfluorosulfonic acid matrix improves proton conductivity
-by more than 55% relative to Nafion at 70 °C, demonstrating functional
-utility of the resulting coordination environment.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Local Active-Site Architecture
-Directs Divergent Carbocation
-Cascades in Sesterterpene Synthases</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c06677/5312811/Local-Active-Site-Architecture-Directs-Divergent</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c06677</guid>
-<pubDate>Sun, 23 Aug 2026 15:01:01 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c06677/5312811/Local-Active-Site-Architecture-Directs-Divergent"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c06677/1/m_ja6c06677_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Type I terpene synthases generate complex polycyclic
-scaffolds
-through carbocation cascades. However, how closely related enzymes
-convert a common C&lt;sub&gt;25&lt;/sub&gt; precursor to distinct sesterterpene
-frameworks remains unresolved. Here, we combine high-resolution crystal
-structures with systematic mutagenesis of four bacterial sesterterpene
-synthases to define the structural basis for pathway divergence. These
-analyses show how local active-site interactions within a conserved
-fold redirect carbocation trajectories and thereby control product
-formation. The structures reveal a preorganized binding mode that
-positions the substrate in a product-like conformation and directs
-the cyclization cascade. Comparative structural analyses further support
-distinct carbocation trajectories involving either centralized cation
-hubs or sequential rearrangement pathways with the exact pathway being
-enzyme-dependent. Structure-guided mutagenesis targets these features,
-alters product profiles, and enables the formation of new terpene
-scaffolds. Together, crystallographic data and mutagenesis demonstrate
-that closely related enzymes with the same overall fold can follow
-distinct carbocation trajectories and reveal how local architectural
-changes control the cyclization outcome.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Colossal
-Negative Thermal Expansion in MOF-808</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12924/5301656/Colossal-Negative-Thermal-Expansion-in-MOF-808</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c12924</guid>
-<pubDate>Sat, 22 Aug 2026 21:00:55 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12924/5301656/Colossal-Negative-Thermal-Expansion-in-MOF-808"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12924/1/m_ja6c12924_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Metal–organic
-frameworks (MOFs) can exhibit pronounced negative
-thermal expansion (NTE) through thermal population of distortions
-that contract the lattice. In conventional framework NTE, these distortions
-are dynamic, involving transverse vibrations of bridging ligands;
-however, in Zr-based MOFs, a distinct mechanism for NTE has recently
-emerged that involves static distortion of Zr&lt;sub&gt;6&lt;/sub&gt;-oxo cluster
-nodes. Here, we show that MOF-808, a Zr-based MOF with 6-connected
-Zr&lt;sub&gt;6&lt;/sub&gt;-oxo nodes, exhibits colossal NTE with a volumetric
-coefficient of thermal expansion (CTE) whose magnitude exceeds 600
-× 10&lt;sup&gt;–6&lt;/sup&gt; K&lt;sup&gt;–1&lt;/sup&gt;, more than six
-times larger than existing benchmark NTE materials. &lt;span style="font-style:italic;"&gt;In situ&lt;/span&gt; synchrotron X-ray scattering, combining powder diffraction and pair
-distribution function (PDF) analyses, shows that this large lattice
-contraction is coupled to an increasing population of a distorted
-Zr-node state, with pronounced thermal hysteresis and ramp rate dependencies
-reflecting frustration of the node distortions within the framework.
-Quantitative analysis of the relationship between lattice contraction
-and node distortion shows that the coupling varies and depends on
-both the temperature and the capping ligand coordinated at the node.
-We propose that the extreme NTE in MOF-808 reflects an amplified form
-of the node-distortion NTE mechanism, in which lower, anisotropic
-node connectivity preferentially orients the elongated node axes toward
-the pores while aligning the compressed node axis with framework-connected
-directions, maximizing the lattice contraction.&lt;/span&gt;</description>
-</item>
-<item>
-<title>In Situ  Construction of a Reticulated
-Peptide Scaffold via Responsive Self-Assembly and Proximal Covalent
-Labeling for Enhanced Tumor Imaging and Therapy</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08269/5301118/In-Situ-Construction-of-a-Reticulated-Peptide</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c08269</guid>
-<pubDate>Sat, 22 Aug 2026 20:00:54 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08269/5301118/In-Situ-Construction-of-a-Reticulated-Peptide"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c08269/1/m_ja6c08269_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Precise imaging and specific retention of therapeutic
-agents at
-solid tumors were particularly desirable yet hindered by limited specificity
-and fast diffusion. Herein, we established a dual-trigger-mediated
-synergistic strategy to form a reticulated peptide network &lt;span style="font-style:italic;"&gt;in situ&lt;/span&gt; by functional peptide (CL-Y&lt;sub&gt;P&lt;/sub&gt;FG) through
-responsive self-assembly and covalent labeling for prolonged imaging
-and boosted accumulation of drugs. Specifically, the CL-Y&lt;sub&gt;P&lt;/sub&gt;FG underwent morphology transformation from nanoparticles to nanofibers
-under alkaline phosphatase and further turned into reticulated peptide
-structures in the presence of nitroreductase by generating highly
-electrophilic quinone methide intermediates for covalent labeling
-of proximal peptides or proteins, enabling prolonged tumor retention.
-By replacing the functional groups on CL-Y&lt;sub&gt;P&lt;/sub&gt;FG, it could
-be readily endowed with imaging (organic dyes for fluorescence imaging
-and chelator moieties for &lt;sup&gt;1&lt;/sup&gt;H magnetic resonance imaging)
-and therapeutic (photodynamic therapy and immunotherapy) capabilities,
-demonstrating the versatility of peptide-based scaffolds for enhanced
-tumor-specific imaging/therapy.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Real-Time
-Observation of Dynamic Spin Polarization
-in Copper Oxide by Carrier Scattering with Chiral Phonons</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11214/5299197/Real-Time-Observation-of-Dynamic-Spin-Polarization</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c11214</guid>
-<pubDate>Sat, 22 Aug 2026 16:00:52 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11214/5299197/Real-Time-Observation-of-Dynamic-Spin-Polarization"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c11214/1/m_ja6c11214_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Despite extensive
-experimental and theoretical efforts, the underlying
-mechanism of chiral-induced spin selectivity (CISS) remains elusive.
-Although one emerging theory is that CISS results from angular momentum
-exchange between electrons and chiral phonons, there has been no direct
-observation of spin-dependent electron–phonon scattering rates
-in a chiral environment. Toward this goal, ultrafast extreme ultraviolet
-circular dichroism (XUV-CD) was developed to measure spin-dependent
-thermalization and transport of hot carriers in chiral CuO. Results
-indicate that spin polarization emerges on the ultrafast time scale
-of carrier-phonon interactions and is preserved during phonon-mediated
-carrier hopping. These observations reveal that CISS does not operate
-entirely by a spin-filtering mechanism; rather, angular momentum exchange
-between carriers and a chiral lattice results in dynamic spin polarization.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Synergistic Surface
-and Interface Regulation of Ultralow-Pt-Loading
-Cathodes for Low-Alkalinity AEMWEs</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12859/5298281/Synergistic-Surface-and-Interface-Regulation-of</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c12859</guid>
-<pubDate>Sat, 22 Aug 2026 14:00:50 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12859/5298281/Synergistic-Surface-and-Interface-Regulation-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12859/1/m_ja6c12859_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Anion exchange membrane water electrolysis (AEMWE) requires
-operating
-under low-alkalinity conditions with minimal platinum (Pt) loading
-for practical and cost-effective deployment. However, these conditions
-impose severe cathodic penalties by aggravating interfacial transport
-limitations and intensifying the kinetic burden on sparse active sites.
-Here, we achieve synergistic surface and interface regulation of ultralow-Pt-loading
-cathodes by interfacing Pt/C with a crystalline melamine–isophthalic
-acid hydrogen-bonded organic framework (MA–IPA HOF). This fixed
-framework provides spatially defined IPA and MA motifs that serve
-distinct surface and interfacial functions. Oxygen-containing IPA
-motifs tune Pt-surface reaction chemistry by promoting OH adsorption
-and transfer while weakening H-intermediate binding, whereas nitrogen-rich
-MA motifs reshape the interfacial electrostatic and water environment
-to enrich less constrained water species. As a result, the MA–IPA
-HOF simultaneously relieves the surface kinetic burden and improves
-the local interfacial reaction environment, thereby lowering the cathodic
-overpotential under low-alkalinity, ultralow-Pt-loading conditions.
-Implemented in a continuous-flow AEMWE with a Pt loading of only 0.03
-mg cm&lt;sup&gt;–2&lt;/sup&gt;, the HOF-engineered cathode delivers 8.0
-A cm&lt;sup&gt;–2&lt;/sup&gt; at 2.0 V and 3.40 A cm&lt;sup&gt;–2&lt;/sup&gt; at 1.8 V in 1 wt % KOH. It further maintains continuous operation
-for 2000 h with a low degradation rate of 29.1 μV h&lt;sup&gt;–1&lt;/sup&gt;, placing it among the most active and durable PGM-based AEMWE cathodes
-reported under dilute-alkaline and ultralow-noble-metal-loading conditions.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Pulsed Electrolysis
-Unlocks Non-Noble-Metal Catalysis
-for Per- and Polyfluoroalkyl Substance Defluorination in Water</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10422/5298074/Pulsed-Electrolysis-Unlocks-Non-Noble-Metal</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c10422</guid>
-<pubDate>Sat, 22 Aug 2026 14:00:50 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10422/5298074/Pulsed-Electrolysis-Unlocks-Non-Noble-Metal"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c10422/1/m_ja6c10422_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Per- and polyfluoroalkyl substances (PFAS) pose severe
-threats
-to human health and global sustainable development. Electrochemical
-reduction (ECR) provides a promising reagent-free strategy for PFAS
-defluorination, yet its practical deployment is severely limited by
-cathodic PFAS repulsion and C–F bond stability. Herein, we
-report a pulsed electrolysis strategy using a non-noble metal Co/Ni
-electrode for PFAS defluorination in water. While Co sites activated
-C–F bonds and acted as atomic hydrogen (H*) pumps, Ni incorporation
-upshifted the &lt;span style="font-style:italic;"&gt;d&lt;/span&gt;-band center of Co sites and strengthened
-PFAS/H* adsorption, collectively driving electron injection into C–F
-antibonding orbitals and subsequent H/F substitution. Furthermore,
-pulsed potentials dynamically modulated interfacial electrostatic
-interactions, enriching PFAS/protons on the electrode surface for
-effective defluorination. This strategy achieved a 10.5-fold higher
-perfluorooctanoic acid (PFOA, 0.5 μM) removal rate than that
-of potentiostatic operation, outperformed noble metal-based counterparts,
-delivered 83.8% PFOA removal and 87.3% defluorination within 5 h,
-and retained robust stability over 100 h. Moreover, it achieved up
-to 96.9% removal of multiple PFAS in real wastewater and reduced energy
-consumption by over 56% in continuous-flow electrolysis compared with
-reported technologies. Overall, this work provides a low-cost and
-sustainable non-noble metal electrochemical platform for practical
-PFAS treatment.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Lattice-Nitrogen-Mediated
-Electrochemical Nitrate
-Reduction Boosted by Single-Atom Antimony Doping</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12366/5293225/Lattice-Nitrogen-Mediated-Electrochemical-Nitrate</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c12366</guid>
-<pubDate>Sat, 22 Aug 2026 03:01:00 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12366/5293225/Lattice-Nitrogen-Mediated-Electrochemical-Nitrate"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12366/1/m_ja6c12366_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Stable
-lattice-nitrogen-mediated nitrate reduction could
-alleviate
-the intrinsically sluggish kinetics of ammonia synthesis, but sustaining
-this pathway remains challenging under reaction conditions. Here,
-in situ characterizations combined with theoretical calculations reveal
-that lattice nitrogen in a Co–N solid solution (CoN&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt;) is directly involved in nitrate reduction. However,
-reconstruction driven by the coupled effects of the cathodic field
-and oxidative nitrate adsorption causes structural collapse and irreversible
-lattice-nitrogen loss, thereby interrupting the lattice-nitrogen-mediated
-pathway. Introducing Sb single atoms (SAs) into the CoN&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt; matrix stabilizes the framework through Sb–Co
-interactions with appreciable covalent character. This stabilization
-enables a regenerative lattice-nitrogen cycle in which lattice-nitrogen
-is hydrogenated and released as ammonia, while the resulting nitrogen
-vacancies capture nitrate to replenish lattice-nitrogen and complete
-the cycle. Moreover, Sb SAs promote lattice-nitrogen activation, strengthen
-nitrate capture at nitrogen-vacancy sites, and thereby optimize the
-reaction kinetics. As a result, the CoN&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt;-Sb catalyst achieves a maximum Faradaic efficiency for ammonia of
-97.00 ± 2.58%, a maximum ammonia yield rate of 85.18 ± 2.37
-mg h&lt;sup&gt;–1&lt;/sup&gt; cm&lt;sup&gt;–2&lt;/sup&gt;, and stable operation
-in a membrane electrode assembly for over 200 h. These findings highlight
-the importance of structural stabilization in sustaining lattice-nitrogen-mediated
-nitrate reduction.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Main-Group Potassium-Assisted
-Dual-Site Relay Breaks
-the Activity–Stability Trade-Off in Acidic Oxygen Reduction</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12145/5292953/Main-Group-Potassium-Assisted-Dual-Site-Relay</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c12145</guid>
-<pubDate>Sat, 22 Aug 2026 03:01:00 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12145/5292953/Main-Group-Potassium-Assisted-Dual-Site-Relay"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12145/1/m_ja6c12145_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Fe–N–C catalysts are promising platinum-group-metal-free
-cathodes for proton-exchange membrane fuel cells. However, O&lt;sub&gt;2&lt;/sub&gt; activation on isolated FeN&lt;sub&gt;4&lt;/sub&gt; sites typically follows a
-single-center associative pathway, which limits (oxygen reduction
-reaction) ORR kinetics and is associated with peroxide formation and
-Fe demetalation under acidic operation conditions. Herein, an atomically
-dispersed Fe–K dual-site catalyst, FeN&lt;sub&gt;4&lt;/sub&gt;–KN&lt;sub&gt;6&lt;/sub&gt;/C, is reported for the first time, in which the N&lt;sub&gt;6&lt;/sub&gt;-coordinated &lt;span style="font-style:italic;"&gt;s&lt;/span&gt;-block K site (KN&lt;sub&gt;6&lt;/sub&gt;) is
-introduced as a main-group auxiliary site to regulate FeN&lt;sub&gt;4&lt;/sub&gt; rather than as an isolated active center. The neighboring KN&lt;sub&gt;6&lt;/sub&gt; unit modulates the local electronic structure of FeN&lt;sub&gt;4&lt;/sub&gt; through K &lt;span style="font-style:italic;"&gt;s&lt;/span&gt;/&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-state-mediated
-perturbation, enabling bridge-type O&lt;sub&gt;2&lt;/sub&gt; activation and facilitating
-Fe-bound *OH desorption. Consequently, *OOH accumulation and H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; formation are suppressed, reactive oxygen species
-mediated degradation is mitigated, and Fe–N coordination is
-reinforced for improved Fe-site retention. FeN&lt;sub&gt;4&lt;/sub&gt;–KN&lt;sub&gt;6&lt;/sub&gt;/C exhibits an ORR half-wave potential of 0.850 V with a low
-H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; yield. Membrane electrode assemblies using
-FeN&lt;sub&gt;4&lt;/sub&gt;–KN&lt;sub&gt;6&lt;/sub&gt;/C cathodes deliver 47.0 mA cm&lt;sup&gt;–2&lt;/sup&gt; at 0.9 V under H&lt;sub&gt;2&lt;/sub&gt;–O&lt;sub&gt;2&lt;/sub&gt; and 101 mA cm&lt;sup&gt;–2&lt;/sup&gt; at 0.8 V under H&lt;sub&gt;2&lt;/sub&gt;–air
-conditions, with corresponding peak power densities of 1.30 W cm&lt;sup&gt;–2&lt;/sup&gt; and 0.71 W cm&lt;sup&gt;–2&lt;/sup&gt;, respectively.
-Moreover, after 30,000 voltage cycles, the peak power density retention
-reaches 90.1% under H&lt;sub&gt;2&lt;/sub&gt;–air and 92.3% under H&lt;sub&gt;2&lt;/sub&gt;–O&lt;sub&gt;2&lt;/sub&gt; conditions. This work establishes an &lt;span style="font-style:italic;"&gt;s&lt;/span&gt;-block alkali-metal-assisted Fe dual-site mechanism for
-acidic ORR and expands Fe-based dual-atom catalyst design beyond conventional
-transition-metal combinations.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Direct Decarboxylative
-Borylation via Radical-Organometallic
-Relay</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12595/5291658/Direct-Decarboxylative-Borylation-via-Radical</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c12595</guid>
-<pubDate>Sat, 22 Aug 2026 01:02:08 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12595/5291658/Direct-Decarboxylative-Borylation-via-Radical"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12595/1/m_ja6c12595_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Alkyl boronic acids and esters are indispensable building
-blocks
-in synthesis, medicinal chemistry, and materials science, yet direct
-access to structurally diverse alkyl organoboron compounds remains
-scarce. Carboxylic acids would be ideal precursors owing to their
-abundance and structural diversity, but their direct conversion into
-organoboron compounds remains elusive. This longstanding challenge
-stems from an intrinsic redox incompatibility between oxidative decarboxylation
-and conventional borylation chemistry. Here, we report a direct decarboxylative
-borylation of native carboxylic acids enabled by a radical-organometallic
-relay strategy. The reaction proceeds without substrate preactivation
-and is applicable to primary, secondary, and tertiary carboxylic acids,
-exhibiting broad functional group tolerance and enabling late-stage
-borylation of pharmaceuticals and peptides. By resolving a fundamental
-redox incompatibility, this work establishes a new reaction paradigm
-in which oxidative radical generation is directly integrated with
-organometallic C–B bond formation.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Proton
-Off-Resonance  R  1ρ  Near-Rotary-Resonance
-Relaxation Dispersion under Fast Magic-Angle
-Spinning as a Versatile Access to Conformational Exchange</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c05150/5291378/Proton-Off-Resonance-R1-Near-Rotary-Resonance</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c05150</guid>
-<pubDate>Sat, 22 Aug 2026 01:02:08 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c05150/5291378/Proton-Off-Resonance-R1-Near-Rotary-Resonance"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c05150/1/m_ja6c05150_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Relaxation dispersion
-techniques allow access to μs time-scale
-protein motion both in solution and in solid-state NMR. For solids
-under fast magic-angle spinning, &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sub&gt;1ρ&lt;/sub&gt; relaxation dispersion for spin-lock fields around any rotary-resonance
-conditions (NERRD) adds highly versatile observables absent in solution
-that can report on site-specific μs time-scale fluctuations
-of anisotropic interactions. Proton NERRD, as opposed to &lt;sup&gt;15&lt;/sup&gt;N or &lt;sup&gt;13&lt;/sup&gt;C relaxation dispersion, can report on changes
-within the regional proton dipolar-coupling network around a given
-site. It is associated with distinct technical opportunities and,
-in principle, avoids the necessity for heteronuclear isotope labeling.
-Here we show that one of the current limitations─the presence
-of strong spin diffusion effects during proton &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sub&gt;1ρ&lt;/sub&gt; measurements, which can cause a deindividualization
-of the site-specific NERRD profiles and hence a blurring of their
-motional information─can effectively be ameliorated by off-resonance
-spin locks. Even though the fundamental limitations of proton relaxation
-compared to relaxation of more isolated nuclei cannot fully be overcome
-by technical innovations, the reduction of proton–proton crosstalk
-facilitates qualitative access to μs time-scale motion exclusively
-through protons in biology and materials.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Nanofiber-Reinforced
-Composite Polymer Electrolyte
-Enables Continuous Lithium-Ion Transport and Anion-Rich Solvation
-Structure for 670 Wh kg –1  Lithium Batteries</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09551/5290236/Nanofiber-Reinforced-Composite-Polymer-Electrolyte</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c09551</guid>
-<pubDate>Fri, 21 Aug 2026 22:01:17 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09551/5290236/Nanofiber-Reinforced-Composite-Polymer-Electrolyte"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c09551/1/m_ja6c09551_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Solid-state electrolytes are highly promising for high-energy
-lithium-metal
-batteries, yet their practical applications are severely restricted
-by insufficient oxidative stability, sluggish Li&lt;sup&gt;+&lt;/sup&gt; transport,
-and unstable electrode/electrolyte interphases under high-voltage
-operation. Herein, we report an in situ fabricated composite polymer
-electrolyte, denoted as LAFE, which integrates a designed main-chain
-fluorinated polyether matrix with an interconnected three-dimensional
-framework of Li- and F-codoped hydroxyapatite nanofibers (LANs). Distinct
-from conventional particle-filled composite electrolytes, the lithium-active
-LAN framework forms continuous Li&lt;sup&gt;+&lt;/sup&gt;-conducting pathways
-while simultaneously providing abundant interfacial migration sites
-through strong Li&lt;sup&gt;+&lt;/sup&gt;–LAN interactions, coupling bulk
-conduction with site-mediated Li&lt;sup&gt;+&lt;/sup&gt; hopping. The Li&lt;sup&gt;+&lt;/sup&gt;-affinity contrast between LANs and the fluorinated polyether further
-induces heterogeneous Li-rich and Li-deficient domains, reconstructing
-the local solvation environment toward an anion-rich structure. This
-solvation regulation expands the electrochemical stability window
-to 3.0–5.7 V and promotes preferential anion-derived inorganic-rich
-LiF/Li&lt;sub&gt;3&lt;/sub&gt;N/B–O-containing SEI and CEI layers, thereby
-suppressing Li dendrite growth, electrolyte oxidation, and high-voltage
-cathode degradation while strengthening abuse tolerance by immobilizing
-the electrolyte within a solidified framework. Consequently, LAFE
-enables Li||LiNi&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; cells to operate stably for 1000 cycles under 4.5–4.7
-V and 5 C. At the pouch-cell level, 7 Ah Li||LiCoO&lt;sub&gt;2&lt;/sub&gt; and
-10 Ah Li||Li-rich Mn-based oxide cells deliver energy densities of
-677 Wh kg&lt;sup&gt;–1&lt;/sup&gt; and 632 Wh kg&lt;sup&gt;–1&lt;/sup&gt;, respectively,
-while 5 Ah Li|| Ni&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; pouch cells pass nail penetration without leakage or combustion.
-This work establishes a lithium-active composite-electrolyte design
-principle for high-voltage, high-rate, and safe high-energy lithium-metal
-batteries.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Oxygen
-Vacancy-Driven Water Dissociation for High-Performance
-Potassium-Ion Storage</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c04388/5289402/Oxygen-Vacancy-Driven-Water-Dissociation-for-High</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c04388</guid>
-<pubDate>Fri, 21 Aug 2026 21:01:12 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c04388/5289402/Oxygen-Vacancy-Driven-Water-Dissociation-for-High"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c04388/1/m_ja6c04388_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Aqueous
-potassium-ion batteries (AKIBs) are attractive for low-cost
-and sustainable energy storage, yet their performance is limited by
-water-induced electrode degradation. Herein, we identify a previously
-unrecognized water-dissociation-regulated cointercalation mechanism
-in a P3-type K&lt;sub&gt;0.46&lt;/sub&gt;MnO&lt;sub&gt;2&lt;/sub&gt; (KMO) cathode. We found
-that oxygen vacancies in KMO interact with neighboring lattice oxygens
-and promote water dissociation during charging, generating −OH
-groups which subsequently react with water to form H&lt;sub&gt;3&lt;/sub&gt;O&lt;sup&gt;+&lt;/sup&gt;. The resulting H&lt;sub&gt;3&lt;/sub&gt;O&lt;sup&gt;+&lt;/sup&gt; cointercalates
-with K&lt;sup&gt;+&lt;/sup&gt;, contributing to a gradual increase in capacity,
-while the −OH···H&lt;sub&gt;2&lt;/sub&gt;O configuration
-serves as an interlayer pillar that stabilizes the layered structure.
-Benefiting from this water-driven charge-carrier regulation, KMO delivers
-an enhanced discharge capacity of 89.4 mAh g&lt;sup&gt;–1&lt;/sup&gt; with
-a record-high 96.0% capacity retention over 25,000 cycles. Furthermore,
-a KMO-based pouch full cell demonstrates the best capacity retention
-of 88.8% after 9000 cycles reported to date, highlighting the potential
-of hydration chemistry to enable durable and high-performance AKIBs.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Divergent Syntheses
-of  Euphorbia  Diterpenoids:
-A Relay Rearrangement Strategy Triggered by Pyridinium Ring Contraction</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13616/5288995/Divergent-Syntheses-of-Euphorbia-Diterpenoids-A</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c13616</guid>
-<pubDate>Fri, 21 Aug 2026 20:02:04 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13616/5288995/Divergent-Syntheses-of-Euphorbia-Diterpenoids-A"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c13616/1/m_ja6c13616_0012.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;Euphorbia&lt;/span&gt; diterpenoids are a structurally
-diverse
-class of natural products renowned for their potent biological activities.
-Inspired by biosynthetic 1,2-migrations, yet deliberately departing
-from these pathways, we developed a synthetic strategy that provides
-collective access to multiple distinct skeletal families through relay
-rearrangements. Central to this approach is the photochemical ring
-contraction of pyridinium salts, followed by aziridine-mediated diversification,
-to construct highly functionalized cyclopentane cores. These intermediates
-could be transformed into the euphorstranoid scaffold via a &lt;span style="font-style:italic;"&gt;retro&lt;/span&gt;-aldol/transannular aldol sequence that enables stereocenter
-inversion, and into the pepluanol scaffold through a rare cationic
-[3,4]-rearrangement. This unified strategy not only enables the total
-syntheses of (+)-resiniferatoxin, (−)-euphorstranoid B, and
-(+)-pepluanol A, but also establishes a modular platform for complex
-carbocycle assembly in terpenoid synthesis.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Origin of Scission
-Selectivity for Phosphoranyl Radicals
-in Photoredox Catalysis</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11233/5288059/Origin-of-Scission-Selectivity-for-Phosphoranyl</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c11233</guid>
-<pubDate>Fri, 21 Aug 2026 17:28:27 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11233/5288059/Origin-of-Scission-Selectivity-for-Phosphoranyl"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c11233/1/m_ja6c11233_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Phosphoranyl radicals are versatile synthetic intermediates
-that
-can form downstream radicals through α- and β-scission.
-However, the unclear origin of scission selectivity hinders the rational
-design of new transformations using these elementary steps. Here we
-report a comprehensive study of phosphoranyl radical scission mechanisms
-for sulfonamide nucleophiles. Using a combination of experimental,
-computational, and machine-learning-driven strategies, the primary
-factors influencing selectivity in these transformations were uncovered.
-Computational and experimental studies revealed an unexpected Curtin–Hammett
-scenario and demonstrated the impact of reaction stoichiometry on
-selectivity outcomes. Statistical modeling enabled selectivity prediction
-via an interpretable linear regression model, which revealed that
-small, electron-poor phosphines favor β-scission. Taken together,
-these studies expose the interplay of reaction conditions, phosphine
-properties, and alkene properties, which can be used to control selectivity
-in phosphoranyl-radical-mediated reactions of sulfonamides. These
-insights were harnessed to develop a photoredox-catalyzed phosphine-mediated
-hydrosulfonylation reaction of alkenes, the development of which makes
-primary sulfonamides the first example of a nucleophile with switchable
-scission selectivity controlled only by phosphine and reaction conditions
-for phosphoranyl-radical-mediated reactions.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Non-Faradaic Promotion
-of Pd-Catalyzed Benzaldehyde
-Hydrogenation Induced by Cathodic Potential</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c04594/5287194/Non-Faradaic-Promotion-of-Pd-Catalyzed</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c04594</guid>
-<pubDate>Fri, 21 Aug 2026 16:01:27 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c04594/5287194/Non-Faradaic-Promotion-of-Pd-Catalyzed"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c04594/1/m_ja6c04594_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Pd-catalyzed hydrogenation
-of benzaldehyde to benzyl
-alcohol in
-the aqueous phase is significantly enhanced relative to open-circuit
-conditions when H&lt;sub&gt;2&lt;/sub&gt; pressure and an external cathodic potential
-are applied simultaneously. This dual-mode operation affords hydrogenation
-rates up to 6-fold higher than those observed under open-circuit conditions.
-The rate enhancement exceeds the expected charge-transfer contribution
-by at least a factor of 2 at all investigated potentials, indicating
-a non-Faradaic promotion effect. Combined experimental and theoretical
-analyses suggest that cathodic polarization increases the quasi-equilibrium
-surface coverage of a hydroxy intermediate formed via a proton-coupled
-electron transfer step preceding the rate-determining addition of
-the second hydrogen atom. At more negative potentials, where this
-coverage saturates, further rate acceleration likely arises from modulation
-of the standard free energies of intermediates and transition states
-along the rate-determining pathway, thereby lowering the apparent
-standard activation free energy.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
