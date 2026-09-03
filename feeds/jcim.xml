@@ -5,6 +5,34 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>ChalcoVina: Enhancing Molecular Docking Accuracy by
+Incorporating Chalcogen Bond-Aware Scoring</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02680/5403550/ChalcoVina-Enhancing-Molecular-Docking-Accuracy-by</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02680</guid>
+<pubDate>Wed, 02 Sep 2026 05:01:02 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02680/5403550/ChalcoVina-Enhancing-Molecular-Docking-Accuracy-by"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02680/1/m_ci6c02680_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular
+docking is a cornerstone technique in structure-based
+drug design (SBDD), providing a computationally efficient approach
+for predicting ligand–receptor interactions. However, conventional
+docking programs fail to accurately identify chalcogen bonds (ChBs),
+which play crucial roles in molecular recognition. Here, we present
+ChalcoVina, an augmented molecular docking program based on AutoDock
+Vina that simultaneously evaluates intermolecular and intramolecular
+ChBs for the first time. An intermolecular ChB term was incorporated
+into the Vina scoring function using 14,049 sets of quantum-mechanically
+derived geometric and energetic data. An empirical function constructed
+from prior knowledge and statistical data was further introduced to
+account for intramolecular ChBs. Docking experiments demonstrated
+that ChalcoVina improved docking success rates by 3.3%–13.1%
+and the geometric reproduction rate of intramolecular ChBs by approximately
+23%, which significantly refined the prediction of binding poses.
+These enhancements expand the applicability of molecular docking for
+drug discovery involving sulfur-containing compounds. Furthermore,
+the approach for constructing and integrating ChB terms can be a blueprint
+for other σ-hole-mediated interactions, facilitating the inclusion
+of more nonclassical interactions in SBDD.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Performances and Critical Limitations of Docking and
 Protein–Ligand Interactions for Efficacy-Driven Virtual Screening
 Targeting Class A GPCRs</title>
@@ -2561,13 +2589,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01047</guid>
 <pubDate>Fri, 03 Jul 2026 12:13:39 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01047/asset/images/medium/ci6c01047_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01047&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] FoldDoF: Utilizing the Primary Degrees of Freedom of Protein Backbone for Geometric Modeling and Generation</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00617</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00617</guid>
-<pubDate>Fri, 03 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00617/asset/images/medium/ci6c00617_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00617&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
