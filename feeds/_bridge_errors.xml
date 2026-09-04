@@ -5,6 +5,13 @@
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <description>ACS Bridge Error (mirrored feed)</description>
 <item>
+<title>[2026-09-04 21:46 UTC] 1件の問題 / 1 issue(s)</title>
+<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
+<guid>acs-bridge-error-2026-09-04T21:46:09.497027+00:00</guid>
+<pubDate>Fri, 04 Sep 2026 21:46:09 +0000</pubDate>
+<description>[scraper] 全体が失敗 / stage failed entirely: WebDriverException()</description>
+</item>
+<item>
 <title>[2026-09-01 15:03 UTC] 1件の問題 / 1 issue(s)</title>
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <guid>acs-bridge-error-2026-09-01T15:03:38.278466+00:00</guid>
@@ -345,13 +352,6 @@
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <guid>acs-bridge-error-2026-08-03T21:02:28.942094+00:00</guid>
 <pubDate>Mon, 03 Aug 2026 21:02:28 +0000</pubDate>
-<description>[scraper] ACS Catalysis: FAIL: ValueError("取得結果がRSS/Atomと認識できない / response doesn't look like RSS/Atom")&lt;br&gt;[scraper] ACS Central Science: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Chem.Rev.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Med.Chem.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Org.Lett.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] OPR&amp;D: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Chem.Inf.Model.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Chemical Biology: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Omega: FAIL: &lt;HTTPError 404: 'Not Found'&gt;</description>
-</item>
-<item>
-<title>[2026-08-03 15:02 UTC] 13件の問題 / 13 issue(s)</title>
-<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
-<guid>acs-bridge-error-2026-08-03T15:02:23.005193+00:00</guid>
-<pubDate>Mon, 03 Aug 2026 15:02:23 +0000</pubDate>
 <description>[scraper] ACS Catalysis: FAIL: ValueError("取得結果がRSS/Atomと認識できない / response doesn't look like RSS/Atom")&lt;br&gt;[scraper] ACS Central Science: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Chem.Rev.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Med.Chem.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Org.Lett.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] OPR&amp;D: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Chem.Inf.Model.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Chemical Biology: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Omega: FAIL: &lt;HTTPError 404: 'Not Found'&gt;</description>
 </item>
 </channel>
