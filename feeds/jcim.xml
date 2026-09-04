@@ -5,6 +5,80 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Dynamics of Ligand Binding Sites and Chloride Penetration
+in a Bitter Taste GPCR</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00140/5414936/Dynamics-of-Ligand-Binding-Sites-and-Chloride</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00140</guid>
+<pubDate>Thu, 03 Sep 2026 19:00:56 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00140/5414936/Dynamics-of-Ligand-Binding-Sites-and-Chloride"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00140/1/m_ci6c00140_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Taste perception
+strongly influences food choice, drug compliance,
+and dietary behavior. Bitter taste receptors belong to a subfamily
+of Family A GPCRs, while having unique features and deviations from
+conserved motifs. Recent cryo-EM structures revealed that the human
+bitter taste receptor TAS2R14 contains not only the canonical extracellular
+binding site, but also a novel intracellular site, raising questions
+about their interplay. Here, we performed all-atom molecular dynamics
+simulations of TAS2R14 in an explicit membrane to probe different
+receptor states: both cholesterol (extracellular) and aristolochic
+acid (intracellular) bound, only cholesterol bound, only aristolochic
+acid bound, and the apo receptor, with and without the G protein.
+Ligand occupancy at either site reshaped the volume, hydration, and
+conformational plasticity of both pockets and modulated the relative
+proximity of transmembrane helices 3 and 6. In simulations lacking
+the intracellular agonist but containing cholesterol, we observed
+intracellular entry of chloride ions and their long-lived interaction
+with the TAS2R-conserved R55 (BW position 2.50), revealing a charge-inverted
+interaction relative to the D2.50-sodium interaction described in
+many class A GPCRs. Apo simulations without G protein showed shorter-lived
+chloride visits to the same region. Together, these findings point
+to the intracellular pocket as a promising target for future mechanistic
+and ligand-design studies on bitter taste GPCRs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Benchmarking Generative
+AI and Physics-Based Molecular
+Simulation for Sampling Conformational Heterogeneity in T4 Lysozyme</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02044/5412778/Benchmarking-Generative-AI-and-Physics-Based</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02044</guid>
+<pubDate>Thu, 03 Sep 2026 14:01:11 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02044/5412778/Benchmarking-Generative-AI-and-Physics-Based"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02044/1/m_ci6c02044_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Wild-type
+T4 lysozyme (T4L) is used as a benchmark to
+evaluate
+conformational sampling across generative AI, AI-accelerated molecular
+simulation (AMS), and physics-based enhanced molecular dynamics (EMD).
+A four-state model─exposed/open, exposed/closed, buried/open,
+and buried/closed; is defined using physically meaningful collective
+variables. Generative AI methods (AF-cluster, MSA subsampling of AlphaFold2,
+ConforFold, AlphaFlow, ESMFlow, ConfRover, BioEmu) largely sample
+only the exposed/open state. In contrast, AMS integrates generative
+ensembles with physics-based molecular simulations, recovering all
+states and reproducing equilibrium populations similar to EMD and
+experimental smFRET signatures.&lt;/span&gt;</description>
+</item>
+<item>
+<title>ThermoLIB─A Python Library for Constructing
+and Post-Processing Free-Energy Surfaces to Extract Thermodynamic
+and Kinetic Properties</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02199/5410312/ThermoLIB-A-Python-Library-for-Constructing-and</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02199</guid>
+<pubDate>Thu, 03 Sep 2026 03:01:03 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02199/5410312/ThermoLIB-A-Python-Library-for-Constructing-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02199/1/m_ci6c02199_0003.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;ThermoLIB is a Python/Cython
+library designed to be used as a postprocessing
+tool for constructing free-energy surfaces, including adequate error
+estimation from the output of molecular simulations, transforming
+them between different collective variables (CVs), and extracting
+thermodynamic and kinetic information. ThermoLIB is available for
+download on GitHub and comes with extended documentation as well as
+many tutorials. The implementation is based on the theory of maximum-likelihood
+estimators for robust error estimation. The free-energy surfaces can
+be transformed or projected a posteriori to a larger or lower CV space
+by constructing conditional probabilities from the simulation results.
+Finally, useful CV-independent thermodynamic and kinetic properties,
+such as the rate constant, can be readily obtained, together with
+their uncertainty estimates. We briefly illustrate the capabilities
+of ThermoLIB by means of tutorials and case studies.&lt;/span&gt;</description>
+</item>
+<item>
 <title>ChalcoVina: Enhancing Molecular Docking Accuracy by
 Incorporating Chalcogen Bond-Aware Scoring</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02680/5403550/ChalcoVina-Enhancing-Molecular-Docking-Accuracy-by</link>
@@ -2568,27 +2642,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00587</guid>
 <pubDate>Sun, 05 Jul 2026 06:50:18 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00587/asset/images/medium/ci6c00587_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00587&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] A Unified Molecular Graph and Protein Language Model Framework for Predicting Human Drug–Hormone Receptor Interactions with Structure-Aware Validation</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00806</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00806</guid>
-<pubDate>Sun, 05 Jul 2026 05:51:08 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00806/asset/images/medium/ci6c00806_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00806&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Intricate Role of Cholesterol in Membrane Fusion</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01044</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01044</guid>
-<pubDate>Sat, 04 Jul 2026 06:21:50 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01044/asset/images/medium/ci6c01044_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01044&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] tmGNN-XAI: An Explainable Graph Neural Network Tool for Predicting Electronic Properties of Transition Metal Complexes from SMILES</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01047</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01047</guid>
-<pubDate>Fri, 03 Jul 2026 12:13:39 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01047/asset/images/medium/ci6c01047_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01047&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
