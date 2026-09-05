@@ -5,6 +5,88 @@
 <link>https://pubs.acs.org/rss/acscii/asap.xml</link>
 <description>ACS Central Science (mirrored feed)</description>
 <item>
+<title>Reasoning-Driven Design of Single-Atom Catalysts via
+a Multiagent Large Language Model Framework</title>
+<link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c01260/5421755/Reasoning-Driven-Design-of-Single-Atom-Catalysts</link>
+<guid>http://dx.doi.org/10.1021/acscentsci.6c01260</guid>
+<pubDate>Fri, 04 Sep 2026 20:00:39 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Large language models
+(LLMs) are becoming increasingly applied
+beyond natural language processing, demonstrating strong capabilities
+in complex scientific tasks that traditionally require human expertise.
+This progress has extended into materials discovery, where LLMs introduce
+a new paradigm by leveraging reasoning and in-context learning, capabilities
+absent from conventional machine learning approaches. Here, we present
+a Multi-Agent-based Electrocatalyst Search Through Reasoning and Optimization
+(MAESTRO) framework in which multiple LLMs with specialized roles
+collaboratively discover high-performance single-atom catalysts for
+the oxygen reduction reaction. Within an autonomous design loop, agents
+iteratively reason, propose modifications, reflect on results, and
+accumulate design history. Through in-context learning enabled by
+this iterative process, MAESTRO identified design principles not explicitly
+encoded in the LLMs’ background knowledge and successfully
+discovered catalysts that break conventional scaling relations between
+reaction intermediates. These results highlight the potential of multiagent
+LLM frameworks as a powerful strategy to generate chemical insight
+and discover promising catalysts.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Proton Cranes─Tautomeric
+Systems for Intramolecular
+Cargo Delivery</title>
+<link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c00938/5420663/Proton-Cranes-Tautomeric-Systems-for</link>
+<guid>http://dx.doi.org/10.1021/acscentsci.6c00938</guid>
+<pubDate>Fri, 04 Sep 2026 13:00:44 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Nature effectively employs the light-induced transfer
+of a proton
+for rapid interconversion between different electronic states of a
+molecule and uses tautomerism as a functional design principle in
+biological systems. Twenty-five years ago, the theoretical design
+concept of proton cranes was introduced to describe molecules capable
+of transferring protons at a long-range upon photoexcitation, by analogy
+with the functioning of a mechanical crane. Unlike conventional materials
+whose function relies on proton transfer events, the proton cranes
+operate with atomic level precision, enabling the controlled delivery
+of a proton between predefined sites within a molecule. Shortly after,
+the theoretical concept was extended to reversibly operating proton
+delivery systems, placing the proton cranes in the field of molecular
+machines and light-responsive switches. In 2024, the first clean switching
+in proton cranes was theoretically predicted and experimentally demonstrated,
+opening a highway to a broad range of real-world applications of these
+intriguing systems. Here, we provide an outlook of the current state
+of the art and progress in the field and formulate guidelines for
+further development of efficient proton cranes.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Electrolyte Effects
+on N-Heterocyclic Imines
+as the Redox Sorbent for Electrochemical CO 2  Capture</title>
+<link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c00765/5416732/Electrolyte-Effects-on-N-Heterocyclic-Imines-as</link>
+<guid>http://dx.doi.org/10.1021/acscentsci.6c00765</guid>
+<pubDate>Fri, 04 Sep 2026 03:00:48 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;N-Heterocyclic imines (NHIs) represent a promising class
+of sorbents
+for electrochemically mediated carbon capture (EMCC) due to their
+ability to bind CO&lt;sub&gt;2&lt;/sub&gt; in the neutral state and operate reversibly
+at redox potentials more positive than that of oxygen. In this study,
+the effect of electrolyte composition on the thermochemical and electrochemical
+behavior of NHI-based systems is examined. Using reaction calorimetry
+and Raman and NMR spectroscopy, we demonstrate that Lewis acid cations
+stabilize the NHI–CO&lt;sub&gt;2&lt;/sub&gt; adduct through charged interactions,
+and the solvent and anion donor number tune this stabilization by
+modulating the effective cation Lewis acidity. As a result, electrolyte
+salts can substantially increase the magnitude of the NHI–CO&lt;sub&gt;2&lt;/sub&gt; reaction enthalpy, leading to higher CO&lt;sub&gt;2&lt;/sub&gt; loading
+on NHI at low CO&lt;sub&gt;2&lt;/sub&gt; partial pressure (10&lt;sup&gt;–3&lt;/sup&gt; atm) and faster capture kinetics. The impacts of the electrolyte
+selection on NHI redox behavior as well as oxygen reduction were also
+investigated. The findings indicate that electrolyte design must balance
+the strength of cation–NHI–CO&lt;sub&gt;2&lt;/sub&gt; stabilization,
+NHI redox activity, and the redox potential separation from oxygen
+reduction. By providing a mechanistic framework for how individual
+electrolyte components govern important process parameters, this work
+offers insights for optimizing electrolyte environments to achieve
+high-efficiency and reversible EMCC.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Quantum Light Spectroscopy</title>
 <link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c00757/5414805/Quantum-Light-Spectroscopy</link>
 <guid>http://dx.doi.org/10.1021/acscentsci.6c00757</guid>

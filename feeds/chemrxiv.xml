@@ -453,6 +453,13 @@
 <description>The absorption spectrum of aqueous indole contains contributions from the two lowest-lying excited states, La and lower-energy Lb. The corresponding fluorescence spectrum exhibits a large Stokes shift attributed to solvent-induced inversion of the excited-...</description>
 </item>
 <item>
+<title>Modeling Reaction Feasibility to Identify New Opportunities for Sigmatropic Rearrangements</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008353/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008353/v1</guid>
+<pubDate>2026-09-04T08:22:02Z</pubDate>
+<description>Defining the scope and limitations of synthetic methods enables bolder, lower-risk synthetic design. Computation can facilitate this if able to anticipate reaction success or failure. Herein, we combine a machine-learned interatomic potential with the TS-...</description>
+</item>
+<item>
 <title>A DFT Study of Oxidative Lignin β-O-4 Bond Cleavage by Transition-Metal Catalysis</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008291/v1?af=R</link>
 <guid>10.26434/chemrxiv.15008291/v1</guid>
@@ -1045,13 +1052,6 @@
 <guid>10.26434/chemrxiv-2025-s0mk5/v3</guid>
 <pubDate>2026-09-02T06:42:47Z</pubDate>
 <description>The emergence of cellular life required co-existence of genetic molecules and compartments housing them1. However, the biological origin of robust membrane compartments is an enduring unsolved problem: the aqueous synthesis of amphiphilic diesters, such ...</description>
-</item>
-<item>
-<title>Site-Resolved Prediction of Mayr Nucleophilicity with Reactivity-Pretrained Graph Neural Networks</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008000/v2?af=R</link>
-<guid>10.26434/chemrxiv.15008000/v2</guid>
-<pubDate>2026-09-02T06:42:36Z</pubDate>
-<description>Nucleophilicity is a key kinetic descriptor for understanding organic reaction mechanisms and guiding reaction design. However, existing machine-learning models typically predict Mayr nucleophilicity at the whole-molecule level without identifying the ...</description>
 </item>
 </channel>
 </rss>

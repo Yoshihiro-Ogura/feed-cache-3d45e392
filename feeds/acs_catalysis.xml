@@ -5,6 +5,69 @@
 <link>https://pubs.acs.org/rss/accacs/asap.xml</link>
 <description>ACS Catalysis (mirrored feed)</description>
 <item>
+<title>Resolving the Mass Transfer Conflict via Spatially Differentiated Hydrogen Bond Network Modulation for Hydrazine Oxidation</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c04545/5421685/Resolving-the-Mass-Transfer-Conflict-via-Spatially</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c04545</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Replacing the sluggish oxygen evolution reaction with thermodynamically favorable small-molecule oxidation reactions enables energy-efficient hydrogen production, yet alkaline systems face an inherent conflict because neutral substrates and OH&lt;sup&gt;−&lt;/sup&gt; impose incompatible demands on the interfacial hydrogen bond network. Neutral molecules require a loose network for diffusion, whereas OH&lt;sup&gt;−&lt;/sup&gt; transport via the Grotthuss mechanism strictly depends on a continuous one, creating a mass transfer bottleneck that has been largely overlooked. Here, we use the hydrazine oxidation reaction (HzOR) as a model and resolve this conflict through spatially differentiated dual modulation of the interfacial hydrogen bond network via a multiscale electric field on fluorine-doped cobalt phosphide (F-CoP). The interfacial electric fields enhanced by a positive shift in the potential of zero charge drive K&lt;sup&gt;+&lt;/sup&gt; accumulation to disrupt midrange hydrogen bonds for fast N&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; diffusion, while atomic-scale local fields at F sites anchor water molecules via hydrogen bonds to restore short-range network connectivity for efficient OH&lt;sup&gt;−&lt;/sup&gt; transport. This spatially distinct mechanism enables the F‑CoP electrocatalyst to require only 0.293 V at 100 mA/cm&lt;sup&gt;2&lt;/sup&gt; for hydrazine-assisted water splitting, 1.53 V lower than conventional water splitting. This work establishes spatially resolved interfacial hydrogen bond modulation as a general framework for resolving bimolecular mass transfer conflicts in alkaline electrocatalysis.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Feature Selection in Multivariate Linear Regression Models for Data-Efficient Reaction Optimization</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c04292/5421578/Feature-Selection-in-Multivariate-Linear</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c04292</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We introduce NaviCat ReaFS (reaction feature selection), a framework for testing and supporting multivariate linear regression models for reaction optimization in small, heterogeneous datasets, where overfitting risk is high and additional experiments are costly. ReaFS combines systematic benchmarking of feature selection methods with targeted diagnostics spanning data, feature-subsets, and predictions. We also introduce a composite score that captures complementary aspects of extrapolative performance, namely, candidate recovery, predictive accuracy, and ranking quality, enabling direct comparison of models and feature selection strategies across homogeneous catalysis datasets. ReaFS further integrates cross-validation schemes, data and feature diagnostics, and robustness checks for prospective model assessment. Together, these components provide a practical route to more informed decision-making in low-data reaction optimization.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Stereoselective  trans -1,4 Polymerization of Isoprene and  β -Myrcene Mediated by Iron Complexes Bearing 1,1-Diaryl- N -(quinolin-8-yl)methanimine Ligands</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c04103/5421577/Stereoselective-trans-1-4-Polymerization-of</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c04103</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Although iron has emerged as an earth-abundant alternative for 1,3-diene coordinative polymerization, stereoselective iron systems remain uncommon and are often associated with limited catalytic activity. Here, we report three iron(II) complexes supported by 1,1-diaryl-&lt;span style="font-style:italic;"&gt;N&lt;/span&gt;-(quinolin-8-yl)methanimine ligands, which upon activation with Al(&lt;span style="font-style:italic;"&gt;i&lt;/span&gt;Bu)&lt;sub&gt;3&lt;/sub&gt;/[CPh&lt;sub&gt;3&lt;/sub&gt;][B(C&lt;sub&gt;6&lt;/sub&gt;F&lt;sub&gt;5&lt;/sub&gt;)&lt;sub&gt;4&lt;/sub&gt;] or methylaluminoxane (MAO), promote &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-1,4-selective polymerization of isoprene and β-myrcene with high activity (TOF up to 5700 h&lt;sup&gt;–1&lt;/sup&gt; at room temperature) and &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-1,4 contents of up to 95 and 99%, respectively. These systems operate under mild conditions and afford polymers with tunable molar masses by varying the monomer-to-Fe ratio. Beyond homopolymers, the catalyst platform allows the synthesis of poly(isoprene-&lt;span style="font-style:italic;"&gt;block&lt;/span&gt;-myrcene) through sequential copolymerization, yielding &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-1,4-stereoregular materials. Density functional theory (DFT) calculations provide mechanistic insights into the origin of the &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-1,4 selectivity, rationalizing the experimentally observed selectivity. This work demonstrates that well-defined iron catalysts can efficiently mediate &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-selective 1,3-diene polymerization with high activity, highlighting the potential of iron for the development of precision polymerization catalysts.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Kinetic Origins of CO 2  Methanation Activity of ZrO 2 -Based Catalysts with Rh or Ru Nanoparticles</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c03744/5421555/Kinetic-Origins-of-CO2-Methanation-Activity-of</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c03744</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Low-temperature CO&lt;sub&gt;2&lt;/sub&gt; hydrogenation to methane has the potential to form the basis of power-to-gas technologies, which could help close the carbon cycle and address environmental concerns. Catalysts with supported metals that can activate hydrogen are typically used for this reaction but do not yet meet the requirements of large-scale applications. Their tailored design remains challenging due to the ambiguity about the role of support and supported metal and how they interact with each other to ensure industrially relevant performance. To contribute to closing this knowledge gap, we prepared ZrO&lt;sub&gt;2&lt;/sub&gt;- and YZrO&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt;-supported catalysts possessing 1 nm Ru or Rh nanoparticles at a low metal loading of about 0.1 wt %, which was chosen for economic reasons. The best-performing Ru/ZrO&lt;sub&gt;2&lt;/sub&gt; catalyst outperformed various previously developed Ru- or/and Rh-containing catalysts in terms of metal-related activity despite operating at around 90% equilibrium conversion. To gain a detailed understanding of the kinetics and mechanism of CO&lt;sub&gt;2&lt;/sub&gt; methanation, we performed a comprehensive study combining steady-state isotopic transient kinetic analysis (SSITKA), temporal analysis of products (TAP), and in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS). The SSITKA method enabled us to determine the concentration and the lifetime of the surface intermediates of gas-phase CH&lt;sub&gt;4&lt;/sub&gt;. The concentration was found (i) to be significantly higher than that of surface atoms of Rh or Ru and (ii) to increase with increasing reaction temperature. Thus, support plays a pivotal active role in the reaction kinetics and mechanism. Moreover, a direct correlation was found between the lifetime and the strength of CO&lt;sub&gt;2&lt;/sub&gt; adsorption as determined by TAP experiments. This finding suggests that the adsorptive catalyst property is an important activity-governing factor. This property can be controlled by the degree of support reduction; the higher the reduction degree, the longer the lifetime. The reduction degree depends on the kind of supported metal and dopant for ZrO&lt;sub&gt;2&lt;/sub&gt;. In situ DRIFTS studies confirmed that CO&lt;sub&gt;2&lt;/sub&gt; methanation proceeds on the support via the formate (HCOO&lt;sup&gt;–&lt;/sup&gt;) and methoxy (OCH&lt;sub&gt;3&lt;/sub&gt;) intermediates, ultimately yielding gas-phase CH&lt;sub&gt;4&lt;/sub&gt;. The synergistic action of oxygen vacancies and weak OH&lt;sup&gt;–&lt;/sup&gt; basic centers was suggested to facilitate CO&lt;sub&gt;2&lt;/sub&gt; adsorption and its rapid conversion into active HCOO&lt;sup&gt;–&lt;/sup&gt; species, thereby enabling the fast formation of reaction intermediates. The coexistence of oxygen vacancies and weak OH&lt;sup&gt;–&lt;/sup&gt; groups on the surface of ZrO&lt;sub&gt;2&lt;/sub&gt;-based supports may provide a faster pathway for CH&lt;sub&gt;4&lt;/sub&gt; formation. Therefrom, the presented approach and the obtained knowledge may be used for the purposeful design of catalysts not only for CO&lt;sub&gt;2&lt;/sub&gt; methanation but also for CO&lt;sub&gt;2&lt;/sub&gt; hydrogenation to higher hydrocarbons to hinder the formation of CH&lt;sub&gt;4&lt;/sub&gt;.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Silylium-Ion-Promoted Cycloisomerization of Silicon-Tethered Enynes</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c05835/5421371/Silylium-Ion-Promoted-Cycloisomerization-of</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c05835</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;A series of four silylium-ion-promoted enyne cycloisomerization reactions is reported. Various silicon-tethered 1,5-, 1,6-, and 1,7-enynes engage in chemoselective &lt;span style="font-style:italic;"&gt;π&lt;/span&gt;-activation of either unsaturated branch by the formation of &lt;span style="font-style:italic;"&gt;β&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;β&lt;/span&gt;- or &lt;span style="font-style:italic;"&gt;β&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;β&lt;/span&gt;&lt;span style="font-style:italic;"&gt;’&lt;/span&gt;-bis(silicon)-stabilized vinyl cations (from the alkyne branch) or a &lt;span style="font-style:italic;"&gt;β&lt;/span&gt;-silicon-stabilized carbenium ion (from the alkene branch). Subsequent ring closures lead to a six-membered ring (silinane) in three cases, while one 1,5-enyne cyclizes to give a five-membered ring (silole). The silole system stands out as the exocyclic silyl group is lost by protolysis, followed by proton-mediated, thermodynamically controlled migration of an aryl substituent. The reaction mechanisms can be rationalized by silicon-controlled carbocation formation with termination by either allylation of a carbenium-ion intermediate with an allylsilane or a Friedel–Crafts reaction with an arene. The proton from the Wheland intermediate is captured by proton-into-silylium ion interconversion, again employing an allylsilane reagent.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Charge Localization at Ce–O 5  Sites Enables Efficient Photocatalytic Methane Oxidation to Methanol under Mild Conditions</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c04702/5420999/Charge-Localization-at-Ce-O5-Sites-Enables</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c04702</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Photocatalytic oxidation of methane (POM) to methanol under mild conditions remains challenging because of the difficulty in activating inert C–H bonds and the inevitable overoxidation of methanol. Herein, we simultaneously achieved high selectivity and productivity of CH&lt;sub&gt;3&lt;/sub&gt;OH in POM by introducing Pd nanoclusters (NCs) on a Ce-doped TiO&lt;sub&gt;2&lt;/sub&gt; photocatalyst (Pd&lt;sub&gt;&lt;span style="font-style:italic;"&gt;n&lt;/span&gt;&lt;/sub&gt;/TiCeO&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt;) at room temperature. Detailed mechanistic studies revealed that the construction of Ce–O&lt;sub&gt;5&lt;/sub&gt; sites could pre-activate the C–H bond by polarizing CH&lt;sub&gt;4&lt;/sub&gt; molecules. Furthermore, the introduced Pd NCs significantly altered the electronic structure of Ce atoms, inducing pronounced charge localization at Ce sites, thereby promoting CH&lt;sub&gt;4&lt;/sub&gt; adsorption and activation and, in turn, reducing the energy barrier for C–H cleavage by ∼0.65 eV. Meanwhile, the charge localization at Ce sites not only inhibited further dehydrogenation of the adsorbed *CH&lt;sub&gt;3&lt;/sub&gt; but also suppressed the overoxidation of *CH&lt;sub&gt;3&lt;/sub&gt;OH by weakening the Ce–O&lt;sub&gt;&lt;span style="font-style:italic;"&gt;m&lt;/span&gt;&lt;/sub&gt; bond and strengthening the polarity of the O–H bond in CH&lt;sub&gt;3&lt;/sub&gt;OH, thereby facilitating methanol desorption. As a result, Pd&lt;sub&gt;&lt;span style="font-style:italic;"&gt;n&lt;/span&gt;&lt;/sub&gt;/TiCeO&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt; exhibits a CH&lt;sub&gt;3&lt;/sub&gt;OH productivity of 11,620 μmol·g&lt;sup&gt;–1&lt;/sup&gt;·h&lt;sup&gt;–1&lt;/sup&gt; with a selectivity of 98% in POM at ambient temperature and low pressure. This work underscores the efficacy of lanthanide-induced structural distortion and electronic engineering in oxide-based catalysts and offers a design principle for methane-to-methanol conversion.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Active-Site Relay of Y-Doped LaFeO 3  for Enhanced CH 4  Reactivity in Chemical Looping Dry Reforming of Methane</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c04903/5420242/Active-Site-Relay-of-Y-Doped-LaFeO3-for-Enhanced</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c04903</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The development of high-performance oxygen carriers (OCs) for chemical looping dry reforming of methane (CLDRM) is often hindered by the sluggish kinetics of C–H bond activation and the susceptibility to carbon deposition. Herein, we report that A-site Y doping in LaFeO&lt;sub&gt;3&lt;/sub&gt; (La&lt;sub&gt;0.9&lt;/sub&gt;Y&lt;sub&gt;0.1&lt;/sub&gt;FeO&lt;sub&gt;3&lt;/sub&gt;) perovskite significantly enhances methane reactivity, achieving a CH&lt;sub&gt;4&lt;/sub&gt; conversion of 93–98% and a syngas yield nearly twice that of pristine LaFeO&lt;sub&gt;3&lt;/sub&gt;, alongside an ideal H&lt;sub&gt;2&lt;/sub&gt;/CO ratio (1.97–1.99) and stable performance at 900 °C over 30 CH&lt;sub&gt;4&lt;/sub&gt;/CO&lt;sub&gt;2&lt;/sub&gt; redox cycles. Experimental and DFT analysis reveal a two-stage “active-site relay” activation mechanism. Initially, Y doping in the perovskite induces lattice distortion and enlarges Fe–O–Fe bond angles, which boosts lattice oxygen mobility and facilitates surface C–H bond cleavage. Subsequently, deep reduction triggers the in situ exsolution of metallic Fe&lt;sup&gt;0&lt;/sup&gt; nanoparticles, serving as highly active secondary centers for CH&lt;sub&gt;4&lt;/sub&gt; dissociation. The synergistic effect between exsolved Fe&lt;sup&gt;0&lt;/sup&gt; and the Y-doped perovskite with high mobility of lattice oxygen ensures rapid coke elimination, thereby enabling good cyclic stability. The strategy of the “active-site relay” can provide principles for rationally designing advanced OCs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Quantifying the Photoelectrochemically Active Surface Area for Oxygen Evolution Metal Oxide Photoelectrocatalysts</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c01573/5420184/Quantifying-the-Photoelectrochemically-Active</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c01573</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Nanostructuring is established as a photoelectrode performance enhancing route for solar-driven catalytic processes. However, it is often unclear to what extent the increase in photoelectrode physical surface area directly results in a commensurate increase in photoelectrochemically active surface area. While there are established methods for estimating the physical and electrochemically active surface areas, it is challenging to quantify the &lt;span style="font-style:italic;"&gt;operando&lt;/span&gt; photoelectrochemically active surface area of nanostructured or nanoparticulate photoelectrodes. Herein, we demonstrate that photoinduced absorption (PIA) spectroelectrochemistry can be employed to quantify the &lt;span style="font-style:italic;"&gt;operando&lt;/span&gt; photoelectrochemically active area of photoanodes for the oxygen evolution reaction (OER) by exploiting the strong dependence of OER turnover frequency on physical surface hole density. We investigate BiVO&lt;sub&gt;4&lt;/sub&gt;, α-Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;, and TiO&lt;sub&gt;2&lt;/sub&gt; photoanodes with contrasting morphologies – planar, nanoparticulate, and nanostructured. Our study combines &lt;span style="font-style:italic;"&gt;operando&lt;/span&gt; measurements of TOF and geometric surface hole density to quantify the photoelectrochemically active surface area of each catalytic system for OER. For the nanostructured photoelectrodes, the photoelectrochemically active surface areas determined from our PIA analyses are shown to be in agreement with their physical surface area, consistent with their good OER performance. This contrasts with the low photoelectrochemically active surface areas compared to their high physical surface area determined by the nanoparticulate photoelectrodes, resulting in poor performance. We conclude by demonstrating how the photoelectrochemically active surface areas of nanoparticulate photoelectrodes increase when driving more kinetically facile reactions or by adding co-catalysts.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Denticity-Controlled N-Heterocyclic Carbene Stabilization of Copper Nanoparticles Enhances C 2  Selectivity in CO 2  Electroreduction</title>
+<link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c04070/5420099/Denticity-Controlled-N-Heterocyclic-Carbene</link>
+<guid>http://dx.doi.org/10.1021/acscatal.6c04070</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; reduction (CO&lt;sub&gt;2&lt;/sub&gt;RR) to multicarbon products offers a route to green chemical feedstocks. While nanostructured Copper (Cu) catalysts provide a high density of undercoordinated sites that are generally associated with enhanced C–C coupling, their practical application is hindered by rapid structural degradation under operating conditions. In this work, we demonstrate that multidentate N-heterocyclic carbene (NHC) ligands can mitigate these effects by providing enhanced surface stabilization compared to monodentate analogues. We synthesized Cu nanoparticles (CuNPs) functionalized with mono-, bi-, tridentate, and polymeric NHC ligands and evaluated their performance in CO&lt;sub&gt;2&lt;/sub&gt;-saturated 0.5 M KHCO&lt;sub&gt;3&lt;/sub&gt;. We found that increasing NHC denticity systematically improves ambient stability, preserves structural integrity even after cathodic electrolysis, and enhances C&lt;sub&gt;2&lt;/sub&gt; selectivity. Among the series, tripodal NHC-stabilized Cu nanoparticles achieved a ∼40% Faradaic efficiency (FE) toward C&lt;sub&gt;2&lt;/sub&gt; products which is a 60-fold increase over oleylamine-capped controls. These catalysts also exhibited a positive shift in C&lt;sub&gt;2&lt;/sub&gt; onset potential to –1.1 V vs RHE and a partial C&lt;sub&gt;2&lt;/sub&gt; current density of ∼60 mA/mg at –1.7 V vs RHE. Post-electrocatalytic analysis via FE-SEM and XPS analyses are consistent with reduced catalyst restructuring in the multidentate system. These findings identify multidentate NHC ligation as a promising strategy for designing durable, highly selective nanocatalysts for CO&lt;sub&gt;2&lt;/sub&gt; conversion.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Reproducibility, Replicability, and Research Quality in Homogeneous Catalysis</title>
 <link>https://pubs.acs.org/accacs/article/doi/10.1021/acscatal.6c05782/5415814/Reproducibility-Replicability-and-Research-Quality</link>
 <guid>http://dx.doi.org/10.1021/acscatal.6c05782</guid>
@@ -990,69 +1053,6 @@
 <guid>http://dx.doi.org/10.1021/acscatal.6c03811</guid>
 <pubDate>Tue, 21 Jul 2026 12:00:00 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c03811/4/m_cs-2026-03811p_0007.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c03811&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Electrochemical Ammonia Oxidation Catalysts for Direct Ammonia Fuel Cells</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c04090</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c04090</guid>
-<pubDate>Tue, 21 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c04090/6/m_cs-2026-04090m_0011.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c04090&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Strain-Modulated Hydrogen-Deuterium Exchange over Au–Pd Core-Shell Nanocatalysts</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c02868</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c02868</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c02868/5/m_cs-2026-02868x_0008.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c02868&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Stabilizing Nickel-Based Catalysts for Ethanol Dry Reforming via Dual-Oxide-Metal Interface Establishment: Combination Studies of In Situ Insights and Microkinetic Investigations</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c04647</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c04647</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c04647/4/m_cs-2026-046473_0008.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c04647&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] CuCo Alloying-Induced Electronic Structure Modulation and Its Impact on Lignin β-O-4 Bond Cleavage Performance</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c02488</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c02488</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c02488/5/m_cs-2026-02488y_0008.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c02488&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Effect of Alkali Metal Cations on Nitrate Electroreduction Kinetics, Mass Transport, and Cobalt Catalyst Oxidation</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c02764</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c02764</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c02764/5/m_cs-2026-02764z_0007.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c02764&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Ultra-Low Amounts of Transition Metals in Carbon-Based Catalysts Improve Their Alkaline OER Performance: A Systematic Study</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c02925</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c02925</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;a href="http://dx.doi.org/10.1021/acscatal.6c02925"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c02925/5/m_cs-2026-029254_0017.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c02925&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Cellulose-Stabilized BiOBr Enables Light-Mediated Radical-Polar Crossover of Unactivated Alkenes to Achieve Cyclopropanes</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c02931</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c02931</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c02931/5/m_cs-2026-02931d_0008.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c02931&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Metal-Free C−H Aroylation of Alkenes Mediated by Triarylamine Visible-Light Photocatalysis</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c03119</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c03119</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c03119/5/m_cs-2026-031198_0009.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c03119&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Synergy Effect between Pt Single Atoms and Nanoclusters for Promoted Ammonia Borane Hydrolysis</title>
-<link>http://dx.doi.org/10.1021/acscatal.6c03345</link>
-<guid>http://dx.doi.org/10.1021/acscatal.6c03345</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/accacs/16/15/10.1021_acscatal.6c03345/4/m_cs-2026-03345q_0007.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Catalysis&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acscatal.6c03345&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

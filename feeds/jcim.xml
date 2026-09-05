@@ -5,6 +5,190 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Thermodynamics
+and Unbinding Kinetics of A22 at Multiple
+Actin-Binding Sites Revealed by Enhanced Sampling Simulations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01530/5421819/Thermodynamics-and-Unbinding-Kinetics-of-A22-at</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01530</guid>
+<pubDate>Sat, 05 Sep 2026 01:00:41 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The cytoskeletal protein plays a major role in various
+cellular
+processes. Understanding the interactions of small molecules with
+cytoskeletal protein therefore might help in the development of therapeutics.
+Employing combined molecular docking, all-atom molecular dynamics
+(MD), and enhanced sampling technique, we studied bacterial inhibitor
+A22 and actin protein interaction. Five probable A22 binding sites
+(S1–S5) were observed in actin and unbiased MD simulations
+of 100 ns to 1000 ns showed structural stability at these sites. Interaction
+analyses showed A22 to form transient interactions except at sites
+S1, S3, and S5 where long-lived interactions were present. Enhanced
+sampling simulations quantitatively estimated ligand dissociation
+free energy (Δ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;&lt;sub&gt;b&lt;/sub&gt;) ∼ −1.3
+± 0.6 kcal/mol to −4.9 ± 1.5 kcal/mol for sites S1–S4
+with residence times ∼μs to ms. For site S5, we observed
+the highest binding affinity with dissociation free energy (Δ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;&lt;sub&gt;b&lt;/sub&gt;) ∼ −8.8 ± 3.8 kcal/mol
+with residence time ∼sec. Analyses of the dissociation trajectories
+predict multiple dissociation pathways for A22 and found key gatekeeper
+residues at specific-sites facilitating ligand dissociation. Comparison
+of A22 with other known inhibitors suggests that A22 binds actin with
+relatively lower affinity, however, exhibits site-specific unbinding
+kinetics. Thus, our study provides a detailed mechanistic overview
+of actin + A22 interaction, its various binding modes, binding affinities,
+and unbinding kinetics. It also shows the importance and usage of
+metadynamics and its variants in exploring rare events like ligand–protein
+interaction. Deeper insights gained from this study expands our understanding
+of cytoskeletal ligand dynamics. These knowledges will be paramount
+in designing drug targeting cytoskeletal protein actin.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Persistent Local
+Laplacian Prediction of Protein–Ligand
+Binding Affinities</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02460/5421797/Persistent-Local-Laplacian-Prediction-of-Protein</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02460</guid>
+<pubDate>Fri, 04 Sep 2026 21:00:40 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of protein–ligand binding
+affinity remains
+a central challenge in structure-based drug discovery. The effectiveness
+of machine learning models critically depends on the quality of molecular
+representations, for which advanced mathematical frameworks provide
+powerful tools. In this work, we employ a novel mathematical theory,
+termed the persistent local Laplacian (PLL), to construct molecular
+descriptors that capture localized geometric and topological features
+of biomolecular structures. The PLL framework addresses key limitations
+of traditional topological data analysis methods, such as persistent
+homology and the persistent Laplacian, which are often insensitive
+to local structural variations, while maintaining high computational
+efficiency. The resulting molecular descriptors are integrated with
+advanced machine learning algorithms to develop accurate predictive
+models for protein–ligand binding affinity. The proposed models
+are systematically evaluated on three well-established benchmark datasets,
+including PDBbind-v2007, PDBbind-v2013, and PDBbind-v2016, demonstrating
+consistently strong and competitive predictive performance. Computational
+results show that the PLL-based models outperform existing approaches,
+highlighting their potential as a powerful tool for drug discovery,
+protein engineering, and broader applications in science and engineering.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Synergistic Effects
+of pH and Temperature on Dengue
+Virus Envelope Dimers: Insights from Microsecond Molecular Dynamics
+Simulations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01334/5421624/Synergistic-Effects-of-pH-and-Temperature-on</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01334</guid>
+<pubDate>Fri, 04 Sep 2026 19:00:43 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Dengue pathogenesis depends on a conformational rearrangement
+of
+the envelope glycoprotein (pE) induced by low pH. However, how pH
+and temperature cooperate to destabilize the dimeric form of the pE,
+a fundamental step that enables the formation of the fusion-active
+trimer, remains unclear. Here, we investigate this synergy for Dengue
+serotypes of greatest medical relevance, DENV-2 and DENV-3. All–atom
+molecular dynamics simulations were performed on the microsecond scale,
+at 28 °C, 37 °C, and 40 °C under pH 5, 6, and 7 using
+CHARMM36m force fields and complemented by extended coarse-grained
+molecular dynamics simulations for the DENV-2 system at 37 °C
+and pH 5, and for the DENV-3 system at 28 °C and pH 5, and at
+37 °C and pH 7. Our simulations suggest that increasing the temperature
+from 28 to 37 °C tends to expand the conformational space at
+neutral pH, potentially weakening dimer integrity through modulation
+of the interfacial interaction network. Acidification appears to amplify
+this effect in a serotype–specific manner: in our simulations
+DENV-2 required pH 5, while DENV-3 responded at pH 6. Additionally,
+distance and principal component analyses revealed an asymmetric dissociation
+pathway, termed the “compensatory embrace”, observed
+in both all-atom and coarse-grained models. Structural analyses further
+highlighted the differences in histidine distribution between the
+serotypes. Moreover, interaction mapping at 37 °C identified
+candidate interfacial contacts that may act as pH-sensitive latches,
+maintaining stability at pH 7 but breaking upon acidification. Collectively,
+these results suggest a potential hierarchy of physicochemical triggers
+that may contribute to the conversion of dimer into fusion-competent
+monomers. These interfacial hotspots and the “compensatory
+embrace” constitute structurally informed targets that, pending
+validation under native virion conditions, may guide the rational
+design of antivirals and immunogens, underscoring the value of long-time
+scale molecular dynamics simulations as a hypothesis-generating tool
+in drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Quantum-Chemically
+Informed Representation Learning
+for Molecular Crystal Property Prediction via Multimodal Graph Neural
+Networks</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01012/5421314/Quantum-Chemically-Informed-Representation</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01012</guid>
+<pubDate>Fri, 04 Sep 2026 17:00:39 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Machine-learning-based modeling of molecular crystals
+is limited
+by representations that encode geometric structure while overlooking
+the electronic features that often govern solid-state behavior. We
+introduce a multimodal learning framework that integrates crystal
+graphs with solid-state Quantum Theory of Atoms in Molecules (QTAIM)-informed
+molecular graphs for enhanced predictions of solid-state properties.
+Our architecture employs modality-specific graph neural network encoders
+and a bidirectional gated fusion mechanism to capture complementary
+information between the two representations. When applied to band
+gap prediction in organic molecular crystals, the fused model outperforms
+geometry-only and molecular-only baselines. Analysis of the learned
+representations reveals that QTAIM descriptors contribute interpretable
+signals associated with intermolecular interactions and density redistribution
+within the crystal, highlighting the value of quantum-informed learning
+for advancing data-driven solid-state modeling.&lt;/span&gt;</description>
+</item>
+<item>
+<title>FMM-AutoOpt: A
+Python Tool for Automated GROMACS FMM
+Parameter Optimization</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01211/5420786/FMM-AutoOpt-A-Python-Tool-for-Automated-GROMACS</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01211</guid>
+<pubDate>Fri, 04 Sep 2026 14:00:44 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The fast multipole method (FMM) for computing Coulombic
+forces
+in molecular dynamics (MD) simulations offers benefits for a variety
+of systems, including nonperiodic configurations such as molecules
+in vacuum and large-scale systems where many other approaches encounter
+limitations. Because FMM parameters govern both simulation accuracy
+and computational performance, and because the optimal solution is
+highly system-dependent, we have developed FMM-AutoOpt for the automated
+benchmarking of FMM parameters with GROMACS. Relying solely on standard
+Python libraries and GROMACS FMM (
+
+J. Chem. Theory Comput.
+2020, 16, 6938–6949.), the tool is versatile and flexible, facilitating
+rapid parameter screening to ensure optimal performance and high simulation
+accuracy.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Current–Voltage Characteristics of K+ Channels
+Estimated by MD Simulations and Markov State Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01258/5417688/Current-Voltage-Characteristics-of-K-Channels</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01258</guid>
+<pubDate>Fri, 04 Sep 2026 06:01:06 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular dynamics
+(MD) simulations have yielded important insights
+into ion conduction in potassium channels, but quantitative comparison
+with electrophysiological experiments remains challenging. Due to
+their high computational cost, MD simulations are typically performed
+at membrane potentials well above physiological values, and at only
+a limited number of voltages. Since current–voltage relationships
+are not necessarily linear, this limits direct comparison between
+simulations and experiments. Here, we introduce a method to estimate
+the current–voltage characteristics of ion channels from Markov
+state models (MSMs) constructed from MD simulations performed at only
+few
+membrane potentials. Time-discrete MSMs of ion conduction are converted
+into continuous-time rate matrices, whose voltage dependence is modeled
+using a rate theory formulation with free energy barriers depending
+on membrane potential. This approach enables the prediction of channel
+currents over a wide voltage range without additional simulations.
+We validated the method using MD simulations of the potassium channels
+KcsA and MthK. In both cases, the currents predicted at low membrane
+potentials are in good agreement with those obtained directly from
+MD simulations, demonstrating the robustness and efficiency of the
+approach.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Dynamics of Ligand Binding Sites and Chloride Penetration
 in a Bitter Taste GPCR</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00140/5414936/Dynamics-of-Ligand-Binding-Sites-and-Chloride</link>
@@ -2600,48 +2784,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00697</guid>
 <pubDate>Tue, 07 Jul 2026 02:01:06 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00697/asset/images/medium/ci6c00697_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00697&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Reinforcement Learning-Driven Multiproperty Optimization in Molecular Design Using Multicontext Transcriptome Data</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00809</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00809</guid>
-<pubDate>Mon, 06 Jul 2026 12:29:09 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00809/asset/images/medium/ci6c00809_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00809&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] EnsembleCycPerm: Interpretable Modeling of Cyclic Peptide Permeability through Solvent-Dependent Conformational Ensembles</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01213</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01213</guid>
-<pubDate>Mon, 06 Jul 2026 12:25:05 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01213/asset/images/medium/ci6c01213_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01213&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] M-JEPA: Predictive Self-Supervised Learning for Molecular Graphs with Scaffold-Shift Evaluation on Tox21</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00828</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00828</guid>
-<pubDate>Mon, 06 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00828/asset/images/medium/ci6c00828_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00828&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Resolving Conformational Preferences of Monosaccharides from 1H and 13C NMR Chemical Shifts Using an Integrated MD and QM Approach</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01310</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01310</guid>
-<pubDate>Mon, 06 Jul 2026 09:04:09 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01310/asset/images/medium/ci6c01310_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01310&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] PSDTA: An Approach to Drug-Target Binding Affinity Prediction by Integrating Physicochemical and Structural Information to Reduce Feature Redundancy</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.5c02783</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.5c02783</guid>
-<pubDate>Mon, 06 Jul 2026 08:57:29 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c02783/asset/images/medium/ci5c02783_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c02783&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Advancing Biochemical Molecule Registration, Representation and Search for New Drug Modalities</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00587</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00587</guid>
-<pubDate>Sun, 05 Jul 2026 06:50:18 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00587/asset/images/medium/ci6c00587_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00587&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
