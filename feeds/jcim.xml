@@ -5,6 +5,199 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Deep3DCCS: Geometry-Driven Collision Cross Section
+Prediction from Multi-View Molecular Projection Tensors</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00371/5425701/Deep3DCCS-Geometry-Driven-Collision-Cross-Section</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00371</guid>
+<pubDate>Mon, 07 Sep 2026 21:00:50 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Collision cross section
+(CCS) measurements from ion mobility–mass
+spectrometry improve confidence in molecular identification in metabolomics
+and lipidomics and reduce false-positive annotations in untargeted
+analyses. However, experimental CCS coverage remains incomplete, and
+accurate computational prediction remains needed. Here, we present
+Deep3DCCS, a geometry-driven deep learning framework that predicts
+CCS from stacked multi-angle molecular projection tensors using a
+three-dimensional convolutional neural network operating across the
+projection-view and two spatial image dimensions. Three-dimensional
+molecular structures generated from SMILES strings were rotated around
+the &lt;span style="font-style:italic;"&gt;x&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;y&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;z&lt;/span&gt;-axes, converted into binary two-dimensional projections, and assembled
+into standardized multi-view tensors for CCS regression. Deep3DCCS
+was developed and evaluated using curated AllCCS and METLIN lipid
+CCS datasets containing 3948 molecule–adduct entries across
+[M – H]&lt;sup&gt;−&lt;/sup&gt;, [M + H]&lt;sup&gt;+&lt;/sup&gt;, and [M + Na]&lt;sup&gt;+&lt;/sup&gt; ions, and input optimization identified 32 × 32 pixel
+projections with five rotations per axis as a practical balance between
+prediction accuracy, model stability, and computational feasibility.
+In independent true-validation experiments, AllCCS-trained models
+achieved MRPE values of 3.27–3.79% on AllCCS validation data
+and 2.93–3.72% on METLIN validation data, whereas METLIN-trained
+models transferred less effectively to the broader AllCCS chemical
+space. Overall, these results support multi-view molecular projection
+tensors as a viable geometry-driven representation for CCS prediction
+and demonstrate that substantial CCS-relevant information can be learned
+directly from three-dimensional molecular morphology using a 3DCNN
+architecture, with low single-digit prediction errors across independent
+and cross-dataset validation experiments.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Systematic Evaluation
+of Graph Neural Networks for
+Ligand-Based Virtual Screening on ChEMBL Datasets</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02160/5425216/Systematic-Evaluation-of-Graph-Neural-Networks-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02160</guid>
+<pubDate>Mon, 07 Sep 2026 19:00:46 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The performance of target-specific, ligand-based virtual
+screening
+models is strongly influenced by dataset characteristics, including
+data availability, class imbalance, and evaluation strategies. In
+this work, we perform a systematic evaluation of graph neural networks
+(GNNs) using a ChEMBL-derived dataset spanning 5,368 targets and 1.59
+million activity records, capturing the long-tailed distributions
+and target-specific imbalances commonly observed in pharmaceutical
+data. Through a systematic evaluation of multiple GNN architectures,
+we identify guidelines for model selection: while the Graph Isomorphism
+Network (GIN) consistently outperforms others on datasets with &amp;gt;100
+samples (a mean ROC–AUC up to 0.94), simpler architectures
+are more robust under extreme data scarcity. Critically, our comparative
+analysis of splitting strategies reveals that random sampling yields
+artificially optimistic performance due to structural overlaps, whereas
+similarity-aware clustering exposes a substantial generalization gap
+(AUC drop &amp;gt; 0.3), cautioning against prevailing evaluation practices.
+We further demonstrate that multi-task learning serves as an effective
+remedy for small-target instability, providing significant and consistent
+performance gains. To underscore its translational value, we deploy
+this comprehensive framework in a virtual screening campaign against
+Mcl-1, yielding a chemically optimized lead, &lt;strong&gt;C4&lt;/strong&gt; (K&lt;sub&gt;i&lt;/sub&gt; = 0.58 μM), with verified cellular efficacy. Our findings
+highlight the importance of task-aware benchmark design and offer
+a practical strategy for reliable GNN application in drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Adaptive Data Splitting
+Strategy to Enhance Knowledge
+Learning for Phosphorescence Lifetime Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02086/5422603/Adaptive-Data-Splitting-Strategy-to-Enhance</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02086</guid>
+<pubDate>Mon, 07 Sep 2026 14:00:57 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Room-temperature
+phosphorescence (RTP) lifetime is a critical property
+for optoelectronic and bioimaging applications, yet its experimental
+measurement is labor-intensive and datasets remain scarce. Herein,
+we construct RTPLD, a curated dataset of 681 RTP molecules collected
+from extensive literature with the assistance of large language models
+(LLMs), providing a standardized foundation for data-driven modeling
+of RTP systems. To enable reliable learning from this limited but
+chemically diverse dataset, we propose DMFsplit, an adaptive data
+splitting strategy that integrates the global molecular features and
+local structural variations. By dynamically balancing the two-level
+features, DMFsplit generates more representative training sets and
+improves chemical knowledge acquisition in machine learning models.
+Extensive benchmarks across ten machine learning models demonstrate
+that DMFsplit consistently outperforms random and three local structure-based
+data splitting strategies. Coupling with the complementary ECMA feature
+representation, DMFsplit-XGBoost achieves &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; values of 0.84 and 0.75 on the independent and external test sets,
+respectively. In addition, SHAP analysis further reveals key structural
+motifs governing the RTP lifetime, guiding rational experimental design.
+Collectively, this work establishes a publicly available dataset,
+a generalizable data splitting strategy, and a reliable predictive
+model, facilitating knowledge-driven RTP research.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Navigating Large
+Chemical Spaces Using Graph Theory
+and Integer Programming</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01810/5422263/Navigating-Large-Chemical-Spaces-Using-Graph</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01810</guid>
+<pubDate>Mon, 07 Sep 2026 10:01:27 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Navigating and analyzing
+large chemical spaces are necessary
+to
+accelerate the design and discovery of new molecules and chemical
+processes. In this work, we introduce a computational framework that
+integrates graph theory and integer programming to enable the efficient
+navigation of large chemical spaces. Our framework represents the
+chemical space as a graph, wherein nodes represent molecules and edges
+represent the degree of similarity or connectivity based on domain-specific
+information. Using the graph representation, we identify representative
+molecules by computing the so-called minimum dominating set (MDS),
+which in our context is the minimum set of molecules that is connected
+to all other molecules. We present a suite of solution strategies
+for the MDS problem including heuristic and rigorous integer programming
+(IP) approaches. We show that these approaches allow us to capture
+physicochemical properties and domain-specific logic and constraints,
+facilitating the identification of molecules with the target properties.
+We demonstrate the effectiveness of the proposed approach by navigating
+the chemical space of per- and polyfluoroalkyl substances (PFAS);
+this comprises approximately 15,000 molecular structures. We compare
+our framework against traditional dimensionality reduction and clustering
+methods such as t-SNE and K-means clustering.&lt;/span&gt;</description>
+</item>
+<item>
+<title>DIME: Dynamics
+Inferred from Monte Carlo Ensembles
+via Continuous-Time Markov Chains</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01396/5422069/DIME-Dynamics-Inferred-from-Monte-Carlo-Ensembles</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01396</guid>
+<pubDate>Mon, 07 Sep 2026 06:01:08 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Monte Carlo (MC) sampling and related enhanced sampling
+methods
+can efficiently explore the conformational space of complex biomolecular
+systems and accurately estimate equilibrium populations of conformational
+states. However, the absence of temporal information prevents these
+methods from directly describing molecular kinetics. Here we present
+a framework for constructing a continuous-time Markov chain (CTMC)
+from a static, Boltzmann-weighted ensemble, enabling the generation
+of physically plausible kinetic trajectories without requiring extensive
+molecular dynamics (MD) simulation. The method includes (i) clustering
+the MC ensemble into metastable discrete states whose populations
+define the stationary distribution, (ii) building a rate matrix over
+these states that satisfies detailed balance by design, with transition
+rates set by the free energy barriers separating the states, estimated
+directly from the free energy surface of the ensemble, and (iii) calibrating
+the absolute time scale by matching the slowest relaxation mode to
+a short MD reference trajectory. We validate the approach across six
+molecular systems spanning a broad range of complexity: &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;-pentane and alanine dipeptide as low-dimensional benchmarks; a WLALL
+pentapeptide; the achiral peptide AIB9, whose left- and right-handed
+helices are related by an exact symmetry that provides a reference-free
+test of the inferred kinetics; wild-type chignolin as a β-hairpin
+folder; and the millisecond native-state dynamics of bovine pancreatic
+trypsin inhibitor (BPTI) from a long reference trajectory. In each
+case the inferred model reproduces MD-derived rate matrices, mean
+first-passage times, and implied time scales following a short calibration
+step. Since the method relies on the free energy surface, it can equally
+well be applied to surfaces obtained from enhanced sampling simulations,
+as demonstrated for alanine dipeptide using well-tempered metadynamics.
+The method provides a principled route to kinetic insight when MD
+convergence is prohibitively expensive but thermodynamic sampling
+is tractable and serves as a complement to existing Markov state model
+approaches that build kinetic models from MD data.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AquaTox-Predictor:
+An MMoE-Enhanced Multimodal Deep
+Learning Framework for Aquatic Ecotoxicity Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02770/5422062/AquaTox-Predictor-An-MMoE-Enhanced-Multimodal-Deep</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02770</guid>
+<pubDate>Mon, 07 Sep 2026 06:01:08 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;As the concentration of compounds in aquatic environments
+rises,
+the degradation of aquatic habitats underscores the increasing importance
+of studying the impact of chemicals on different aquatic populations.
+In this study, we developed AquaTox-Predictor, a multitask, multimodal
+classification model that integrates molecular fingerprints, molecular
+graphs, and a Multi-gate Mixture-of-Experts (MMoE) framework for prediction
+of seven aquatic ecotoxicities of chemicals. The results of the validation
+sets demonstrated that our model outperformed other methods, achieving
+the highest average AUC with an improvement of up to 5.75% compared
+to existing approaches. Our method can correctly identify the substructures
+that define molecular properties as well as the differences and relationships
+between end points, thus enhancing interpretability. These results
+demonstrate that AquaTox-Predictor can achieve high accuracy in predicting
+various aquatic toxicities and conduct interpretability analysis on
+compounds, which is conducive to its application in research on other
+more complex toxicity end points. All the code and datasets are freely
+available online at https://github.com/jwZhang-lab/AquaTox-Predictor.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Ranking-Based Surrogate
 Modeling for Bayesian Optimization
 under Small-Data Conditions</title>
@@ -2790,48 +2983,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00544</guid>
 <pubDate>Thu, 09 Jul 2026 01:57:10 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00544/asset/images/medium/ci6c00544_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00544&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Modeling the Sensitivity of Large-Scale Virtual Screening to Scoring Function Accuracy, Artifacts, and Library Composition</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01066</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01066</guid>
-<pubDate>Wed, 08 Jul 2026 12:59:35 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01066/asset/images/medium/ci6c01066_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01066&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Molecular Mechanism of Chiral Recognition of R- and S-Methamphetamine by the Human Dopamine Transporter: Insights from Thermodynamic and Kinetic Analyses</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01830</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01830</guid>
-<pubDate>Wed, 08 Jul 2026 07:13:33 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01830/asset/images/medium/ci6c01830_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01830&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] DeepDPM: A Deep Learning Method for MoRFs Prediction Based on Wavelet Transform and Dynamic Convolutional Attention Mechanism</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01251</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01251</guid>
-<pubDate>Wed, 08 Jul 2026 07:09:43 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01251/asset/images/medium/ci6c01251_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01251&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Graph-Based Generation and Reduction of Complex Chemical Reaction Networks</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01309</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01309</guid>
-<pubDate>Wed, 08 Jul 2026 04:25:59 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01309/asset/images/medium/ci6c01309_0014.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01309&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Machine Learning-Driven Discovery of Indole/Oxoindole–Piperazine Scaffolds as Dual MAO-B/Sig-1R Ligands for Neurodegenerative Disorders</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00379</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00379</guid>
-<pubDate>Tue, 07 Jul 2026 09:30:01 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00379/asset/images/medium/ci6c00379_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00379&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Mapping Evolution of Molecules across Biochemistry with Assembly Theory</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00939</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00939</guid>
-<pubDate>Tue, 07 Jul 2026 04:34:37 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00939/asset/images/medium/ci6c00939_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00939&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

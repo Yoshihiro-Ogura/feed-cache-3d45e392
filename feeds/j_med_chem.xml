@@ -5,6 +5,13 @@
 <link>https://pubs.acs.org/rss/jmcmar/asap.xml</link>
 <description>J.Med.Chem. (mirrored feed)</description>
 <item>
+<title>Configuration and Molecular Flexibility Regulated Reactive Oxygen Species Type and Efficiency for Potent Anticancer Performance: A BODIPY-Pt(II) Complex Case</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01455/5422114/Configuration-and-Molecular-Flexibility-Regulated</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01455</guid>
+<pubDate>Mon, 07 Sep 2026 06:01:08 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Regulating type-I and type-II photochemistry is essential for anticancer photodynamic therapy. Type-I pathways generate hydroxyl and superoxide radicals, whereas type-II produces singlet oxygen. We tuned reactive oxygen species (ROS) generation by varying Pt(II) configuration and ligand flexibility. Among the four complexes, rigid &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-configured &lt;strong&gt;&lt;span style="font-style:italic;"&gt;c&lt;/span&gt;&lt;/strong&gt;-&lt;strong&gt;Pt&lt;/strong&gt;-&lt;strong&gt;BDP&lt;/strong&gt; showed maximal &lt;sup&gt;•&lt;/sup&gt;OH production and photocytotoxicity, with light-IC&lt;sub&gt;50&lt;/sub&gt; values of 0.89 μM in Panc02 and 0.93 μM in A549 cells. Flexible &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-configured &lt;strong&gt;&lt;span style="font-style:italic;"&gt;c&lt;/span&gt;&lt;/strong&gt;-&lt;strong&gt;Pt&lt;/strong&gt;-&lt;strong&gt;CH&lt;/strong&gt;&lt;sub&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/sub&gt;-&lt;strong&gt;BDP&lt;/strong&gt; favored &lt;sup&gt;1&lt;/sup&gt;O&lt;sub&gt;2&lt;/sub&gt; and showed moderate activity (light-IC&lt;sub&gt;50&lt;/sub&gt;: &amp;gt;2.42 and 1.77 μM, respectively). Rigid &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-configured &lt;strong&gt;&lt;span style="font-style:italic;"&gt;t&lt;/span&gt;&lt;/strong&gt;-&lt;strong&gt;Pt&lt;/strong&gt;-&lt;strong&gt;BDP&lt;/strong&gt; produced &lt;sup&gt;•&lt;/sup&gt;O&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;−&lt;/sup&gt;, whereas flexible &lt;strong&gt;&lt;span style="font-style:italic;"&gt;t&lt;/span&gt;&lt;/strong&gt;-&lt;strong&gt;Pt&lt;/strong&gt;-&lt;strong&gt;CH&lt;/strong&gt;&lt;sub&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/sub&gt;-&lt;strong&gt;BDP&lt;/strong&gt; generated negligible ROS; both showed poor activity (light-IC&lt;sub&gt;50&lt;/sub&gt; &amp;gt; 50 μM). Computational predictions explained the ROS profiles through kinetic and energetic differences. Fe&lt;sup&gt;2+&lt;/sup&gt; accumulation, lipid peroxidation, and GSH depletion supported ferroptotic cell death. In A549 xenografts, irradiated intratumoral &lt;strong&gt;&lt;span style="font-style:italic;"&gt;c&lt;/span&gt;&lt;/strong&gt;-&lt;strong&gt;Pt&lt;/strong&gt;-&lt;strong&gt;BDP&lt;/strong&gt; achieved 88.42% tumor growth inhibition under the tested conditions. Thus, Pt(II) geometry and ligand flexibility provide design parameters for controlling ROS generation in metal-coordinated photosensitizers.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Leveraging
 Structure-Based Design to Overcome Class
 III RTK Off-Target Activity in the Development of Selective Wild-Type
@@ -1496,13 +1503,6 @@ its roles in normal physiology and disease.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00756</guid>
 <pubDate>Thu, 25 Jun 2026 01:00:11 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jmedchem.6c00756/asset/images/medium/jm6c00756_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00756&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Development of Glycosylated and Dimeric FAP-Targeted Radiotracers for Preclinical Evaluation in FAP-Positive Glioblastoma Models</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00849</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00849</guid>
-<pubDate>Wed, 24 Jun 2026 09:59:20 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jmedchem.6c00849/asset/images/medium/jm6c00849_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00849&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
