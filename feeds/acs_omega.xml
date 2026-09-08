@@ -5,13 +5,151 @@
 <link>https://pubs.acs.org/rss/acsodf/asap.xml</link>
 <description>ACS Omega (mirrored feed)</description>
 <item>
+<title>[Graphical abstract added] Effects of Moisture
+Content on the Thermal Stability
+and Combustion Performance of HMX</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06627/5421833/Effects-of-Moisture-Content-on-the-Thermal?acs_ga=1</link>
+<guid>urn:acs-graphical-abstract:10.1021/acsomega.6c06627</guid>
+<pubDate>Tue, 08 Sep 2026 02:03:24 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06627/5421833/Effects-of-Moisture-Content-on-the-Thermal"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c06627/1/m_ao6c06627_0015.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>Machine Learning
+Guided Discovery of Microbiome Metabolites
+That Inhibit HDAC</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.5c12875/5421937/Machine-Learning-Guided-Discovery-of-Microbiome</link>
+<guid>http://dx.doi.org/10.1021/acsomega.5c12875</guid>
+<pubDate>Sun, 06 Sep 2026 17:00:48 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.5c12875/5421937/Machine-Learning-Guided-Discovery-of-Microbiome"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.5c12875/1/m_ao5c12875_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Histone deacetylase (HDAC) is a family of key epigenetic
+regulator
+implicated in inflammation, metabolism, and cancer. Microbiome metabolites
+can modulate host histone acetylation, yet systematic identification
+of metabolites that target HDAC remains limited. Here we present a
+computationally driven discovery pipeline that combines training data
+composition optimization with experimental validation to prioritize
+microbiome-derived HDAC inhibitors. Starting from a large, public
+HDAC3 screening data set (314,129 compounds; 485 actives), we developed
+an automated iterative sampling strategy that balances active and
+inactive compounds while enriching the inactive class for metabolite-like
+chemistry. Models trained on the balanced metabolite-enriched subsets
+achieved substantially higher sensitivity and balanced accuracy than
+models trained on the full data set. Consensus predictions from multiple
+optimized runs were applied to a curated microbiome metabolite database
+to prioritize candidates for testing. Two top candidates, 5-(hydroxymethyl)furoic
+acid (HMFA) and &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucuronolactone (DGL), were evaluated
+using an HDAC3-specific biochemical assay, followed by broader HDAC
+activity assessment. Both metabolites exhibited mild inhibitory activity
+overall. Docking simulations suggested that HMFA may interact with
+the HDAC3 catalytic site. Together, we show that targeted training
+set composition can improve machine learning-assisted discovery of
+microbiome-derived small molecule inhibitors and identified HMFA as
+a microbiome-associated metabolite with measurable &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt; HDAC inhibitory activity.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Nature of the Localized
+V 3 d  Electrons
+in Mo- and W-Doped BiVO 4  Revealed by Soft X-ray
+Photoemission and Absorption Spectroscopy</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08706/5421933/Nature-of-the-Localized-V-3d-Electrons-in-Mo-and-W</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c08706</guid>
+<pubDate>Sun, 06 Sep 2026 15:00:47 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08706/5421933/Nature-of-the-Localized-V-3d-Electrons-in-Mo-and-W"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c08706/1/m_ao6c08706_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We have investigated
+the effects of Mo and W doping on BiVO&lt;sub&gt;4&lt;/sub&gt; by means of X-ray
+photoemission spectroscopy (XPS) and X-ray
+absorption spectroscopy (XAS). The V 2&lt;span style="font-style:italic;"&gt;p&lt;/span&gt; XPS spectra
+indicate that the substitution of W&lt;sup&gt;6+&lt;/sup&gt; and Mo&lt;sup&gt;6+&lt;/sup&gt; for V&lt;sup&gt;5+&lt;/sup&gt; induces the formation of V&lt;sup&gt;4+&lt;/sup&gt; species.
+In addition, the Bi 4&lt;span style="font-style:italic;"&gt;f&lt;/span&gt; XPS spectra exhibit a minor
+Bi&lt;sup&gt;5+&lt;/sup&gt; component, which further contributes to an increase
+in the V&lt;sup&gt;4+&lt;/sup&gt; concentration. A V 3&lt;span style="font-style:italic;"&gt;d&lt;/span&gt;-derived
+feature emerges at approximately 1.5 eV below the Fermi level and
+is associated with the enhanced catalytic activity of Mo- and W-doped
+BiVO&lt;sub&gt;4&lt;/sub&gt;. The center of mass of the V 3&lt;span style="font-style:italic;"&gt;d&lt;/span&gt; spectral
+distribution is shifted toward the Fermi level with increasing dopant
+concentration, suggesting the importance of the long-range &lt;span style="font-style:italic;"&gt;d&lt;/span&gt;-&lt;span style="font-style:italic;"&gt;d&lt;/span&gt; Coulomb interaction in determining
+the electronic structure of the localized V 3&lt;span style="font-style:italic;"&gt;d&lt;/span&gt; states.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Melt Electrospinning
+of Poly(ε-caprolactone)/Poly(ethylene
+oxide)/Poly(ethylene glycol) Blend: Effects on Structure and Cellular
+Compatibility</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05235/5421932/Melt-Electrospinning-of-Poly-caprolactone-Poly</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05235</guid>
+<pubDate>Sun, 06 Sep 2026 15:00:47 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05235/5421932/Melt-Electrospinning-of-Poly-caprolactone-Poly"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c05235/1/m_ao6c05235_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This work aims to investigate the effects of the melt
+electrospinning
+process on the properties of ternary blend poly(ε-caprolactone)/poly(ethylene
+oxide)/poly(ethylene glycol) (PCL/PEO/PEG) fibers. The utterly different
+morphology of the specimens before and after melt electrospinning
+acknowledges the significant effect of melt electrospinning on the
+sample’s properties. However, it does not chemically alter
+the samples. The Scanning Electron Microscope (SEM) images showed
+that PEO and PEG behave differently in the PCL matrix, producing distinctly
+different morphologies in the respective binary blend fibers. Differences
+in morphology also lead to differences in the crystallization behavior
+of the specimen. Wide-angle X-ray diffraction (XRD) and differential
+scanning calorimetry (DSC) also reveal that although PEO and PEG are
+fundamentally the same polymer with different molecular weights, their
+behaviors in the PCL matrix are entirely different; PEG mostly remains
+in the amorphous state, while PEO can form its crystalline structure.
+Hence, the final morphology of the ternary melt electrospun fiber
+is a combination of the morphology of PCL/PEO and PCL/PEG binary blends.
+Preliminary biological tests showed that the porosity created by the
+removal of the PEO and PEG hydrophilic phases improved fibroblast
+metabolic activity, highlighting the potential of this system for
+further investigation in bone tissue engineering applications.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Structure-Guided
+Enhancement of High-Temperature Thermoelectric
+Performance in Molten-Salt-Derived Weathered Biotite for Waste-Heat
+Recovery</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05333/5421931/Structure-Guided-Enhancement-of-High-Temperature</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05333</guid>
+<pubDate>Sun, 06 Sep 2026 15:00:47 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05333/5421931/Structure-Guided-Enhancement-of-High-Temperature"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c05333/1/m_ao6c05333_0008.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Thermoelectric materials
+capable of operating at 600–900
+°C are attractive for recovering industrial and nuclear waste
+heat toward a carbon-neutral society. Here, we report the structure-guided
+enhancement of high-temperature thermoelectric performance in natural
+weathered biotite (WB) through molten-salt treatment using a KCl–CaCl&lt;sub&gt;2&lt;/sub&gt; mixed salt (molar ratio 3:1) combined with systematic process
+optimization. The effects of WB particle size (&amp;lt;45 and 45–75
+μm), salt addition ratio (1/100–1/1 by mass relative
+to WB), and compaction pressure (150–200 MPa) on crystal structure,
+densification behavior, and thermoelectric transport properties were
+systematically examined. Structural and compositional analyses revealed
+progressive incorporation of K and Ca with increasing salt addition
+while largely preserving the layered WB framework, together with additional
+diffraction features indicating reaction-induced structural modifications.
+Among the conditions investigated, samples prepared from WB with an
+intermediate particle size of 45–75 μm exhibited relatively
+high packing densities (&amp;gt;70%) at low salt addition levels and showed
+enhanced electrical conductivity, whereas excessive particle refinement
+(&amp;lt;45 μm) suppressed electrical transport, indicating that
+the transport response is sensitive to particle-size-dependent packing
+and processing-induced microstructural variation. High-temperature
+measurements further revealed exceptionally large Seebeck coefficients
+of up to ∼1.9 × 10&lt;sup&gt;5&lt;/sup&gt; μV K&lt;sup&gt;–1&lt;/sup&gt;, indicating that nonelectronic contributions may be involved in
+the observed thermovoltage. At present, the origin of this anomalously
+large response has not been conclusively established and requires
+further dedicated investigation. As a result of the cooperative optimization
+of particle size, salt addition, and compaction pressure, a maximum
+thermoelectric figure of merit of ZT = 0.29 at 667 °C was achieved,
+representing a marked improvement in this material system. These results
+demonstrate that microstructural control and densification strongly
+influence the measured thermoelectric response in layered silicate
+minerals and provide useful process–structure–property
+insights for natural mineral-derived high-temperature thermoelectric
+materials.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Effects of Moisture
 Content on the Thermal Stability
 and Combustion Performance of HMX</title>
 <link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06627/5421833/Effects-of-Moisture-Content-on-the-Thermal</link>
 <guid>http://dx.doi.org/10.1021/acsomega.6c06627</guid>
 <pubDate>Sat, 05 Sep 2026 03:00:36 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;1,3,5,7-Tetranitro-1,3,5,7-tetraazacyclooctane
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06627/5421833/Effects-of-Moisture-Content-on-the-Thermal"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c06627/1/m_ao6c06627_0015.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;1,3,5,7-Tetranitro-1,3,5,7-tetraazacyclooctane
 (HMX)
 is a widely
 used energetic material with high energy density but limited thermal
@@ -4579,204 +4717,6 @@ microscopy (SEM) images revealed a polyhedral rhombic structure, enhancing
 anchoring and sealing performance. This study provides theoretical
 and experimental support for the design and application of high-performance
 leak sealing materials in complex deep well formations.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Exploring Colloidal
-and Interfacial Phenomena in Coating
-Processes to Unlock the Potential of Palm Oil toward Energy Storage
-Materials and Functional Textiles</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c02111/5329814/Exploring-Colloidal-and-Interfacial-Phenomena-in</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c02111</guid>
-<pubDate>Wed, 26 Aug 2026 18:00:59 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Effective resource management and byproduct valuation
-are two of
-the main obstacles to using renewable materials in a sustainable economy.
-Due to production costs and resource availability, the palm oil industry,
-a significant source of bioenergy, struggles to grow, while byproducts
-including long-chain hydrocarbon byproducts are severely underutilized.
-In the spirit of colloid and interface, this study investigates the
-scientific mechanisms supporting favorable circumstances and develops
-scalable methods to integrate microencapsulated palm oil-derived phase
-change materials (PCMs) into textiles for thermal energy storage,
-focusing on pad-dry-cure and screen-printing processes. Three bio-based
-PCM microcapsules with thermal transitions (8–20 °C),
-latent heat (52–232 J/g), and high stability (&amp;gt;300 °C)
-were embedded into synthetic and natural fabrics. Key challenges involved
-managing colloidal interactions in aqueous solutions, particularly
-for negatively charged melamine-based microcapsules (−38 to
-−59 mV), which were stabilized using a dispersing agent to
-provide partial charge screening and ionic compatibilization, and
-enable ever-challenging pilot-scale process stability. Four substrates
-of different chemical and physical structures (cotton, pineapple-based,
-polyester woven, and polyester spunbond) were tested, with nonwoven
-polyester spunbond achieving the highest wet pick-up of 177% (vs 43%
-for woven polyester) due to its porous, intermingled microfiber structure
-that trapped microcapsules like a filter. Stable coating formulations
-incorporated multifunctional and protective additives for water repellency,
-UV protection, abrasion resistance, antibacterial efficacy (&amp;gt;99.90%
-for both the Gram-positive bacterium &lt;span style="font-style:italic;"&gt;Staphylococcus aureus&lt;/span&gt; and the Gram-negative bacterium &lt;span style="font-style:italic;"&gt;Klebsiella pneumoniae&lt;/span&gt; according to AATCC 100 standards),
-and fire retardancy (meeting UL 94:2014 (VTM-0) standard), expected
-to enhance the useful life of the composites. Screen printing with
-layered pigment and elastic pastes optimized PCM retention, enhancing
-tensile strength (&amp;gt;20–40% in warp/weft directions) without
-compromising abrasion resistance. Thermal testing via DSC and T-history
-methods confirmed storage capacity, with polyester spunbond exhibiting
-the highest latent heat (77.96 J/g cooling, 76.51 J/g heating). While
-wet pick-up directly correlated with latent heat, cooling/heating
-times showed weaker links to heat capacity. The study highlights the
-importance of colloidal stability and substrate microstructure in
-the development of industrial-scale high-PCM-loading coatings that
-can also be used on a range of substrates in sectors other than traditional
-textiles.&lt;/span&gt;</description>
-</item>
-<item>
-<title>A Benchmark Study
-of Machine-Learning Regressors and
-Semiempirical Quantum Methods for CO 2  Capture in Amine-Based
-Solvents</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06795/5329813/A-Benchmark-Study-of-Machine-Learning-Regressors</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c06795</guid>
-<pubDate>Wed, 26 Aug 2026 18:00:59 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The capture of CO&lt;sub&gt;2&lt;/sub&gt; using amine-based solvents
-is being
-continuously improved in an ongoing effort to mitigate anthropogenic
-CO&lt;sub&gt;2&lt;/sub&gt; emissions. In this study, the 488 CO&lt;sub&gt;2&lt;/sub&gt; capture
-reactions involving amine-based solvents were optimized, and their
-vibrational frequencies were calculated at the density functional
-theory (DFT) level by using the CAM-B3LYP/6–311++G(d,p) method.
-Amine-based solvents were selected, including primary, secondary,
-tertiary, cyclic, and aromatic types containing a variety of functional
-groups. Due to the computational cost associated with this level of
-theory, a benchmark study of 17 semiempirical methods was conducted
-to identify an approach that reproduces the trends predicted by the
-DFT calculations. The performance of these semiempirical methods was
-evaluated in terms of geometrical, electronic, and thermodynamic descriptors.
-Among them, the PM7 method showed the highest overall accuracy compared
-with DFT results. However, none of the tested methods provided satisfactory
-correlations for thermodynamic properties such as enthalpy and Gibbs
-free energy variations. Given the limited accuracy of the semiempirical
-methods in reproducing thermochemical parameters, 31 regression-based
-machine learning (ML) models were tested using both cross-validation
-and train/test strategies. Additionally, regression models were supplied
-by using features derived from electronic and structural descriptors.
-Five postprocessing techniques were employed to detect and remove
-outliers, with efficiency assessed as the ratio of data rejection
-to the improvement in correlation after treatment. Finally, the Extra
-Tree method, trained on descriptors calculated at the PM7 level and
-combined with the anomaly detection robust covariance, exhibited the
-best correlation and a lower mean absolute error (MAE), (1.26 kcal/mol)
-with the reference results obtained using DFT. The proposed workflow
-provides a robust approach to reproducing reference method results
-using a low-level method augmented by machine learning, significantly
-reducing the computational cost associated with modeling CO&lt;sub&gt;2&lt;/sub&gt; capture systems and thereby enabling a broader and more efficient
-exploration of potential sorbent materials.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Tailoring Plasmonic Waveguide-Coupled Cavities for
-CO 2  Sensing</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04456/5329781/Tailoring-Plasmonic-Waveguide-Coupled-Cavities-for</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c04456</guid>
-<pubDate>Wed, 26 Aug 2026 17:00:57 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Plasmonic devices can guide and control light on the subwavelength
-scale, but their optical behavior is sensitive to minute changes in
-geometrical/material parameters; however, it requires a rigorous theoretical
-framework to obtain a high level of structural control and optimize
-their performance. This study investigates the coupling of a metal-dielectric-metal
-(MDM) waveguide with a dielectric resonator, yielding a transmittance
-spectrum with three distinct resonance modes. The physical mechanisms,
-governing transmission behavior, and the effects of geometrical parameters
-on mode characteristics are thoroughly analyzed. The dielectric resonator
-is replaced with polyhexamethylene biguanide (PHMB) functional material,
-whose refractive index (RI) changes upon exposure to CO&lt;sub&gt;2&lt;/sub&gt; gas. Comprehensive simulations and analysis reveal that multiple
-modes can be effectively utilized for CO&lt;sub&gt;2&lt;/sub&gt; sensing application,
-demonstrating high sensitivities: mode 1 at 126.9 pm/ppm, mode 2 at
-133.58 pm/ppm, and mode 3 at 202.2 pm/ppm. All modes maintain a higher
-sensitivity and outperform previously reported CO&lt;sub&gt;2&lt;/sub&gt; sensors.
-Consequently, hybrid plasmonic integration emerges as a promising
-strategy for next-generation sensors, outperforming conventional single-mode
-designs through an improved accuracy, multifunctionality, and enhanced
-measurement reliability.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Predicting the
-Self-Diffusion Coefficient of Atmospheric
-Organic Aerosol Components via Molecular Dynamics Simulations</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04326/5329780/Predicting-the-Self-Diffusion-Coefficient-of</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c04326</guid>
-<pubDate>Wed, 26 Aug 2026 17:00:57 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular dynamics (MD) simulations have been used to
-predict self-diffusion
-coefficients of atmospherically relevant organic compounds in the
-particulate phase at room temperature. We have used three approaches
-depending on the mobility of the compound. The self-diffusion coefficient &lt;span style="font-style:italic;"&gt;D&lt;/span&gt; of the most mobile species (monoketones, monoalcohols
-and a few monocarboxylic acids) was obtained directly from MD simulations
-at 298 K. For less mobile species (oxomalonic acid, tartronic acid, &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-pinonic acid and dihydroxyacetone) MD simulations at
-higher temperatures were used together with Williams–Landel–Ferry
-(WLF) or Vogel–Fulcher–Tammann (VFT) extrapolation to
-obtain their self-diffusion coefficient &lt;span style="font-style:italic;"&gt;D&lt;/span&gt; down to
-room temperature. Finally, the self-diffusion coefficient of compounds
-such as malonic acid, adipic acid, azelaic acid, tricarballylic acid,
-3-methyl-1,2,3-butanecarboxylic acid (MBTCA) and 2-oxoadipic acid,
-which are too immobile a few degrees below their melting point, was
-evaluated only at 420 K for comparison purposes. The simulations showed
-that &lt;span style="font-style:italic;"&gt;D&lt;/span&gt; is strongly influenced by the presence of
-functional groups. For the monofunctional compounds examined in this
-study, mobility decreases in the order: –COOH &amp;gt; –OH
-&amp;gt; –C═O for monofunctional compounds. Functional-group
-multiplicity and proximity of highly polar groups further reduce mobility
-through the formation of dense hydrogen-bond networks and compact
-molecular packing. Global descriptors such as molecular weight and
-elemental ratios showed meaningful correlations with &lt;span style="font-style:italic;"&gt;D&lt;/span&gt; only within specific chemical families. Functional-group identity,
-coexistence and molecular topology provide a more informative basis
-for interpreting diffusivity in atmospherically relevant organic compounds.&lt;/span&gt;</description>
-</item>
-<item>
-<title>CCD-Optimized UA-DMSPE
-Combined with DFT Assisted
-Selection of a Novel Anthraquinone-Based Sorbent for Pb(II) and Cd(II)
-Determination in Rice and Paddy Soil</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05694/5329777/CCD-Optimized-UA-DMSPE-Combined-with-DFT-Assisted</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05694</guid>
-<pubDate>Wed, 26 Aug 2026 16:00:56 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In this study, a novel ultrasound-assisted dispersive
-micro solid-phase
-extraction (UA-DMSPE) method coupled with flame atomic absorption
-spectrometry (FAAS) was developed for the rapid, reliable, low-cost,
-and environmentally friendly determination of Pb(II) and Cd(II) ions
-in rice and paddy soil samples. Three novel anthraquinone-derived
-ligands, not previously reported in the literature, were synthesized
-and their metal-binding behaviors were evaluated through density functional
-theory (DFT) calculations. Based on Frontier molecular orbital (FMO),
-molecular electrostatic potential (MEP), and global reactivity descriptor
-analyses, Derivative 2, exhibiting the lowest HOMO–LUMO energy
-gap (Δ&lt;span style="font-style:italic;"&gt;E&lt;/span&gt; = 2.1284 eV) together with the highest
-softness (σ = 347.8739) and electrophilicity index (ω
-= 28.2323), was identified as the most promising ligand for Pb(II)
-and Cd(II) coordination. Accordingly, Derivative 2 was selected and
-loaded onto silica to prepare a novel anthraquinone-functionalized
-sorbent and employed throughout all experimental studies. The principal
-parameters affecting extraction efficiency were optimized using a
-six-factor central composite design (CCD) coupled with response surface
-methodology (RSM), enabling statistical evaluation of the relationships
-between experimental variables and extraction recovery. Under optimized
-conditions, the developed method exhibited low limits of detection
-of 0.19 and 0.28 μg L&lt;sup&gt;–1&lt;/sup&gt; for Pb(II) and Cd(II),
-respectively, wide linear working ranges (0.8–500 and 1.0–500
-μg L&lt;sup&gt;–1&lt;/sup&gt;), and satisfactory precision (%RSD
-&amp;lt; 2.2). The proposed method demonstrated high tolerance toward
-coexisting ions and satisfactory recovery values in rice and paddy
-soil samples. Moreover, the simultaneous evaluation of rice and paddy
-soil samples enabled a reliable assessment of the potential transfer
-of heavy metals from soil to plant systems. The environmental performance
-of the proposed method was assessed using Analytical Eco-Scale, GAPI,
-and AGREE metrics, demonstrating high environmental compatibility
-owing to low reagent consumption, solvent-free operation, and minimal
-waste generation (AGREE score ≈ 0.84). Overall, the developed
-method combines DFT-assisted sorbent selection, CCD-based optimization,
-high selectivity, low detection limits, and strong green analytical
-performance, providing an effective and reliable analytical platform
-for the determination of Pb(II) and Cd(II) in rice and paddy soil
-samples.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

@@ -5,6 +5,68 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Ranking-Based Surrogate
+Modeling for Bayesian Optimization
+under Small-Data Conditions</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02115/5421914/Ranking-Based-Surrogate-Modeling-for-Bayesian</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02115</guid>
+<pubDate>Sun, 06 Sep 2026 14:00:46 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02115/5421914/Ranking-Based-Surrogate-Modeling-for-Bayesian"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02115/1/m_ci6c02115_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Bayesian optimization (BO) is widely used for reaction
+optimization,
+but under small-data conditions, regression of absolute objective
+values may not align with the practical goal of prioritizing promising
+experiments. Here, we compared ranking-based BO (RankBO) combined
+with Thompson sampling (Rank-TS) with regression-based BO using two
+reaction benchmarks. Rank-TS showed a clear advantage on Direct Pd-catalyzed
+arylation in optimization performance, global ranking quality, and
+recovery of high-yielding conditions. For Suzuki–Miyaura coupling,
+which comprised 12 substrate combinations, its improvement was small
+in the pooled analysis. However, in the equal-weight macro analysis
+across the 12 substrate-defined search spaces, Rank-TS showed higher
+ranking quality and faster high-yield-condition recovery. These results
+indicate that Rank-TS is particularly useful for prioritizing reaction
+conditions within a fixed-substrate combination under small-data conditions,
+and that its relative performance depends on how the chemical search
+space and ranking task are defined.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Extending Partition
+Coefficient Predictions from Key
+Solvent Systems to Biological and Environmental Systems via Linear
+Solvation Energy Relationship</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01437/5421913/Extending-Partition-Coefficient-Predictions-from</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01437</guid>
+<pubDate>Sun, 06 Sep 2026 14:00:46 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01437/5421913/Extending-Partition-Coefficient-Predictions-from"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01437/1/m_ci6c01437_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of equilibrium partition coefficients
+of organic
+compounds in biological and environmental media is critical for evaluating
+their environmental fate and bioaccumulation potential, as well as
+for guiding drug design and toxicology studies. Linear solvation energy
+relationships using Abraham solute descriptors (ASD-LSERs) have achieved
+remarkable success in characterizing such complex biological and environmental
+partitioning systems. However, the limited availability of high-quality
+experimental descriptors, particularly for structurally complex compounds,
+hinders their practical application and further constrains the accuracy
+of descriptor predictive models. Here, we propose a linear solvation
+energy relationship (4SD-LSER) using descriptors derived from logarithmic &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;-hexadecane–air, &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;-octanol–air,
+and water–air partition coefficients, along with the topological
+McGowan molar volume. To evaluate its performance, 1,849 experimental
+partition coefficients for 779 neutral compounds across 12 biologically
+and environmentally relevant systems were compiled. The 4SD-LSER was
+calibrated and exhibited good descriptive power for these systems.
+Remarkably, when combined with appropriate fragment-based or machine
+learning-based descriptor prediction approaches, the 4SD-LSER achieved
+prediction errors largely within ±0.5 log units for structurally
+simple compounds and within ±1.0 log unit for more complex compounds
+(e.g., pesticides, pharmaceuticals, and flame retardants), exhibiting
+state-of-the-art accuracy, especially for complex compounds. This
+study demonstrates that models originally developed for well-characterized
+solvent systems to predict partition coefficients or solvation free
+energies can be readily extended to biological and environmental systems
+via LSER. Its performance is poised to improve further with advances
+in theoretical and machine-learning approaches.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Thermodynamics
 and Unbinding Kinetics of A22 at Multiple
 Actin-Binding Sites Revealed by Enhanced Sampling Simulations</title>
@@ -2770,20 +2832,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00939</guid>
 <pubDate>Tue, 07 Jul 2026 04:34:37 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00939/asset/images/medium/ci6c00939_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00939&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Structural Proteomics-Based Deciphering of Hydrophobic Packing Fingerprints Informing Protein Thermostability in TIM Barrels</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01179</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01179</guid>
-<pubDate>Tue, 07 Jul 2026 03:11:26 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01179/asset/images/medium/ci6c01179_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01179&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Bridging between Structure-Based and Data-Driven Affinity Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00697</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00697</guid>
-<pubDate>Tue, 07 Jul 2026 02:01:06 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00697/asset/images/medium/ci6c00697_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00697&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
