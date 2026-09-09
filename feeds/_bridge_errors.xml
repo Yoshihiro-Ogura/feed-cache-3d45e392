@@ -5,6 +5,13 @@
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <description>ACS Bridge Error (mirrored feed)</description>
 <item>
+<title>[2026-09-09 08:03 UTC] 1件の問題 / 1 issue(s)</title>
+<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
+<guid>acs-bridge-error-2026-09-09T08:03:15.730671+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 08:03:15 +0000</pubDate>
+<description>[scraper] J.Med.Chem.: WARN: image_fetch_failed=1</description>
+</item>
+<item>
 <title>[2026-09-05 15:01 UTC] 13件の問題 / 13 issue(s)</title>
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <guid>acs-bridge-error-2026-09-05T15:01:33.343727+00:00</guid>
@@ -346,13 +353,6 @@
 <guid>acs-bridge-error-2026-08-04T21:02:35.225501+00:00</guid>
 <pubDate>Tue, 04 Aug 2026 21:02:35 +0000</pubDate>
 <description>[scraper] 全体が失敗 / stage failed entirely: InvalidSessionIdException()</description>
-</item>
-<item>
-<title>[2026-08-04 15:02 UTC] 13件の問題 / 13 issue(s)</title>
-<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
-<guid>acs-bridge-error-2026-08-04T15:02:25.737740+00:00</guid>
-<pubDate>Tue, 04 Aug 2026 15:02:25 +0000</pubDate>
-<description>[scraper] ACS Catalysis: FAIL: ValueError("取得結果がRSS/Atomと認識できない / response doesn't look like RSS/Atom")&lt;br&gt;[scraper] ACS Central Science: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Chem.Rev.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Med.Chem.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Org.Lett.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] OPR&amp;D: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Chem.Inf.Model.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Chemical Biology: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Omega: FAIL: &lt;HTTPError 404: 'Not Found'&gt;</description>
 </item>
 </channel>
 </rss>
