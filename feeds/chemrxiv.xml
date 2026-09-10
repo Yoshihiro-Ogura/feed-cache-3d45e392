@@ -5,6 +5,69 @@
 <link>https://chemrxiv.org/action/showFeed?type=latest&amp;format=rss</link>
 <description>ChemRxiv: Latest Preprints (mirrored feed)</description>
 <item>
+<title>Digestion and Orthogonal Click Conjugation Enables Nanopore Reading of Proteins</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008612/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008612/v1</guid>
+<pubDate>2026-09-10T06:55:56Z</pubDate>
+<description>Accurate characterization of bioactive peptides and proteins is needed to fully understand the origin of their activity. Nanopore reading enables polypeptide characterization at the single-molecule level. Here we describe a digestion-ligation method based ...</description>
+</item>
+<item>
+<title>Investigating Segregation Effects in Mixture Adsorption in Mordenite Zeolite Using Monte-Carlo Simulations</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008611/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008611/v1</guid>
+<pubDate>2026-09-10T06:30:00Z</pubDate>
+<description>Configurational-Bias Monte Carlo (CBMC) simulations have been used to investigate segregation effects for adsorption of CO2(1)/CH4(2) and CO2(1)/C3H8(2) mixtures in Mordenite (MOR) zeolite. The segregation effects originate from the preferential location ...</description>
+</item>
+<item>
+<title>Data-driven strategies for enzyme engineering: From machine learning to protein language models</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008605/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008605/v1</guid>
+<pubDate>2026-09-10T06:01:57Z</pubDate>
+<description>Enzymes are key biocatalysts that drive diverse biological processes and industrial applications, offering sustainable alternatives to conventional chemical catalysis. However, the enormous enzyme sequence space and the limited functional annotation have ...</description>
+</item>
+<item>
+<title>An Attention-based Architecture to Decode Chemical Transformations from Process Spectroscopic Data</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008604/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008604/v1</guid>
+<pubDate>2026-09-10T05:48:00Z</pubDate>
+<description>Spectroscopy is a powerful analytical technique that promises precise characterization of chemical species and their transformations in dynamic chemical processes. Traditionally, spectral signatures are interpreted by calibrating against established ...</description>
+</item>
+<item>
+<title>Accumulation of enzymes on the lipid-oleosin membarnes</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008603/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008603/v1</guid>
+<pubDate>2026-09-10T05:41:57Z</pubDate>
+<description>Engineering the spatial organization of proteins offers a powerful strategy for controlling biochemical reactions and material properties in synthetic cells. However, dynamically organizing multiple proteins at the nanometer scale remains challenging. We ...</description>
+</item>
+<item>
+<title>Finite-Field Second Hyperpolarizability via Adaptive Bayesian Quantum Phase Estimation for Early Fault-Tolerant Quantum Computers: Ground-State Energies Beyond Chemical Accuracy</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008602/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008602/v1</guid>
+<pubDate>2026-09-10T05:39:53Z</pubDate>
+<description>The static second hyperpolarizability governs third-order nonlinear-optical responses but is difficult to compute by first-principles methods because finite-field extraction requires a fourth-order energy derivative. The resulting error amplification ...</description>
+</item>
+<item>
+<title>Machine Learning Optimization of Polymeric Complex Coacervate Micelles Reveals Cell-Type-Specific Formulations for Enhanced mRNA Delivery</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008601/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008601/v1</guid>
+<pubDate>2026-09-10T05:25:53Z</pubDate>
+<description>The cell-type dependent transfection heterogeneity of polymeric mRNA delivery remains a fundamental barrier to their broad translation. The field has historically addressed this by optimizing the cationic component itself, refining amine identity, density,...</description>
+</item>
+<item>
+<title>Environmental benefits and trade-offs of dry coating for battery electrode production</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008600/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008600/v1</guid>
+<pubDate>2026-09-10T05:22:01Z</pubDate>
+<description>Dry coating is an emerging, scalable alternative to traditional slurry coating for manufacturing lithium-ion battery electrodes. It offers significant energy savings, eliminates the need for toxic solvents, and is consequently often regarded as an ...</description>
+</item>
+<item>
+<title>Melt-State Ligand Addition Generates a Near-Infrared-Emissive Coordination Polymer Glass</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008599/v1?af=R</link>
+<guid>10.26434/chemrxiv.15008599/v1</guid>
+<pubDate>2026-09-10T05:08:11Z</pubDate>
+<description>Meltable coordination polymers (CPs) combine liquid-phase processability with the structural and functional diversity of crystalline coordination compounds, but methods to install targeted local coordination environments and photophysical functions in CP ...</description>
+</item>
+<item>
 <title>The Role of In Situ Crosslinked Polysiloxane/Polylactide Micro-Networks on the PLA Brittle-Ductile Transition</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004728/v2?af=R</link>
 <guid>10.26434/chemrxiv.15004728/v2</guid>
@@ -980,69 +1043,6 @@
 <guid>10.26434/chemrxiv.15008455/v1</guid>
 <pubDate>2026-09-08T05:59:13Z</pubDate>
 <description>We report an electrochemically driven Pd/C-catalysed method for the exhaustive hydrogenation of alkenes and alkynes without externally supplied H2. In an undivided cell, commercially available Pd/C in EtOH converts terminal and internal unsaturated ...</description>
-</item>
-<item>
-<title>Organometallic chemistry of Pd, Ni, and Au complexes and clusters: the key to high-performance catalysis</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008456/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008456/v1</guid>
-<pubDate>2026-09-08T05:59:00Z</pubDate>
-<description>Several liquid-phase organic reactions catalyzed by palladium, nickel, and gold precursors rarely preserve the identity, nuclearity, or electronic state of the added pre-catalyst. Molecular complexes exchange ligands and oxidation states; low-nuclearity ...</description>
-</item>
-<item>
-<title>Regio- and Stereoselective Synthesis and Stereochemical Assignment of Ganaxolone C-3/C-5 Analogues</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008454/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008454/v1</guid>
-<pubDate>2026-09-08T05:52:52Z</pubDate>
-<description>Ganaxolone is an FDA-approved steroid for seizures associated with cyclin-dependent kinase-like 5 deficiency disorder. Because steroid configuration governs molecular shape and biological activity, unambiguous identification of the C-3/C-5 stereoisomer is ...</description>
-</item>
-<item>
-<title>CampChem: Rubric-Grounded Adaptive Campaigns for Multi-Round Organic Synthesis with Residual Spectral Observation</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008453/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008453/v1</guid>
-<pubDate>2026-09-08T05:46:51Z</pubDate>
-<description>Organic synthesis is a multi-round campaign, not a one-shot SMILES completion: a failed solvent, a poisoned catalyst, or leftover starting-material peaks in the 1H NMR force the chemist to revise conditions and try again. Tool-using chemistry agents and ...</description>
-</item>
-<item>
-<title>Novel green K-based Metal-Organic Framework with high proton conductivity</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008452/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008452/v1</guid>
-<pubDate>2026-09-08T05:40:50Z</pubDate>
-<description>Despite growing interest in metal-organic frameworks (MOFs for protonconductivity applications, monovalent-cation-based MOFs remain comparatively underexplored due to the weaker coordination interactions typically associated with these systems. In this ...</description>
-</item>
-<item>
-<title>Visible Light-Mediated Homoallylic Radical Rearrangement for the Intermolecular Synthesis of 1,2-Biscyclopropanes</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008450/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008450/v1</guid>
-<pubDate>2026-09-08T05:37:01Z</pubDate>
-<description>1,2-Biscyclopropanes are privileged structural motifs found in natural products, pharmaceuticals, and functional materials, yet their assembly remains challenging. We report the first radical intermolecular strategy for the synthesis of highly ...</description>
-</item>
-<item>
-<title>Advances in Shear Thickening Fluids: Challenges, Opportunities, and Future Directions</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008451/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008451/v1</guid>
-<pubDate>2026-09-08T05:36:52Z</pubDate>
-<description>Shear thickening fluids (STFs) are adaptive materials which exhibit an abrupt increase in the flow resistivity under applied shear stress or shear rate allows the rapid transitions from fluidlike to highly resistant states. This unique response has driven ...</description>
-</item>
-<item>
-<title>QSARmil: A Package for Molecular Multi-Instance Machine Learning</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008449/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008449/v1</guid>
-<pubDate>2026-09-08T05:32:49Z</pubDate>
-<description>Numerous Python tools are available for molecular machine learning, typically built around core modeling paradigms such as descriptor-based approaches (“RDKit + scikit-learn”), deep neural networks, graph neural networks, geometric deep learning, and ...</description>
-</item>
-<item>
-<title>De Novo Linear Peptides as Potential Recognition Elements and/or Aggregation Modulators of Amyloid-β42 in Alzheimer’s Disease</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008448/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008448/v1</guid>
-<pubDate>2026-09-08T05:28:54Z</pubDate>
-<description>The development of deep learning algorithms for de novo protein design has opened the way for novel in silico strategies to develop peptide binders targeting protein aggregation implicated in neurodegenerative diseases. When combined with molecular ...</description>
-</item>
-<item>
-<title>Reactive Molecular Dynamics Simulations of Mechanochemical Ammonia Production</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008447/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008447/v1</guid>
-<pubDate>2026-09-08T05:24:50Z</pubDate>
-<description>Green ammonia production will be crucial to achieving global net-zero emissions. The current dominant technology for producing ammonia, known as the Haber-Bosch process, requires extreme temperatures and pressures. One promising alternative is ...</description>
 </item>
 </channel>
 </rss>

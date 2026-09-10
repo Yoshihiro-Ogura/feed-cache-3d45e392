@@ -5,6 +5,134 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Post-Search Validation
+and Curation of Site-Resolved
+N-Glycoproteomics Data</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00875/5427166/Post-Search-Validation-and-Curation-of-Site</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00875</guid>
+<pubDate>Wed, 09 Sep 2026 15:00:43 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00875/5427166/Post-Search-Validation-and-Curation-of-Site"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00875/1/m_au6c00875_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Given the significant
+role of glycosylation in modulating protein
+structure and activity, glycoproteomics is gaining increased interest
+from the broad scientific community. Large-scale site-resolved N-glycoproteomics
+relies on automated MS&lt;sup&gt;2&lt;/sup&gt;-based searches, but candidate glycopeptide
+assignments can remain ambiguous when isomeric or isobaric glycan
+structures, adducts, chemical modifications, in-source fragments,
+or incomplete MS&lt;sup&gt;2&lt;/sup&gt; evidence support more than one plausible
+interpretation. Here, we systematically categorize common challenges
+and misassignments in glycoproteomics and present a post-search validation
+workflow using Skyline software to identify and correct these. The
+workflow matches search-engine-derived candidate assignments to LC–MS/MS
+evidence for correct precursor monoisotope assignment, retention time
+behavior, and glycosite context. The workflow is demonstrated with
+Byonic-derived glycopeptide candidate lists and converts automated
+search results into curated, verifiable, site-resolved N-glycopeptide
+features for downstream quantification and reporting. We applied the
+workflow to data from 52 human serum samples, and reviewed 3,071 candidate
+N-glycopeptide IDs. From these, 1,722 MS&lt;sup&gt;2&lt;/sup&gt; candidate IDs
+were refuted as inconsistent with chromatographic and/or precursor-level
+evidence. Curation added 320 glycopeptide features, comprising 152
+MS&lt;sup&gt;1&lt;/sup&gt;-supported composition-level assignments and 168 additional
+LC-resolved isomer features, yielding a final curated feature set
+of 1,436 N-glycopeptides across the serum N-glycoproteome. Together,
+these results show that reviewing the raw LC-MS/MS data associated
+with search-engine results improves both the accuracy and comprehensiveness
+of detectable N-glycopeptides, supporting more transparent and reliable
+reporting. The curated dataset provides a resource for future method
+development, benchmarking and machine–learning efforts directed
+at automated glycopeptide validation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Development of High-Efficiency
+Mitochondrial Protease
+Targeting Chimeras (MtPTACs) for Targeted Degradation of POLRMT and
+Beyond</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01255/5426811/Development-of-High-Efficiency-Mitochondrial</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01255</guid>
+<pubDate>Wed, 09 Sep 2026 10:00:43 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01255/5426811/Development-of-High-Efficiency-Mitochondrial"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01255/1/m_au6c01255_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Despite the broad
+success of targeted protein degradation (TPD),
+achieving efficient degradation within mitochondria remains a challenge.
+Herein, we report a highly active degrader targeting human mitochondrial
+RNA polymerase (POLRMT) based on the Mitochondrial Protease Targeting
+Chimeras (MtPTACs) strategy. The lead compound, &lt;strong&gt;MTP-B1&lt;/strong&gt;, is a highly potent MtPTAC to achieve essentially complete target
+degradation (&lt;span style="font-style:italic;"&gt;D&lt;/span&gt;&lt;sub&gt;max&lt;/sub&gt; &amp;gt; 98%) within 24
+h at
+sub-micromolar concentrations. Mechanistically, &lt;strong&gt;MTP-B1&lt;/strong&gt; circumvents the compensatory transcriptional upregulation induced
+by POLRMT inhibitors and sustains downstream signaling suppression
+in washout assays. Remarkably, under the dosing regimens tested, &lt;strong&gt;MTP-B1&lt;/strong&gt; exhibited greater &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; antitumor
+efficacy than the co-administration of a POLRMT inhibitor and a ClpP
+activator, highlighting the therapeutic potential of targeted protein
+degradation in mitochondria. These findings, further supported by
+the extension to a second target, dihydroorotate dehydrogenase (DHODH),
+provide high-efficiency MtPTACs as a powerful and generalizable modality
+for mitochondrial medicine.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Conformational Preference
+Classification of Integrin-Binding
+Ligands Using Free Energy Perturbation</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00653/5426722/Conformational-Preference-Classification-of</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00653</guid>
+<pubDate>Wed, 09 Sep 2026 07:00:41 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00653/5426722/Conformational-Preference-Classification-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00653/1/m_au6c00653_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Integrins are crucial
+cell adhesion receptors and attractive therapeutic
+targets, but developing safe small-molecule inhibitors has been challenging,
+at least in part due to inadvertent partial agonism caused by stabilization
+of the integrin’s open, high-affinity state. To address this
+challenge, we present a computational approach using Absolute Binding
+Free Energy Perturbation (AB-FEP) calculations to predict whether
+a ligand will stabilize the open or closed integrin states, leveraging
+the difference between the ligand’s binding free energy to
+the respective end states. Despite challenges posed by Ca and Mg ions,
+metal-coordinating residues in the binding pocket, and the subtlety
+of structural differences between states, AB-FEP achieved excellent
+classification performance on a set of known opening and closing ligands,
+significantly outperforming docking scores and MM-GBSA results. We
+also showed a good correlation between AB-FEP binding free energy
+differences and experimental values. Furthermore, AB-FEP provided
+insights into intermediate integrin states and analysis of simulation
+trajectories confirmed the formation of a water-mediated hydrogen
+bond network with an ion in the binding pocket to be characteristic
+for closing ligands. This work demonstrates AB-FEP as a robust method
+for classifying integrin ligands by the conformation they stabilize
+and for understanding their functional mechanisms, offering valuable
+guidance for designing safe and conformationally selective integrin
+therapeutics.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Secondary-Amine Relay
+Enables Lysine-Directed Multicomponent
+Functionalization of Peptides</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00945/5426692/Secondary-Amine-Relay-Enables-Lysine-Directed</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00945</guid>
+<pubDate>Wed, 09 Sep 2026 03:00:40 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00945/5426692/Secondary-Amine-Relay-Enables-Lysine-Directed"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00945/1/m_au6c00945_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Multicomponent reactions provide powerful modularity
+for peptide
+functionalization, but their application to lysine residues remains
+limited by the low efficiency of direct primary-amine-based activation
+pathways under peptide-compatible conditions. Here we report a secondary-amine
+relay strategy for lysine-directed multicomponent functionalization
+of peptides. In this approach, salicylaldehyde derivatives, arylboronic
+acids, and a cyclic secondary amine are combined to generate a transient
+electrophilic intermediate, which is subsequently intercepted by the
+ε-amine of lysine-containing peptides. By separating electrophile
+generation from direct lysine activation, this relay protocol improves
+the efficiency of lysine modification while retaining the modularity
+of multicomponent chemistry. Mechanistic experiments, isolated intermediate
+studies, kinetic comparisons, and density functional theory calculations
+support a pathway involving secondary-amine-mediated intermediate
+formation followed by lysine capture. The method enables modification
+of diverse bioactive peptides, incorporation of drug-derived and fluorescent
+aldehyde or boronic acid components, and lysine–lysine stapling
+using bifunctional aldehydes. The reaction is further compatible with
+automated and parallel solid-phase peptide modification workflows,
+providing rapid access to libraries of lysine-functionalized peptide
+conjugates. This study provides a practical secondary-amine relay
+platform for modular peptide functionalization and expands the utility
+of multicomponent chemistry in automated peptide synthesis.&lt;/span&gt;</description>
+</item>
+<item>
 <title>A Protecting-Group-Free
 S-Glycosylation Strategy
 for Complex S-Glycopeptide Synthesis</title>

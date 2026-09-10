@@ -5,6 +5,187 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Early-Enrichment
+Hit Discovery via Reversible-Work
+c(t) Estimation in Metadynamics (CTMD)</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01439/5427396/Early-Enrichment-Hit-Discovery-via-Reversible-Work</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01439</guid>
+<pubDate>Thu, 10 Sep 2026 01:00:50 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01439/5427396/Early-Enrichment-Hit-Discovery-via-Reversible-Work"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01439/1/m_ci6c01439_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Virtual screening for small-molecule binders is often
+limited by
+false positives from approximate scoring functions and rigid-receptor
+assumptions. These can be addressed downstream through accurate but
+expensive free-energy calculations. At the same time, recent artificial-intelligence-based
+co-folding methods have been proposed that claim to achieve the accuracy
+of free-energy methods at much lower cost, but these have not yet
+delivered consistent improvements in early enrichment and can be confounded
+by memorization. Here we address this gap by introducing c(t)-based
+metadynamics (CTMD), a physics-based, high-throughput hit-triaging
+protocol tailored for early enrichment. CTMD uses the nonequilibrium
+reversible-work estimator c(t) introduced by Tiwary and Parrinello
+(Journal of Physical Chemistry B, 2015, 119, 736), computed from a
+small number of short, independent well-tempered metadynamics trajectories,
+to rank binding stability without requiring converged binding free
+energies. We demonstrate that CTMD provides robust early enrichment
+across diverse targets and chemotypes, while remaining fast and transferable
+with minimal parameter tuning and resistant to memorization-driven
+artifacts─underscoring both an immediately deployable physics-based
+alternative for screening. For these systems, we show how co-folding,
+particularly Boltz-2, achieves enrichment directly proportional to
+similarity with the training set and, more worryingly, reproduces
+this even in the presence of significant modifications to the active
+site. Given its simplicity of implementation, CTMD should thus be
+an “embarrassingly″ open-source, early enrichment method
+available for use by the broad pharmacological and academic community
+that sits right between approximate but fast docking or AI-based co-folding
+methods and more expensive but accurate free-energy calculations,
+and is expected to save significant financial and human capital in
+drug discovery campaigns.&lt;/span&gt;</description>
+</item>
+<item>
+<title>QSAR as a Small-Deformation
+Theory of Effective Free-Energy
+Landscapes</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01230/5427239/QSAR-as-a-Small-Deformation-Theory-of-Effective</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01230</guid>
+<pubDate>Wed, 09 Sep 2026 17:00:37 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01230/5427239/QSAR-as-a-Small-Deformation-Theory-of-Effective"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01230/1/m_ci6c01230_0004.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Quantitative structure–activity relationships
+(QSARs) remain
+widely used in medicinal chemistry, yet their physical interpretation
+is often limited and the meaning of their applicability domain (AD)
+is commonly treated in statistical or descriptor-space terms. Here
+we propose a conceptual framework in which QSAR is interpreted as
+a small-deformation theory of effective free-energy landscapes. Ligand
+binding or chemical substitution is represented as a perturbation
+of an effective free-energy landscape defined over reduced state variables,
+and the resulting free-energy response is expressed as a contracted
+observable over the equilibrium ensemble of the reference system via
+a Zwanzig-type perturbation formula. At the phenomenological level,
+this response reduces to a low-order expansion in descriptor space,
+from which conventional linear QSAR emerges as the leading-order approximation.
+Within the assumed effective description and under stated regularity
+conditions, the corresponding first-order coefficients are given exactly
+by the ensemble-averaged sensitivities of the free-energy landscape
+to descriptor perturbations, without requiring a cumulant truncation.
+The AD acquires a physical meaning as the region in which a local
+low-order expansion of the free-energy response remains valid. In
+the small-deformation regime, this same region further corresponds
+to ligand-induced landscape perturbations that remain local, smooth,
+and sufficiently weak over the reference ensemble. Conversely, in
+systems for which an effective-landscape description is appropriate,
+QSAR breakdown may be associated with phenomena such as activity cliffs,
+induced fit, and state-dependent binding, which can involve qualitative
+reorganization or rapid reweighting of the effective landscape. For
+a specified thermodynamic system, the second-cumulant term provides
+a non-positive variance correction to the leading-order ensemble-average
+free-energy response, arising from the variance of the landscape perturbation
+over the reference ensemble. This correction reflects a fluctuation-assisted
+effect in which configurational heterogeneity within the pre-existing
+ensemble allows Boltzmann reweighting to redistribute statistical
+weight toward microstates more strongly influenced by the perturbation.
+Independently, the exact free-energy response is no greater than the
+leading-order ensemble-average estimate, consistent with Jensen’s
+inequality. The present framework is conceptual. Its interpretation
+of QSAR coefficients as ensemble-averaged sensitivities of the free-energy
+landscape requires additional assumptions and state-resolved information
+beyond conventional compound-level QSAR data, and it does not by itself
+provide a prospective AD method.&lt;/span&gt;</description>
+</item>
+<item>
+<title>ProAlign-DDI: A
+Zero-Shot Drug–Drug Interaction
+Event Prediction Framework with Prototype Alignment</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01621/5427178/ProAlign-DDI-A-Zero-Shot-Drug-Drug-Interaction</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01621</guid>
+<pubDate>Wed, 09 Sep 2026 15:00:43 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01621/5427178/ProAlign-DDI-A-Zero-Shot-Drug-Drug-Interaction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01621/1/m_ci6c01621_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The accurate identification of drug–drug interaction
+(DDI)
+events (DDIEs) is essential for ensuring medication safety and preventing
+adverse effects. However, novel drug development constantly generates
+new DDIE classes that suffer from a severe scarcity of labels, making
+zero-shot learning an essential solution for emerging cases. Unfortunately,
+the long-tailed distribution of existing DDI datasets causes overfitting
+to head classes and poor generalization to tail classes, thereby severely
+impairing zero-shot performance. To address this limitation, we propose
+a novel framework, ProAlign-DDI, which integrates a Substructure-Guided
+Semantic Adaptive Aggregation Module (SAAM) with a Prototype Alignment
+Module (PAM). In this framework, SAAM adaptively captures task-relevant
+features to produce high-quality aggregated representations. Subsequently,
+PAM employs class-level semantic prototypes to regularize these representations.
+This alignment strategy not only optimizes the global feature space
+but also alleviates the bias inherent in long-tailed DDI datasets.
+Comprehensive experiments show that ProAlign-DDI achieves competitive
+performance in conventional zero-shot learning and more balanced performance
+in generalized zero-shot learning, confirming its effectiveness in
+inferring unseen DDIE classes.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Mechanism-Guided Antimicrobial Peptide Design through
+Membrane-Surface Fingerprinting and Graph Diffusion</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02664/5427042/Mechanism-Guided-Antimicrobial-Peptide-Design</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02664</guid>
+<pubDate>Wed, 09 Sep 2026 14:00:45 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02664/5427042/Mechanism-Guided-Antimicrobial-Peptide-Design"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02664/1/m_ci6c02664_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antimicrobial
+peptides (AMPs) are promising antibiotic alternatives,
+but current AI-based discovery often relies on sequence labels and
+lacks explicit modeling of peptide–membrane interactions. We
+developed Membrane-MaSIF, an MD-derived membrane surface matching
+model designed to capture peptide–membrane compatibility beyond
+sequence-level AMP labels. Using LL-37–perturbed &lt;span style="font-style:italic;"&gt;Acinetobacter baumannii&lt;/span&gt; outer membranes, Membrane-MaSIF represents binding,
+insertion, and pore-like perturbation states as computable surface
+fingerprints encoding local geometry and physicochemical features.
+We further integrated Membrane-MaSIF with PepGraph-Diffusion for de
+novo AMP candidate generation and applied it to an external SPLUNC1
+α4-derived A4 analogue library for known-scaffold prioritization.
+Experimental validation of selected candidates, including peptide
+71 and high-scoring A4 analogues, supported the utility of membrane
+surface matching for enriching membrane-active antibacterial peptides.
+This framework provides a mechanism-aware strategy for Gram-negative
+AMP discovery and optimization.&lt;/span&gt;</description>
+</item>
+<item>
+<title>ActiveFusion: Fused
+Representations Improve Active
+Learning for Molecular Property Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01708/5426751/ActiveFusion-Fused-Representations-Improve-Active</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01708</guid>
+<pubDate>Wed, 09 Sep 2026 08:00:42 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01708/5426751/ActiveFusion-Fused-Representations-Improve-Active"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01708/1/m_ci6c01708_0013.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Active learning provides an efficient strategy for molecular
+property
+prediction by iteratively prioritizing compounds for experimental
+evaluation. However, the effectiveness of active learning pipelines
+depends strongly on the choice of molecular representation, and systematic
+understanding of how representation families affect the active learning
+process in terms of uncertainty and predictive performance remains
+limited. In this work, we introduce ActiveFusion, a framework for
+integrating heterogeneous molecular representations within active
+learning workflows for molecular property prediction. The framework
+enables systematic evaluation of physicochemical descriptors, molecular
+fingerprints, learned graph neural network (GNN) representations,
+and pretrained Transformer-based representations, as well as feature-level
+fusion strategies that combine complementary chemical information
+sources. ActiveFusion evaluates models across four molecular property
+prediction regression tasks. Across datasets, we demonstrate that
+feature fusion between learned graph representations and physicochemical
+descriptors consistently improves prediction performance and discovery
+(average final iteration &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; of 0.71, 0.67,
+and 0.54 for our overall best representations Chemprop+RDKit, Chemprop,
+and RDKit, respectively). We show that exploration-driven acquisition
+strategies enhance scaffold coverage and promote sampling of structurally
+novel regions of chemical space, and that model-agnostic acquisition
+of new compounds based on diversity has strong performance. Notably,
+both pretrained and finetuned Transformer-based embeddings do not
+consistently outperform physicochemical features or GNN-learned representations
+in our setting, highlighting the continued relevance of chemically
+interpretable features and learned features from supervised, task-specific
+models for active learning applications in molecular property prediction.
+Overall, ActiveFusion provides a systematic framework for studying
+representation-acquisition interactions in molecular discovery with
+representation fusion capabilities. Our study offers practical guidance
+for designing active learning pipelines that balance prediction accuracy
+with chemical space exploration.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Distinct Lipid
 Binding Dynamics and Sodium Ion Coordination
 in the TRAP Transporter  Hi SiaQM Revealed by Multiscale
@@ -3039,41 +3220,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01496</guid>
 <pubDate>Fri, 10 Jul 2026 06:10:57 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01496/asset/images/medium/ci6c01496_0017.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01496&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Collective Variable-Guided Engineering of the Free-Energy Surface of a Small Peptide</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00674</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00674</guid>
-<pubDate>Fri, 10 Jul 2026 01:44:31 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00674/asset/images/medium/ci6c00674_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00674&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Higher-Order Dynamic Disentangled Intent Sensing and Bidirectional Joint Updating Framework for NcRNA-Drug Resistance Association Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01116</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01116</guid>
-<pubDate>Fri, 10 Jul 2026 01:25:33 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01116/asset/images/medium/ci6c01116_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01116&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Enhancing Generalization in Synthesizability Prediction of Structurally Dissimilar Materials</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01171</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01171</guid>
-<pubDate>Thu, 09 Jul 2026 11:49:52 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01171/asset/images/medium/ci6c01171_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01171&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Unveiling Large-Scale Kinase-Centric Protein–Protein Interactions through a Knowledge-Informed Workflow</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00906</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00906</guid>
-<pubDate>Thu, 09 Jul 2026 10:29:12 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00906/asset/images/medium/ci6c00906_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00906&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Allosteric Inhibition Modulates SHP2 Diffusion Behavior from Rotational to Translational via C-SH2 Domain Stabilization</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01099</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01099</guid>
-<pubDate>Thu, 09 Jul 2026 08:53:43 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01099/asset/images/medium/ci6c01099_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01099&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
