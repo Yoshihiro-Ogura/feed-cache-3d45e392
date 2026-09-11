@@ -5,6 +5,99 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Closed-Loop Multi-Objective
+Optimization for Receptor-Selective
+Cell-Penetrating Peptide Design</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01267/5428007/Closed-Loop-Multi-Objective-Optimization-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01267</guid>
+<pubDate>Thu, 10 Sep 2026 20:00:39 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cell-penetrating
+peptides (CPPs) can deliver diverse cargoes into
+cells. However, designing CPPs with receptor-selective interaction
+profiles remains difficult because interactions with individual cell-surface
+components cannot be tuned independently. Here, we developed a closed-loop
+in silico framework for receptor-selective CPP design, in which receptor
+interactions are formulated as explicit objectives in a multi-objective
+optimization problem. We first constructed a CPP-like candidate library
+by using a sequence generative model fine-tuned on known CPPs. The
+framework then evaluated candidate peptides by receptor-wise docking,
+molecular dynamics simulations, and MM/GBSA to compute receptor-wise
+binding scores as computational proxies for receptor-associated interactions.
+These scores were used iteratively to propose subsequent candidates
+by multi-objective Bayesian optimization. Applied to a CXCR4/NRP1
+design setting, the framework identified candidates with more favorable
+predicted interaction profiles characterized by higher CXCR4 binding
+scores and lower NRP1 binding scores. We selected 10 peptides from
+the computationally identified candidates for cell-based imaging and
+found that 4 showed higher enrichment in CXCR4-positive regions than
+in NRP1-positive regions under the tested conditions. These results
+show that the proposed framework provides a practical in silico approach
+for designing CPPs with receptor-selective interaction profiles.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Task-Adaptive
+Multimodal Pretrained Framework for
+Antibiotic Virtual Screening with Joint Activity and Cytotoxicity
+Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02659/5427833/A-Task-Adaptive-Multimodal-Pretrained-Framework</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02659</guid>
+<pubDate>Thu, 10 Sep 2026 15:00:40 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antimicrobial resistance (AMR) poses a growing threat
+to global
+public health, particularly for priority pathogens such as &lt;span style="font-style:italic;"&gt;Staphylococcus aureus&lt;/span&gt; (SA) and Neisseria gonorrheae
+(NG), for which therapeutic options are increasingly limited. Although
+deep learning has accelerated antibiotic discovery, existing approaches
+are often constrained by single-modality molecular representations
+and a lack of joint modeling for antibacterial activity and host cell
+toxicity. Here, we present MAPViS, a task-adaptive multimodal pretrained
+framework for jointly predicting antibacterial activity against SA
+and NG together with cytotoxicity risk in three human cell lines (HepG2,
+HSkMC, and IMR-90). MAPViS integrates molecular graph representations,
+molecular fingerprints, and descriptor/3D geometric features through
+a gated fusion mechanism and combines large-scale self-supervised
+pretraining with supervised task-specific fine-tuning. The graph encoder
+is pretrained on approximately 10 million molecules using hierarchical
+pseudolabel classification and masked graph contrastive learning to
+improve representation quality and transferability. On benchmark datasets
+derived from experimentally screened compounds, MAPViS achieves competitive
+performance across antibacterial activity prediction tasks and shows
+advantages in early recognition metrics relevant to virtual screening,
+including AUPRC, Precision@30, and EF@1.0%. External validation further
+shows strong top-ranked enrichment on the SA task, where all Top-10
+candidates are experimentally active, whereas performance on NG is
+more modest, indicating task-dependent generalization. Overall, MAPViS
+provides a scalable multimodal framework for joint activity–toxicity
+modeling and offers a practical computational tool for antibiotic
+virtual screening and candidate prioritization.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Seamless QM/MM
+Simulations via a GROMACS-CP2K Interface</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02073/5427534/Seamless-QM-MM-Simulations-via-a-GROMACS-CP2K</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02073</guid>
+<pubDate>Thu, 10 Sep 2026 10:00:49 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding and controlling chemical reactivity in
+biological
+systems require atomic-level insight into processes that are often
+inaccessible to experiments. Hybrid quantum mechanics/molecular mechanics
+(QM/MM) simulations provide a powerful framework for describing chemical
+reactions in complex environments, but their practical application
+remains limited by fragmented software ecosystems, restricted accessibility,
+and methodological approximations that can compromise accuracy and
+reproducibility. In particular, many existing QM/MM implementations
+rely on ad hoc couplings, proprietary software, or truncated treatments
+of long-range electrostatic interactions. Here, we present a robust
+and fully periodic QM/MM interface between the open-source molecular
+dynamics engine GROMACS and the electronic structure theory code CP2K.
+The implementation enables efficient and reproducible QM/MM molecular
+dynamics and enhanced sampling simulations with a consistent treatment
+of long-range electrostatics under periodic boundary conditions. By
+combining the strengths of two widely used community codes, this interface
+provides a general and scalable platform for studying chemical reactivity
+in biological systems and establishes a transparent reference implementation
+for QM/MM simulations.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Early-Enrichment
 Hit Discovery via Reversible-Work
 c(t) Estimation in Metadynamics (CTMD)</title>
@@ -3199,27 +3292,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01506</guid>
 <pubDate>Mon, 13 Jul 2026 01:15:23 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01506/asset/images/medium/ci6c01506_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01506&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Can LLMs Solve Solubility Tasks? The SoluBench Benchmark for Pure and Mixed Solvent Systems</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00677</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00677</guid>
-<pubDate>Sat, 11 Jul 2026 06:03:19 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00677/asset/images/medium/ci6c00677_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00677&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] TPS-Flow: Physics-Guided Flow-Based Generative Modeling of Protein Transition Paths</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00807</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00807</guid>
-<pubDate>Fri, 10 Jul 2026 12:10:58 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00807/asset/images/medium/ci6c00807_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00807&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Strategies for Identifying Molecules of Interest in Large Chemical Spaces</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01496</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01496</guid>
-<pubDate>Fri, 10 Jul 2026 06:10:57 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01496/asset/images/medium/ci6c01496_0017.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01496&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
