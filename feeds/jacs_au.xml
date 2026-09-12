@@ -5,6 +5,35 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Bridging Visual Intuition
+and Chemical Expertise:
+A Virtual Collaborative Framework for Autonomous Nonadiabatic Dynamics
+Analysis</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01054/5428072/Bridging-Visual-Intuition-and-Chemical-Expertise-A</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01054</guid>
+<pubDate>Fri, 11 Sep 2026 04:00:35 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Analyzing nonadiabatic
+molecular dynamics trajectories traditionally
+heavily relies on expert intuition and visual pattern recognition,
+a process that is difficult to formalize. We present VisU, a vision-driven
+framework that leverages the complementary strengths of two state-of-the-art
+large language models (Doubao-Seed-1.6-Vision and DeepSeek-V3.2) to
+establish a “virtual research cooperation”. This operates
+through a “&lt;span style="font-style:italic;"&gt;Mentor–Engineer–Student&lt;/span&gt;” paradigm that mimics the collaborative intelligence of a
+professional chemistry laboratory. Within this ecosystem, the &lt;span style="font-style:italic;"&gt;Mentor&lt;/span&gt; provides physical intuition through visual reasoning,
+while the &lt;span style="font-style:italic;"&gt;Engineer&lt;/span&gt; adaptively constructs analysis
+scripts, and the &lt;span style="font-style:italic;"&gt;Student&lt;/span&gt; executes the pipeline and
+manages the data and results. VisU autonomously orchestrates a four-stage
+workflow comprising &lt;span style="font-style:italic;"&gt;Preprocessing&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Recursive Channel Discovery&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Important-Motion Identification&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;Validation/Summary&lt;/span&gt;. This systematic approach
+identifies reaction channels and key nuclear motions while generating
+a professional academic report at the end. By bridging visual insight
+with chemical expertise, VisU establishes a new framework for human–AI
+collaboration in the analysis of excited-state dynamics simulation
+results, significantly reducing dependence on manual interpretation
+and enabling more intuitive, scalable mechanistic discovery in nonadiabatic
+dynamics simulations.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Cascade MHAT Radical
 Cyclopentannulation of Skipped
 Enyne to Access Highly Functionalized Carbocycles</title>
