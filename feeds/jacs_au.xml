@@ -5,6 +5,37 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Descriptor-Guided
+Design of High-Efficiency Narrowband
+Phosphorescent Probes for Bioimaging</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01042/5428799/Descriptor-Guided-Design-of-High-Efficiency</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01042</guid>
+<pubDate>Sat, 12 Sep 2026 03:00:38 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01042/5428799/Descriptor-Guided-Design-of-High-Efficiency"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01042/1/m_au6c01042_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Organic room-temperature phosphorescence (ORTP) with
+narrow emission
+bands is highly attractive for high-contrast biomedical imaging. However,
+most ORTP systems suffer from low efficiency due to weak spin–orbit
+coupling, and their emission spectra are often broadened by strong
+electron-vibration coupling. Herein, we propose a descriptor-guided
+design framework to achieve efficient and narrowband ORTP through
+intramolecular noncovalent conformational locks (NoCLs). Two fundamental
+descriptors are established to link structure to photophysical properties:
+the NoCL strength &lt;span style="font-style:italic;"&gt;S&lt;/span&gt;, a rigidity metric that governs
+electron-vibration coupling and dictates spectral bandwidth, and the
+orbital character &lt;span style="font-style:italic;"&gt;γ&lt;/span&gt;, which controls intersystem
+crossing and determines triplet-state abundance. Using these descriptors,
+we design a series of benzophenone derivatives bearing NoCL and identify
+the 2SOBr system, which exhibits the highest phosphorescence efficiency
+of 58.22% among the explored narrowband ORTP emitters, with a full
+width at half maximum 36 nm under ambient conditions. As a biological
+probe, 2SOBr enables lysosome-specific cellular imaging with high
+signal-to-noise ratios of 15.93, outperforming commercial green fluorescent
+probes (&amp;lt;10). This work establishes a quantitative structure-descriptor-property
+relationship that provides a strategy for the design of efficient
+narrowband organic phosphorescent materials and expands their potential
+for high-contrast optical imaging.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Bridging Visual Intuition
 and Chemical Expertise:
 A Virtual Collaborative Framework for Autonomous Nonadiabatic Dynamics
@@ -12,7 +43,7 @@ Analysis</title>
 <link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01054/5428072/Bridging-Visual-Intuition-and-Chemical-Expertise-A</link>
 <guid>http://dx.doi.org/10.1021/jacsau.6c01054</guid>
 <pubDate>Fri, 11 Sep 2026 04:00:35 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Analyzing nonadiabatic
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01054/5428072/Bridging-Visual-Intuition-and-Chemical-Expertise-A"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01054/1/m_au6c01054_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Analyzing nonadiabatic
 molecular dynamics trajectories traditionally
 heavily relies on expert intuition and visual pattern recognition,
 a process that is difficult to formalize. We present VisU, a vision-driven
