@@ -5,6 +5,13 @@
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <description>ACS Bridge Error (mirrored feed)</description>
 <item>
+<title>[2026-09-13 02:02 UTC] 13件の問題 / 13 issue(s)</title>
+<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
+<guid>acs-bridge-error-2026-09-13T02:02:05.681011+00:00</guid>
+<pubDate>Sun, 13 Sep 2026 02:02:05 +0000</pubDate>
+<description>[scraper] ACS Catalysis: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] ACS Central Science: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] Chem.Rev.: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] J.Med.Chem.: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] J.Am.Chem.Soc: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] Org.Lett.: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] OPR&amp;D: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] J.Chem.Inf.Model.: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] ACS Chemical Biology: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')&lt;br&gt;[scraper] ACS Omega: WARN: ACS enrichment failed: RuntimeError('ACSで対話型チャレンジを検知 / interactive ACS challenge detected')</description>
+</item>
+<item>
 <title>[2026-09-10 08:04 UTC] 5件の問題 / 5 issue(s)</title>
 <link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
 <guid>acs-bridge-error-2026-09-10T08:04:01.279292+00:00</guid>
@@ -346,13 +353,6 @@
 <guid>acs-bridge-error-2026-08-05T21:02:26.370238+00:00</guid>
 <pubDate>Wed, 05 Aug 2026 21:02:26 +0000</pubDate>
 <description>[scraper] ACS Catalysis: FAIL: ValueError("取得結果がRSS/Atomと認識できない / response doesn't look like RSS/Atom")&lt;br&gt;[scraper] ACS Central Science: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Chem.Rev.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Med.Chem.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] Org.Lett.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] OPR&amp;D: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Chem.Inf.Model.: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Chemical Biology: FAIL: &lt;HTTPError 404: 'Not Found'&gt;&lt;br&gt;[scraper] ACS Omega: FAIL: &lt;HTTPError 404: 'Not Found'&gt;</description>
-</item>
-<item>
-<title>[2026-08-05 15:02 UTC] 13件の問題 / 13 issue(s)</title>
-<link>https://github.com/Yoshihiro-Ogura/feed-cache-3d45e392</link>
-<guid>acs-bridge-error-2026-08-05T15:02:24.751000+00:00</guid>
-<pubDate>Wed, 05 Aug 2026 15:02:24 +0000</pubDate>
-<description>[scraper] ACS Catalysis: FAIL: ValueError("取得結果がRSS/Atomと認識できない / response doesn't look like RSS/Atom")&lt;br&gt;[scraper] ACS Central Science: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] ACS Medicinal Chemistry Letters: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] Chem.Rev.: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] J.Med.Chem.: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] Org.Lett.: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] OPR&amp;D: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] J.Chem.Inf.Model.: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] J.Am.Chem.Soc. Au: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] ACS Bio &amp; Med Chem Au: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] ACS Chemical Biology: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;&lt;br&gt;[scraper] ACS Omega: FAIL: &lt;HTTPError 403: 'Forbidden'&gt;</description>
 </item>
 </channel>
 </rss>
