@@ -5,6 +5,20 @@
 <link>https://pubs.rsc.org/dd/latest-articles</link>
 <description>Digital Discovery (mirrored feed)</description>
 <item>
+<title>Robust Transfer Learning for Bayesian Optimization of Chemical Reactions</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00527f</link>
+<guid>urn:rsc-latest:d6dd00527f</guid>
+<pubDate>Mon, 14 Sep 2026 13:58:23 +0000</pubDate>
+<description>Authors: Guanming Chen, Priyanka Parihar, Maximilian Fleck, Thijs Stuyver&lt;br/&gt;DOI: 10.1039/d6dd00527f</description>
+</item>
+<item>
+<title>Gaussian Process Regression-Enhanced Screening of Ir-Co-Ti Mixed-Oxide Thin-Film Electrocatalyst Libraries for Acidic Oxygen Evolution</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00127k</link>
+<guid>urn:rsc-latest:d6dd00127k</guid>
+<pubDate>Mon, 14 Sep 2026 10:42:52 +0000</pubDate>
+<description>Authors: Joanna Magdalena Przybysz, Felix Thelen, Florian Lourens, Ken Jenewein, Alfred Ludwig, Serhiy Cherevko&lt;br/&gt;DOI: 10.1039/d6dd00127k</description>
+</item>
+<item>
 <title>[Graphical abstract added] Materials discovery is a composition problem: the case for agentic AI over bigger models</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00338a?rsc_ga=1</link>
 <guid>urn:rsc-graphical-abstract:d6dd00338a</guid>
@@ -61,11 +75,11 @@
 <description>Authors: Wenjin Wu, Aleš Leonardis, Linjiang Chen, Jianbo Jiao&lt;br/&gt;DOI: 10.1039/d6dd00463f</description>
 </item>
 <item>
-<title>Accelerated Materials Discovery through Random-Library Exploration by Automated Scanning Transmission Electron Microscopy</title>
+<title>Accelerated materials discovery through random-library exploration by automated scanning transmission electron microscopy</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00186f</link>
 <guid>urn:rsc-latest:d6dd00186f</guid>
 <pubDate>Thu, 10 Sep 2026 20:03:41 +0000</pubDate>
-<description>Authors: Boris Slautin, Kamyar Barakati, Utkarsh Pratiush, Christopher Lowe, Catherine Bodinger, Brandi M. Cossairt, Mahshid Ahmadi, Austin Houston, Timur Bazhirov, Jaehyung Lee, Kamal Choudhary, Gerd Duscher, Sergei V. Kalinin&lt;br/&gt;DOI: 10.1039/d6dd00186f</description>
+<description>Authors: Boris Slautin, Kamyar Barakati, Utkarsh Pratiush, Christopher D. Lowe, Catherine C. Bodinger, Brandi M. Cossairt, Mahshid Ahmadi, Austin Houston, Timur Bazhirov, Jaehyung Lee, Kamal Choudhary, Gerd Duscher, Sergei Kalinin&lt;br/&gt;DOI: 10.1039/d6dd00186f</description>
 </item>
 <item>
 <title>Enhancing selectivity and yield in polyethylene hydrogenolysis using goal-aware Bayesian algorithm execution</title>
@@ -96,7 +110,7 @@
 <description>Authors: Shayan Abaei, Hosein Alimardani, Mohammad Fakhroleslam, Fatemeh Eslami, Mehrdad Asgari&lt;br/&gt;DOI: 10.1039/d6dd00351f</description>
 </item>
 <item>
-<title>Data-Driven Multi-Objective QUBO-based Optimization for Multi-Phase Alloy Design</title>
+<title>Data-driven, multi-objective QUBO-based optimization for multi-phase alloy design</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00126b</link>
 <guid>urn:rsc-latest:d6dd00126b</guid>
 <pubDate>Wed, 09 Sep 2026 12:43:26 +0000</pubDate>

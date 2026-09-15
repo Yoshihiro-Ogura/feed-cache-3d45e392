@@ -5,6 +5,19 @@
 <link>http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-3765</link>
 <description>Chemistry—A European Journal (mirrored feed)</description>
 <item>
+<title>A Naphthalene Monoimide Meisenheimer Complex as Strong Organic Hydride Donor for Metal‐Free CO2 Reduction</title>
+<link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.71670?af=R</link>
+<guid>10.1002/chem.71670</guid>
+<pubDate>Sat, 12 Sep 2026 06:19:53 -0700</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.71670?af=R"&gt;&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/31544c29-422e-4d2c-93b2-5b3e6685f21e/chem71670-gra-0001-m.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
+&lt;p&gt;A Meisenheimer complex derived from two-fold reduction and protonation of naphthalene monoamide has been identified as a strong organic hydride donor which is able to reduce CO&lt;sub&gt;2&lt;/sub&gt;.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Selective CO&lt;sub&gt;2&lt;/sub&gt; reduction to formate is challenging due to similar thermodynamics for the reaction to other products such as carbon monoxide and molecular hydrogen. Formate production can be achieved via hydride transfer from metal-hydride complexes or organic catalysts; the latter being inspired by the structure and activity of the NAD(P)H cofactor in natural photosynthesis. Most known synthetic NAD(P)H mimics can selectively produce formate, yet they suffer from sluggish kinetics, which limits their applicability. In a combined experimental and theoretical study, we demonstrate that naphthalene monoimide Meisenheimer complex NMI(H)&lt;sup&gt;−&lt;/sup&gt; is a strong organic hydride donor with the ability to reduce CO&lt;sub&gt;2&lt;/sub&gt; to formate. DFT calculations are used to benchmark the thermodynamic hydricity of NMI(H)&lt;sup&gt;−&lt;/sup&gt; in comparison with previously known NAD(P)H mimics.&lt;/p&gt;</description>
+</item>
+<item>
 <title>Front Cover: Inorganic Carcerand: Kinetically Persistent Confinement Through Asymmetric Gating</title>
 <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.71636?af=R</link>
 <guid>10.1002/chem.71636</guid>
@@ -2059,19 +2072,6 @@
 &lt;sub&gt;T&lt;/sub&gt; = 86.9 µs for &lt;b&gt;NPDI1&lt;/b&gt; and &lt;i&gt;τ&lt;/i&gt;
 &lt;sub&gt;T&lt;/sub&gt; = 47.8 µs for &lt;b&gt;NPDI3&lt;/b&gt;). For the compounds lacking ISC ability, an intermolecular triplet photosensitizing method, and long triplet state lifetimes were observed (&lt;i&gt;τ&lt;/i&gt;
 &lt;sub&gt;T&lt;/sub&gt; = 46 µs for &lt;b&gt;NPDI4&lt;/b&gt;).&lt;/p&gt;</description>
-</item>
-<item>
-<title>Breaking the Mold: Electrophilic Hydrophosphanation Emerges</title>
-<link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.71103?af=R</link>
-<guid>10.1002/chem.71103</guid>
-<pubDate>Tue, 25 Aug 2026 08:08:34 -0700</pubDate>
-<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.71103?af=R"&gt;&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/bdb5b63a-337f-4014-9b8e-bb8af71857ab/chem71103-gra-0001-m.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
-&lt;p&gt;Electrophilic hydride attack on the olefin, instead of the classical nucleophilic addition by a phosphanido ligand, is unveiled in rhodium-catalyzed olefin hydrophosphanation. This hydride-driven pathway operates for both activated and inactivated olefins, with transition states characterized by elongated Rh─H bonds and nascent C─H bond formation.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Herein, we report an unprecedented mechanism for the catalytic hydrophosphanation of olefins in which the key step involves an electrophilic hydride attack on the olefin rather than the classical nucleophilic addition of a phosphanido ligand. This mechanistic paradigm redefines the fundamental reactivity of P–H compounds with C═C bonds under catalytic conditions. The dichotomy between electrophilic and nucleophilic pathways has been elucidated through DFT calculations and experimental kinetic isotope effect (KIE) measurements. We also demonstrate that this mechanistic pattern is applicable to both electronically activated and non-activated olefins, as well as to non-symmetric olefins. In a parallel finding, we have identified a novel reactivity mode of hydrido-phosphanido species, in which the phosphanido moiety engages in an intramolecular attack on a tethered olefin to afford a previously unreported diphosphaenolate. This transformation, due to the amphiphilic behavior of complex [Rh(Tp)(PHPh&lt;sub&gt;2&lt;/sub&gt;)(H)(PPh&lt;sub&gt;2&lt;/sub&gt;)], expands the chemical space accessible through hydrophosphanation-derived pathways.&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

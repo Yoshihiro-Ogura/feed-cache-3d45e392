@@ -5,6 +5,35 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Evolutionary Weighted Hodge Laplacian Descriptors
+for rs-fMRI Brain Networks</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02573/5428999/Evolutionary-Weighted-Hodge-Laplacian-Descriptors</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02573</guid>
+<pubDate>Sun, 13 Sep 2026 18:00:34 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02573/5428999/Evolutionary-Weighted-Hodge-Laplacian-Descriptors"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02573/1/m_ci6c02573_0009.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Complex
+biological networks often exhibit multiscale organization
+that is not fully characterized by pairwise edge weights or fixed
+graph summaries, motivating compact descriptors that retain both topological
+and spectral information. Here, we present an evolutionary weighted
+Hodge Laplacian (EWHL) framework for resting-state functional magnetic
+resonance imaging (rs-fMRI) connectivity, in which the functional
+connectivity matrix of each subject is represented as a weighted Vietoris–Rips
+filtration and 0-dimensional and 1-dimensional weighted Hodge Laplacian
+spectral descriptors are extracted across 13 positive connectivity
+thresholds. In an autism spectrum disorder (ASD) classification task
+using 884 participants from the Autism Brain Imaging Data Exchange
+I (ABIDE I) cohort, EWHL reduced the original 6670-dimensional functional
+connectivity vector to 130 features and, with eXtreme Gradient Boosting
+(XGBoost), yielded 87.7% accuracy and an area under the receiver operating
+characteristic curve (AUC) of 0.946 under 20 repetitions of 10-fold
+cross validation. Under the same internal protocol, EWHL outperformed
+a rerun raw functional connectivity baseline and a single threshold
+ablation, suggesting that multiscale weighted Hodge spectra provide
+informative descriptors for functional brain networks derived from
+rs-fMRI, although confound control within each fold and external validation
+remain necessary before clinical interpretation.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Geometric–Chemical
 Distance between Protein
 Surfaces</title>
@@ -3364,13 +3393,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00768</guid>
 <pubDate>Mon, 13 Jul 2026 05:49:30 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00768/asset/images/medium/ci6c00768_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00768&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Protein Frustration Reveals Orthosteric and Allosteric Active Sites in GPCR:G Protein Complexes</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00203</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00203</guid>
-<pubDate>Mon, 13 Jul 2026 05:18:40 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00203/asset/images/medium/ci6c00203_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00203&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
