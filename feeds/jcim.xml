@@ -5,6 +5,155 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Semi-Automated
+Discovery of Structural Elements Controlling
+GPCR Function</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01584/5430486/Semi-Automated-Discovery-of-Structural-Elements</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01584</guid>
+<pubDate>Tue, 15 Sep 2026 15:00:39 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01584/5430486/Semi-Automated-Discovery-of-Structural-Elements"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01584/1/m_ci6c01584_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular simulations of G-protein-coupled receptors
+have become
+an important part of the structural biology toolkit, revealing structure-function
+mechanisms that are unobservable from experimental structures alone.
+With the advance of hardware and software, it has become routine to
+obtain trajectories that are tens of microseconds in duration, opening
+new opportunities for yet more rigorous and reproducible observations
+on mechanism. Toward this end, we presented a semi-automated analysis
+pipeline which operates on featurized simulation data, performs unsupervised
+clustering, and then identifies which input features are most discriminatory
+of cluster identity. Application of this pipeline to a large set of
+G-protein-coupled receptor simulation data shows that it identifies
+several well-known microswitches. Inspection of these structural elements
+reveals changes in conformation that are known to accompany functional
+transitions of the receptor. In addition to these known structural
+elements, the analysis also identifies functional transitions associated
+with one new motif─the kink in transmembrane helix 2─and
+discovers a coupled “piston-like” motion of TM2 and
+TM3 that elaborates a previously reported motion of TM3.&lt;/span&gt;</description>
+</item>
+<item>
+<title>VizChemoton: Visualization
+of Quantum Chemical Reaction
+Networks and Their Cheminformatics Features</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02689/5430483/VizChemoton-Visualization-of-Quantum-Chemical</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02689</guid>
+<pubDate>Tue, 15 Sep 2026 15:00:39 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02689/5430483/VizChemoton-Visualization-of-Quantum-Chemical"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02689/1/m_ci6c02689_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Automated explorations
+of chemical reaction networks (CRNs) guided
+by quantum chemistry (QC) calculations are undergoing rapid development
+that enables numerous applications. However, CRNs are accessible primarily
+through specialized quantum chemistry software without interface for
+cheminformatic exploitation of the generated data. Here, we present &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;VizChemoton&lt;/span&gt;, an open-source module within the reaction exploration
+framework &lt;span style="font-style:italic;"&gt;Software for Chemical Interaction Networks&lt;/span&gt; (SCINE). &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;VizChemoton&lt;/span&gt; enables visualization of CRNs and
+serves as an interface for cheminformatics applications based on conversion
+of molecular structures that accounts for radicals, zwitterions, and
+molecular complexes into string-based representations via RDKit mol
+objects. The conversion performance exceeded 90% of QC-generated compounds
+based on the evaluation of four CRNs constructed with density functional
+theory and extended tight-binding methods. We find that compounds
+absent from public structural databases correspond primarily to molecular
+complexes and unstable reaction intermediates. All essential QC and
+associated cheminformatics data are distributed in interoperable CSV
+and JSON formats to support downstream machine learning applications
+whereas reaction networks are readily visualized through a browser-based
+standalone HTML interface.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Decoding Molecular
+Binding Equilibria through Uncertainty-Aware
+Memory Retrieval</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01177/5430414/Decoding-Molecular-Binding-Equilibria-through</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01177</guid>
+<pubDate>Tue, 15 Sep 2026 15:00:39 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01177/5430414/Decoding-Molecular-Binding-Equilibria-through"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01177/1/m_ci6c01177_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;While accurate drug-target affinity prediction accelerates
+drug
+discovery, prevailing deep learning approaches are often bottlenecked
+by poor generalization and an inability to quantify prediction confidence.
+Here, we introduce CogNet-DTA, a novel memory-augmented framework
+that synergizes historical binding priors with biophysical constraints.
+Our approach introduces a Chemical Graph Memory Network that facilitates
+reasoning by analogy through retrieving canonical binding motifs from
+historical data. To capture precise structural contexts, we leverage
+ESM-based evolutionary embeddings combined with Contact-Weighted Attention,
+which injects ESM-derived residue–residue contact probabilities
+as spatial biases to refine protein-intrinsic structural context.
+Distinctively, CogNet-DTA utilizes a Chemo-Geometric Routing Module
+to organize multimodal inputs into positive and negative predictive
+pathways under a shared memory prior, providing a conceptual, data-driven
+decomposition of molecular binding affinity. By integrating Monte
+Carlo Dropout, our model systematically quantifies uncertainty, providing
+a critical mechanism to filter out low-confidence, high-risk predictions
+during virtual screening. Extensive evaluations across diverse benchmark
+datasets demonstrate that CogNet-DTA achieves highly competitive performance
+in DTA prediction. Notably, it exhibits robust generalization to novel
+drugs and targets under strict cold-start and homology-based split
+settings, successfully mitigating sequence similarity bias.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Binding of Anthracyclines
+Within DNA–Topoisomerase
+ΙΙ Cleavage Complexes: Thermodynamics and Interactions</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01823/5429822/Binding-of-Anthracyclines-Within-DNA-Topoisomerase</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01823</guid>
+<pubDate>Tue, 15 Sep 2026 10:00:48 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01823/5429822/Binding-of-Anthracyclines-Within-DNA-Topoisomerase"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01823/1/m_ci6c01823_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;All-atom molecular dynamics simulations of anthracycline–DNA–topoisomerase
+II (TOPII) cleavage complexes are undertaken in an aqueous environment,
+with particular emphasis on their thermodynamic description, using
+the double-decoupling method. Both the TOPIIα and TOPIIβ
+isoforms are considered herein, with doxorubicin and berubicin, two
+TOPII poisons, as the anthracyclines of interest. From a thermodynamic
+point of view, we find that all complexes investigated exhibit more
+negative standard binding Gibbs energies than berubicin–DNA
+intercalation complexes, showing that the presence of TOPIIα
+or TOPIIβ further stabilizes the complexes. The berubicin–DNA–TOPIIα
+complex exhibits the most negative standard binding Gibbs energy.
+Therefore, berubicin shows a preference for TOPIIα over TOPIIβ;
+the former is highly expressed in proliferating cells, including cancer
+cells, whereas the latter is expressed ubiquitously. From a nanoscopic
+point of view, our rigorous &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; approach sheds
+light on the interactions of the two anthracyclines with both DNA
+and TOPII and on how they contribute to the hindering of religation.
+Moreover, this study provides a detailed comparison between doxorubicin
+and berubicin in terms of relevant properties, such as contact numbers,
+hydrogen bonds, selected distances, and solvent-accessible surface
+areas.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AI Accelerated
+Chemical Screening Integrates ChemBERTa
+to Identify Repositionable CASP4 Inhibitors via MD Simulations and
+MM/PBSA Analysis</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02284/5429706/AI-Accelerated-Chemical-Screening-Integrates</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02284</guid>
+<pubDate>Tue, 15 Sep 2026 02:00:37 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02284/5429706/AI-Accelerated-Chemical-Screening-Integrates"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02284/1/m_ci6c02284_0028.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This study employed an integrated ligand-based virtual
+screening
+pipeline to identify potential CASP4 inhibitors from the DrugBank
+database, leveraging docking-score prioritization, SMILES-derived
+ChemBERTa embeddings, and key physicochemical descriptors. Building
+on this foundation, the workflow incorporated virtual screening, cheminformatics
+modeling, PK–PD evaluation, molecular docking, molecular dynamics
+simulations, and MM/PBSA free-energy analysis to systematically prioritize
+repurposed DrugBank compounds for CASP4-targeted Alzheimer’s
+disease therapy. A Random Forest classifier trained on the hybrid
+ChemBERTa physicochemical feature set distinguished active from inactive
+compounds with ∼95% accuracy (ROC–AUC = 0.73) and achieved
+a ∼3.5-fold enrichment of active compounds among the top-ranked
+hits, while a companion Random Forest regressor, trained on the experimental
+pIC&lt;sub&gt;50&lt;/sub&gt; values of active compounds, ranked candidates by
+predicted potency. In addition, integrated cheminformatics modeling,
+PK–PD analysis, and molecular docking further narrowed the
+selection to the top five candidate compounds: DB00519, DB01068, DB06202,
+DB08882, and DB05316. Finally, MD simulations and MM/PBSA calculations
+established clear thermodynamic support for DB05316 and DB00519, whose
+binding free energies (−21.4 and −20.9 kcal/mol, respectively)
+exceeded even the reference compound donepezil, highlighting them
+as the most promising CASP4 inhibitors. Overall, this workflow provides
+an efficient and robust strategy for prioritizing repositioned DrugBank
+compounds as potential CASP4 inhibitors against Alzheimer’s
+disease.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Evolutionary Weighted Hodge Laplacian Descriptors
 for rs-fMRI Brain Networks</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02573/5428999/Evolutionary-Weighted-Hodge-Laplacian-Descriptors</link>
@@ -3358,41 +3507,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01522</guid>
 <pubDate>Mon, 13 Jul 2026 08:37:21 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01522/asset/images/medium/ci6c01522_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01522&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Scaling SMILES-Based Chemical Language Models for Therapeutic Peptide Engineering</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00652</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00652</guid>
-<pubDate>Mon, 13 Jul 2026 07:59:35 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00652/asset/images/medium/ci6c00652_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00652&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Machine Learning Models for Local Optimization of Red Fluorescent Protein Variants in a Low-Data Setting</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00632</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00632</guid>
-<pubDate>Mon, 13 Jul 2026 07:24:38 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00632/asset/images/medium/ci6c00632_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00632&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Evo-EquiGPS: Synergizing Dynamic Geometry, Global Topology, and Explicit Evolution for High-Precision Enzyme Active Site Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00969</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00969</guid>
-<pubDate>Mon, 13 Jul 2026 06:06:47 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00969/asset/images/medium/ci6c00969_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00969&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] ORIGAMI: Orientation-Aware Graph Neural Network for Assessing Multimeric Interfaces of Protein Complex Structures</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00988</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00988</guid>
-<pubDate>Mon, 13 Jul 2026 05:50:50 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00988/asset/images/medium/ci6c00988_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00988&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Protein Language Model-Based Fitness Estimates Facilitate Resistance Mutation Identification</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00768</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00768</guid>
-<pubDate>Mon, 13 Jul 2026 05:49:30 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00768/asset/images/medium/ci6c00768_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00768&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

@@ -5,6 +5,33 @@
 <link>https://pubs.acs.org/rss/amclct/asap.xml</link>
 <description>ACS Medicinal Chemistry Letters (mirrored feed)</description>
 <item>
+<title>An Integrated Approach Combining Receptor-Based Ensemble
+Screening and  In Vivo  Phenotypic Assessment Improves
+Drug-Induced Liver Injury Prediction</title>
+<link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00322/5429748/An-Integrated-Approach-Combining-Receptor-Based</link>
+<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00322</guid>
+<pubDate>Tue, 15 Sep 2026 06:00:53 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00322/5429748/An-Integrated-Approach-Combining-Receptor-Based"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/amclct/pap/10.1021_acsmedchemlett.6c00322/1/m_ml6c00322_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Inhibition of ABCB11, also called
+the Bile Salt Export Pump (BSEP),
+is closely linked to cholestatic drug-induced liver injury (DILI).
+ABCB11 undergoes large-scale conformational changes during its catalytic
+turnover, making it challenging to incorporate this flexibility into
+large-scale structure-based screening. Here, we report an ensemble
+docking-based drug screening framework that incorporates multiple
+functional conformations of ABCB11, derived from its free-energy landscape
+during the transport cycle, to improve the annotation accuracy for
+most DILI-concern FDA-approved drugs in the DILIrank 1.0 dataset,
+outperforming single-receptor docking approaches. We have then integrated
+the ensemble-screening framework with cellular transporter assays
+and &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; zebrafish phenotypic screens to stratify
+67 tyrosine kinase inhibitors (TKIs). The developed computational-experimental
+framework predicts significant DILI-risk associations for sunitinib,
+sorafenib, regorafenib, and tivantinib, while tofacitinib is associated
+with the least DILI-risk propensity. The integrated computational-experimental
+pipeline ensures robust DILI-risk prediction, significantly reducing
+the risk of false positives.&lt;/span&gt;</description>
+</item>
+<item>
 <title>[Graphical abstract added] Design and
 Exploration of a Tricyclic Series of CNS-Penetrant
 CD38 Small Molecule Inhibitors</title>

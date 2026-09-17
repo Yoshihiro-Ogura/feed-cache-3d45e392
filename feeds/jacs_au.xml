@@ -5,6 +5,133 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Harnessing Vinyl
+Cation Reactivity Enables Oxime Ether
+Formation and an Unusual Base-Promoted Rearrangement to Esters</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00532/5430867/Harnessing-Vinyl-Cation-Reactivity-Enables-Oxime</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00532</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:48 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00532/5430867/Harnessing-Vinyl-Cation-Reactivity-Enables-Oxime"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00532/1/m_au6c00532_0009.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Harnessing vinyl
+cation reactivity under controlled conditions
+remains a longstanding challenge in carbocation chemistry, as the
+ionization of vinyl triflates and related precursors is often slow,
+limiting the development of general and selective reaction manifolds
+involving vinyl cations. Here, we report an aluminum-catalyzed strategy
+that generates and intercepts vinyl cation intermediates from vinyl
+triflates, enabling direct access to oxime ethers using readily available
+nitroalkanes. Oxime ether formation often exhibits a pronounced &lt;span style="font-style:italic;"&gt;Z&lt;/span&gt; selectivity (up to &lt;span style="font-style:italic;"&gt;Z&lt;/span&gt;/&lt;span style="font-style:italic;"&gt;E&lt;/span&gt; = 93:7, depending on the substrate), affording geometrically defined
+products. Mechanistic studies supported by DFT calculations suggest
+the intermediacy of an N-oxomethaniminium species, revealing a previously
+unrecognized reactivity pathway. In addition to oxime ether formation,
+these intermediates undergo a base-promoted rearrangement to esters,
+enabling a base-gated tandem transformation directly from vinyl triflates.
+A broad substrate scope (64 examples) demonstrates the robustness
+of this vinyl cation platform and provides unified access to defined
+oxime ethers and esters.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AI-Predicted Full-Spectrum
+UV Correction Factors:
+An Analyte-Standard-Free Framework for Reaction Yield Quantification</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00812/5430599/AI-Predicted-Full-Spectrum-UV-Correction-Factors</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00812</guid>
+<pubDate>Tue, 15 Sep 2026 17:00:39 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00812/5430599/AI-Predicted-Full-Spectrum-UV-Correction-Factors"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00812/1/m_au6c00812_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;High-throughput experimentation
+(HTE) accelerates molecular discovery
+but struggles to quantify yields without pure analyte standards. The
+current need to purify standards increases cost, complexity, and cycle
+time, limiting the scalability of new molecular discovery. Here, we
+introduce an integrated “detect-predict” framework that
+leverages artificial intelligence (AI) for analyte standard-free yield
+quantification. This approach hierarchically trains a prediction model
+of full-spectrum UV correction factor (CF) by combining quantum chemistry
+(QC) pre-training on 22,609 compounds for broad chemical space coverage
+with experimental fine-tuning on 1,845 LC-UV spectra to adapt to real
+instrumental conditions, thereby mitigating spectral discontinuities
+and data heterogeneity between computational and experimental domains.
+These predicted CFs enable direct quantification of analyte concentrations
+and reaction yields from UV absorbance data. We validated the accuracy
+of this framework through three independent test cases. First, concentration
+estimation was tested against 144 FDA compounds with known experimental
+concentrations. Second, yield quantification for 178 real-world reactions
+(spanning amide coupling, Suzuki–Miyaura coupling, SN2, and
+Buchwald-Hartwig transformations) was compared with calibration-curve-derived
+yields, achieving a mean absolute error of 4.7%. Finally, model-quantified
+yields were compared with isolated yields for 60 reactions as practical
+stress tests. The systematic positive bias aligned with the expected
+difference between crude analytical yield and post-purification isolated
+yield, enabling chemists to distinguish reaction performance from
+workup losses. This capability is critical for decision-making in
+real-world optimization. This AI-driven “detect-predict”
+framework offers an alternative to the traditional “detect-purify-quantify”
+workflow, providing a faster and more scalable foundation for HTE-accelerated
+molecular discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Dietary Fiber Structural
+Diversity Shapes Gut Microbiome
+Function: A Glycocentric Perspective</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01032/5429736/Dietary-Fiber-Structural-Diversity-Shapes-Gut</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01032</guid>
+<pubDate>Tue, 15 Sep 2026 03:00:36 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01032/5429736/Dietary-Fiber-Structural-Diversity-Shapes-Gut"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01032/1/m_au6c01032_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Dietary fibers comprise structurally diverse, non-digestible
+glycans
+that escape hydrolysis and absorption in the upper gastrointestinal
+tract and reach the colon, where they serve as key substrates for
+gut microbial communities. In the colon, these glycans are enzymatically
+deconstructed and anaerobically fermented into metabolites that play
+central roles in host physiology. The glycan biochemical code─defined
+by monosaccharide composition, glycosidic linkages, and substitution
+patterns─determines the enzymatic repertoires required for
+microbial utilization. Beyond composition, multiscale supramolecular
+architecture governed by non-covalent and covalent interactions further
+modulates physical accessibility and microbial degradation. Together,
+these structural features shape the spatial and temporal organization
+of the gut microbiota, driving networks of microbial specialization,
+competition, and cooperation. This Perspective proposes a glycocentric
+framework, positioning glycan biochemical diversity and multiscale
+structure as primary determinants of microbiome function. We further
+propose structural metrics for dietary fiber reporting in microbiome
+and intervention studies to enable mechanistic and reproducible investigations
+of fiber–microbiome interactions. Tailoring fiber architectures
+to individual microbial capacities could provide a strategy to steer
+microbial ecology and improve metabolic health outcomes. Realizing
+this potential will require a mechanistic understanding of dietary
+fiber utilization in situ across spatial and temporal scales.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Competition-Derived
+Relative Reactivity and 3D Electronic-State
+Analysis of Site- and Facial Selectivity in NaBH 4 /MeOH
+Ketone Reductions</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01269/5429621/Competition-Derived-Relative-Reactivity-and-3D</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01269</guid>
+<pubDate>Mon, 14 Sep 2026 17:00:40 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Yield-based measures
+of reactivity can be distorted by side reactions
+and reaction conditions and therefore may not accurately reflect intrinsic
+reaction rates. In this study, competition experiments, in which two
+substrates react simultaneously with the same reagent, were used to
+build a unified kinetic scale for the reduction of ketones by sodium
+borohydride (NaBH&lt;sub&gt;4&lt;/sub&gt;) in methanol, expressed as activation
+free energy differences (ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;&lt;sup&gt;‡&lt;/sup&gt;). Kinetic data for 89 structurally diverse ketone reaction faces
+tracked substituent electronic effects and steric congestion, and
+transition-state calculations identified methanolysis as the step
+that determines the identity of the active reductant. A Lasso model
+trained on 83 of these reaction faces with three-dimensional electron-density,
+electrostatic-potential, and carbonyl-centered projected C═O
+π* descriptors achieved &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.804
+under strict nested outer leave-one-out cross-validation. The monoketone-derived
+model recovers the dominant site and face for every diketone examined,
+with 85.5% of the cross-validation models reproducing all assignments;
+however, the predicted product distributions are indicative rather
+than quantitative. The workflow integrates a yield-independent kinetic
+scale with experimental measurements, theoretical calculations, and
+data-driven analyses within the evaluated NaBH&lt;sub&gt;4&lt;/sub&gt;/MeOH domain
+and provides a basis for testing broader applicability through reaction-specific
+data, retraining, and validation.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Descriptor-Guided
 Design of High-Efficiency Narrowband
 Phosphorescent Probes for Bioimaging</title>
