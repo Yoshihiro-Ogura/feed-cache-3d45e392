@@ -5,6 +5,208 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>The Scope Concept:
+Defined Chemical Space for Identifying
+Ligand-Efficient, Tractable Hits Applied to Drug Discovery Targets
+Trypanosomal CLK1, 14–3–3/Estrogen Receptor-α,
+and SARS-CoV-2 Mpro</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01654/5431587/The-Scope-Concept-Defined-Chemical-Space-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01654</guid>
+<pubDate>Wed, 16 Sep 2026 18:00:43 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01654/5431587/The-Scope-Concept-Defined-Chemical-Space-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01654/1/m_ci6c01654_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Scope is a hit-finding concept that explores a chemical
+space in
+between fragments and fully elaborated molecules from traditional
+low molecular weight (LMW) libraries. It emphasizes high medicinal
+chemistry tractability through a focus on compound quality, ligand
+efficiency, and selected physical-chemical property ranges. The Scope
+chemical space definition seeks to strike a balance between the ability
+to cover chemical space with a 10k–50k compound set for medium-throughput
+screening and obtaining hits with sufficient functionality to yield
+low- to mid-micromolar potency. Scope chemical space is distinct from
+other rule-based chemical spaces, and we introduce the concept of
+Scope ring systems (ring-X-ring) as both a foundation for intentional
+functionalization targeting sufficient potency and as an organizing
+principle for characterizing and enhancing compound libraries. A Scope
+screening set has been designed from the Scope chemical space for
+hit finding with SPR, native mass spectrometry, DSF, and biochemical
+methods. This Scope set maintains comparable primary hit rates to
+general diversity sets even when screening at higher concentrations,
+which allows for efficient hit validation. The Scope set outperforms
+diversity sets when considering ligand efficiency and hit rates after
+counter-screening, which makes it a preferred set. Case studies include
+the trypanosomal CLK1 kinase target, a molecular glue project with
+14–3–3 and estrogen receptor-α, and the SARS-CoV-2
+main protease. These studies exemplify how the 10k Scope set delivers
+diverse and ligand-efficient hits with tractable potency across diverse
+binding sites and support the idea that a carefully designed 10k Scope
+set can provide meaningful diversity for screening in a broad drug
+discovery portfolio. The Scope principles have demonstrated value
+in hit-finding campaigns and have changed practices for compound acquisition,
+hit-list triaging, and screening.&lt;/span&gt;</description>
+</item>
+<item>
+<title>HelixDTA: Dual-Branch
+Sequence–Structure Learning
+with Complete Target Structures for Robust and Interpretable Drug–Target
+Affinity Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01759/5431446/HelixDTA-Dual-Branch-Sequence-Structure-Learning</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01759</guid>
+<pubDate>Wed, 16 Sep 2026 15:00:41 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01759/5431446/HelixDTA-Dual-Branch-Sequence-Structure-Learning"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01759/1/m_ci6c01759_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of drug–target affinity (DTA)
+is crucial
+for accelerating the discovery of drug candidates. Despite recent
+advances in machine learning methods, existing models often rely solely
+on either sequence information or protein pocket structures. This
+limitation prevents these models from fully capturing the critical
+three-dimensional (3D) physical information that governs molecular
+recognition, thus failing to meet the high-precision demands of drug
+discovery. To address this, we introduce HelixDTA, a deep learning
+framework featuring a parallel dual-branch architecture that independently
+learns representations from two distinct but complementary modalities:
+sequence context and complete target structures. By integrating sequence-derived
+features with structure-derived features at the prediction layer,
+this architecture preserves modality-specific insights while characterizing
+drug–target interactions more comprehensively. HelixDTA achieved
+strong and competitive performance on the Davis and KIBA benchmarks
+and maintained clear advantages across most similarity-based cold-start
+settings, demonstrating robust generalization to compounds with unseen
+scaffolds and novel protein targets. Furthermore, its built-in attention
+mechanism enhances interpretability by highlighting molecular regions
+that contribute to affinity prediction. Finally, a WRN case study
+demonstrates the potential use of HelixDTA for structure-aware allosteric
+candidate prioritization by integrating complete target-level structural
+context with docking-based pose inspection. In conclusion, HelixDTA
+offers a highly accurate, interpretable, and robust solution for DTA
+prediction. It highlights the value of integrating structural context
+with sequence-derived information and demonstrates significant potential
+to empower precision drug design and accelerate the drug discovery
+pipeline.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Measuring AI Progress
+in Drug Discovery: A Reproducible
+Leaderboard for the Tox21 Challenge</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01148/5431168/Measuring-AI-Progress-in-Drug-Discovery-A</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01148</guid>
+<pubDate>Wed, 16 Sep 2026 12:00:44 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01148/5431168/Measuring-AI-Progress-in-Drug-Discovery-A"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01148/1/m_ci6c01148_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Deep learning has fundamentally transformed fields such
+as computer
+vision and natural language processing since the early 2010s and has
+strongly influenced biomedical research. For drug discovery specifically,
+a key inflection point─akin to vision’s “ImageNet
+moment”─arrived in 2015, when deep neural networks surpassed
+traditional approaches in the Tox21 Data Challenge. This milestone
+accelerated the adoption of deep learning methods across the pharmaceutical
+industry, and today, most major companies have integrated these approaches
+into their research pipelines. Following the conclusion of the Tox21
+Challenge, its data set was incorporated into several established
+benchmarks, including MoleculeNet and the Open Graph Benchmark. However,
+during these integrations, the data set was altered, and labels were
+imputed or manufactured, resulting in a loss of comparability across
+studies. Consequently, the extent to which bioactivity and toxicity
+prediction methods have improved over the past decade remains unclear.
+To this end, we introduce a reproducible leaderboard, hosted on Hugging
+Face with the original Tox21 Challenge data set, together with a set
+of baseline and representative methods. The current version of the
+leaderboard indicates that the original Tox21 winner from 2015─the
+ensemble-based DeepTox method─and the descriptor-based self-normalizing
+neural networks introduced in 2017 continue to perform competitively
+and rank among the top methods for toxicity prediction, raising questions
+about the extent of progress achieved over the past decade. As part
+of this work, we provide public access to all baselines and evaluated
+models for inference via standardized API end points on Hugging Face
+Spaces.&lt;/span&gt;</description>
+</item>
+<item>
+<title>STELLAR: A Fragment-Based
+Docking Workflow for Highly
+Flexible Long-Chain Biopolymers</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00987/5431053/STELLAR-A-Fragment-Based-Docking-Workflow-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00987</guid>
+<pubDate>Wed, 16 Sep 2026 09:00:44 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00987/5431053/STELLAR-A-Fragment-Based-Docking-Workflow-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00987/1/m_ci6c00987_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Docking methods have improved significantly through optimization
+using generative approaches and systematic exploration of parameter
+configurations within docking software. However, docking large molecules
+such as peptides remains challenging, while the docking of large non-peptidic
+biopolymers is still insufficiently explored. Existing tools often
+exhibit limitations in both accuracy and computational efficiency
+when applied to longer peptides or other polymers. Moreover, although
+generative deep learning and machine learning approaches have shown
+promise, they still frequently lack robust ranking metrics, resulting
+in suboptimal performance. To address these limitations, we developed
+STELLAR (Score-Tuning for Efficient Ranking of Large Ligands using
+an Accurate and Refined Docking Configuration), a workflow designed
+to enable efficient and accurate docking of highly flexible long-chain
+biopolymers exceeding 10 subunits. STELLAR implements a fragment-based
+strategy, decomposing the biopolymer into smaller units for individual
+docking, followed by recomposition into full-length structures. It
+also includes optimized algorithms for handling long-chain biopolymers.
+The pipeline integrates structural optimization steps using tools
+such as GNINA, RDKit, and GROMACS, ensuring physically realistic poses.
+STELLAR achieved RMSD values below 5 Å in validation experiments
+using benchmark complexes from Propedia and the Protein Data Bank
+(PDB). It offers a faster and more efficient alternative to several
+state-of-the-art tools across a range of peptide lengths. Additionally,
+it scales linearly in computational time, runs primarily on CPUs with
+minimal GPU usage, avoids reliance on generative approximations, provides
+an accurate metric for ligand ranking, and reduces computational cost
+compared to similar tools. Its design also supports high-throughput
+screening of linear polymer–protein interactions by efficiently
+reducing the complexity associated with high conformational flexibility.&lt;/span&gt;</description>
+</item>
+<item>
+<title>The Synthesizability
+Gap Has Moved: Route Existence
+Is Not Chemistry</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02895/5430950/The-Synthesizability-Gap-Has-Moved-Route-Existence</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02895</guid>
+<pubDate>Wed, 16 Sep 2026 07:00:48 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02895/5430950/The-Synthesizability-Gap-Has-Moved-Route-Existence"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02895/1/m_ci6c02895_0002.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Synthesis-constrained generative models now guarantee
+that every
+proposed molecule carries a route to purchasable building blocks,
+and recent campaigns have carried such designs to synthesized, biologically
+active compounds. I argue that this genuine success has relocated
+the synthesizability gap rather than closed it: a route a planner
+certifies is not yet chemistry a bench reproduces. Three deficits
+persist─stereochemical settability, chemoselectivity and functional-group
+tolerance, and a novelty tax that returns constrained generators to
+flat, amide- and biaryl-rich space─and none is a search problem.
+I propose that molecular design needs for synthesis what PoseBusters
+supplied for docking: a cheap, standardized chemistry-validity layer
+that scores routes rather than molecules and reports executed make-rate
+as the headline result.&lt;/span&gt;</description>
+</item>
+<item>
+<title>KRstereo: Predicting
+β-Hydroxy Stereochemistry
+in Polyketides Using Protein Language Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02706/5430900/KRstereo-Predicting-Hydroxy-Stereochemistry-in</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02706</guid>
+<pubDate>Wed, 16 Sep 2026 05:01:06 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02706/5430900/KRstereo-Predicting-Hydroxy-Stereochemistry-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02706/1/m_ci6c02706_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Polyketides are a major class of bioactive natural products
+whose
+activities are often determined by the stereochemistry of β-hydroxyl
+groups. In type I polyketide synthases (PKSs), ketoreductase (KR)
+domains establish these stereocenters, making accurate prediction
+of KR stereochemistry important for natural product discovery and
+PKS engineering. Existing rule-based methods rely on a limited set
+of sequence motifs and often perform poorly across phylogenetically
+diverse taxa. Here, we present KRstereo, a machine learning framework
+that predicts KR stereochemistry directly from sequence. Analysis
+of β-modular KR domains from MIBiG 3.1 identified informative
+sequence features beyond canonical motifs, motivating the use of protein
+language model embeddings. KRstereo achieved accuracies of up to 95.7%
+across taxa and 93.0% for non-&lt;span style="font-style:italic;"&gt;Streptomyces&lt;/span&gt; KRs, consistently outperforming existing rule-based approaches.
+Validation using newly characterized KR domains from MIBiG 4.0 confirmed
+strong generalizability, including cases misclassified by current
+methods. Application of KRstereo to 20,840 β-modular KR domains
+from antiSMASH enabled large-scale stereochemical annotation of previously
+uncharacterized PKS systems. By linking sequence to stereochemical
+function, KRstereo improves reconstruction of polyketide structures
+from biosynthetic gene clusters and facilitates stereochemistry-aware
+genome mining and engineering of PKS assembly lines.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Semi-Automated
 Discovery of Structural Elements Controlling
 GPCR Function</title>
@@ -3465,48 +3667,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01190</guid>
 <pubDate>Tue, 14 Jul 2026 06:51:34 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01190/asset/images/medium/ci6c01190_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01190&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] NeuroPpred-PSCG: A Multimodal Framework Using ProtT5 and Structural Features for Neuropeptide Prediction Based on Gated Cross-Attention Mechanism and Multiscale Gated Convolution</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01123</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01123</guid>
-<pubDate>Mon, 13 Jul 2026 12:30:32 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01123/asset/images/medium/ci6c01123_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01123&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] The BOS-Lig Data Set: Accurate Ligand Charges from a Consensus Approach for 66,810 Experimentally Synthesized Ligands</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01063</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01063</guid>
-<pubDate>Mon, 13 Jul 2026 12:05:54 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01063/asset/images/medium/ci6c01063_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01063&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Adaptive human-in-the-loop optimization using language-guided priors for chemical experiments</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00976</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00976</guid>
-<pubDate>Mon, 13 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00976/asset/images/medium/ci6c00976_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00976&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] ProphDR: An Interpretable Deep Learning Model for Predicting Cancer Drug Response via Multi-Omics and Cross-Attention Mechanisms</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00167</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00167</guid>
-<pubDate>Mon, 13 Jul 2026 09:51:51 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00167/asset/images/medium/ci6c00167_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00167&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Correction to “Computational Insights into the N-Migration and Oxidative Rearrangement Involved in the N-Nitrosourea Formation Catalyzed by the Cupin Domain of Multidomain Metalloenzyme SznF</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c02051</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02051</guid>
-<pubDate>Mon, 13 Jul 2026 08:43:54 PDT</pubDate>
-<description>&lt;p&gt;&lt;a href="http://dx.doi.org/10.1021/acs.jcim.6c02051"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/issue/66/14/2/m_jcisd8.2026.66.issue-14.xlargecover.jpeg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c02051&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] HTS-Oracle v2: Prospective Ai-Guided Discovery and Experimental Validation of Small Molecule Modulators Across Multiple Targets</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01522</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01522</guid>
-<pubDate>Mon, 13 Jul 2026 08:37:21 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01522/asset/images/medium/ci6c01522_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01522&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
