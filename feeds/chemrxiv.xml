@@ -5,6 +5,111 @@
 <link>https://chemrxiv.org/action/showFeed?type=latest&amp;format=rss</link>
 <description>ChemRxiv: Latest Preprints (mirrored feed)</description>
 <item>
+<title>Per-axis failure of the minimum-image convention in GCMC screening of MOFs for hydrogen storage</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009033/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009033/v1</guid>
+<pubDate>2026-09-18T07:37:30Z</pubDate>
+<description>Grand canonical Monte Carlo (GCMC) simulations underpin machine-learning-accelerated screening of metal–organic frameworks (MOFs) for hydrogen storage, yet published workflows differ widely in simulation rigour. Minimum-image violation in GCMC screening ...</description>
+</item>
+<item>
+<title>Agentic Workflow for High-Throughput Synthesis Campaigns: Mapping the Persistent Phosphor Ca2ZnSi2O7:Eu2+,Nd3+</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009032/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009032/v1</guid>
+<pubDate>2026-09-18T07:25:34Z</pubDate>
+<description>The structural and spectroscopic record of a high-throughput synthesis campaign exceeds what experimenters can closely and accurately analyze with conventional tools alone. We report a workflow built for this problem: a language model agent operates an ...</description>
+</item>
+<item>
+<title>Enzymatic routes to site-specific protein-nucleic acid conjugates</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009031/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009031/v1</guid>
+<pubDate>2026-09-18T07:15:26Z</pubDate>
+<description>Nature rarely joins nucleic acids to proteins covalently, yet synthetic protein-nucleic acid conjugates enable diverse applications from nanotechnology to therapeutics, which require or benefit from defined, stable, one-to-one linkages of known geometry. ...</description>
+</item>
+<item>
+<title>Regularized Alternatives to Conventional Density Fitting: Tikhonov Regularization with Discrete Picard Condition</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007787/v2?af=R</link>
+<guid>10.26434/chemrxiv.15007787/v2</guid>
+<pubDate>2026-09-18T06:57:38Z</pubDate>
+<description>Density fitting (DF) reduces the computational cost of correlated electronic-structure methods but can become unstable when the fitting metric contains small eigenvalues or near-linear dependencies. We introduce a set of protocols based on Tikhonov ...</description>
+</item>
+<item>
+<title>From Computational Chemistry to Generative Models: A Survey of AI-Driven Small-Molecule Drug Discovery</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008163/v3?af=R</link>
+<guid>10.26434/chemrxiv.15008163/v3</guid>
+<pubDate>2026-09-18T06:51:37Z</pubDate>
+<description>Small-molecule drug discovery requires navigating enormous chemical space to identify candidates that are simultaneously potent, selective, synthetically accessible, and acceptable across pharmacokinetic and safety profiles; modern generative AI extends a ...</description>
+</item>
+<item>
+<title>Effect of Na substitution on P2−NaxMn2/3Ni1/3O2 cathodes for Na-ion batteries: A DFT study of structural stability, ion mobility and local charge compensation.</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009030/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009030/v1</guid>
+<pubDate>2026-09-18T06:49:30Z</pubDate>
+<description>Layered oxides emerge as promising materials as cathode in sodium ion batteries due to the possibility to avoid critical metals and the direct industrial transferability in lithium-ion battery factories. A key point is that the layered structure can host ...</description>
+</item>
+<item>
+<title>IntegroPectin in aqueous solution: a multi-scale computational investigation of solvation, conformational dynamics, and thermodynamic partitioning of a naringeningalacturonic acid–rhamnose glycoconjugate</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009029/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009029/v1</guid>
+<pubDate>2026-09-18T06:33:27Z</pubDate>
+<description>A novel class of flavonoid-pectin bioconjugates sourced via cavitation of citrus processing waste, citrus IntegroPectin pectic polymers exhibit a complex structural synergy between the pectic backbone and co-extracted flavonoids imparting these ...</description>
+</item>
+<item>
+<title>A traceable agentic framework for chemistry research query and analysis with ThermoML database</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009028/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009028/v1</guid>
+<pubDate>2026-09-18T06:19:43Z</pubDate>
+<description>Reliable use of thermophysical databases in exploratory chemistry requires resolving heterogeneous identifiers, reconciling experimental conditions, and preserving numerical provenance across large, nested records. We present a hierarchical large language ...</description>
+</item>
+<item>
+<title>Programmable Oxidation in Flow on Interdigitated Lateral Catalytic Condensers</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009022/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009022/v1</guid>
+<pubDate>2026-09-18T05:59:27Z</pubDate>
+<description>Heterogeneous catalysis remains fundamentally limited by the intrinsic static electronic and physical structure of the catalyst surface during reaction that restricts catalytic rates and limits reactions to equilibrium. To circumvent these limitations, a ...</description>
+</item>
+<item>
+<title>Dynamic Covalent Approaches to Responsive Electropores for Iontronics</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009021/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009021/v1</guid>
+<pubDate>2026-09-18T05:51:43Z</pubDate>
+<description>Regulating ion transport across biomimetic membranes is fundamental to the design of adaptive neuromorphic and iontronic systems. Electroporation provides a powerful means to establish conductive pathways without biological pore-forming agents, yet these ...</description>
+</item>
+<item>
+<title>Stage-Defined Prenyltransferase Integration for Hybrid RiPP Biosynthesis</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009020/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009020/v1</guid>
+<pubDate>2026-09-18T05:43:27Z</pubDate>
+<description>Combining biosynthetic enzymes from distinct ribosomally synthesized and post-translationally modified peptide (RiPP) families offers a route to hybrid RiPPs but poses challenges in coordinating noncognate enzymatic transformations. Here, leveraging the ...</description>
+</item>
+<item>
+<title>Unexpected effects of the addition of copper(II) bisphenanthroline complexes in Chan-Lam couplings</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009019/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009019/v1</guid>
+<pubDate>2026-09-18T05:29:22Z</pubDate>
+<description>The effect of the addition of bis(2,9-dimethyl-1,10-phenanthroline)copper(II) chloride and bis(1,10-phenanthroline)copper(II) chloride on Chan-Lam couplings with copper acetate and a previously reported coordination complex LCuCl were investigated with ...</description>
+</item>
+<item>
+<title>Unusual reactivities of “NONO” calix[4]arene aluminum complexes</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008690/v2?af=R</link>
+<guid>10.26434/chemrxiv.15008690/v2</guid>
+<pubDate>2026-09-18T05:23:54Z</pubDate>
+<description>Reaction of dibenzylaminocalix[4]arene, L1H2, with aluminum alkyls did not lead to deprotonation of both phenolic groups but provided aluminum or aluminate complexes containing phenolic OH or anilinium NH2 + groups in the presence of aluminum alkyl ...</description>
+</item>
+<item>
+<title>Water-Gated Molecular Bistability in Tetrazolate MOFs</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009018/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009018/v1</guid>
+<pubDate>2026-09-18T05:21:28Z</pubDate>
+<description>Stimuli-responsive metal–organic frameworks (MOFs) offer opportunities to couple structural transformations with switchable electronic states, yet reproducing spin-crossover (SCO) behaviour across different frameworks and metal centres remains ...</description>
+</item>
+<item>
+<title>Investigation of α-Silylalcohols as Chiral Umpolung Carbanion Surrogates through Stereospecific 1,2-Brook Rearrangement</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009016/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009016/v1</guid>
+<pubDate>2026-09-18T04:47:22Z</pubDate>
+<description>We report the investigation of the enantiospecific trapping of chiral α-silyl secondary alcohols through stereospecific 1,2-Brook rearrangement of the lithium alkoxide. The reaction proceeds through a chiral polarityreversed carbanion intermediate that ...</description>
+</item>
+<item>
 <title>Screening Natural and Modified Nucleobases to Create Alkylation-Resistant Nucleic Acids Toward Sensing Applications</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008995/v1?af=R</link>
 <guid>10.26434/chemrxiv.15008995/v1</guid>
@@ -948,110 +1053,6 @@
 <guid>10.26434/chemrxiv.15003887/v2</guid>
 <pubDate>2026-09-15T10:18:29Z</pubDate>
 <description>Plastic-binding polypeptides have emerging applications in biosensor design, materials functionalization, and nanoplastic capture, and the rational design of new sequences requires the development of structural and sequence-based design principles. Here, ...</description>
-</item>
-<item>
-<title>Targeted mitigation strategies for critically polluted PM2.5 regions in India using spatially constrained airsheds</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008124/v2?af=R</link>
-<guid>10.26434/chemrxiv.15008124/v2</guid>
-<pubDate>2026-09-15T10:18:23Z</pubDate>
-<description>Air pollution in India is a regional problem, yet the current air quality management policy is largely city-centric. Here, we developed an airshed management framework that emphasizes cooperative action for PM2.5 pollution mitigation. This framework ...</description>
-</item>
-<item>
-<title>Influence of Non-Polar Amino Acids on the Phase Transitions of Atmospheric Aerosol Particles</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004101/v3?af=R</link>
-<guid>10.26434/chemrxiv.15004101/v3</guid>
-<pubDate>2026-09-15T10:16:22Z</pubDate>
-<description>The fate of aerosol particles in the atmosphere depends in part on their composition, morphology, and phase transitions. Studies of aerosol phase transitions have focused on aerosol particles with organic compounds consisting of C, H, and O atoms, ...</description>
-</item>
-<item>
-<title>In Situ and Operando Neutron Powder Diffraction of NaxNiO2: a Case Study for Sodium-ion Batteries</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008843/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008843/v1</guid>
-<pubDate>2026-09-15T09:48:21Z</pubDate>
-<description>Neutron powder diffraction (NPD) is a non-destructive technique uniquely suited to investigating industrially relevant sodium-ion cathode materials. Unlike X-ray diffraction, it offers excellent contrast between neighbouring transition metal ions and is ...</description>
-</item>
-<item>
-<title>Integrated CO2 removal and NH3 recovery from wastewater using a bidirectionally productive electrochemical pH swing</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008841/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008841/v1</guid>
-<pubDate>2026-09-15T09:36:22Z</pubDate>
-<description>Electrochemical pH-swing processes based on proton-coupled electron transfer (PCET) offer a promising route for selective chemical separation from aqueous media. Yet in all previous systems only one half of the pH swing performs a separation, while the ...</description>
-</item>
-<item>
-<title>Nitroarylphosphines: An Overlooked Family of Ligands</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008840/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008840/v1</guid>
-<pubDate>2026-09-15T09:24:25Z</pubDate>
-<description>Homoleptic tris(nitroaryl)phoshines are very rare, “explosive-looking” molecules that have until now never been fully characterized. We show that they are accessible from nitroarylphosphine oxides and are, perhaps surprisingly, sufficiently thermally ...</description>
-</item>
-<item>
-<title>Breath Acetone Sensor for Subclinical Ketosis Detection in Dairy Cows</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008839/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008839/v1</guid>
-<pubDate>2026-09-15T09:16:28Z</pubDate>
-<description>Subclinical ketosis (SCK) in dairy cows is a prevalent metabolic disorder that can reduce milk production, impair animal health, and causes substantial economic losses. Current diagnostic approaches are invasive and poorly suited for routine and ...</description>
-</item>
-<item>
-<title>Nanothermodynamic Generalization of the Young–Laplace and Young Equations for Sessile Droplets with Line Effects</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008838/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008838/v1</guid>
-<pubDate>2026-09-15T09:06:28Z</pubDate>
-<description>Thermodynamic investigations of wetting phenomena require that we handle the nanoscale. By combining Hill’s small-system thermodynamics with a Gibbsian composite-system description, we formulate the equilibrium thermodynamics of a sessile nanodroplet. We ...</description>
-</item>
-<item>
-<title>Extended QM/Me: Quantum-Mechanical Explicit Solvation at Solid–Liquid Interfaces</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008837/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008837/v1</guid>
-<pubDate>2026-09-15T08:52:25Z</pubDate>
-<description>We extend the subtractive QM/Me embedding scheme from vacuum to liquid environments: the adsorbate and explicit solvent are treated by a periodic quantum-mechanical layer above a classical metal bath, avoiding the need for metal–solvent interaction ...</description>
-</item>
-<item>
-<title>Benzimidazole Modification of DNA Aptamers for Ultra Responsive Protein-Induced Fluorescence Enhancement</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008836/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008836/v1</guid>
-<pubDate>2026-09-15T08:12:26Z</pubDate>
-</item>
-<item>
-<title>Do crown ethers fully dissociate ion pairs in aqueous solution?</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008835/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008835/v1</guid>
-<pubDate>2026-09-15T07:30:20Z</pubDate>
-<description>In alkali fluoride solutions, crown ethers are widely assumed to generate "naked" anions by capturing cations, yet direct evidence for complete ion-pair dissociation is limited. We combine 19F Nuclear Magnetic Resonance (NMR) and multiscale modeling on ...</description>
-</item>
-<item>
-<title>Concerted, Facile CO2 Hydrogenation in Ni-MOF-74 Revealed by Machine Learning Interatomic Potential-Based Enhanced Sampling Simulations</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008834/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008834/v1</guid>
-<pubDate>2026-09-15T07:22:37Z</pubDate>
-<description>Metal-organic frameworks (MOFs) with open metal sites are promising heterogeneous catalysts, but the atomistic and dynamic details that govern their reactivity are difficult to access experimentally due to spatiotemporal resolution limits. Computational ...</description>
-</item>
-<item>
-<title>A Hidden Acid–Base Ion Pair Scaffolds Organic-Rich Atmospheric Nucleation</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008833/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008833/v1</guid>
-<pubDate>2026-09-15T07:20:21Z</pubDate>
-<description>New particle formation is widely observed in organic-rich atmospheric environments where sulfuric acid and basic vapors appear scarce, yet what initiates nucleation and what role trace inorganic acid–base species play remain unclear. Guided by laboratory ...</description>
-</item>
-<item>
-<title>Understanding and quantifying interfacial ion exchange in hybrid electrolytes</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008832/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008832/v1</guid>
-<pubDate>2026-09-15T07:18:17Z</pubDate>
-<description>In pursuit of practical solid-state lithium batteries with low cost and scalable manufacturing, hybrid electrolytes that combine Li+-conducting inorganic electrolyte particles with liquid or polymer electrolytes have emerged as a promising strategy.1-2In ...</description>
-</item>
-<item>
-<title>From Computational Chemistry to Generative Models: A Survey of AI-Driven Small-Molecule Drug Discovery</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008163/v2?af=R</link>
-<guid>10.26434/chemrxiv.15008163/v2</guid>
-<pubDate>2026-09-15T07:16:25Z</pubDate>
-<description>Small-molecule drug discovery requires navigating enormous chemical space to identify candidates that are simultaneously potent, selective, synthetically accessible, and acceptable across pharmacokinetic and safety profiles; modern generative AI extends a ...</description>
-</item>
-<item>
-<title>Coordinate bonding, cluster delocalization and topological criticality in a cyclic trimeric beryllium–dinitrogen complex</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008831/v1?af=R</link>
-<guid>10.26434/chemrxiv.15008831/v1</guid>
-<pubDate>2026-09-15T07:14:15Z</pubDate>
-<description>Fixation and coordination of molecular dinitrogen (N2) by main-group clusters offer fundamental insight into non-classical multi-centre bonding and light-metal activation pathways. Here we report a combined density-functional and ab initio study of the ...</description>
 </item>
 </channel>
 </rss>

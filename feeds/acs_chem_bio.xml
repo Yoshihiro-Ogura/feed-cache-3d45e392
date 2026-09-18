@@ -5,6 +5,13 @@
 <link>https://pubs.acs.org/rss/acbcct/asap.xml</link>
 <description>ACS Chemical Biology (mirrored feed)</description>
 <item>
+<title>Introducing Our Authors</title>
+<link>https://pubs.acs.org/acbcct/article/doi/10.1021/acschembio.6c00797/5431818/Introducing-Our-Authors</link>
+<guid>http://dx.doi.org/10.1021/acschembio.6c00797</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;strong&gt;Lili Jiang&lt;/strong&gt;&lt;/span&gt;</description>
+</item>
+<item>
 <title>An Optimized Bioluminescent Lantern for RNA Imaging</title>
 <link>https://pubs.acs.org/acbcct/article/doi/10.1021/acschembio.6c00479/5428936/An-Optimized-Bioluminescent-Lantern-for-RNA</link>
 <guid>http://dx.doi.org/10.1021/acschembio.6c00479</guid>
@@ -17,6 +24,13 @@
 <guid>http://dx.doi.org/10.1021/acschembio.6c00503</guid>
 <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acbcct/article/doi/10.1021/acschembio.6c00503/5428806/Elucidating-the-Requirements-for-microRNA-Mediated"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acbcct/pap/10.1021_acschembio.6c00503/1/m_cb-2026-00503e_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The post-transcriptional regulation of protein expression by miRNA has given rise to new technologies for therapeutic interventions and synthetic biology. To date, these technologies assume that miRNAs are repressors of protein expression; however, emerging evidence has shown that miRNA regulation of proteins is bidirectional. Although it is now clear that upregulation by miRNAs is a common event, the molecular requirements remain poorly characterized. To address this gap, we utilized the miRFluR assay, a genetically encoded dual-fluorescence reporter assay previously developed in our laboratory, to systematically explore upregulation. Using upregulation of the enzyme B3GLCT by miR-891b as a model system, we find that upregulation requires both specific sequence elements and RNA secondary structure. Mutagenesis and truncation analyses revealed that the effect is context-dependent and influenced by the local UTR structure. We also find that sites can be reengineered to be triggered by alternate miRNA, opening the door to synthetic biology manipulations. Our study provides a new perspective on upregulation by miRNA and sets the stage for further exploration of the bidirectional nature of miRNA action.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Repurposing Engineered Aminoacyl-tRNA Synthetases for Proximity-Dependent Protein Labeling through the Release of Aminoacyl-AMP Intermediate</title>
+<link>https://pubs.acs.org/acbcct/article/doi/10.1021/acschembio.6c00682/5429580/Repurposing-Engineered-Aminoacyl-tRNA-Synthetases</link>
+<guid>http://dx.doi.org/10.1021/acschembio.6c00682</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Over the past two decades, engineering efforts have yielded aminoacyl-tRNA synthetases (aaRSs) capable of charging diverse noncanonical amino acids (ncAAs). Here, we report an unexpected and exploitable activity of these engineered aaRSs. In the absence of their cognate tRNA, aaRSs can release the ncAA-AMP intermediate, which labels proximal proteins via covalent acylation. Multiple different aaRSs exhibit this behavior, enabling both self-labeling and trans-labeling of proteins with ncAAs in vitro and in living cells. When using bioorthogonal ncAAs, the resulting labeled proteins can be further functionalized through bioorthogonal conjugation with a fluorophore for visualization or biotin for enrichment. Although labeling by existing aaRSs is slow, we provide preliminary evidence that improved activity is possible through further engineering. Taken together, these results establish a new potential approach for proximity-based protein labeling, analogous to BioID and TurboID. Many aaRSs are available to charge diverse ncAAs, creating opportunities for multiplexed labeling; i.e., different aaRS/ncAA pairs used simultaneously to probe multiple spatially/temporally distinct microenvironments.&lt;/span&gt;</description>
 </item>
 <item>
 <title>[Graphical abstract added] SCULPT-MCP: Systematic Chromosomal Upgrades for Locus-Driven Protein Topologies in Microcompartments</title>

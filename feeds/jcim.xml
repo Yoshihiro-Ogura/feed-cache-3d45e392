@@ -5,6 +5,273 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>CUE: A Chemical
+Uncertainty-Aware Embedding Framework
+for Multimodal Drug Selectivity Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01761/5432292/CUE-A-Chemical-Uncertainty-Aware-Embedding</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01761</guid>
+<pubDate>Thu, 17 Sep 2026 20:00:30 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of drug selectivity is critical for
+prioritizing
+candidate compounds with reduced off-target effects in AI-based drug
+discovery. Although selectivity can be inferred indirectly from drug–target
+affinity (DTA) prediction, cumulative errors from affinity predictions
+across multiple targets can reduce reliability, motivating the development
+of methods that directly predict compound-level selectivity. We propose
+a Chemical Uncertainty-aware Embedding (CUE) framework that integrates
+molecular fingerprints and 2D molecular structure image embeddings.
+The two modalities are combined via Loss Trajectory Analysis for Uncertainty
+(LTAU)-based weighted fusion, which adaptively reweights features
+according to their predictive reliability. Across eight benchmark
+data sets, CUE achieved RMSE values ranging from 0.163 to 1.691 and
+outperformed affinity-based and quantitative structure–activity
+relationship (QSAR) baseline models. Furthermore, a virtual screening
+case study for EGFR(T790M/C797S) inhibitors further demonstrated its
+utility for identifying selective hits. The source code is available
+at https://github.com/jjjabcd/CUE.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Charge-Driven Fibril
+Recognition and Covalent Disruption
+of Aβ 42  by Paddlewheel Diruthenium Complexes</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02388/5432215/Charge-Driven-Fibril-Recognition-and-Covalent</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02388</guid>
+<pubDate>Thu, 17 Sep 2026 19:00:35 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02388/5432215/Charge-Driven-Fibril-Recognition-and-Covalent"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02388/1/m_ci6c02388_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The inhibition of Aβ&lt;sub&gt;42&lt;/sub&gt; (β-amyloid)
+fibril
+formation is a key therapeutic strategy in Alzheimer’s disease
+research. Paddlewheel diruthenium complexes have shown promising activity
+against Aβ&lt;sub&gt;42&lt;/sub&gt; aggregation and preformed fibril disaggregation,
+yet their molecular mode of action remains poorly understood. In this
+work, we perform atomistic simulations to explore how charge modulation
+influences the interactions of three analogous paddlewheel diruthenium
+complexes, the parent neutral complex [Ru&lt;sub&gt;2&lt;/sub&gt;Cl(D-&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-FPhF)(O&lt;sub&gt;2&lt;/sub&gt;CCH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;], and
+its anionic [Ru&lt;sub&gt;2&lt;/sub&gt;Cl&lt;sub&gt;2&lt;/sub&gt;(D-&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-FPhF)(O&lt;sub&gt;2&lt;/sub&gt;CCH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;]&lt;sup&gt;−&lt;/sup&gt; and cationic
+[Ru&lt;sub&gt;2&lt;/sub&gt;(D-&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-FPhF)(O&lt;sub&gt;2&lt;/sub&gt;CCH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;]&lt;sup&gt;+&lt;/sup&gt; counterparts (D-&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-FPhF&lt;sup&gt;–&lt;/sup&gt; is the &lt;span style="font-style:italic;"&gt;N&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;N&lt;/span&gt;′-bis(4-fluorophenyl)formamidinato
+ligand) with Aβ&lt;sub&gt;42&lt;/sub&gt;. Our results indicate that electrostatic
+tuning governs binding affinity and the extent of interaction across
+the Aβ&lt;sub&gt;42&lt;/sub&gt; fibril surface. As the complexes’
+charge changes from −1 to +1, the interaction pattern shifts
+from localized contacts to widespread, multi-site engagement encompassing
+key charged, aromatic, and hydrophobic regions of Aβ&lt;sub&gt;42&lt;/sub&gt;. This enhanced binding correlates with longer-lived, thermodynamically
+stable interactions at the fibril interface, which effectively lower
+the free energy penalty for fibril disassembly. Overall, our findings
+propose a mechanism in which charge-dependent activation through ligand
+exchange enhances fibril recognition and promotes disruptive binding
+modes, demonstrating the potential of charge-tunable diruthenium complexes
+as therapeutic modulators of Aβ&lt;sub&gt;42&lt;/sub&gt; fibril stability.&lt;/span&gt;</description>
+</item>
+<item>
+<title>In-Context Molecular
+Property Prediction with LLMs:
+A Blinding Study on Memorization and Knowledge Conflicts</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00961/5432107/In-Context-Molecular-Property-Prediction-with-LLMs</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00961</guid>
+<pubDate>Thu, 17 Sep 2026 15:00:33 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The capabilities of large language models (LLMs) have
+expanded
+beyond natural language processing to scientific prediction tasks,
+including molecular property prediction. However, their effectiveness
+in in-context learning remains ambiguous, particularly given the potential
+for training data contamination in widely used benchmarks. This paper
+investigates whether LLMs perform genuine in-context regression on
+molecular properties or instead rely on verbatim retrieval of memorized
+target values. Furthermore, we analyze the interplay between pretrained
+knowledge and in-context information through a series of progressively
+blinded experiments. We evaluate nine LLM variants across three families
+(GPT-4.1, GPT-5, Gemini 2.5) on three MoleculeNet data sets (Delaney
+solubility, Lipophilicity, QM7 atomization energy) using a systematic
+blinding approach that iteratively reduces available information,
+complemented by 0-, 60-, and 1000-shot in-context sample sizes as
+an additional control for information access. To validate the memorization
+analysis and the blinding experiments, we add a positive and a negative
+control for the memorization experiments and structural reference
+baselines for the multishot experiments, as well as bootstrap confidence
+intervals for all results. We find no evidence of verbatim retrieval
+on the legacy benchmarks and show that blinding exposes conflicts
+between pretrained knowledge and in-context information. This work
+provides a principled framework for evaluating molecular property
+prediction under controlled information access.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Diff-SelfA-PepGSI:
+A Diffusion-Based Framework for  De Novo  Generation,
+Screening, and Morphological Identification
+of Self-Assembled Peptide Sequences</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02911/5432095/Diff-SelfA-PepGSI-A-Diffusion-Based-Framework-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02911</guid>
+<pubDate>Thu, 17 Sep 2026 15:00:33 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02911/5432095/Diff-SelfA-PepGSI-A-Diffusion-Based-Framework-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02911/1/m_ci6c02911_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Peptide self-assembly is a ubiquitous molecular phenomenon
+in which
+short amino acid sequences spontaneously organize into diverse nanostructures.
+These assemblies exhibit distinct morphologies closely linked to their
+biological functions and potential applications, making them attractive
+candidates for biomaterials in drug delivery, regenerative medicine,
+and diagnostics. However, designing and predicting peptide sequences
+with specific self-assembled morphologies remains highly challenging
+due to the complex interplay of noncovalent interactions, including
+hydrogen bonding, hydrophobic effects, and π–π
+stacking. Although deep learning has enabled accurate prediction of
+peptide self-assembly propensity, rational &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; design of peptides with targeted assembly behavior remains largely
+unexplored. In this study, we propose Diff-SelfA-PepGSI, a novel pipeline
+for the morphology-specific design of self-assembling peptides. This
+three-stage framework comprises: (i) generation, in which a diffusion-based
+generative model produces candidate self-assembling peptide sequences;
+(ii) screening, in which pretrained protein language models extract
+deep semantic features and a deep discriminative network performs
+sequence optimization and property screening; and (iii) identification,
+in which a dual-branch structure extracts features and a dedicated
+classifier identifies the specific nanostructures formed. By integrating
+sequence generation, predictive screening, and morphology identification,
+this workflow establishes a proof-of-concept &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; design pipeline that links peptide sequences directly to their target
+morphologies. Diff-SelfA-PepGSI demonstrates superior performance
+compared to state-of-the-art models in both screening and identification
+tasks. Experimental validation preliminarily demonstrates the feasibility
+of the &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; design pipeline, successfully generating
+self-assembling peptides such as LAPFLA. Under the reported experimental
+conditions, 4 of 11 generated candidates (36.4%) exhibited the target
+morphology predicted by the model. Within the challenging context
+of &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; morphology-specific peptide design, this
+success rate supports the potential of Diff-SelfA-PepGSI as an early
+stage self-assembling peptide generation platform.&lt;/span&gt;</description>
+</item>
+<item>
+<title>CDGA: A Host-Based
+Alignment and Descriptor Analysis
+Tool for Cyclodextrin Inclusion Complexes</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02866/5431955/CDGA-A-Host-Based-Alignment-and-Descriptor</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02866</guid>
+<pubDate>Thu, 17 Sep 2026 13:00:49 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02866/5431955/CDGA-A-Host-Based-Alignment-and-Descriptor"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02866/1/m_ci6c02866_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Computational studies of cyclodextrin inclusion complexes
+are widespread;
+however, quantitative comparison of host–guest geometries remains
+difficult because native cyclodextrins are cyclic and pseudosymmetric,
+with chemically equivalent glucose units and no unique structural
+anchor for conventional atom-to-atom mapping. Consequently, RMSD values,
+guest orientations, and pose comparisons may depend on arbitrary atom
+numbering, molecular file representation, or software-specific alignment
+procedures rather than on genuine structural differences. To address
+this limitation, we developed CDGA, the Cyclodextrin Guest Analysis
+tool, an open-source KNIME-based tool for quantitative analysis of
+cyclodextrin host–guest complexes comprising CDGA Align for
+host-based alignment and CDGA NoAlign for analysis directly from their
+original coordinates; both workflows identify host and guest fragments,
+perform chemically meaningful atom mapping, and calculate standardized
+descriptors including guest depth, guest orientation, guest principal-axis
+angle, and heavy-atom RMSD, while an additional host module characterizes
+host geometry. CDGA was validated using controlled geometrical and
+chemical modifications and cross-docked and redocked poses generated
+for conformationally diverse native cyclodextrins, demonstrating robust
+and reproducible descriptor calculation despite differences in atom
+ordering, bond representation, host orientation, and molecular file
+generation, thereby enabling standardized comparison of cyclodextrin
+inclusion geometries, transparent reporting, benchmarking, and large-scale
+analysis of computational host–guest studies.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Explainable Artificial
+Intelligence to Unveil Patterns
+of Antioxidant Peptides for Free Radical Regulation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01872/5431954/Explainable-Artificial-Intelligence-to-Unveil</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01872</guid>
+<pubDate>Thu, 17 Sep 2026 13:00:49 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antioxidant peptides
+are emerging as promising therapeutic
+and
+nutraceutical agents because of their capacity to neutralize free
+radicals, modulate oxidative stress, and contribute to disease prevention
+in fields ranging from oncology to dermatology and food science. However,
+traditional computational approaches often fail to capture the biochemical
+semantics and evolutionary context of peptide sequences, limiting
+the predictive accuracy and mechanistic interpretability. Here, we
+present an explainable deep learning framework integrating evolutionary
+scale modeling (ESM) embeddings with a temporal convolutional network
+(TCN) and long short-term memory (LSTM) architecture to classify antioxidant
+peptides and uncover key sequence determinants of activity. ESM embeddings
+provide rich evolutionary and structural priors, enabling the model
+to capture both local &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;-mer motifs and global sequence
+dependencies. To ensure transparency, we employed a multimethod interpretability
+strategy using Anchor, LIME, and SHAP, which identified robust, potentially
+biologically meaningful hypotheses containing residues rich in cysteine
+(C), arginine (R), lysine (K), histidine (H), aspartic acid (D), glutamic
+acid (E), threonine (T), glutamine (Q), proline (P), methionine (M),
+tyrosine (Y), and tryptophan (W) as central to antioxidant activity.
+Anchor offered deterministic, high-precision motif rules, while LIME
+and SHAP highlighted redundant and context-dependent contributions,
+together forming a layered interpretability framework. This study
+not only achieves state-of-the-art classification performance but
+also bridges black-box modeling and biochemical understanding, offering
+a generalizable, hypothesis-generating platform for rational peptide
+design and discovery that is important in human health.&lt;/span&gt;</description>
+</item>
+<item>
+<title>APDB: A Large-Scale
+Repository of Predicted 2D and
+3D Aptamer Structures</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02031/5431814/APDB-A-Large-Scale-Repository-of-Predicted-2D-and</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02031</guid>
+<pubDate>Thu, 17 Sep 2026 07:00:33 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;RNA aptamers are short, single-stranded oligonucleotides
+capable
+of folding into specific three-dimensional structures to bind diverse
+molecular targets with high affinity and specificity. In this study,
+we present a comprehensive computational analysis of a curated data
+set of over 150,000 RNA aptamers annotated with sequences, predicted
+secondary structures, molecular features, and minimum free energy
+(MFE) values. A total of 161 molecular descriptors were extracted,
+including pairing ratios, stem density, sequence complexity, and motif
+composition. Dimensionality reduction using Principal Component Analysis
+(PCA) and t-distributed Stochastic Neighbor Embedding (t-SNE) revealed
+distinct clustering patterns driven by MFE, GC/AU pairing composition,
+and secondary structure complexity. PCA indicated that aptamers with
+high AU content tend to occupy distinct structural space, while t-SNE
+highlighted concentrated regions of high GC pairing and stem density.
+A 3D surface plot of GC pairing, AU pairing, and MFE further demonstrated
+a nonlinear landscape, with folding stability changing in a bumpy,
+hill-like pattern as pairing ratios varied. These findings provide
+insights into how base-pairing composition influences aptamer folding
+stability and offer a framework for rational design. The resulting
+Aptamer Database (APDB) integrates these analyses into an interactive,
+scalable platform to support research in biosensing, therapeutics,
+and computational aptamer design (https://boron.ru.ac.za/database).&lt;/span&gt;</description>
+</item>
+<item>
+<title>25 Years of Cardiac
+Ion Channel QSAR: From hERG Dominance
+to Multi-Channel Modeling</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03072/5431755/25-Years-of-Cardiac-Ion-Channel-QSAR-From-hERG</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03072</guid>
+<pubDate>Thu, 17 Sep 2026 04:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03072/5431755/25-Years-of-Cardiac-Ion-Channel-QSAR-From-hERG"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03072/1/m_ci6c03072_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In 2013 the Comprehensive &lt;span style="font-style:italic;"&gt;In Vitro&lt;/span&gt; Proarrhythmia
+Assay (CiPA) initiative proposed multi-channel assessment for proarrhythmic
+risk evaluation, yet ligand-based predictive modeling has remained
+largely single-channel. To quantify and explain this mismatch, we
+survey 155 ligand-based modeling studies on cardiac ion channels (including
+conventional QSAR, machine learning, and pharmacophore- and other
+3D ligand-based approaches) published between 2001 and mid-2026. Across
+this period, 88.4% of studies target &lt;span style="font-style:italic;"&gt;hERG&lt;/span&gt; as their
+sole ion channel endpoint, a proportion that reflects data availability,
+regulatory incentives, and research inertia rather than scientific
+necessity. Although public data for &lt;span style="font-style:italic;"&gt;Na&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;1.5&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Ca&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;1.2&lt;/span&gt; were sufficient for
+modeling years earlier, both channels received only isolated studies
+until 2022. Since then, multi-channel modeling has expanded substantially,
+with multiple groups now addressing the primary channels (&lt;span style="font-style:italic;"&gt;hERG&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Na&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;1.5&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;Ca&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;1.2&lt;/span&gt;) jointly. In contrast, the secondary channels
+(&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;7.1&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;4.3&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;Kir2.1&lt;/span&gt;) remain largely understudied: &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;4.3&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Kir2.1&lt;/span&gt; are entirely unmodeled in the surveyed literature,
+and models for &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;7.1&lt;/span&gt; remain scarce, likely due to the sparsity and heterogeneity
+of public data. A retrospective analysis of the reported model performance
+found no discernible improvements attributable to methodological advances.
+Reliability-related aspects, such as applicability domain and uncertainty
+quantification, were also rarely addressed. The field should treat
+joint modeling of the primary channels as the expected standard rather
+than a novel contribution. Other important aspects include the development
+of standardized benchmarks for multi-channel evaluation, integration
+with physiological models, and greater emphasis on prediction reliability.
+For the secondary channels, progress would additionally require coordinated
+data release or federated learning, methods suited to data-scarce
+targets, and community coordination, none of which individual research
+groups can establish alone.&lt;/span&gt;</description>
+</item>
+<item>
 <title>The Scope Concept:
 Defined Chemical Space for Identifying
 Ligand-Efficient, Tractable Hits Applied to Drug Discovery Targets
@@ -3611,62 +3878,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00451</guid>
 <pubDate>Wed, 15 Jul 2026 04:33:51 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00451/asset/images/medium/ci6c00451_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00451&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Learning Fragment-Based Segmentation of Binding Sites from Molecular Dynamics: A Proof of Concept on Cardiac Myosin</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00549</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00549</guid>
-<pubDate>Wed, 15 Jul 2026 04:10:27 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00549/asset/images/medium/ci6c00549_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00549&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Gradient-Guided Graph Contrastive Learning for Mass Spectrometry-Based Proteomics Clustering</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01102</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01102</guid>
-<pubDate>Wed, 15 Jul 2026 01:20:58 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01102/asset/images/medium/ci6c01102_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01102&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Discovery and Mechanism of Action of a Novel Desloratadine Derivative Inhibiting Mycobacterium tuberculosis 3-Dehydroquinate Synthase</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00496</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00496</guid>
-<pubDate>Tue, 14 Jul 2026 12:54:45 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00496/asset/images/medium/ci6c00496_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00496&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Pharmacon: A Molecular Dynamics Simulation Analysis Toolkit</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00837</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00837</guid>
-<pubDate>Tue, 14 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00837/asset/images/medium/ci6c00837_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00837&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Iterative Interaction Fingerprints-Guided Multiobjective Molecular Generation</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00955</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00955</guid>
-<pubDate>Tue, 14 Jul 2026 11:49:46 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00955/asset/images/medium/ci6c00955_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00955&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Atomic Uncertainty Pinpoints Critical Failure Structures for Trustworthy Molecular Property Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00973</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00973</guid>
-<pubDate>Tue, 14 Jul 2026 10:58:23 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00973/asset/images/medium/ci6c00973_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00973&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Machine Learning for RNA-Targeting Drug Design</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01094</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01094</guid>
-<pubDate>Tue, 14 Jul 2026 07:20:58 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01094/asset/images/medium/ci6c01094_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01094&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Bayesian Uncertainty-Guided Fidelity Fusion for Bioactivity Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01190</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01190</guid>
-<pubDate>Tue, 14 Jul 2026 06:51:34 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01190/asset/images/medium/ci6c01190_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01190&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

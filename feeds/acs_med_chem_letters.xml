@@ -5,6 +5,77 @@
 <link>https://pubs.acs.org/rss/amclct/asap.xml</link>
 <description>ACS Medicinal Chemistry Letters (mirrored feed)</description>
 <item>
+<title>Toward Rational
+Design of Orally Bioavailable PROTACs:
+Development of a Fully Computational Oral Absorption Score</title>
+<link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00305/5432319/Toward-Rational-Design-of-Orally-Bioavailable</link>
+<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00305</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:34 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Achieving adequate oral absorption for proteolysis-targeting
+chimeras
+(PROTACs) remains challenging due to their size, polarity, and conformational
+complexity. While existing approaches often rely on physicochemical
+property space or chameleonicity-driven models, a generalizable framework
+for guiding compound design prior to synthesis is lacking. Here, we
+introduce comPASS, a fully computational scoring function derived
+from molecular dynamics-based descriptors that is designed to capture
+the balance between molecular extension and exposed polarity through
+normalized radius of gyration and three-dimensional polar surface
+area of PROTACs. Across mouse and rat data sets, comPASS shows consistent
+predictive performance and may facilitate prioritization of compounds
+at early design stages. We further show that within the data sets
+studied, extended molecular geometries are associated with improved
+absorption, when increased elongation is not driven solely by increases
+in molecular size. To assess the potential benefit of incorporating
+experimental information, we also developed an enhanced variant, ePASS,
+which incorporates experimental polar surface area (EPSA) and lipophilicity
+terms consistent with prior approaches and shows promising predictive
+performance relative to similar literature methods. Together, these
+results establish practical guidance for presynthetic prioritization
+of PROTACs and provide a potential framework for guiding the design
+of orally absorbed PROTACs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Novel Sulfur-Containing Heterocycloalkyl Substituted
+Bicyclic Compounds as Viral DNA Polymerase Inhibitors for Treating
+Viral Infections, in particular, Herpesvirus Infections</title>
+<link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00478/5432083/Novel-Sulfur-Containing-Heterocycloalkyl</link>
+<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00478</guid>
+<pubDate>Thu, 17 Sep 2026 14:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Provided
+herein are novel sulfur-containing heterocycloalkyl substituted
+bicyclic compounds as viral DNA polymerase inhibitors, pharmaceutical
+compositions, use of such compounds in treating viral infections,
+in particular, herpesvirus infections, and processes for preparing
+such compounds.&lt;/span&gt;</description>
+</item>
+<item>
+<title>The Preparation
+and Systematic Evaluation of Ligated
+Ni(II) Pre-Catalysts (NiPC) in Common Single Electron Cross-Coupling
+Reactions</title>
+<link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00332/5431742/The-Preparation-and-Systematic-Evaluation-of</link>
+<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00332</guid>
+<pubDate>Thu, 17 Sep 2026 03:00:29 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The advent of single-electron, nickel-mediated cross-coupling
+reactions
+has fundamentally transformed how carbon bonds can be forged and is
+now a mainstay of modern synthesis and medicinal chemistry. Nickel
+is a prevailing transition metal that facilitates these innovations,
+and yet despite its obvious competence, standardized practices regarding
+Ni/ligand preparation and administration, as separate entities or
+as a single precomplex or catalyst, have not been systematically established.
+This study investigates the synthesis, isolation, and efficacy of
+simple, ligated Ni(II) precatalysts (NiPCs) to expedite and standardize
+protocols for contemporary single-electron nickel-mediated cross-coupling
+reactions. We demonstrate the effectiveness of a library of isolated
+NiPCs in commonly used singleton transformations and high-throughput
+experimentation (HTE) setups with broad application to pharmaceutical
+chemistry. By illuminating the practical rules that govern NiPC synthesis
+and administration, this work equips the community with an actionable
+understanding to enable wide, normalized adoption of simple NiPC methods.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Structure-Guided Development of Selective HDAC4 and
 HDAC7 Inhibitors That Modulate Th17 Cell Transcription</title>
 <link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00328/5431628/Structure-Guided-Development-of-Selective-HDAC4</link>
