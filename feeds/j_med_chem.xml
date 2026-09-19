@@ -5,6 +5,130 @@
 <link>https://pubs.acs.org/rss/jmcmar/asap.xml</link>
 <description>J.Med.Chem. (mirrored feed)</description>
 <item>
+<title>Brain Penetration Optimization and Anti-neuroinflammation Evaluation of Potent 6-Methyl-7-azaindol-3-yl-quinazoline DYRK1A Inhibitors for Alzheimer’s Disease</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01681/5433095/Brain-Penetration-Optimization-and-Anti</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01681</guid>
+<pubDate>Fri, 18 Sep 2026 19:00:46 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Targeting dual-specificity tyrosine phosphorylation-regulated kinase 1A (DYRK1A) to regulate microglia-mediated neuroinflammation represents a promising therapeutic strategy for Alzheimer’s disease (AD). To address the limited brain penetration of our earlier lead &lt;strong&gt;ZJCK-6-46&lt;/strong&gt;, an intramolecular cyclization strategy was employed to mask the HBD ability of the P-gp efflux-prone amino and hydroxyl groups in the (&lt;span style="font-style:italic;"&gt;S&lt;/span&gt;)-2-amino-2-phenylethanol moiety, facilitating comprehensive optimization of physicochemical properties. This effort yielded a more promising candidate, &lt;strong&gt;ZJCK-6-72&lt;/strong&gt;, which maintained the overall kinase selectivity profile despite a 13.5-fold DYRK1A potency reduction and exhibited marked anti-neuroinflammatory activity and lower microglial cytotoxicity. Notably, &lt;strong&gt;ZJCK-6-72&lt;/strong&gt; showed significantly reduced P-gp efflux liability, and its improved oral absorption and brain penetration synergistically enhanced brain exposure in vivo, which translated into robust efficacy in both LPS-induced and 5×FAD transgenic mouse models. This work provides valuable insights for advancing DYRK1A-targeted AD therapies and establishes a viable paradigm for optimizing brain penetration in CNS drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Contrastive Learning for Metabolite-Aware Oral Drug Design</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c02126/5433091/Contrastive-Learning-for-Metabolite-Aware-Oral</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c02126</guid>
+<pubDate>Fri, 18 Sep 2026 19:00:46 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c02126/5433091/Contrastive-Learning-for-Metabolite-Aware-Oral"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/pap/10.1021_acs.jmedchem.6c02126/1/m_jm6c02126_abs.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Unfavorable drug metabolism drives clinical failure, limited by the low accuracy of existing AI predictors. To address this, we constructed a database of 11,665 human-specific reactions and developed Mettle, a novel AI model integrating chemical feature interaction with contrastive learning. By explicitly training the model to distinguish true metabolic transformations from structurally similar decoys, Mettle achieves state-of-the-art performance with ∼80% top-5 accuracy. We demonstrate Mettle’s utility by tackling poor oral bioavailability in RSK4 inhibitors. This metabolite-aware design strategy yielded R636, which maintains high potency while exhibiting a remarkable 63-fold increase in absolute bioavailability (to 63%). R636 showed a favorable safety profile and significant antitumor efficacy in two ESCC PDX models. Mettle thus emerges as a powerful tool for metabolite-aware oral drug design.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Simultaneous Inhibition of PARP-1 and CK2α by Novel Benzothieno[3,2- d ]pyrimidin-4(1 H )-one Derivatives: A Promising Strategy to Combat Homologous Recombination Deficiency-Independent Tumors and Metastasis</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01444/5433090/Simultaneous-Inhibition-of-PARP-1-and-CK2-by-Novel</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01444</guid>
+<pubDate>Fri, 18 Sep 2026 19:00:46 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Poly(ADP-ribose) polymerase 1 (PARP-1) inhibitors yield robust clinical benefits yet only work for homologous recombination deficiency (HRD) patients. To expand their utility and resolve clinical drawbacks, we synthesized dual PARP-1/casein kinase II alpha (CK2α) inhibitors built on benzofuran/benzothieno[3,2-&lt;span style="font-style:italic;"&gt;d&lt;/span&gt;]pyrimidin-4(1&lt;span style="font-style:italic;"&gt;H&lt;/span&gt;)-one cores with methyl (&lt;span style="font-style:italic;"&gt;Z&lt;/span&gt;)-carbamohydrazonothioate pharmacophores. Among them, &lt;strong&gt;NJT-12&lt;/strong&gt; exhibited the optimal activity, with IC&lt;sub&gt;50&lt;/sub&gt; values of 3.40 and 4.31 nM against PARP-1 and CK2α. In non-HRD A2780 cells, &lt;strong&gt;NJT-12&lt;/strong&gt; modulates the Akt1&lt;sup&gt;Ser129&lt;/sup&gt;-GSK-3β&lt;sup&gt;Ser9&lt;/sup&gt;-Wnt/β-catenin pathway to regulate cancer cell stemness and suppress cell invasion and metastasis. In SD rats, &lt;strong&gt;NJT-12&lt;/strong&gt; had an oral half-life of 3.92 h and an oral bioavailability of 44.0%. At 100 mg/kg in the A2780 xenograft mice models, it achieved 79.66% tumor growth inhibition with no obvious toxicity. This study provides novel strategies and key molecular tools for the design, development and biological research of PARP-1/CK2α dual-target inhibitors, and &lt;strong&gt;NJT-12&lt;/strong&gt; with excellent pharmacological properties deserves further exploration.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Fragment-Based Covalent Targeting of Lysines at the Allosteric Latch Site of SHP2</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01030/5433089/Fragment-Based-Covalent-Targeting-of-Lysines-at</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01030</guid>
+<pubDate>Fri, 18 Sep 2026 19:00:46 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Covalent mechanism of action is a powerful way to modulate challenging drug targets. Here, we present a streamlined workflow that combines covalent fragment screening (electrophile first approach) and ligand-first strategy to identify covalent inhibitors targeting lysine residues in the allosteric latch site of SHP2 phosphatase. Supported by complementary computational and experimental analyses, this strategy enabled us to identify the first potent cell active allosteric covalent inhibitors acting at this site. Demonstrating the covalent tractability of the latch site opens further avenues for future optimization and therapeutic exploration of high-value allosteric SHP2 inhibitors.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Design, Synthesis, and Biological Evaluation of Novel Arylethanone Oxime Ether Derivatives as Potent S1PR1 Agonists for Ulcerative Colitis Therapy</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c02114/5433016/Design-Synthesis-and-Biological-Evaluation-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c02114</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;S1PR1 is a clinically validated key therapeutic target for ulcerative colitis (UC), but approved S1PR1 agonists universally suffer from the core drawback of S1PR3-mediated cardiotoxicity. Herein, we designed and synthesized multiple novel arylethanone oxime ethers-based S1PR1 agonists. Among them, compound &lt;strong&gt;13d&lt;/strong&gt; exhibited potent &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt; agonistic activity toward S1PR1 (EC&lt;sub&gt;50&lt;/sub&gt; = 26 pM, cAMP assay), with no significant activity toward S1PR3 (EC&lt;sub&gt;50&lt;/sub&gt; &amp;gt; 10 μM, calcium flux assay). More importantly, this compound demonstrated favorable drug-like properties (97.2% oral bioavailability in mice). Mechanistically, &lt;strong&gt;13d&lt;/strong&gt; induced S1PR1 receptor internalization in a time- and concentration-dependent manner, consistent with the established mechanism of S1PR1-mediated lymphocyte sequestration. &lt;span style="font-style:italic;"&gt;In vivo&lt;/span&gt; studies further revealed that &lt;strong&gt;13d&lt;/strong&gt; exhibits favorable cardiac safety and dose-dependently decreases peripheral blood lymphocyte counts. In the DSS-induced acute UC mouse model, &lt;strong&gt;13d&lt;/strong&gt; at 1 mg/kg/day significantly decreased the disease activity index. In conclusion, this study provides a promising new candidate for UC therapy.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Hsc70-Mediated Targeting Chimeras for Targeted Protein Degradation via Chaperone-Mediated Autophagy</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01010/5433015/Hsc70-Mediated-Targeting-Chimeras-for-Targeted</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01010</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01010/5433015/Hsc70-Mediated-Targeting-Chimeras-for-Targeted"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/pap/10.1021_acs.jmedchem.6c01010/1/m_jm6c01010_abs.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Despite the remarkable success of proteolysis-targeting chimeras (PROTACs), challenges such as limited applicability to certain cytosolic proteins, potential resistance risks, and off-target effects remain. Novel degradation strategies harnessing the autophagy/lysosome pathway may broaden the scope of protein targets and address resistance, providing a promising complement to PROTACs. Herein, the bifunctional small-molecule Hsc70-Mediated Targeting Chimeras, termed &lt;strong&gt;Hsc70TACs&lt;/strong&gt;, was designed by conjugating a small molecule targeting Hsc70 with the ligands of the protein of interest (POI). We demonstrate the scope of &lt;strong&gt;Hsc70TACs&lt;/strong&gt; through the degradation of therapeutically relevant proteins such as BRD4, MDM2 and even cell-membrane protein PD-L1 across diverse cellular contexts. More importantly, compound &lt;strong&gt;B-2&lt;/strong&gt;, a novel BRD4 &lt;strong&gt;Hsc70TAC&lt;/strong&gt;, shows favorable pharmacokinetic properties and robust in vivo BRD4 degradation, thus further highlighting the potential value of &lt;strong&gt;Hsc70TAC&lt;/strong&gt;. Overall, &lt;strong&gt;Hsc70TAC&lt;/strong&gt; demonstrates a new avenue to target and degrade disease-associated proteins, providing a valuable addition to current protein degradation technologies.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Discovery of Tetrasubstituted Quinazolin-4(3 H )-ones as Wild-type-sparing, Highly Selective PI3Kα H1047R  Inhibitors</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c00269/5433014/Discovery-of-Tetrasubstituted-Quinazolin-4-3H-ones</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00269</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Inhibiting PI3Kα has demonstrated promising therapeutic effects for patients with HR&lt;sup&gt;+&lt;/sup&gt;/HER2&lt;sup&gt;−&lt;/sup&gt; and &lt;span style="font-style:italic;"&gt;PIK3CA&lt;/span&gt;-mutated advanced or metastatic breast cancer. However, hyperglycemia and other notable adverse events (AE) associated with concomitant wild-type inhibition remain a challenge and limit dosing. Selectively targeting the mutant PI3Kα&lt;sup&gt;H1047R&lt;/sup&gt; could reduce wild-type-driven AEs while retaining clinical efficacy. Herein, we report the design and identification of tetrasubstituted quinazolin-4(3&lt;span style="font-style:italic;"&gt;H&lt;/span&gt;)-ones that can selectively inhibit PI3Kα&lt;sup&gt;H1047R&lt;/sup&gt; through a proposed slow-on and slow-off mechanism. Compound &lt;strong&gt;34&lt;/strong&gt; demonstrated potent and mutant-selective in vitro activity and a good ADME profile. When dosed in a T47D mouse xenograft model, it displayed measurable and significant TGI (tumor growth inhibition) with no effect on either the serum insulin or blood glucose levels in contrast with the group dosed with an approved PI3Kα inhibitor. These promising findings demonstrate that a highly selective inhibitor of mutant PI3Kα&lt;sup&gt;H1047R&lt;/sup&gt; may address current on-target toxicity arising from PI3Kα&lt;sup&gt;WT&lt;/sup&gt; inhibition&amp;amp;#xe5f8;though further optimization of compound &lt;strong&gt;34&lt;/strong&gt; to reduce the efficacious dose and address tolerability would be warranted.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Integrated AI-Driven Multi-Objective Optimization of Sulfamoylbenzamide-Based HBV Capsid Assembly Modulators: Discovery of  11B-6  with Superior Potency and Drug-like Properties</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01701/5433013/Integrated-AI-Driven-Multi-Objective-Optimization</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01701</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01701/5433013/Integrated-AI-Driven-Multi-Objective-Optimization"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/pap/10.1021_acs.jmedchem.6c01701/1/m_jm6c01701_abs.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Current capsid assembly modulators (CAMs) require improvements in antiviral potency and drug-like properties. Herein, we report a multi-objective optimization workflow for the &lt;strong&gt;NVR 3-778&lt;/strong&gt; by integrating structure-based fragment growing with systematic medicinal chemistry optimization, activity prediction, and multitask prediction of drug-like properties. This led to 48 novel analogs. Among them, &lt;strong&gt;11B-6&lt;/strong&gt; showed superior antiviral activity in HepAD38 cells (EC&lt;sub&gt;50&lt;/sub&gt; = 0.04 ± 0.02 μM), outperforming &lt;strong&gt;NVR 3-778&lt;/strong&gt; (EC&lt;sub&gt;50&lt;/sub&gt; = 0.50 ± 0.17 μM). In HBV-infected HepG2-NTCP cells, &lt;strong&gt;11B-6&lt;/strong&gt; inhibited secreted HBV DNA with an EC&lt;sub&gt;50&lt;/sub&gt; of 3.71 nM, about 134-fold more potent than &lt;strong&gt;NVR 3-778&lt;/strong&gt; (EC&lt;sub&gt;50&lt;/sub&gt; = 497.9 nM). Structural biology analyses revealed a distinct, more stable binding mode of &lt;strong&gt;11B-6&lt;/strong&gt; at the capsid dimer−dimer interface. &lt;strong&gt;11B-6&lt;/strong&gt; also showed lower plasma protein binding than &lt;strong&gt;NVR 3-778&lt;/strong&gt; (84.3% vs. 100%). These results highlight &lt;strong&gt;11B-6&lt;/strong&gt; as a promising next-generation HBV CAM, representing a valuable starting point for advancing its development.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Discovery of Potent and Selective VHL-Recruiting PROTAC Degraders Targeting EGFR with Improved Developability and Potent Anti-NSCLC Efficacy</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01893/5433011/Discovery-of-Potent-and-Selective-VHL-Recruiting</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01893</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Epidermal growth factor receptor (EGFR) kinase inhibitors have revolutionized non-small cell lung cancer (NSCLC) treatment; however, the inevitable acquired resistance necessitates alternative strategies beyond conventional inhibition. Herein, we report the discovery and optimization of VHL-recruiting PROTAC degraders targeting the EGFR. Representative compounds &lt;strong&gt;C4&lt;/strong&gt; and &lt;strong&gt;D4&lt;/strong&gt; demonstrated potent, selective, and durable degradation of EGFR&lt;sup&gt;Del19&lt;/sup&gt; (&lt;strong&gt;C4&lt;/strong&gt;: DC&lt;sub&gt;50&lt;/sub&gt; = 1.41 nM, &lt;span style="font-style:italic;"&gt;D&lt;/span&gt;&lt;sub&gt;max&lt;/sub&gt; = 99%; &lt;strong&gt;D4&lt;/strong&gt;: DC&lt;sub&gt;50&lt;/sub&gt; = 9.14 nM, &lt;span style="font-style:italic;"&gt;D&lt;/span&gt;&lt;sub&gt;max&lt;/sub&gt; = 98%) and EGFR&lt;sup&gt;L858R&lt;/sup&gt; (&lt;strong&gt;C4&lt;/strong&gt;: DC&lt;sub&gt;50&lt;/sub&gt; = 3.30 nM, &lt;span style="font-style:italic;"&gt;D&lt;/span&gt;&lt;sub&gt;max&lt;/sub&gt; = 95%; &lt;strong&gt;D4&lt;/strong&gt;: DC&lt;sub&gt;50&lt;/sub&gt; = 15.2 nM, &lt;span style="font-style:italic;"&gt;D&lt;/span&gt;&lt;sub&gt;max&lt;/sub&gt; = 98%). &lt;strong&gt;C4&lt;/strong&gt; induced cell cycle arrest and apoptosis, displayed subnanomolar antiproliferative activity, and drove significant tumor regression in an HCC827 xenograft model at low intravenous doses with a reduced twice-weekly schedule. Remarkably, &lt;strong&gt;D4&lt;/strong&gt; was orally bioavailable (&lt;span style="font-style:italic;"&gt;F&lt;/span&gt; = 11.3%) and blood−brain barrier penetrant and completely inhibited tumor growth &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; after oral dosing. Overall, this work provides promising starting points for next-generation EGFR-directed therapy.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Discovery and Synthesis of Selective Casein Kinase 1δ Degraders for Suppressing Oncogenic NRAS-Mutant Melanoma</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01152/5433010/Discovery-and-Synthesis-of-Selective-Casein-Kinase</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01152</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Activating NRAS mutations occur in approximately 20% of melanomas but remain largely undruggable due to the lack of effective targeted therapies. We previously identified casein kinase 1δ (CK1δ) as a critical upstream regulator that stabilizes oncogenic NRAS mutants. However, no selective CK1δ inhibitors have advanced to clinical evaluation. Here, we report the discovery of &lt;strong&gt;8u&lt;/strong&gt;, a selective CK1δ degrader derived from PF-670462. Compound &lt;strong&gt;8u&lt;/strong&gt; potently degrades CK1δ in NRAS&lt;sup&gt;Q61R&lt;/sup&gt; melanoma cells (DC&lt;sub&gt;50&lt;/sub&gt; = 1.25 μM, &lt;span style="font-style:italic;"&gt;D&lt;/span&gt;&lt;sub&gt;max&lt;/sub&gt; = 74%) via the ubiquitin-proteasome system, sparing against the closely related isoform CK1α and CK1ε. CK1δ degradation induced by &lt;strong&gt;8u&lt;/strong&gt; leads to destabilization of NRAS&lt;sup&gt;Q61R&lt;/sup&gt; and attenuation of downstream signaling pathways. Furthermore, &lt;strong&gt;8u&lt;/strong&gt; elicited significant tumor regression (TGI = 58.9%) in an NRAS&lt;sup&gt;Q61R&lt;/sup&gt; xenograft model &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; at 30 mg/kg. The studies establish targeted degradation of CK1δ as a promising therapeutic strategy for NRAS-mutant melanoma.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Impact of Halogen Anisotropy on the Membrane Permeability of Halogenated Drugs</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01696/5432969/Impact-of-Halogen-Anisotropy-on-the-Membrane</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01696</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Membrane permeability is central to drug absorption and intracellular target engagement, but the contribution of specific noncovalent interactions to passive permeation remains difficult to quantify. While hydrogen bonds (HBs) are known to influence membrane crossing, the role of halogen bonds (XBs) is still poorly understood. Here, we investigate whether halogen anisotropy influences passive membrane permeation by comparing molecular dynamics simulations performed with and without explicitly emulating the σ-hole &lt;span style="font-style:italic;"&gt;via&lt;/span&gt; an extra point of charge for two activated XB probes and six halogenated drugs. The resulting computational protocol was generally consistent with the available experimental Caco-2 permeability trends, thereby allowing us to assess the contribution of halogen anisotropy to membrane permeability. Our results suggest that halogen anisotropy might have a measurable role in membrane permeability, primarily for strong XB donors such as iodinated compounds, reflecting a delicate balance between membrane recognition, desolvation, and hydrophobic partitioning.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Discovery of Novel 2-(2-Benzimidazole)-Substituted Tetrahydrofur‐ans as Potent and Selective Na V 1.8 Inhibitors for the Treatment of Pain</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c00685/5432966/Discovery-of-Novel-2-2-Benzimidazole-Substituted</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00685</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Selective inhibition of voltage-gated sodium channel 1.8 (Na&lt;sub&gt;V&lt;/sub&gt;1.8) is a validated non-opioid analgesic strategy. Guided by the well-documented metabolic features of marketed VX-548 in humans and rats, we conducted rational structural optimization to circumvent its major reported metabolic pathways while preserving target potency, which afforded lead compound &lt;strong&gt;31&lt;/strong&gt; with nanomolar Na&lt;sub&gt;V&lt;/sub&gt;1.8 potency and favorable subtype selectivity. In male rats, it shows favorable oral bioavailability and &amp;gt;10-fold higher plasma AUC than VX-548, accompanied by potent analgesic efficacy. Favorable and consistent pharmacokinetic profiles are also observed in beagle dogs and cynomolgus monkeys, supporting its balanced cross-species metabolic behavior. Compound &lt;strong&gt;31&lt;/strong&gt; also displays a favorable safety profile with no genotoxicity and weak hERG inhibition. Collectively, compound &lt;strong&gt;31&lt;/strong&gt; represents a promising metabolically optimized lead for further preclinical evaluation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Discovery of Long-Acting Bifunctional Compounds with Muscarinic M 3  and Histamine H 1  Receptor Antagonism for the Treatment of Rhinitis</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01524/5432963/Discovery-of-Long-Acting-Bifunctional-Compounds</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01524</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Rhinitis is a heterogeneous inflammatory condition of the upper airway mucosa. Chronic symptoms are often refractory to first-line intranasal antihistamines and corticosteroids, particularly in mixed and nonallergic phenotypes. Add-on anticholinergic treatment alleviates rhinorrhea but is hampered by short duration of action and multiple daily administrations. We describe here unique heterobifunctional M&lt;sub&gt;3&lt;/sub&gt;/H&lt;sub&gt;1&lt;/sub&gt; dual antagonists designed for once-daily intranasal treatment. By tuning a novel bifunctional scaffold combining a diarylsulfone-based muscarinic antagonist with various antihistamine chemotypes, potent dual-acting ligands were developed with negligible systemic exposure and prolonged residence in nasal mucosa (&amp;gt;24 h). Lead compounds &lt;strong&gt;30&lt;/strong&gt;/&lt;strong&gt;34&lt;/strong&gt; (M&lt;sub&gt;3&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;B&lt;/sub&gt; = 120/122 nM, H&lt;sub&gt;1&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;B&lt;/sub&gt; = 4.60/6.72 nM, respectively) suppressed capsaicin-induced nonallergic rhinitis symptoms in guinea pigs similarly to comparators (ipratropium/olopatadine), while in ovalbumin-induced allergic rhinitis in mice, &lt;strong&gt;34&lt;/strong&gt; achieved equivalent symptom control to dexamethasone/ipratropium and inhibited alarmin cytokines (IL-33/TSLP). These findings support further development of dual-targeting antimuscarinic/antihistamine agents as long-acting therapeutics for refractory rhinitis.&lt;/span&gt;</description>
+</item>
+<item>
+<title>An Environmentally Sensitive Epidermal Growth Factor Receptor Probe for Turn-On Tumor Imaging and TGF-β1-Mediated Cancer Immunotherapy via the Selective Depletion of TI-Tregs</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01840/5432962/An-Environmentally-Sensitive-Epidermal-Growth</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01840</guid>
+<pubDate>Fri, 18 Sep 2026 18:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Disruptions of epidermal growth factor receptor (EGFR) are implicated in various cancers, and EGFR-overexpressing tumors are co-infiltrated with immunosuppressive tumor-infiltrating regulatory T cells (TI-Tregs) that remain difficult to target. Here, we developed a novel class of environment-sensitive EGFR probes (&lt;strong&gt;ES-JFTNs&lt;/strong&gt;) by conjugating phthalimide or benzoxadiazole fluorophores to an anilinoquinazoline scaffold. The lead probe &lt;strong&gt;ES3-JFTN&lt;/strong&gt; exhibits selectivity as a turn-on fluorescent agent upon EGFR binding. &lt;strong&gt;ES3-JFTN&lt;/strong&gt; inhibits EGFR phosphorylation and suppresses the TGF-β1 pathway, leading to FOXP3 downregulation via the EGFR/glycogen synthase kinase 3β (GSK3β) axis and selectively depleting TI-Tregs while stimulating CD8&lt;sup&gt;+&lt;/sup&gt; T cell activation. In tumor-bearing mice, it achieves a 77.69% tumor inhibition rate, significantly outperforming gefitinib (52.40%). These findings establish &lt;strong&gt;ES3-JFTN&lt;/strong&gt; as a dual-functional theranostic agent that overcomes the immunosuppressive tumor microenvironment and guides the rational design of EGFR-targeted immunotherapies.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Second-Generation
+AOH1996 Analogues with Enhanced
+Pharmacological Properties for Targeting PCNA</title>
+<link>https://pubs.acs.org/jmcmar/article/doi/10.1021/acs.jmedchem.6c01185/5432743/Second-Generation-AOH1996-Analogues-with-Enhanced</link>
+<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01185</guid>
+<pubDate>Fri, 18 Sep 2026 13:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Proliferating Cell
+Nuclear Antigen (PCNA) plays a critical
+role
+in at least 11 distinct cellular pathways. Tumor cells express an
+acidic isoform of the protein (caPCNA), while nonmalignant cells express
+only a basic isoform (nmPCNA). We previously identified AOH1996 as
+a first-in-class, orally bioavailable small molecule that selectively
+inhibits caPCNA-mediated activities. In this study, second-generation
+AOH analogues with enhanced pharmacological properties were created
+through scaffold optimization, with &lt;strong&gt;AOH2.60&lt;/strong&gt; and &lt;strong&gt;AOH2.58&lt;/strong&gt; incorporating 3-methoxy-5-methyl substitutions (Scaffold
+A) and, respectively, 6-fluoro or 6-cyano on the 1-naphthoyl moiety
+(Scaffold D). The compounds &lt;strong&gt;AOH2.60&lt;/strong&gt; and &lt;strong&gt;AOH2.58&lt;/strong&gt; exhibited 9.6-fold and 6.6-fold increased potency across multiple
+cancer cell lines without affecting normal cells, and 38% and 68%
+greater microsomal stability relative to AOH1996, warranting further
+development as anticancer therapeutic agents. In cell-based assays,
+both compounds induced robust G&lt;sub&gt;2&lt;/sub&gt;/M arrest at lower concentrations
+than the parent molecule and significantly enhanced transcription–replication
+conflicts in pancreatic cancer cells.&lt;/span&gt;</description>
+</item>
+<item>
 <title>A Structural
 Perspective on Non-covalent Targeting
 of Conserved Polar Residues in Protein Kinases</title>
@@ -1436,111 +1560,6 @@ its roles in normal physiology and disease.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00965</guid>
 <pubDate>Wed, 15 Jul 2026 12:14:19 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jmedchem.6c00965/asset/images/medium/jm6c00965_0014.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00965&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Discovery of BBI-355, a Potent, Selective, and Orally Available Checkpoint Kinase 1 Inhibitor for the Treatment of Extrachromosomal DNA Oncogene-Amplified Cancers</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00822</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00822</guid>
-<pubDate>Wed, 15 Jul 2026 07:58:50 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jmedchem.6c00822/asset/images/medium/jm6c00822_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00822&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Discovery of Stapled Peptide MYC Degrader with Potent In Vivo Activities for Triple-Negative Breast Cancer Therapy</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00442</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00442</guid>
-<pubDate>Tue, 14 Jul 2026 12:20:37 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c00442/1/m_jm6c00442_0012.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00442&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] The Mycobacterial cyt-bc1:aac3 Oxidase as a Drug Target: Activities of Arylvinylpiperazine Amides and Aminoquinazolines against Mycobacterium ulcerans</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c01076</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01076</guid>
-<pubDate>Tue, 14 Jul 2026 09:15:54 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c01076/1/m_jm6c01076_0018.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c01076&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Circular Bivalent Aptamer Chimeras Leveraging LDLR-Mediated Lysosomal Shuttling for Targeted Protein Degradation</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c01278</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01278</guid>
-<pubDate>Tue, 14 Jul 2026 08:54:50 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/15/10.1021_acs.jmedchem.6c01278/1/m_jm6c01278_0007.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c01278&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Expanding Addressable KRAS Mutations through the Structure- and Property-Based Design of Dual-State (GDP/GTP), Reversible Pan-KRAS Inhibitors</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c01325</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01325</guid>
-<pubDate>Tue, 14 Jul 2026 07:18:21 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c01325/1/m_jm6c01325_0020.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c01325&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Cisproplatin: A Redox-Activatable Cisplatin-Probenecid Pt(IV) Conjugate with Broad NCI-60 Potency that Decouples Antitumor Efficacy from Dose-Limiting Toxicity and Suppresses CIPN</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00253</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00253</guid>
-<pubDate>Tue, 14 Jul 2026 05:39:56 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c00253/1/m_jm6c00253_0015.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00253&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Rational Design and Discovery of CZx-243: A Highly Stable and Orally Bioavailable Triazole CYP51 Inhibitor for the Treatment of Invasive Fungal Infections</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c01073</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01073</guid>
-<pubDate>Tue, 14 Jul 2026 05:11:55 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c01073/1/m_jm6c01073_0019.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c01073&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Riding toward Selectivity: Optimization of Covalent 7-Azaindole-Based BMX Kinase Inhibitors</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c01366</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01366</guid>
-<pubDate>Mon, 13 Jul 2026 12:43:03 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c01366/1/m_jm6c01366_0021.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c01366&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Discovery of Novel LRPPRC Inhibitors Featuring a Biphenyl-Acylhydrazone Scaffold with Potent Broad-Spectrum Antitumor Activity</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00936</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00936</guid>
-<pubDate>Mon, 13 Jul 2026 12:40:59 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c00936/1/m_jm6c00936_0019.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00936&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Copper(II)-Mediated Mitochondria-Targeting in Cancer Cells</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00588</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00588</guid>
-<pubDate>Mon, 13 Jul 2026 12:08:10 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c00588/1/m_jm6c00588_0008.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00588&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Discovery of Tivumecirnon (FLX475), a Potent and Selective CCR4 Antagonist That Inhibits the Migration of Immunosuppressive Regulatory T Cells into the Tumor Microenvironment to Restore Antitumor Immunity</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00683</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00683</guid>
-<pubDate>Mon, 13 Jul 2026 10:00:51 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/15/10.1021_acs.jmedchem.6c00683/1/m_jm6c00683_0012.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00683&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] X-ray Crystallography-Guided Design and Synthesis of Cyclopentyl Heteroaryl Carboxylic Acid-Based Inhibitors of the SARS-CoV-2 Nsp3 Macrodomain (Mac1)</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00236</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00236</guid>
-<pubDate>Mon, 13 Jul 2026 05:53:13 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c00236/1/m_jm6c00236_0031.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00236&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Research Progress and Challenges of Anti-monkeypox Virus Drugs Targeting F13 Protein</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c01610</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c01610</guid>
-<pubDate>Mon, 13 Jul 2026 01:42:27 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c01610/1/m_jm6c01610_0011.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c01610&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Targeted Degradation of Capsid by Host-Hijacking PROTAC Overcomes Drug Resistance</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00553</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00553</guid>
-<pubDate>Sun, 12 Jul 2026 10:34:28 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c00553/1/m_jm6c00553_0012.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00553&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] An Iridium(III) Complex Induces Immunogenic Methuosis and Reprograms Tumor-Associated Macrophages for Chemoimmunotherapy against KRAS-Mutated Tumors</title>
-<link>http://dx.doi.org/10.1021/acs.jmedchem.6c00806</link>
-<guid>http://dx.doi.org/10.1021/acs.jmedchem.6c00806</guid>
-<pubDate>Sun, 12 Jul 2026 06:01:48 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jmcmar/69/14/10.1021_acs.jmedchem.6c00806/1/m_jm6c00806_0007.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Medicinal Chemistry&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jmedchem.6c00806&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

@@ -5,6 +5,140 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Assessing the Generalizability
+of Machine Learning
+and Physics-Based Methods with DNA-Encoded Libraries</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01611/5432946/Assessing-the-Generalizability-of-Machine-Learning</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01611</guid>
+<pubDate>Fri, 18 Sep 2026 17:00:33 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predicting protein–ligand binding is a central
+challenge
+in computational drug discovery, and while machine learning (ML) and
+cofolding methods have advanced rapidly, their ability to generalize
+beyond training or parametrization regimes remains insufficiently
+understood. DNA-encoded libraries (DELs) enable ultralarge screening
+of billions of molecules simultaneously, providing a useful testbed
+for evaluating these approaches at scale. A recent NeurIPS competition
+revealed that even top-performing ML models trained on DEL data failed
+at generalizing to out-of-distribution (OOD) chemical space. We investigated
+whether integrating structural modeling could bridge this generalization
+gap. We systematically assessed state-of-the-art ML, docking, and
+cofolding methods, including Schrödinger Glide, Rosetta GALigandDock,
+and Boltz-2 with three biologically diverse protein targets screened
+against libraries containing multiple DEL synthesis formats. While
+ML excels in-distribution, OOD hit discrimination is dependent on
+both the target and ligand context, with no single method consistently
+dominating. These findings demonstrate that benchmark performance
+alone is insufficient to predict OOD performance, highlighting the
+need for system-dependent evaluation of binding prediction methods.
+We provide an open-source package for assessing protein–ligand
+prediction methods and analyzing high-throughput screening data: DEL-iver.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AI Prediction of Future Antibiotics: Genome-Predicted
+Antimicrobial Peptides Are Stained with the Amino Acid Signature of
+Man-Made Synthetic Peptides</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02831/5432941/AI-Prediction-of-Future-Antibiotics-Genome</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02831</guid>
+<pubDate>Fri, 18 Sep 2026 16:00:35 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This letter compares
+the amino acid signatures of natural and artificial
+intelligence (AI)-predicted antimicrobial peptides. While natural
+peptides from different sources possess distinct signatures, the amino
+acid compositions of peptides predicted from venoms, amphibians, insects,
+and bacteria shared a common feature with higher leucine, lysine,
+and arginine similar to those of man-made synthetic peptides. This
+stunning finding underscores the need of the right data set for improving
+future AI prediction of genomic antimicrobial peptides.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Pose Reproduction,
+Cross Docking, Database Enrichment,
+and Reverse Docking Benchmarks for DOCK6, Vina, and AutoDock 4 with
+Emphasis on Approved Drugs</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01375/5432575/Pose-Reproduction-Cross-Docking-Database</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01375</guid>
+<pubDate>Fri, 18 Sep 2026 10:00:33 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;High-quality test sets to evaluate docking software help
+the community
+understand strengths and weaknesses of different methods and programs.
+In this work, we introduce SB2025, a calculation-ready set of 1,244
+protein-ligand complexes derived from the PDB, curated using literature-based
+ligand protonation states, and freely available in DOCK6, AutoDock
+Vina, and AutoDock 4 (AD4) formats. SB2025 includes 322 unique proteins,
+17 major protein classes, and ligands with a wide range of properties
+and flexibilities, making it a broad and challenging test set. FARMA2025,
+a specific subset of SB2025, contains 165 approved drugs bound to
+their pharmacological targets and closely mirrors the distribution
+of FDA drug target classes for small molecules through 2023 (&lt;span style="font-style:italic;"&gt;r&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.72). Comprehensive benchmarking was subsequently
+performed to evaluate pose reproduction (PR), cross-docking (CD),
+database enrichment (DE), and reverse docking (RD) under standardized
+conditions. Averaged PR success rate across triplicate runs for DOCK6
+was slightly improved compared to Vina (followed by AD4) using both
+the large SB2025 test set and the more drug-focused FARMA2025 test
+set. Conversely, CD matrix success rates for AD4 were more favorable
+than DOCK6 or Vina across 11 protein families. The programs all yielded
+substantial early DE; however, the number of active ligands in common
+between the programs within the top 1% of the database, with one exception,
+was surprisingly low. Challenging RD tests using FARMA2025, which
+gauge the ability to correctly rank the cognate structure best, indicate
+that generating the correct ligand pose is necessary but not sufficient.
+SB2025, FARMA2025, and example scripts and protocols for benchmarking
+are available at ringo.ams.stonybrook.edu (downloads) and github.com/rizzolab.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Public Database
+Leakage Distorts Model Rankings in
+Real-Spectra NMR Structure Elucidation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02552/5432510/Public-Database-Leakage-Distorts-Model-Rankings-in</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02552</guid>
+<pubDate>Fri, 18 Sep 2026 08:00:34 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Sequence models that translate NMR spectra into molecular
+structures
+report up to 96% top-1 accuracy, but they are pretrained on simulated
+spectra and tested on public databases that can overlap those corpora.
+We build a leakage-controlled benchmark on nmrshiftdb2 and find that
+26.9% of public molecules are exact training-corpus matches under
+a stated identity rule, with substantial training-set proximity remaining
+after exact-match removal. On the wider exact-match-removed real-spectrum
+cohort, released-model top-1 accuracy is 24.4% (95% CI 23.3–25.6%).
+A training-free rerank using molecular formula and &lt;sup&gt;13&lt;/sup&gt;C-peak
+count consistency raises it to 31.1% (29.9–32.4%), supporting
+leakage-controlled evaluation and decode-time consistency checks before
+claims of experimental generalization for simulation-pretrained inverse
+models.&lt;/span&gt;</description>
+</item>
+<item>
+<title>CoTAR: Topology
+and Atomic State Reconstruction in
+Condensed Phases</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02184/5432390/CoTAR-Topology-and-Atomic-State-Reconstruction-in</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02184</guid>
+<pubDate>Fri, 18 Sep 2026 06:00:49 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Universal machine learning interatomic potentials (uMLIPs)
+enable
+performing condensed-phase molecular dynamics (MD) simulations with
+accuracy approaching that of first-principles; however, their lack
+of explicit molecular topology limits bond-aware analysis and reconnection
+to classical force fields. This study presents CoTAR, a hybrid graph
+neural network (GNN)–hidden Markov model (HMM) framework that
+reconstructs bond connectivity and order, formal charges, and unpaired
+electrons from atomic species and coordinates by combining learned
+local environments, chemical constraints, and temporal smoothing.
+After joint fine-tuning with 20 labeled snapshots per benchmark system,
+CoTAR achieved category-macro bond and conditional bond-order F1 scores
+of 0.992 and 0.998 and chemically valid snapshots of 82.1% across
+128 uMLIP systems. Zero-shot tests were successful for all tested
+nonionic systems but revealed persistent formal-charge errors in ionic
+mixtures. For successfully reconnected systems, the reconstructed-topology
+simulation results showed close agreement with the reference-topology
+results for the density, element-resolved diffusion, and intermolecular
+radial distribution functions. These results establish CoTAR as a
+practical route from topology-free uMLIP trajectories to chemically
+complete molecular representations within the present scope of nonreactive,
+topology-preserving systems.&lt;/span&gt;</description>
+</item>
+<item>
 <title>CUE: A Chemical
 Uncertainty-Aware Embedding Framework
 for Multimodal Drug Selectivity Prediction</title>
@@ -3843,41 +3977,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00527</guid>
 <pubDate>Thu, 16 Jul 2026 07:41:15 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00527/asset/images/medium/ci6c00527_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00527&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] NMR-AI: An Open Platform for NMR-Enhanced Molecular Representations and Physicochemical Property Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01026</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01026</guid>
-<pubDate>Thu, 16 Jul 2026 06:57:28 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01026/asset/images/medium/ci6c01026_0003.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01026&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Learning Diffusion from Sparse Data: A Machine-Learning Bridge between Molecular Motion and Macroscopic Transport</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00770</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00770</guid>
-<pubDate>Thu, 16 Jul 2026 06:42:51 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00770/asset/images/medium/ci6c00770_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00770&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Benchmarking Docking Protocols on Predicting Alternative Binding Modes</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00356</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00356</guid>
-<pubDate>Thu, 16 Jul 2026 04:53:37 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00356/asset/images/medium/ci6c00356_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00356&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Functionally Guided Graph Learning for Robust Cross-Patient Cell-Type Annotation in Single-Cell RNA Sequencing</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01857</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01857</guid>
-<pubDate>Wed, 15 Jul 2026 07:13:09 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01857/asset/images/medium/ci6c01857_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01857&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] HELM-BERT: Topology-Aware Representations for Chemically Modified Peptides</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00451</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00451</guid>
-<pubDate>Wed, 15 Jul 2026 04:33:51 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00451/asset/images/medium/ci6c00451_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00451&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
