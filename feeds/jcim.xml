@@ -5,6 +5,34 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>REAPS: An All-Atom
+Receptor-Aware Geometric Deep Learning
+Framework for  De Novo  Design of Linear and Macrocyclic
+Peptide Binders</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02057/5433249/REAPS-An-All-Atom-Receptor-Aware-Geometric-Deep</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02057</guid>
+<pubDate>Sat, 19 Sep 2026 14:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02057/5433249/REAPS-An-All-Atom-Receptor-Aware-Geometric-Deep"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02057/1/m_ci6c02057_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Peptide therapeutics occupy a critical niche between
+small molecules
+and biologics, yet the sequence design of peptide binders remains
+challenging because their bioactive conformations and interfacial
+fitness are dictated by the receptor microenvironment. Current computational
+approaches largely treat this as a generic inverse folding problem
+that relies on backbone geometry alone, overlooking the detailed physicochemical
+constraints of the receptor pocket. To bridge this gap, we introduce
+the REceptor-Aware Peptide Sequence Designer (REAPS), a geometric
+graph neural network that reframes sequence design for peptide binders
+by treating the receptor as a fully observable all-atom context. Multidimensional
+evaluations show that REAPS outperforms the widely used inverse folding
+model ProteinMPNN in sequence recovery, structural fidelity, and interface-level
+biophysical metrics across both linear and macrocyclic peptide binders.
+We further integrate REAPS with structural hallucination in a closed-loop &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; discovery pipeline, yielding peptide candidates
+with experimentally verified functional activity at the neurokinin-3
+receptor (NK3R). The source code, model checkpoints, processed data
+sets, preprocessing scripts, and an example design workflow are publicly
+available at https://github.com/Mistletoe-git/REAPS.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Assessing the Generalizability
 of Machine Learning
 and Physics-Based Methods with DNA-Encoded Libraries</title>
@@ -3970,13 +3998,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00408</guid>
 <pubDate>Thu, 16 Jul 2026 09:00:03 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00408/asset/images/medium/ci6c00408_0014.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00408&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] LINKER: Learning Interactions between Functional Groups and Residues with Chemical Knowledge-Enhanced Reasoning and Explainability</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00527</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00527</guid>
-<pubDate>Thu, 16 Jul 2026 07:41:15 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00527/asset/images/medium/ci6c00527_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00527&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
