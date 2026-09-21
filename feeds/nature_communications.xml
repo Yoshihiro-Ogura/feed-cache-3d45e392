@@ -5,6 +5,13 @@
 <link>http://feeds.nature.com/ncomms/rss/current</link>
 <description>Nature Communications (mirrored feed)</description>
 <item>
+<title>Memristive singular value decomposition</title>
+<link>https://www.nature.com/articles/s41467-026-76272-2</link>
+<guid>10.1038/s41467-026-76272-2</guid>
+<pubDate>2026-09-20</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://www.nature.com/articles/s41467-026-76272-2"&gt;&lt;img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-76272-2/MediaObjects/41467_2026_76272_Fig1_HTML.png" alt="Representative article figure" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Representative article figure (not a graphical abstract)&lt;/em&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;&lt;p&gt;Nature Communications, Published online: 20 September 2026; &lt;a href="https://www.nature.com/articles/s41467-026-76272-2"&gt;doi:10.1038/s41467-026-76272-2&lt;/a&gt;&lt;/p&gt;Efficient processing of high-dimensional datasets demands minimal information loss and reduced computational complexity. Ding et al. report a memristor-based system that boosts data simplification efficiency and accuracy, supporting applications in image reconstruction, biomedical signal analysis, and LLM fine tuning.</description>
+</item>
+<item>
 <title>Single-fiber hyperspectral imaging via nanophotonic disordered dispersion</title>
 <link>https://www.nature.com/articles/s41467-026-77550-9</link>
 <guid>10.1038/s41467-026-77550-9</guid>
@@ -1046,13 +1053,6 @@
 <guid>10.1038/s41467-026-77282-w</guid>
 <pubDate>2026-09-02</pubDate>
 <description>&lt;p&gt;Nature Communications, Published online: 02 September 2026; &lt;a href="https://www.nature.com/articles/s41467-026-77282-w"&gt;doi:10.1038/s41467-026-77282-w&lt;/a&gt;&lt;/p&gt;Spin-photon interfaces based on telecom wavelength quantum dots require long-lived spin qubits for quantum networking applications. Here, the authors demonstrate a hole spin dephasing time exceeding 20 ns in a telecom band quantum dot integrated in a circular Bragg grating, setting a new benchmark for spin coherence in this platform.</description>
-</item>
-<item>
-<title>Trifluoroacetate mediated reduction of atherosclerosis in mice</title>
-<link>https://www.nature.com/articles/s41467-026-77341-2</link>
-<guid>10.1038/s41467-026-77341-2</guid>
-<pubDate>2026-09-02</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 02 September 2026; &lt;a href="https://www.nature.com/articles/s41467-026-77341-2"&gt;doi:10.1038/s41467-026-77341-2&lt;/a&gt;&lt;/p&gt;Trifluoroacetate (TFA), long assumed to be an inert peptide counterion, is a bioactive modulator of PPARα signaling that induces peroxisome proliferation, alters lipid metabolism, and attenuates atherosclerosis in mice.</description>
 </item>
 </channel>
 </rss>

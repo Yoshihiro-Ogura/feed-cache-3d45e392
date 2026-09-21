@@ -5,6 +5,15 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>[Graphical abstract added] Assessing the Generalizability
+of Machine Learning
+and Physics-Based Methods with DNA-Encoded Libraries</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01611/5432946/Assessing-the-Generalizability-of-Machine-Learning?acs_ga=1</link>
+<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01611</guid>
+<pubDate>Mon, 21 Sep 2026 02:03:22 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01611/5432946/Assessing-the-Generalizability-of-Machine-Learning"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01611/1/m_ci6c01611_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
 <title>REAPS: An All-Atom
 Receptor-Aware Geometric Deep Learning
 Framework for  De Novo  Design of Linear and Macrocyclic
@@ -39,7 +48,7 @@ and Physics-Based Methods with DNA-Encoded Libraries</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01611/5432946/Assessing-the-Generalizability-of-Machine-Learning</link>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01611</guid>
 <pubDate>Fri, 18 Sep 2026 17:00:33 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predicting protein–ligand binding is a central
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01611/5432946/Assessing-the-Generalizability-of-Machine-Learning"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01611/1/m_ci6c01611_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predicting protein–ligand binding is a central
 challenge
 in computational drug discovery, and while machine learning (ML) and
 cofolding methods have advanced rapidly, their ability to generalize
@@ -3991,13 +4000,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c00694</guid>
 <pubDate>Thu, 16 Jul 2026 09:43:43 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00694/asset/images/medium/ci6c00694_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00694&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] HELMify: A Hybrid Rule- and LLM-Based Generator of Peptide Monomer HELM Names</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00408</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00408</guid>
-<pubDate>Thu, 16 Jul 2026 09:00:03 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00408/asset/images/medium/ci6c00408_0014.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00408&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
