@@ -5,6 +5,166 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>SwinTransRNA: A Swin Transformer-Based Framework for
+Accurate Prediction of RNA Subcellular Localization</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02004/5434788/SwinTransRNA-A-Swin-Transformer-Based-Framework</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02004</guid>
+<pubDate>Tue, 22 Sep 2026 01:00:38 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;RNA
+subcellular localization determines the regulatory context
+in which microRNAs (miRNAs), circular RNAs (circRNAs), and long noncoding
+RNAs (lncRNAs) exert their functions, yet these RNA classes differ
+greatly in sequence length and circularity, making fixed-length raw-sequence
+representations inconvenient for cross-RNA comparison. Here, we present
+SwinTransRNA, a unified framework that encodes each RNA as a length-normalized
+64 × 64 frequency chaos game representation (FCGR) of 6-mer composition,
+where every cell carries a fixed 6-mer identity and the matrix entries
+sum to one, enabling direct comparison across sequence lengths. A
+hierarchical window-attention network captures localized interactions
+among neighboring composition regions and enlarges the receptive field
+through shifted windows and patch merging. On audited benchmark data
+sets for nuclear/cytoplasmic lncRNA, nuclear/cytoplasmic circRNA,
+and intracellular/extracellular miRNA classification, SwinTransRNA
+achieves the highest accuracy and F1 among the compared methods on
+all three tasks (0.748/0.723, 0.914/0.908, and 0.819/0.823 for lncRNA,
+miRNA, and circRNA, respectively), surpassing RNALight and RNALoc-LM.
+Ablations show consistent gains over one-hot Transformer baselines
+and classical FCGR-based classifiers, while feature-space and curve-level
+analyses characterize the complementary contributions of the FCGR
+representation and the window-attention backbone. The main novelty
+lies in combining an order-traceable FCGR with hierarchical window
+attention under a reproducible protocol: five-seed repeats, confidence
+intervals, and paired tests quantify comparison uncertainty, and patch-embedding
+heatmaps with candidate motif screens expose the patterns prioritized
+by the model. The unified implementation, traceable sequence processing,
+and compact 4.25-million-parameter model provide a fixed-dimensional,
+auditable basis for RNA localization prediction and pattern prioritization.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Multiparadigm Benchmark
+of Molecular Docking: From
+Physics to Co-Folding and Hybrid Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01293/5434364/Multiparadigm-Benchmark-of-Molecular-Docking-From</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01293</guid>
+<pubDate>Mon, 21 Sep 2026 13:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Generalizability of molecular docking predictions across
+novel
+protein targets and distinct small-molecule chemotypes is key to the
+successful application of deep learning co-folding approaches in drug
+discovery, as highlighted by recent benchmarks, including Runs-n-Poses
+[
+
+Nat. Struct. Mol. Biol.
+2026, 33, 782–794.]. To compare
+generalizability across physics-based, hybrid rescoring models, and
+co-folding approaches, we systematically benchmarked several molecular
+docking tools representing these paradigms. Our results support previous
+observations that co-folding approaches show superior performance
+on targets resembling their training datasets. However, they deteriorate
+sharply to unacceptably low 20–40% success rates on novel dissimilar
+systems, consistent with memorization. In contrast, physics-based
+and hybrid methods exhibit greater out-of-distribution robustness,
+maintaining more than 60% success rates for docking protein–ligand
+complexes with minimal similarity to previously known complexes. Our
+results highlight the complementarity of AI-based approaches and methods
+based on physical sampling in all-atom models, in terms of their applicability
+range, and argue for the benefits of tighter integration.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Systematic Evaluation of Molecule Generation Models
+for  De Novo  Drug Design: From Benchmarks to Practical
+Insights</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02405/5433695/A-Systematic-Evaluation-of-Molecule-Generation</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02405</guid>
+<pubDate>Mon, 21 Sep 2026 09:00:39 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecule
+generation has emerged as a powerful computational tool
+for &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; drug design, enabling the exploration
+of the chemical space beyond the limits of conventional virtual screening.
+The field has progressed rapidly, driven by advances in molecular
+representations, generative architectures, and target-aware modeling
+strategies. However, existing reviews typically address specific model
+families or application scenarios in isolation rather than offering
+an integrated perspective on how these components collectively form
+a coherent generation workflow. In this review, we present a comprehensive
+evaluation of molecule generation models for &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; drug design, covering 82 methods across five deep generative frameworks,
+including recurrent neural network (RNN)- and transformer-based models,
+variational autoencoders (VAEs), generative adversarial networks (GANs),
+flow-based models, and diffusion models. We first summarize widely
+used benchmarks and molecular representations and then examine the
+methodological principles underlying both general and pocket-conditioned
+generation. A central contribution of this work is a systematic synthesis
+and comparative analysis of the reported performance across commonly
+used benchmarks and evaluation metrics. We also summarize representative
+experimentally validated cases. Looking ahead, we discuss future directions
+in standardized 3D data, interaction-aware generation, receptor flexibility,
+and multiobjective molecular design, with the aim of improving the
+reliability and experimental relevance of molecule generation. All
+collected benchmark resources, evaluation metrics, and model references
+are provided in a publicly accessible repository at https://github.com/JacklinGroup/molecule-generation-review.&lt;/span&gt;</description>
+</item>
+<item>
+<title>HDACiAP: A Curated
+Database and Analytical Platform
+for Histone Deacetylase Inhibitors</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00572/5433648/HDACiAP-A-Curated-Database-and-Analytical-Platform</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00572</guid>
+<pubDate>Mon, 21 Sep 2026 06:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Histone deacetylases (HDACs) are pivotal epigenetic regulators
+that are aberrantly expressed in various cancers, making them prominent
+targets for anticancer drug development. Herein, we present HDACiAP
+(https://hdac.kangsgo.cn), a meticulously curated, comprehensive database and analytical
+platform dedicated to HDAC inhibitors. HDACiAP currently encompasses
+32,721 compounds with 123,154 bioactivity records, integrating multidimensional
+data such as physicochemical properties, biological activities, toxicity
+predictions, compound selectivity annotations, computationally generated
+docking poses, and protein–ligand interaction profiles. The
+platform incorporates built-in molecular docking and integrated machine
+learning and deep learning-based prediction modules, enabling users
+to evaluate the potency of novel compounds. Additionally, HDACiAP
+offers an intuitive visualization interface, multimodal search capabilities,
+and programmatic access via RESTful APIs. In summary, by providing
+a curated bioactivity resource together with computational docking
+annotations and predictive models, HDACiAP offers a practical platform
+for exploring HDAC inhibitor chemical space, supporting preliminary
+virtual screening, and facilitating AI-assisted discovery of HDAC-targeted
+compounds.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Multiscale Interpretable
+Deep-Learning Framework for
+the Identification and Visualization of Deformation Stages in Molecular
+Dynamics Trajectory</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01426/5433640/Multiscale-Interpretable-Deep-Learning-Framework</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01426</guid>
+<pubDate>Mon, 21 Sep 2026 06:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Microscopic deformation stage recognition
+from molecular
+dynamics
+(MD) trajectories is crucial for understanding the evolution of material
+damage; however, traditional empirical analysis and black-box single
+deep-learning models lack both high-throughput spatiotemporal modeling
+and transparent physical interpretability. This work develops a multiscale
+interpretable deep-learning framework to automatically classify elastic,
+plastic, and fracture stages from uniaxial tensile MD trajectories
+and physically decode model decision logic. First, a 3D atomic trajectory
+is converted to 2D gray-scale image sequences; a CNN-LSTM hybrid architecture
+is built to jointly extract spatial atomic textures and long-time
+deformation dynamics, reaching 98.8% test accuracy and far surpassing
+spatial-only CNN baselines in both supervised classification and unsupervised
+clustering. More importantly, a hierarchical multiscale interpretability
+toolkit, including multilayer feature heatmaps, smoothed gradient
+saliency maps, gradient-weighted class activation maps, and regularized
+SHAP attribution, is integrated to quantify positive/negative feature
+contributions and localize model focus regions. The visualized attention
+zones perfectly match core physical fields (von Mises strain, atomic
+displacement, and nonaffine deformation), resolving the explainability
+gap of conventional MD data mining pipelines. This work establishes
+a generalizable, trustworthy AI paradigm that connects data-driven
+prediction to intrinsic microscale mechanical mechanisms for computational
+material research.&lt;/span&gt;</description>
+</item>
+<item>
 <title>[Graphical abstract added] Assessing the Generalizability
 of Machine Learning
 and Physics-Based Methods with DNA-Encoded Libraries</title>
@@ -3965,41 +4125,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01401</guid>
 <pubDate>Thu, 16 Jul 2026 12:58:19 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01401/asset/images/medium/ci6c01401_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01401&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Quantum Pharmacophore-Based Virtual Screening Enables Prospective Discovery of Chemotype-Diverse Dengue NS5 Inhibitors</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01051</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01051</guid>
-<pubDate>Thu, 16 Jul 2026 12:43:19 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01051/asset/images/medium/ci6c01051_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01051&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Familywise Feature Importance Stability in Chemical and Materials Machine Learning</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00893</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00893</guid>
-<pubDate>Thu, 16 Jul 2026 11:02:34 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00893/asset/images/medium/ci6c00893_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00893&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] BenzDB, an Exhaustive Database of Benzenoids up to Nine 6-Membered Rings</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01744</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01744</guid>
-<pubDate>Thu, 16 Jul 2026 10:09:09 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01744/asset/images/medium/ci6c01744_0013.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01744&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Unveiling the KRAS Relationship between Affinity and Dynamics: A Molecular Simulations Study</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01239</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01239</guid>
-<pubDate>Thu, 16 Jul 2026 09:44:04 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01239/asset/images/medium/ci6c01239_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01239&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Assessing Molecular Contacts Using Atom Environments Described by Ranked Lists</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00694</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00694</guid>
-<pubDate>Thu, 16 Jul 2026 09:43:43 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00694/asset/images/medium/ci6c00694_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00694&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

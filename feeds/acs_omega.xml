@@ -5,6 +5,909 @@
 <link>https://pubs.acs.org/rss/acsodf/asap.xml</link>
 <description>ACS Omega (mirrored feed)</description>
 <item>
+<title>A Four-Mirror Incoherent Broadband Cavity-Enhanced
+Absorption Spectrometer for Trace Gas Detection</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04683/5434785/A-Four-Mirror-Incoherent-Broadband-Cavity-Enhanced</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c04683</guid>
+<pubDate>Tue, 22 Sep 2026 01:00:38 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;A four-mirror resonator-based
+incoherent broadband cavity-enhanced
+absorption spectrometer (IBBCEAS) is demonstrated for the first time
+for sensitive trace gas detection. The proposed geometry addresses
+limitations of conventional linear cavities by enabling enhanced alignment
+flexibility and multiplexed detection through multiple output ports,
+allowing selective sensitivity optimization for simultaneous multispecies
+measurements. The resonator, constructed using four high-reflectivity
+dielectric mirrors (∼99.9% and ∼99.98% over 400–550
+nm), provides a long effective optical path length within a compact
+footprint, while the transmitted light is detected using a CCD array
+for high-resolution broadband analysis. The optical stability of the
+cavity is evaluated theoretically based on cavity length and mirror
+radius of curvature. Laboratory experiments demonstrate a detection
+limit of 0.3 Mm&lt;sup&gt;1–&lt;/sup&gt; at 60 s averaging in the 480–550
+nm region. Instrument performance is validated using calibrated concentrations
+of nitrogen dioxide and iodine. Owing to its flexibility, stability,
+and capability for selective sensitivity enhancement, the proposed
+system is well suited for field deployment and identifying wide range
+of gas detection in space-constrained environments.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Paeoniflorin Attenuates
+Radiation-Induced Brain Injury
+Associated with Modulation of Microglial Polarization and ERK/MAPK
+Signaling</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c03490/5434783/Paeoniflorin-Attenuates-Radiation-Induced-Brain</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c03490</guid>
+<pubDate>Tue, 22 Sep 2026 01:00:38 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;Background&lt;/span&gt;: Radiation-induced brain
+injury (RIBI)
+is a common side effect of cranial radiotherapy that severely impairs
+patients’ neurological function and quality of life. Currently,
+effective and safe remedies for RIBI remain limited. Paeoniflorin
+(PF), a key component of total glucosides of paeony (TGP) extracted
+from the root of &lt;span style="font-style:italic;"&gt;Paeonia lactiflora&lt;/span&gt;, is a traditional
+Chinese herbal compound with well-documented anti-inflammatory, antioxidant,
+and neuroprotective benefits. Our prior research demonstrated that
+TGP alleviates RIBI; however, its deeper protective mechanisms are
+still unknown. &lt;span style="font-style:italic;"&gt;Purpose&lt;/span&gt;: The purpose of this study
+was to investigate the protective mechanisms of TGP against RIBI,
+focusing on the effects of PF on microglial polarization. &lt;span style="font-style:italic;"&gt;Methods&lt;/span&gt;: In vivo, we assessed the effects of TGP on microglial
+polarization using immunofluorescence colocalization analysis. In
+vitro, we evaluated the effects of PF on microglial polarization through
+CCK-8, qRT-PCR, flow cytometry, Western blot, and ELISA. Additionally,
+we utilized network pharmacology, molecular docking, and molecular
+dynamics simulations, together with qRT-PCR and Western blotting,
+to investigate the key pathway molecules involved in PF’s modulation
+of microglial polarization. &lt;span style="font-style:italic;"&gt;Results&lt;/span&gt;: In vivo, TGP
+attenuated radiation-induced alterations in microglial polarization
+by decreasing the expression of M1-associated markers and increasing
+the expression of M2-associated markers. Consistently, PF modulated
+radiation-induced BV2 cell polarization by decreasing the level of
+M1-associated marker expression and increasing the level of M2-associated
+marker expression. Mechanistic analyses suggest that ERK signaling
+may be involved in the regulation of microglial polarization induced
+by the PF. &lt;span style="font-style:italic;"&gt;Conclusion&lt;/span&gt;: TGP and its major bioactive
+component, PF, may attenuate RIBI by modulating microglial polarization,
+with the ERK signaling pathway potentially involved in this process,
+supporting the potential of PF as a candidate strategy for RIBI.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Enhancing Solubility
+Predictions of Plastic Additives
+in Depolymerization Solvents Using Quantum Chemical Conformer Analysis
+and COSMO-RS</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04278/5434774/Enhancing-Solubility-Predictions-of-Plastic</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c04278</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The success of recycling plastics by means of depolymerization
+requires the selective purification of regenerated monomers from complex
+mixtures. This can be assisted by accurate prediction of the phase
+behavior of large, flexible, and multifunctional additive molecules,
+which remains a challenge for current thermodynamic models. In this
+study, the solubility of 11 representative additives and three PET
+monomers was measured in two common depolymerization solvents, water
+and ethylene glycol, covering a wide range from practically insoluble
+(&amp;lt;1 ppm) to 41.6 wt %. To benchmark predictive capabilities, a
+quantum-chemistry workflow was investigated, integrating RDKit conformer
+generation, Gaussian DFT optimizations, and COSMO-RS thermodynamic
+modeling. Systematic conformer sampling proved critical for bulky,
+high-molecular-weight additives such as antioxidants. A comparison
+of three Pople-type basis sets revealed a trade-off between computational
+cost and accuracy. The 6–311++G(d,p) basis set provided the
+best balance (RMSE = 1.31 log units), while 3–21+G(d) reduced
+computational cost at lower accuracy, and 6–311++G(3df,3pd)
+yielded only minor improvements for select cases at significantly
+higher cost. Prediction accuracy was highest for more soluble compounds
+but decreased with increasing molecular weight, conformational flexibility,
+and Gibbs free energy of fusion. To improve solid–liquid equilibrium
+predictions, melting points and fusion enthalpies were measured using
+DSC and compared with QSPR estimates. This combined computational-experimental
+approach supports the development of energy-efficient purification
+strategies in chemical recycling of condensation polymers such as
+PET.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Valorization of
+Modified Residual Durain Peel Biochar
+Loaded in Composite Beads for Enhancing Cu(II) Removal: Optimization
+and Performance Evaluation</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08809/5434447/Valorization-of-Modified-Residual-Durain-Peel</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c08809</guid>
+<pubDate>Mon, 21 Sep 2026 17:00:38 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Sustainable wastewater treatment requires the development
+of efficient
+adsorbents derived from agricultural residues. The durian peel biochar
+(B-DP) was proposed as a residual biomass adsorbent for such purposes.
+In this study, B-DP was activated  its functional groups using potassium
+hydroxide (KOH) prior to immobilization within a pectin/cellulose
+as modified durian peel biochar (mB-DP) composite beads for the removal
+of Cu(II)  from aqueous solutions. The surface functional groups and
+morphology were characterized using FTIR, BET, and SEM, respectively.
+The results confirmed an enhancement of oxygen-containing functional
+groups and the formation of a porous structure of mB-DP. The sufficient
+pH values for the removal and adsorption of Cu(II)  were 5.4 and 4,
+respectively. The pH at the point of zero charge of mB-DP was estimated
+to be 3.7. Kinetic analysis revealed that Cu(II) adsorption followed
+the pseudo-first-order model, indicating that the adsorption process
+relied on an unoccupied site on the adsorbent. The effects of initial
+Cu(II) concentration (50–150 ppm), contact time (2–5
+h), and adsorbent dosage (2–5 g/L) were optimized using central
+composite design coupled with response surface methodology. ANOVA
+results identified adsorbent dosage as the most significant factor
+for removal efficiency (&lt;span style="font-style:italic;"&gt;p&lt;/span&gt; &amp;lt; 0.0001). Under the
+optimal conditions (150 ppm initial concentration, 3.42 g/L dosage,
+and 2.5 h contact time), the predicted removal efficiency and adsorption
+capacity were 43.98% and 86.19 mg/g, respectively, which were in good
+agreement with the experimental results. The quadratic model exhibited
+high reliability, with an &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; value of
+0.98. XRD analysis supported the adsorption of Cu(II) onto the mB-DP
+composite beads. The mB-DP composite beads demonstrated an effective
+adsorbent for the remediation of heavy-metal-contaminated wastewater.
+The work embraced United Nations Sustainable Development Goals (UN-SDGs),
+i.e., #6, #12, and #14.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Defect-Mediated Charge Transfer in Y–Cd-Codoped
+ZnO: Enhanced Hydroxyl Radical Generation and Solar Photocatalytic
+Carbaryl Degradation</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05972/5434438/Defect-Mediated-Charge-Transfer-in-Y-Cd-Codoped</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05972</guid>
+<pubDate>Mon, 21 Sep 2026 16:00:34 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In this study, yttrium–cadmium
+codoped ZnO (YCdZnO) photocatalysts
+were synthesized and investigated for the sunlight-excited photocatalytic
+degradation of carbaryl (CBR). The photocatalytic degradation assays
+showed a pseudo-first-order degradation rate constant of 12.38 ×
+10&lt;sup&gt;–3&lt;/sup&gt; min&lt;sup&gt;–1&lt;/sup&gt;, approximately 2.08
+times that of bare ZnO (5.95 × 10&lt;sup&gt;–3&lt;/sup&gt; min&lt;sup&gt;–1&lt;/sup&gt;). The photocatalysts also retained over 48% degradation
+efficiency (DE) after four cycles. Scavenger tests indicated that
+hydroxyl radicals were the dominant reactive species during CBR degradation.
+Characterization of YCdZnO, including vibrational and structural analyses,
+revealed the formation of a hexagonal wurtzite structure without any
+impurity phases. This indicates the successful substitution of Y&lt;sup&gt;3+&lt;/sup&gt; and Cd&lt;sup&gt;2+&lt;/sup&gt; into the ZnO matrix. The Williamson–Hall
+plot indicated an increase in crystallinity. This was evidenced by
+a positive correlation between crystallite size and microstrain, attributed
+to ion substitution during the doping process. However, the smaller
+particle size with mesoporous features and increased surface area
+of YCdZnO can provide shorter carrier migration paths and more active
+sites. Optical investigations revealed an increase in visible-light
+absorption and a marginal narrowing of the band gap from 3.24 eV (ZnO)
+to 3.21 eV (YCdZnO). X-ray photoelectron spectroscopy (XPS) confirmed
+the presence of Zn&lt;sup&gt;2+&lt;/sup&gt;, Y&lt;sup&gt;3+&lt;/sup&gt;, Cd&lt;sup&gt;2+&lt;/sup&gt;,
+and defect-related states in YCdZnO, which served as electron traps
+to retard electron–hole recombination and promote hydroxyl
+radical generation. Furthermore, fluorescence spectra of YCdZnO present
+comparatively lower intensity for shallow Zn-related and surface oxygen-related
+defect states, implying enhanced carrier trapping and charge transfer.
+Therefore, the synergy of defect-related states, high surface areas,
+and increased solar-light absorption may favor the practical application
+of YCdZnO for sunlight-facilitated degradation of CBR.&lt;/span&gt;</description>
+</item>
+<item>
+<title>ZIF-8-Based Smart-Responsive
+Nanocomposites for Cutaneous
+Wound Healing: A Review</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05811/5434402/ZIF-8-Based-Smart-Responsive-Nanocomposites-for</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05811</guid>
+<pubDate>Mon, 21 Sep 2026 14:00:41 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cutaneous wound healing is a complex process that requires
+precise
+management. In recent years, intelligent, responsive biomaterials
+have played a crucial role in guiding wound healing through these
+stages in a physiologically ordered manner. Zeolitic imidazolate framework-8
+(ZIF-8), a subclass of metal–organic frameworks (MOFs), has
+received extensive attention in the biomedical field due to its intrinsic
+pH-responsive biodegradability, adjustable porosity and surface area,
+inherent antibacterial activity, and excellent biocompatibility. This
+Review provides a comprehensive and systematic overview of recent
+advances in ZIF-8-based smart-responsive nanocomposites for cutaneous
+wound repair. We first elaborate on the multifunctional roles of ZIF-8
+across distinct phases of the wound healing cascade, including anti-infection,
+hemostasis, inflammation, proliferation, and remodeling. Subsequently,
+we critically discuss diverse delivery strategies employing ZIF-8
+as a nanocarrier for therapeutic agents such as natural extracts,
+metals and their derivatives, biomacromolecules, functional drugs,
+and bioactive gases. A particular focus is placed on intelligent,
+responsive modifications of ZIF-8-based nanocomposites, which enable
+on-demand drug release and adaptive functionality in response to specific
+wound microenvironmental cues, including internal stimuli (temperature,
+pH, reactive oxygen species (ROS), glucose, and ATP) and external
+stimuli (light, magnetic fields, and ultrasound). Diverse application
+forms of ZIF-8 nanocomposites are extensively discussed, encompassing
+hydrogels, electrospun membranes, and microneedle patches. Finally,
+we present tailored design strategies of smart-responsive ZIF-8-based
+biomaterials for different wound scenarios, including diabetic wounds,
+infected wounds, burn injuries, and penetrating trauma. This Review
+aims to offer valuable insights and practical guidance for the rational
+design of next-generation intelligent wound care systems, while addressing
+current challenges and future perspectives in clinical translation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Multifunctional  O -Acyloximes
+as Near-UV- and Visible Light-Sensitive Photoinitiators</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06203/5434388/Multifunctional-O-Acyloximes-as-Near-UV-and</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06203</guid>
+<pubDate>Mon, 21 Sep 2026 13:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;O&lt;/span&gt;-Acyloximes having multiple fused aromatic
+rings
+and ferrocene as chromophores were proposed as multifunctional photoinitiators
+sensitive to near-UV and visible light, and their photochemical properties
+and initiating ability in photocuring and photocrosslinking were investigated.
+In addition to already published truxenone &lt;span style="font-style:italic;"&gt;O&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;O&lt;/span&gt;′,&lt;span style="font-style:italic;"&gt;O&lt;/span&gt;″-tris(phenylacetyl)trioxime
+(TruxAO), 9,10-anthraquinone &lt;span style="font-style:italic;"&gt;O&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;O&lt;/span&gt;′-bis(phenylacetyl)dioxime (AtqAO), 2,7-diacetylfluorene &lt;span style="font-style:italic;"&gt;O&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;O&lt;/span&gt;′-bis(phenylacetyl)dioxime (FluAO),
+and 1,1′-diacetylferrocene &lt;span style="font-style:italic;"&gt;O&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;O&lt;/span&gt;′-bis(phenylacetyl)dioxime (FerroAO) were newly prepared and
+compared with conventional diphenyl(2,4,6-trimethylbenzoyl)phosphine
+oxide (TPO) and 4,5-dimethoxy-2-nitrobenzyl benzylcarbamate. Steady-state
+UV–vis, fluorescence, &lt;sup&gt;1&lt;/sup&gt;H NMR, and IR spectral changes
+of FluAO, TruxAO, and FerroAO were consistent with already estimated
+C–N cleavage and the following reactions. HPLC study clarified
+their quantum yields of photolysis at 365 nm to be 0.012–0.034
+and the formation of benzylamine from TruxAO after derivatization
+with 2,4-dinitrofluorobenzene. However, AtqAO showed only photoisomerization.
+Photocuring of trimethylolpropane triacrylate at 365 nm was initiated
+by FluAO, TruxAO, and FerroAO with lower efficiency than TPO and that
+of the thiol–ene formulation composed of diallyl phthalate
+and pentaerythritol tetramercaptoacetate was possible with FluAO and
+TruxAO. TruxAO and FerroAO were photosensitive under visible light,
+and the former succeeded in the photocuring of both formulations.
+Also, poly(glycidyl methacrylate) films containing FluAO were crosslinked
+upon irradiation followed by postexposure bake due to photogenerated
+benzylamine.&lt;/span&gt;</description>
+</item>
+<item>
+<title>From Planktonic
+to Sedentary Lifestyle: Molecular
+Dissection of the Establishment and Maintenance of Mycobacterial Biofilm</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07807/5434377/From-Planktonic-to-Sedentary-Lifestyle-Molecular</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c07807</guid>
+<pubDate>Mon, 21 Sep 2026 13:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Biofilm represents a complex aggregation of bacteria
+embedded within
+a self-produced extracellular polymeric substance (EPS). We investigated
+the characteristics of mycobacterial biofilm using &lt;span style="font-style:italic;"&gt;Mycobacterium smegmatis&lt;/span&gt; (&lt;span style="font-style:italic;"&gt;Msm&lt;/span&gt;) as
+a model organism. By combining transcriptomic (RNA-seq) and proteomic
+(LC-MS) analyses, the research captures dynamic changes during the
+establishment and maturation of the biofilm. Transcriptomics analysis
+showed a distinct gene expression profile as compared to its planktonic
+form. Interestingly, clear differences were seen between initial (∼2-day
+old) and mature (∼5-day old) biofilm stages, highlighting phasic
+gene expression throughout biofilm development. Marked alteration
+in oxidative stress-related genes and energy metabolism from ATP to
+NADH was observed. Furthermore, quantitative mass spectrometry-based
+proteome examination of EPS showed an abundance of cytoplasmic proteins
+present differentially between initial and mature biofilm stages.
+Pathway enrichment revealed enhanced oxidative stress responses and
+metabolic shifts in mature biofilms, including upregulation of NADH
+dehydrogenase and downregulation of ATP synthase, indicating altered
+energy metabolism. Our findings thus provide insights into the molecular
+adaptations, including production of mycofactocin, occurring during
+mycobacterial biofilm establishment and maturation, and advance our
+understanding of mycobacterial biofilm physiology.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Surface Functionality
+Influences pH- and Solvent-Dependent
+Colloidal Stability of Cellulose Nanocrystals</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06143/5434376/Surface-Functionality-Influences-pH-and-Solvent</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06143</guid>
+<pubDate>Mon, 21 Sep 2026 13:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cellulose nanocrystals
+(CNCs) are promising sustainable
+nanomaterials
+for a wide range of applications. Yet, limitations remain in understanding
+their dispersion behavior in organic solvents and across pH conditions,
+especially after surface modification. In this work, CNCs were surface-functionalized
+with carboxy, amino, or vinyl groups and thoroughly characterized.
+Dispersion behavior was evaluated using dynamic light scattering,
+including measurements of hydrodynamic diameter and ζ-potential
+in water solutions at various pH levels and across different solvents.
+Colloidal stability strongly depends on surface functionality and
+solvent characteristics. A correlation with Kamlet-Abboud-Taft parameters
+was identified, linking dispersion behavior to solvent polarity and
+hydrogen-bonding ability, in relation to the pKa of the surface groups.
+These findings provide a semiquantitative framework for designing
+novel materials with CNC dispersions across diverse media.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Design, Synthesis, and In Vitro Evaluation of Pinostrobin-Based
+Hydrazones as Potent α-Glucosidase Inhibitors</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c03489/5434375/Design-Synthesis-and-In-Vitro-Evaluation-of</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c03489</guid>
+<pubDate>Mon, 21 Sep 2026 13:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Twenty-four pinostrobin
+hydrazone derivatives (&lt;strong&gt;TN01&lt;/strong&gt;–&lt;strong&gt;TN24&lt;/strong&gt;)
+were synthesized through two continuous
+steps from pinostrobin, hydrazone, and aldehyde derivatives, well
+characterized and screened for inhibitory activity against yeast α-glucosidase
+(&lt;span style="font-style:italic;"&gt;Saccharomyces cerevisiae&lt;/span&gt;). To further
+expand the chemical space, a QSAR-guided approach was employed, leading
+to the identification of four additional candidates (&lt;strong&gt;TN25&lt;/strong&gt;–&lt;strong&gt;TN28&lt;/strong&gt;). Eleven compounds exhibited &amp;gt;80% inhibition
+at 50 μM, outperforming acarbose, with most displaying IC&lt;sub&gt;50&lt;/sub&gt; values below 10 μM. Among them, &lt;strong&gt;TN27&lt;/strong&gt; showed
+the highest potency with an IC&lt;sub&gt;50&lt;/sub&gt; of 0.85 μM. Enzyme
+kinetic analysis confirmed a competitive inhibition mechanism, yielding
+a dissociation constant (K&lt;sub&gt;i&lt;/sub&gt;) of 3.56 μM. Molecular
+docking suggested favorable binding of &lt;strong&gt;TN27&lt;/strong&gt; within the
+active site of yeast α-glucosidase from &lt;span style="font-style:italic;"&gt;Saccharomyces cerevisiae&lt;/span&gt;. To elucidate its binding mechanism, 500
+ns molecular dynamics simulations were conducted in three independent
+replicas. Analysis of converged trajectories enabled end-point binding
+free energy calculations using MM/GBSA and QM-MM/GBSA methods, along
+with per-residue energy decomposition. These analyses revealed stable
+binding patterns driven by hydrophobic interactions and persistent
+hydrogen bonding with key catalytic residues. Collectively, the integrated
+experimental and multiscale computational results establish &lt;strong&gt;TN27&lt;/strong&gt; as a potent α-glucosidase inhibitor and demonstrate
+an effective strategy for rational lead identification and mechanistic
+validation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>18AA Reprograms the Pyruvate Cycle and Enhances Proton
+Motive Force to Potentiate Ceftazidime-Avibactam against Drug-Resistant  Escherichia coli</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08794/5434359/18AA-Reprograms-the-Pyruvate-Cycle-and-Enhances</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c08794</guid>
+<pubDate>Mon, 21 Sep 2026 13:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The rising threat
+of carbapenem-resistant Enterobacteriaceae demands
+novel strategies to restore antibiotic efficacy. Here we show that
+compound amino acid injection (18AA), a clinically approved parenteral
+nutrition formulation, markedly potentiates ceftazidime-avibactam
+(CZA) against multidrug-resistant and carbapenem-resistant &lt;span style="font-style:italic;"&gt;Escherichia coli&lt;/span&gt;. Checkerboard and Bliss independence analyses
+demonstrated strong synergy. Time-kill kinetics confirmed dose-dependent
+bactericidal enhancement across susceptible, multidrug-resistant,
+and carbapenem-resistant strains. In a panel of 113 clinical isolates,
+the combination significantly improved population-based killing efficacy
+(KE&lt;sub&gt;50&lt;/sub&gt; and KE&lt;sub&gt;90&lt;/sub&gt;) compared to CZA alone. Moreover,
+18AA prolonged the post-antibiotic effect, reduced mutation frequency,
+and delayed resistance development during serial passage over 15 cycles.
+Untargeted metabolomics revealed that 18AA induces profound metabolic
+reprogramming, with robust activation of the pyruvate cycle as the
+most prominent signature common to all tested strains; key biomarkers
+pyruvate, ketoglutarate, and succinate were identified. Mechanistically,
+18AA boosted the pyruvate cycle, increased NADH production, and elevated
+proton motive force (PMF), thereby promoting intracellular CZA accumulation,
+which was abrogated by the PMF uncoupler CCCP. Collectively, our findings
+establish 18AA as a promising metabolism-based adjuvant that rejuvenates
+CZA activity via the pyruvate cycle and PMF-dependent uptake, offering
+a readily translatable strategy against hard-to-treat &lt;span style="font-style:italic;"&gt;E. coli&lt;/span&gt; infections.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Real-Time Monitoring
+with a Wristwatch-Type Sodium-
+and Potassium-Ion Sensor Using a Screen-Printed Liquid-Junction Reference
+Electrode</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04240/5434357/Real-Time-Monitoring-with-a-Wristwatch-Type-Sodium</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c04240</guid>
+<pubDate>Mon, 21 Sep 2026 13:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Wearable ion sensors have gained increasing attention
+for the continuous
+noninvasive monitoring of ions in body fluids such as sweat. However,
+printed reference electrodes commonly used in potentiometric ion sensors
+require prolonged conditioning to achieve stable potentials, which
+limits practical wearable applications. Here, we integrated a screen-printed
+liquid-junction reference-electrode architecture with dual Na&lt;sup&gt;+&lt;/sup&gt;- and K&lt;sup&gt;+&lt;/sup&gt;-selective electrodes in a wearable wristwatch-type
+sensing platform. The liquid-junction reference becomes operable without
+the prolonged preconditioning required by poly(vinyl butyral) (PVB)-type
+printed references. The sensor exhibited sensitivities of 48.3 mV
+decade&lt;sup&gt;–1&lt;/sup&gt; for Na&lt;sup&gt;+&lt;/sup&gt; and 46.4 mV decade&lt;sup&gt;–1&lt;/sup&gt; for K&lt;sup&gt;+&lt;/sup&gt;. The printed reference electrode
+drifted by approximately 6 mV over 3000 s against a commercial reference
+in 10 mM NaCl. A control reference electrode fabricated without the
+liquid-junction layer showed a substantially greater dependence on
+the external KCl concentration, supporting the functional role of
+the liquid-junction layer. A fabric layer and a superabsorbent-fiber
+(SAF) layer were incorporated as a physical barrier and a sample-handling
+structure. A wristwatch-type wireless device was designed and constructed
+for real-time data acquisition, wireless transmission, and local storage
+on an SD card. The complete system was deployed at an active construction
+site. During on-body testing with a volunteer construction worker,
+the system acquired Na&lt;sup&gt;+&lt;/sup&gt;- and K&lt;sup&gt;+&lt;/sup&gt;-responsive potentiometric
+signals in real time, which were converted to apparent ion concentrations
+using aqueous calibration curves, over a working period of approximately
+2 h 45 min&lt;/span&gt;</description>
+</item>
+<item>
+<title>Operando  Spectroscopic Insights into
+the Influences of Organic Modifiers on the Electrochemical CO 2  Reduction Microenvironments</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06512/5434201/Operando-Spectroscopic-Insights-into-the</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06512</guid>
+<pubDate>Mon, 21 Sep 2026 12:00:37 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Developing efficient carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;)
+conversion
+technology is imperative to address global warming and advance carbon
+neutrality. The electrochemical CO&lt;sub&gt;2&lt;/sub&gt; reduction reaction
+(CO&lt;sub&gt;2&lt;/sub&gt;RR) offers a promising route for converting CO&lt;sub&gt;2&lt;/sub&gt; into value-added products using renewable electricity; however,
+its practical implementation is hindered by high overpotential requirements
+and competition with the hydrogen evolution reaction (HER). Metal
+electrodes (Au, Ag, Cu, Sn, and others) display distinct product selectivities
+in CO&lt;sub&gt;2&lt;/sub&gt;RR, ranging from CO and formate to multi-carbon hydrocarbons
+and alcohols, governed by the metal identity and the surface binding
+affinities of key intermediates, rendering the reaction pathway highly
+sensitive to the surface and interface microenvironment. &lt;span style="font-style:italic;"&gt;Operando&lt;/span&gt; spectro-electrochemical techniques, including infrared (IR) and
+Raman spectroscopy, enable real-time monitoring of microenvironmental
+changes that are inaccessible by &lt;span style="font-style:italic;"&gt;ex-situ&lt;/span&gt; analysis.
+Surface-enhanced variants, such as surface-enhanced infrared absorption
+spectroscopy (SEIRAS) and surface-enhanced Raman spectroscopy (SERS),
+further enhance signal quality and sensitivity, providing mechanistic
+insights at the molecular level. This mini review organizes &lt;span style="font-style:italic;"&gt;operando&lt;/span&gt; spectroscopic insights into the role of organic
+modifiers in enhancing CO&lt;sub&gt;2&lt;/sub&gt;RR activity on metal electrodes.
+Organic surface modifications employing amines, pyridines, quinones,
+triazines, and imidazolium moieties reshape the interfacial reaction
+environment. We classify the effects of these modifiers into five
+mechanistic roles: (1) activation of CO&lt;sub&gt;2&lt;/sub&gt; molecules, (2)
+tuning the binding strength and surface coverage of key reaction intermediates,
+(3) modulating interfacial water structure, (4) regulating local pH,
+and (5) preserving the oxidation state of the electrode. Each role
+has been substantiated by &lt;span style="font-style:italic;"&gt;operando&lt;/span&gt; spectroscopic
+evidence, manifested as shifts in vibrational band positions or changes
+in band intensities of intermediate signals. Importantly, these roles
+are interrelated: most modifiers act through several, and a given
+spectral change may have multiple origins. Mechanistic assignment
+thus requires cross-validation across complementary &lt;span style="font-style:italic;"&gt;operando&lt;/span&gt; probes. Together, this framework rationalizes CO&lt;sub&gt;2&lt;/sub&gt;RR at
+organic-modified interfaces and guides catalyst design.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Strontium-Doped
+Hydroxyapatite as a Multifunctional
+Platform: Tailoring Structural, Mechanical, and Drug Delivery Properties
+for Bone-Related Applications</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05426/5434189/Strontium-Doped-Hydroxyapatite-as-a</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05426</guid>
+<pubDate>Mon, 21 Sep 2026 12:00:37 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Hydroxyapatite (HAp)
+is a calcium phosphate ceramic that has been
+extensively studied for its similarity to the mineral phase of bone
+tissue, and it exhibits excellent biocompatibility and osteoconductivity.
+However, its intrinsic brittleness and low fracture resistance limit
+its use in load-bearing environments, motivating the use of ionic
+doping to enhance its properties. Doping with strontium (Sr) is particularly
+advantageous, as this ion is associated with bone regeneration processes,
+improves osteogenic response, and favorably modifies the material’s
+lattice parameters and structural organization. In this work, Sr-doped
+HAp nanorods (5, 10, and 20%) were synthesized by the hydrothermal
+method, and their structural, mechanical, and drug delivery properties
+were investigated, with mechanical testing performed on non-sintered
+pellets to preserve the characteristics of the as-synthesized material.
+Drug incorporation and release assays with ciprofloxacin were conducted
+to evaluate the multifunctional potential for bone healing applications.
+The results confirmed the successful incorporation of Sr&lt;sup&gt;2+&lt;/sup&gt; into the hydroxyapatite lattice without the formation of secondary
+phases. Sr incorporation promoted lattice expansion, resulting in
+a maximum unit cell volume increase of 10 Å&lt;sup&gt;3&lt;/sup&gt;, reduced
+nanorod length, and increased diffraction peak broadening, while Rietveld
+refinement revealed Sr occupancies of up to 19.5%. Furthermore, Sr
+incorporation increased the fracture toughness of the compacted non-sintered
+materials by up to 385% compared with pure HAp, while preserving the
+hydroxyapatite structure and enabling efficient ciprofloxacin loading
+and sustained release. Overall, Sr-doped HAp nanorods demonstrate
+tunable mechanical and functional properties, highlighting their potential
+as multifunctional materials for bone-related applications requiring
+both structural performance and localized therapeutic action.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Synthesis and Cytocompatibility
+of Bacterial Nanocellulose–Hydroxyapatite
+Biocomposites with Mg, Cu, Zn, and Sr Substitution</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04779/5434181/Synthesis-and-Cytocompatibility-of-Bacterial</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c04779</guid>
+<pubDate>Mon, 21 Sep 2026 12:00:37 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Bacterial nanocellulose (BNC) combined with hydroxyapatite
+(HAp)
+forms biocomposites that exhibit biomimetic properties favorable for
+bone regeneration. Moreover, incorporating trace elements naturally
+present in bone, such as Mg, Cu, Zn, and Sr, has been reported to
+enhance osteogenic activity and support vascularization. Despite these
+advantages, BNC’s resistance to enzymatic degradation in vivo
+remains a critical limitation. To address this, BNC-based biocomposites
+containing cation-substituted hydroxyapatite (at varying concentrations
+of Mg&lt;sup&gt;2+&lt;/sup&gt;, Cu&lt;sup&gt;2+&lt;/sup&gt;, Zn&lt;sup&gt;2+&lt;/sup&gt;, or Sr&lt;sup&gt;2+&lt;/sup&gt;) were synthesized and bioactivated in simulated body fluid (SBF).
+These materials were characterized using scanning electron microscopy/energy
+dispersive spectroscopy (SEM/EDS), Fourier transform infrared/attenuated
+total reflectance (FTIR/ATR), X-ray diffraction (XRD), thermogravimetric
+analysis (TGA) and in vitro cytotoxicity assays. The most promising
+compositions were further evaluated for osteoblast (MC3T3-E1) adhesion
+and enzymatic biodegradation. SEM confirmed the uniform distribution
+of HAp crystals across the BNC network, while TGA revealed a high
+residual mass (51.9–65.6%), indicating effective HAp incorporation.
+Cytotoxicity results showed that the BNC/ZnHAp 1% and BNC/SrHAp 1%
+samples maintained cellular metabolic activity at approximately 90%,
+indicating biocompatibility. Additionally, these biocomposites promoted
+superior cell proliferation compared to the nonsubstituted BNC/HAp
+control at all time points. Overall, the incorporation of selected
+cations enhanced the biological performance of BNC/HAp biocomposites,
+suggesting their suitability for further investigation in bone tissue
+repair and implantable biomedical applications.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Novel Mixed Perovskite-like
+Alkali Niobium Tungsten
+Oxide (Na  x  (Nb 0.5 W 0.5 )O 3 ) Synthesized by a Sustainable Collagen Dispersion
+Process</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c02992/5434153/A-Novel-Mixed-Perovskite-like-Alkali-Niobium</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c02992</guid>
+<pubDate>Mon, 21 Sep 2026 12:00:37 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Niobium compounds show considerable structural diversity
+and can
+be classified as binary compounds, alkali niobates, or complexes.
+Although niobium oxides have shown promising results as battery anodes,
+the perovskite structures are rarely utilized for electrochemical
+energy storage applications due to their low electrical conductivity.
+Therefore, this study reports the synthesis of a novel mixed perovskite,
+Na&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt;(Nb&lt;sub&gt;0.5&lt;/sub&gt;W&lt;sub&gt;0.5&lt;/sub&gt;)O&lt;sub&gt;3&lt;/sub&gt;, through a green, collagen-assisted route. FTIR analysis
+indicated that the synthesis is facilitated by the possible complexation
+of the niobium precursor within the protein structures. Furthermore,
+Rietveld refinement confirmed the formation of a mixed compound consisting
+of 97% Na&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt;(Nb&lt;sub&gt;0.5&lt;/sub&gt;W&lt;sub&gt;0.5&lt;/sub&gt;)O&lt;sub&gt;3&lt;/sub&gt; and 3% (Na&lt;sub&gt;0.75&lt;/sub&gt;Nb&lt;sub&gt;0.25&lt;/sub&gt;)WO&lt;sub&gt;4&lt;/sub&gt;. FEG-SEM characterization revealed nanoparticles with an
+average minimum Feret diameter of 95.03 nm. Postactivation XPS analysis
+of the electrodes revealed that the charge storage occurs via intercalation-type
+pseudocapacitance. Another significant aspect is the stabilization
+of tungsten in the +6 oxidation state, leading to an enhanced theoretical
+maximum capacity of 270.9 mAh g&lt;sup&gt;–1&lt;/sup&gt;. Finally, galvanostatic
+charge and discharge confirmed the energy storage process, demonstrating
+a capacity of 243 mAh g&lt;sup&gt;–1&lt;/sup&gt; at 200 mA g&lt;sup&gt;–1&lt;/sup&gt; in an aqueous sodium-ion electrolyte. This enhanced performance
+is likely attributed to improved material conductivity resulting from
+the reduction of the bandgap from 3.4 eV (NaNbO&lt;sub&gt;3&lt;/sub&gt;) to 3.04
+eV and an &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sub&gt;ct&lt;/sub&gt; of 0.48 Ω by electrochemical
+impedance spectroscopy.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Treatment with
+Ureidopropanamide Formyl Peptide Receptor
+2 Agonists Attenuates Brain Changes Induced by Systemic Lipopolysaccharide
+Administration in Rats</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04547/5434136/Treatment-with-Ureidopropanamide-Formyl-Peptide</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c04547</guid>
+<pubDate>Mon, 21 Sep 2026 10:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Multiple lines of evidence highlight the impact of the
+resolution
+of inflammation (RoI) on mitigating the inflammatory response and
+restoring homeostasis in the brain. Recently, the significance of
+formyl peptide receptor 2 (FPR2) in this process has been emphasized
+due to its remarkable ability to interact with a wide range of ligands,
+including specialized proresolving mediators (SPMs). Although these
+endogenous molecules, such as lipoxin A&lt;sub&gt;4&lt;/sub&gt; (LXA&lt;sub&gt;4&lt;/sub&gt;), exhibit beneficial effects, their unfavorable pharmacokinetic
+properties result in rapid chemical inactivation. Hence, in the present
+study, we examined the proresolving and anti-inflammatory properties
+of LXA&lt;sub&gt;4&lt;/sub&gt; and two potent FPR2 agonists, namely, compounds
+CMC23 and MR-39. For this purpose, we conducted time-dependent behavioral
+and biochemical studies in selected brain areas of adult male rats
+by using a systemic immunoactivation model. We reported that LXA&lt;sub&gt;4&lt;/sub&gt; and CMC23 abolished behavioral disturbances evoked by lipopolysaccharide
+(LPS) administration; however, only CMC23 exhibited long-lasting beneficial
+properties on these impairments. In the biochemical part of our study,
+endogenous LXA&lt;sub&gt;4&lt;/sub&gt; showed beneficial effects but mostly 1
+h after &lt;span style="font-style:italic;"&gt;i.c.v.&lt;/span&gt; administration. The strong and prolonged
+proresolving potency of CMC23 was evidenced by the attenuation of
+proinflammatory cytokine release (IL-1β, IL-6, TNF-α)
+in both examined structures. Moreover, the proresolving effect of
+MR-39 administration was evident only in the biochemical part of the
+experiments. These findings provide new &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; evidence
+that ureidopropanamide FPR2 agonists, especially CMC23, exert protective
+and anti-inflammatory actions; thus, FPR2 may be proposed as a promising
+target for RoI improvement.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Impact of Blockage
+Ratio on Smoke Control in High
+Heat Release Rate Tunnel Fires</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06114/5433687/Impact-of-Blockage-Ratio-on-Smoke-Control-in-High</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06114</guid>
+<pubDate>Mon, 21 Sep 2026 08:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Tunnel fires involving
+vehicle carriers transporting
+new-energy
+vehicles, heavy goods vehicles (HGVs), and tanker trucks are characterized
+by high heat release rate (HRR) and large blockage ratio (φ),
+posing significant challenges to tunnel smoke control. Previous studies
+have mainly focused on conventional tunnel fires (HRR &amp;lt; 40 MW),
+while the coupled effects of φ and HRR under large-fire conditions
+remain insufficiently understood. To address this gap, full-scale
+numerical simulations were conducted using Fire Dynamics Simulator
+(FDS) to investigate the critical ventilation velocity (&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;sub&gt;c&lt;/sub&gt;) under HRR ranging from 10 to 300 MW and φ ranging
+from 0 to 0.6. The numerical model was validated against the Memorial
+Tunnel full-scale fire tests, with a prediction error of 5.26%. A
+quantitative coupling relationship between φ, HRR, and &lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;sub&gt;c&lt;/sub&gt; was established, and a quadratic predictive
+model was developed to characterize their combined effects. The results
+show that &lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;sub&gt;c&lt;/sub&gt; decreases almost linearly
+with increasing φ, with a reduction of approximately 0.10–0.20
+m/s for every 10% increase in φ. For large-fire scenarios (100–300
+MW), the coupling degree exceeds 0.90, exhibiting a distinct weak-strong-weak
+coupling pattern with increasing φ. Furthermore, the influence
+of φ gradually weakens as HRR increases, indicating that HRR
+becomes the dominant factor governing &lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;sub&gt;c&lt;/sub&gt; in large tunnel fires. These findings provide a theoretical basis
+for the design of longitudinal ventilation systems and emergency smoke
+control strategies in tunnels carrying new-energy vehicles and heavy
+goods vehicles.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Asymmetrical Pore
+Design of Sustainable Underwear
+for Improved Intimate Comfort</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c03941/5433686/Asymmetrical-Pore-Design-of-Sustainable-Underwear</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c03941</guid>
+<pubDate>Mon, 21 Sep 2026 08:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The large amount of waste underwear generated has a considerable
+impact on the environment. Searching for more sustainable underwear
+materials and designs is important for effective air, thermal, and
+moisture management. However, sustainable cotton underwear is much
+less effective in moisture transport and in inhibiting the growth
+of bacteria and mites. Here, a hierarchically porous knitted fabric
+(HPKF) made from sustainable cotton and polylactic acid (PLA) fiber
+materials, constructed using an asymmetrical knitting pore design,
+is developed. The HPKF not only shows excellent moisture management
+compared to cotton fabric but also achieves a remarkable 27% increase
+in water evaporation rate. Furthermore, this design outperforms existing
+directional water transport fabrics by introducing antibacterial and
+antimite properties in its inner layer. The sustainable design and
+manufacturing processes align with the current textile industry infrastructure,
+offering enormous potential environmental benefits.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Geological Controls
+and Symbiotic Assemblage Models
+of Coal Measure Gas in the Shanxi Formation, Eastern Pingdingshan
+Mining Area, China</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c01570/5433685/Geological-Controls-and-Symbiotic-Assemblage</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c01570</guid>
+<pubDate>Mon, 21 Sep 2026 08:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Coal measure gas (CMG) is an important unconventional
+energy resource,
+and a clear understanding of its accumulation mechanisms is essential
+for effective exploration and development. This study investigates
+the coal measure strata of the Shanxi Formation in the eastern Pingdingshan
+mining area. An integrated approach combining geostatistical analysis,
+geochemical characterization, X-ray diffraction, and high-pressure
+mercury intrusion measurements, together with a Markov chain model,
+was employed to elucidate the accumulation framework and spatial organization
+of CMG systems. The results show that (1) the study area is characterized
+by a coal–mudstone–sandstone tripartite assemblage.
+The  thickness of the main coal seam (No. 2-1) ranges from 0.65 to
+12.42 m (average 5.50 m), thickening toward the central area and thinning
+toward the margins, and serves as the primary source rock. Mudstonethickness
+ranges from 5.66 to 89.91 m (average 39.67 m) in thickness and acts
+as an effective seal, whereas sandstone (ranging from 2.15 to 68.28
+m, average 34.72 m) is preferentially developed in the central area
+and constitutes the main reservoir. (2) Source rocks exhibit high
+organic abundance and thermal maturity, whereas reservoirs typically
+exhibit low porosity and extremely low permeability. The coal seam
+exhibits a maximum vitrinite reflectance (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sub&gt;o,max&lt;/sub&gt;) ranging from 1.106% to 1.651% (average 1.461%) and high organic
+matter abundance. Mudstone exhibits a total organic carbon (TOC) content
+ranging from 2.61% to 28.00% (average 9.34%) and is dominated by type
+III kerogen, indicating a mature to highly mature thermal evolution
+stage. Coal, mudstone, and sandstone reservoirs all display low porosity
+and extremely low permeability characteristics. (3) Based on the Markov
+chain analysis, five dominant lithofacies sequences were quantitatively
+identified, and three CMG accumulation patterns were recognized: single-source
+dual-reservoir, dual-source dual-reservoir, and dual-source multi-reservoir
+types. These results suggest that depositional environment exerts
+the primary control on the spatial differentiation of CMG accumulation
+patterns. This study provides a geological basis for integrated source–reservoir–seal
+assessment and sweet-spot prediction in CMG exploration.&lt;/span&gt;</description>
+</item>
+<item>
+<title>SNU523 Inhibits Pancreatic Cancer through the Dual
+Suppression of STAT3 and MEK Signaling Pathways</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c01271/5433668/SNU523-Inhibits-Pancreatic-Cancer-through-the-Dual</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c01271</guid>
+<pubDate>Mon, 21 Sep 2026 07:00:37 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Pancreatic cancer
+represents one of the most lethal cancers, characterized
+by poor survival rates and persistent therapeutic resistance. In this
+study, we investigated the anticancer potential and underlying mechanism
+of SNU523 (8-&lt;span style="font-style:italic;"&gt;O&lt;/span&gt;-demethyl-9,11-didechloropestalone),
+a compound isolated from the marine-derived fungus &lt;span style="font-style:italic;"&gt;Pestalotiopsis neglecta&lt;/span&gt;. SNU523 exhibited potent
+antiproliferative effects, reduced colony formation in PDAC cells,
+and suppressed tumor growth in a xenograft model. SNU523 demonstrated
+dual inhibitory activity against the STAT3 and MEK signaling pathways,
+suggesting the potential for overcoming therapeutic resistance driven
+by the inverse interplay between these cascades. This dual suppression
+may be attributed to its modulatory effects on the epidermal growth
+factor receptor (EGFR) protein and mRNA levels. Taken together, these
+findings suggest that SNU523 represents a highly promising candidate
+for targeted therapy against pancreatic cancer, and it merits extensive
+investigation in both preclinical and clinical settings.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Smart Nanosensor
+Technology for Fruit Preservation:  In vivo  Papaya
+Model with Ethylene Scavenging and Colorimetric
+Indication</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05286/5433654/Smart-Nanosensor-Technology-for-Fruit-Preservation</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05286</guid>
+<pubDate>Mon, 21 Sep 2026 07:00:37 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;A nanosilica-permanganate
+colorimetric nanosensor (NS) was developed
+for ethylene scavenging in postharvest papaya, offering sustainable
+shelf life extension. Incorporated in a polyethylene nonwoven pouch
+(tag), NS was compared to control (CO) and vermiculite (VR) treatments.
+NS particles measured 15–25 nm, negatively charged, and characterized
+by FTIR, SEM-FEG, SEM-EDS, and zeta potential. GC-FID analysis showed
+ethylene release at climacteric peak: CO = 0.50 μL/kgh, VR =
+0.49 μL/kgh, NS = 0.35 μL/kgh, confirming NS’s
+superior scavenging. Ripening was monitored over 17 days at 16 °C.
+Deconvolution revealed ethylene peak at day 15 for NS vs day 13 for
+CO/VR. Firmness declined (peel: ∼30–6 N; pulp: ∼11–0.5
+N), pH rose (5.4–5.9), titratable acidity (∼0.085–0.052%),
+and soluble solids rose (∼10.0–12.7). Statistical analysis
+did not demonstrate a significant difference among treatments. Hue
+angle in NS changed from 240° to 320° (violet to brown),
+indicating continued ethylene adsorption, unlike VR. NS color shift
+aligned with fruit ripening, supporting its use in smart packaging.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Quercetin-Driven
+Redox Sensitization Enhances the
+Antitumor Activity of a Thiol-Reactive Agent through Glutathione Disruption</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04893/5433653/Quercetin-Driven-Redox-Sensitization-Enhances-the</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c04893</guid>
+<pubDate>Mon, 21 Sep 2026 07:00:37 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Targeting redox homeostasis
+represents a promising strategy
+to
+overcome adaptive mechanisms that sustain cancer cell survival under
+therapeutic stress. Here, we evaluated a pharmacological sensitization
+strategy based on quercetin (Q) preconditioning followed by treatment
+with 3′,5′-dimaleamylbenzoic acid (DMAB), aimed at exploiting
+glutathione-dependent vulnerabilities in cervical cancer cells. Q
+and DMAB exhibited synergistic interactions across a 6 × 6 concentration
+matrix, with a marked leftward shift in the dose–response profile
+within the IC&lt;sub&gt;50&lt;/sub&gt;-proximal range. Combined treatment was
+associated with significant depletion of intracellular glutathione
+(GSH) and a reduction in the GSH/GSSG ratio, consistent with disruption
+of redox buffering capacity. Functionally, Q + DMAB reduced HeLa cell
+viability to 23% at 48 h and markedly increased apoptotic cell death
+(75%), accompanied by S-phase cell cycle arrest and inhibition of
+cell migration. Notably, cytotoxic effects were attenuated in nonmalignant
+epithelial cells. &lt;span style="font-style:italic;"&gt;In vivo&lt;/span&gt;, combined administration
+significantly reduced tumor burden (69%) and improved survival in
+a murine L5178-Y lymphoma model, without overt signs of systemic toxicity.
+Collectively, these results demonstrate that Q enhances the antitumor
+activity of DMAB through modulation of glutathione-dependent redox
+homeostasis and support the potential of redox-directed combination
+strategies in cancer therapy.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Supercritical CO 2  Foaming of Molecular
+Chain-Modified Polyimide for High-Performance Electromagnetic Wave
+Absorption</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06706/5433644/Supercritical-CO2-Foaming-of-Molecular-Chain</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06706</guid>
+<pubDate>Mon, 21 Sep 2026 06:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The microwave absorption
+performance depends on both
+impedance
+matching and electromagnetic energy dissipation. Conventional filler-functionalized
+polyimide (PI) composites can provide strong electromagnetic attenuation,
+but their limited foamability under supercritical carbon dioxide (scCO&lt;sub&gt;2&lt;/sub&gt;) restricts porous structure formation and thus impairs impedance
+matching. To address these limitations, this study proposes an intrinsic
+molecular modification strategy based on a chain segment design. Furthermore,
+by combining synergistic dielectric-magnetic loss from nanofillers
+with a double-layer heterogeneous architecture, a PI-based electromagnetic
+shielding nanocomposite with strong microwave absorption performance
+and low-reflection characteristics was constructed. Bisphenol A dianhydride
+(BPADA) was used as the dianhydride monomer, and a series of PI copolymers
+with tunable chain segment compositions were prepared through the
+reaction of BPADA with mixed aromatic diisocyanate (MDI) and aliphatic
+diisocyanate (HDI), followed by thermal imidization/cyclization. The
+changes in molecular chain mobility, scCO&lt;sub&gt;2&lt;/sub&gt; foaming behavior,
+and cellular structure associated with the nominal HDI feed fraction
+were systematically investigated. The results showed that increasing
+the nominal HDI feed fraction was associated with an improved rigid-flexible
+balance of the PI backbone, enhanced segmental mobility, a broader
+foaming window, and the formation of PI foams with uniform and compact
+cellular structures. CNT@Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanofillers with
+both dielectric and magnetic loss capabilities were further introduced
+to improve the intrinsic electromagnetic loss of the composite foams.
+The calculated microwave absorption results showed that, after pore
+structure regulation, the PI/CNT@Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanocomposite
+foam exhibited markedly enhanced microwave absorption in the &lt;span style="font-style:italic;"&gt;X&lt;/span&gt;-band. At a porosity of 46 vol %, the minimum reflection
+loss reached −38 dB at a thickness of 2 mm. A double-layer
+heterogeneous structure comprising a CNT@Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;-containing porous absorbing layer and a CNT-containing dense reflecting
+layer was then constructed to exploit impedance gradient transition,
+dielectric-magnetic synergistic loss, and multiple reflection/reabsorption
+processes. The optimized sample showed an average absorption coefficient
+of 0.92 in the &lt;span style="font-style:italic;"&gt;X&lt;/span&gt;-band and a maximum &lt;span style="font-style:italic;"&gt;A/R&lt;/span&gt; ratio of 332, indicating pronounced high absorption and low reflection
+characteristics. This study provides a new strategy for designing
+and fabricating lightweight, high-performance PI-based electromagnetic
+protection materials with an absorption-dominated shielding behavior.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Construction of
+High-Performance Road Sealant Based
+on Super-Tough Polyurethane with Dual Dynamic Synergistic Networks</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04442/5433643/Construction-of-High-Performance-Road-Sealant</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c04442</guid>
+<pubDate>Mon, 21 Sep 2026 06:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Currently, developing
+super-tough polyurethanes and their high-performance
+road sealants that combine high strength, high toughness, and multifunctionality
+remains a significant challenge. In this work, super-tough polyurethane
+elastomers (PUAZn-X) were successfully synthesized using polytetrahydrofuran
+(PTMG) and diphenylmethane diisocyanate (MDI) as raw materials. A
+hierarchical hydrogen-bonding network was constructed through chain
+extension with 2,2-bis(hydroxymethyl)propionic acid (DMPA), combined
+with dynamic zinc-ion coordination crosslinking. The hierarchical
+hydrogen bonds maintain dynamic equilibrium under external stress,
+endowing PUAZn-X with high elasticity and fatigue resistance. The
+coordination bonds between carboxyl groups and Zn&lt;sup&gt;2+&lt;/sup&gt; enhance
+intermolecular interactions, resulting in high tensile strength (37.4
+MPa) and elongation at break (1557.6%). The metal coordination bonds,
+associated with both cohesion and adhesion strength, facilitate timely
+energy dissipation in response to applied external stress, thereby
+improving adhesion performance. The self-prepared road sealant prepared
+using PUAZn-X features a low application temperature and exhibits
+enhanced mechanical properties, adhesion, high-temperature resistance,
+and water resistance after curing, with a pull-off strength reaching
+2.1 MPa. It can mitigate interfacial adhesion failure under external
+stress. This study thus provides an alternative approach for the design
+and preparation of advanced road sealants.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Low-Leakage and
+Low-Voltage Rare-Metal-Free TFTs Using
+Solution Combustion-Synthesized Al 2 O 3  Dielectrics</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07303/5433628/Low-Leakage-and-Low-Voltage-Rare-Metal-Free-TFTs</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c07303</guid>
+<pubDate>Mon, 21 Sep 2026 05:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Integrating high-κ dielectrics is essential for
+achieving
+low-voltage operation in cost-effective solution-processed thin-film
+transistors. However, solution-processed dielectrics often exhibit
+high leakage due to incomplete metal oxide stoichiometry and inherent
+film impurities. Here, we demonstrate a low-leakage and low-voltage
+Si&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt;Sn&lt;sub&gt;&lt;span style="font-style:italic;"&gt;y&lt;/span&gt;&lt;/sub&gt;O TFT
+using a combustion-assisted Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; dielectric.
+Previous reports on solution-processed Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; thin films often faced challenges regarding film quality and dielectric
+performance, frequently exhibiting leakage currents in the microampere
+range. To overcome these issues, we established optimal parameters
+of Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; preparation via solution combustion
+synthesis. Solution combustion synthesis is unique and beneficial
+because the exothermic heat of combustion promotes metal oxide formation,
+thereby improving the conventional sol-gel method for producing thin
+films. Through optimization, we confirmed that 0.10 M is the most
+suitable Al&lt;sup&gt;3+&lt;/sup&gt; concentration, producing films with good
+surface roughness and high bulk density. Additionally, stacking Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; films via multilayer spin-coating yielded a
+denser film, resulting in a leakage current density of approximately
+6.0 nA/cm&lt;sup&gt;2&lt;/sup&gt; at 2.0 MV/cm and a breakdown field of approximately
+3.6 MV/cm. Overall, the film produced using 0.10 M and 3 layers exhibited
+better quality with fewer trap states. Moreover, despite a thickness
+of approximately 30 nm, the leakage current rivals that of other vacuum-processed
+Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; films. Using this dielectric, Si&lt;sub&gt;&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;&lt;/sub&gt;Sn&lt;sub&gt;&lt;span style="font-style:italic;"&gt;y&lt;/span&gt;&lt;/sub&gt;O TFTs were fabricated
+and exhibited excellent TFT performance: μ&lt;sub&gt;lin&lt;/sub&gt; = 2.76
+cm&lt;sup&gt;2&lt;/sup&gt;/(V·s), &lt;span style="font-style:italic;"&gt;V&lt;/span&gt;&lt;sub&gt;ON&lt;/sub&gt; = 0.27
+V, &lt;span style="font-style:italic;"&gt;I&lt;/span&gt;&lt;sub&gt;ON&lt;/sub&gt;/&lt;span style="font-style:italic;"&gt;I&lt;/span&gt;&lt;sub&gt;OFF&lt;/sub&gt; = 3.4 × 10&lt;sup&gt;5&lt;/sup&gt;, and &lt;span style="font-style:italic;"&gt;SS&lt;/span&gt; = 0.23 V/dec.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Porous Biocarbon Derived from Garlic Peel Biowaste
+for Symmetric Supercapacitor Applications: Electrochemical Performance
+in Aqueous and Organic Electrolytes</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c03559/5433624/Porous-Biocarbon-Derived-from-Garlic-Peel-Biowaste</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c03559</guid>
+<pubDate>Mon, 21 Sep 2026 05:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Biomass is an inexpensive
+source of carbon, from which added-value
+energy materials can be produced. On this matter, this research utilizes
+a hydrothermal process with pyrolysis treatment to produce a Garlic
+Peel Biocarbon (GPB) using the outer layers of the species as the
+source of carbon. The as-produced GPB shows a high specific surface
+area (SSA) of 1240.7 m&lt;sup&gt;2&lt;/sup&gt; g&lt;sup&gt;–1&lt;/sup&gt; and a pore
+diameter of 3.96 nm, indicating its hierarchical mesoporous structure.
+GPB has been characterized as active material in a symmetrical GPB||GPB
+supercapacitor, displaying high cycle stability in 6 M KOH, 0.5 M
+Na&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;, and 1 M NaClO&lt;sub&gt;4&lt;/sub&gt;–(EC|PC)
+(ethylene carbonate|propylene carbonate). Even though the specific
+capacity (&lt;span style="font-style:italic;"&gt;C&lt;/span&gt;&lt;sub&gt;sp&lt;/sub&gt;) in KOH is the highest at
+1 mV s&lt;sup&gt;–1&lt;/sup&gt; (112.5 F g&lt;sup&gt;–1&lt;/sup&gt;), those
+with Na&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt; and the organic electrolyte are
+not significantly lower (103.2 and 99.2 F g&lt;sup&gt;–1&lt;/sup&gt;, respectively).
+More importantly, the supercapacitor achieves an operating voltage
+window of 1.0, 1.8, and 2.5 V in KOH, Na&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;, and NaClO&lt;sub&gt;4&lt;/sub&gt;, respectively. Hence, there is an enhanced
+behavior in the organic electrolyte that has promoted the device to
+attain energy density (&lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt;) and power density
+(&lt;span style="font-style:italic;"&gt;P&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt;) values of 19.9 Wh kg&lt;sup&gt;–1&lt;/sup&gt; and 183.9 W kg&lt;sup&gt;–1&lt;/sup&gt;, respectively. The results demonstrate
+that active material-electrolyte conformation strongly influences
+the balance between &lt;span style="font-style:italic;"&gt;C&lt;/span&gt;&lt;sub&gt;sp&lt;/sub&gt;, operating voltage
+window, &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt;, and &lt;span style="font-style:italic;"&gt;P&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt;. Here, the GPB–NaClO&lt;sub&gt;4&lt;/sub&gt; system enables a
+wider voltage window, outperforming the other configurations in terms
+of &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt; and &lt;span style="font-style:italic;"&gt;P&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt;, as shown in the Ragone plot and radar chart. The findings indicate
+that GPB has excellent performance and significant promise as an active
+electrode material for supercapacitors.&lt;/span&gt;</description>
+</item>
+<item>
 <title>[Graphical abstract added] Potential of Dairy
 Coproducts in Wood Modification:
 Dimensional Stability and Mechanical Properties</title>
@@ -4087,924 +4990,6 @@ against SW-620 cells revealed that blank BSA-HACC nanoparticles exhibited
 comparable antiproliferative effects, suggesting that the carrier
 matrix plays a major role in the observed activity. These findings
 contribute to the development of novel flavonoid-based delivery systems.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Fluorescent Biofunctionalized
-Silver and Gold Nanoparticles:
-Bright Tools for Bioimaging Applications</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07048/5428976/Fluorescent-Biofunctionalized-Silver-and-Gold</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07048</guid>
-<pubDate>Sun, 13 Sep 2026 13:00:36 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07048/5428976/Fluorescent-Biofunctionalized-Silver-and-Gold"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c07048/1/m_ao6c07048_0013.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The aim of this work is to evaluate different nanostructured
-systems
-based on noble metal nanoparticles suitable for drug delivery and
-release related to the treatment of multiple sclerosis. To this end,
-four different systems are thoroughly characterized from a chemical-physical
-and structural perspective and, then, from a biological perspective.
-Gold and silver nanoparticles were synthesized and stabilized with
-different biocompatible ligands, including poly(ethylene glycol),
-citrate, and cysteine, to modulate their colloidal stability and surface
-reactivity. UV–Vis spectroscopy revealed characteristic plasmonic
-absorption bands at about 400 nm for silver and nearly 550 nm for
-gold nanoparticles. Morphological analyses, performed by Transmission
-Electron Microscopy, and colloidal stability, studied by Dynamic Light
-Scattering, highlighted differences in size distribution and polydispersity
-among the systems. The nanoparticles were subsequently functionalized
-with fluorescein isothiocyanate, a fluorescent dye, to enable their
-detection and tracking within cells using an accessible analytical
-technique appropriate for the study of immune cells, such as flow
-cytometry. Nanoparticle surface properties were thoroughly investigated
-by means of Fourier-transform infrared, synchrotron radiation-induced
-X-ray photoelectron, and near edge X-ray absorption fine structure
-spectroscopies. Flow cytometry analyses demonstrated efficient nanoparticle–cell
-interaction with peripheral blood mononuclear cells, and a cell viability
-assay performed with the improved system highlighted the potential
-for applications in drug delivery and bioimaging.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Conformation- and Compound-Dependence of Ribose/2′-Deoxyribose
-Retention Patterns in Pyrimidine-Nucleoside Phosphorylase from  Bacillus subtilis : A Four-Structure Molecular Dynamics
-Study</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08499/5428957/Conformation-and-Compound-Dependence-of-Ribose-2</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c08499</guid>
-<pubDate>Sat, 12 Sep 2026 18:00:36 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08499/5428957/Conformation-and-Compound-Dependence-of-Ribose-2"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c08499/1/m_ao6c08499_0014.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In pyrimidine-nucleoside
-phosphorylase (PyNP), how the conformational
-state shapes substrate recognition remains poorly understood. In this
-study, all-atom molecular dynamics (MD) with MM-PB(GB)SA decomposition
-was performed on four structures of PyNP from &lt;span style="font-style:italic;"&gt;Bacillus subtilis&lt;/span&gt; spanning the conformational range: the open
-5OLN, the semi-open 5EP8orig, an energy-minimized contracted (closed-like)
-model 5EP8 min, and the cross-species closed-state crystal 1BRW, the
-last added to define the closed-state end. Thirteen structural probes
-were used (ten purine-like ribose/2′-deoxyribose analogues
-and three inhibitors), sampling 156 trajectories and 15.6 μs
-in aggregate. All raw trajectories were deposited in a public repository
-(Zenodo, &lt;a href="https://doi.org/10.5281/zenodo.21448920"&gt;10.5281/zenodo.21448920&lt;/a&gt;). The main results were threefold.
-(1) Sugar-ring puckering analysis showed that, overall, ribose preferred
-C3′-endo (north, 64%) and 2′-deoxyribose preferred C2′-endo
-(south, 58%) (&lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.021). However, this per-sugar
-difference was largest for the unsubstituted sugar and shrank as the
-6-position substituent became larger; sugar-ring puckering therefore
-provides a molecular correlate of sugar discrimination in this probe
-set, but its extent depends on the 6-position substituent. (2) Ligand
-retention was high at the closed-state end. However, the ribose-versus-2′-deoxyribose
-preference was not a property of the whole active site but a compound-by-compound
-and conformation-by-conformation property: averaged across compounds,
-and for many between-state differences, it was not statistically significant
-at the compound level. (3) Tyr165 behaved as a lid at the closed-state
-end; however, this signal arose mainly from the cross-species 1BRW
-structure and lost significance when 1BRW was excluded, so it requires
-confirmation with a closed-state structure of the same species. These
-retention metrics measure not equilibrium affinity but dynamic retention
-over 100 ns (the fraction of frames in which the ligand remained in
-the active site). This study clarifies how the retention, contact,
-and sugar preference of these structural probes depend on the conformational
-state and does not directly reproduce the experimentally reported
-ribose-donor selectivity. To test these conclusions, three sets of
-additional all-atom MD (each in three replicas) were performed. (i)
-The falsifiable mutant prediction was tested by Ala-mutant MD: Y165A,
-with the lid residue removed, showed significantly reduced ligand
-retention (BF_late median 0.02; one-sided &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.049
-versus the control mutants retaining Tyr165). (ii) In a control MD
-explicitly including the co-substrate phosphate (HPO4&lt;sup&gt;2–&lt;/sup&gt;), the phosphate bound to the Lys cluster and could approach the
-anomeric carbon C1′ closely (contact fraction up to 96%; closest
-approach 2.81 Å), but the reactive in-line attack geometry required
-for substitution was essentially never adopted (below 0.5% of contact
-frames; 0% in 30 of the 33 systems), consistent with the interpretation
-that ribose-donor selectivity is decided at the transition state and
-is not accessible to equilibrium MD, pointing to the need for QM/MM
-or transition-state-level analysis. (iii) Extending the central systems
-to 300 ns gave retention and sugar-preference conclusions identical
-to the 100 ns analysis, supporting (rather than confirming) the conclusions
-obtained at the 100 ns scale; only a subset of central systems was
-extended, and only 46% of the original systems reached a plateau,
-so these extensions are reported as consistent with the 100 ns results.
-On this basis, three falsifiable mutagenesis predictions (Y165A, Q153A,
-K81A/K108A/K188A) are proposed.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Gasoline Adulteration
-Analysis Based on Raman Spectroscopy
-and a Multi-Scale Convolutional Neural Network</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05800/5428956/Gasoline-Adulteration-Analysis-Based-on-Raman</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05800</guid>
-<pubDate>Sat, 12 Sep 2026 18:00:36 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05800/5428956/Gasoline-Adulteration-Analysis-Based-on-Raman"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c05800/1/m_ao6c05800_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The quality and safety of gasoline are critical for energy
-distribution
-and market regulations. Consequently, rapid and nondestructive detection
-methods based on spectroscopy combined with intelligent algorithms
-have garnered significant attention. However, existing approaches
-often separate adulterant identification and concentration prediction,
-limiting their application in complex adulteration scenarios. To address
-these limitations, this study develops an attention-based multi-scale
-convolutional neural network, termed Multi-Scale Attention Fusion
-Convolutional Neural Network, based on Raman spectroscopy, to jointly
-perform adulterant classification and concentration regression within
-a unified framework. Four adulteration systems─gasoline blended
-with methanol, ethanol, kerosene, and diesel─were constructed,
-and 1200 Raman spectra were collected across adulteration ratios ranging
-from 5% to 30%. The performance of the model was systematically evaluated
-via ablation studies and comparisons with various backbone networks.
-Additionally, the proposed model was compared with multi-task deep
-learning models based on ResNet18 and LSTM architectures. The results
-indicate that the proposed model achieves more stable performance
-in both classification and regression tasks. In the ablation study,
-the removal of the Feature Pyramid Network module led to a 1.25% decrease
-in classification accuracy and a 29.21% increase in root mean square
-error, underscoring its critical role in multi-scale feature representation.
-Traditional single-task models were also evaluated for comparison.
-A Support Vector Machine, K-Nearest Neighbors, and Random Forest were
-applied to classification tasks, while Support Vector Regression (SVR)
-and Partial Least Squares Regression were used for regression. Even
-with optimal variable importance in projection wavelength selection,
-the best-performing SVR model achieved an &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; of only 0.9785. In contrast, the proposed model achieved a classification
-accuracy of 99.92% and an &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; exceeding
-0.9886 in regression tasks, demonstrating superior qualitative and
-quantitative detection capability compared with conventional chemometric
-and single-task learning methods.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Construction of
-a 0D/2D S-Scheme Heterojunction
-Based on Ni-Doped CsPbBr 3  and ZnO for Enhanced Photocatalytic
-CO 2  Reduction</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07948/5428907/Construction-of-a-0D-2D-S-Scheme-Heterojunction</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07948</guid>
-<pubDate>Sat, 12 Sep 2026 15:00:38 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07948/5428907/Construction-of-a-0D-2D-S-Scheme-Heterojunction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c07948/1/m_ao6c07948_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Doping with transition metals and constructing S-scheme
-heterojunctions
-are well-recognized strategies for boosting photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; reduction. Herein, we adopt a cascade design approach to
-fabricate a Ni-doped CsPbBr&lt;sub&gt;3&lt;/sub&gt;/ZnO S-scheme heterojunction,
-aiming to further improve the material’s photocatalytic activity.
-First, Ni-doped CsPbBr&lt;sub&gt;3&lt;/sub&gt; nanocrystals were prepared by a
-hot-injection method. Subsequently, they were loaded onto ZnO nanosheets
-through a simple electrostatic self-assembly approach, successfully
-yielding a 0D/2D Ni-CsPbBr&lt;sub&gt;3&lt;/sub&gt;/ZnO S-scheme heterojunction
-photocatalyst. In this system, the introduction of transition metal
-Ni, which possesses a relatively high d-band center position, into
-CsPbBr&lt;sub&gt;3&lt;/sub&gt; effectively extends the light response region and
-enhances the light-harvesting capacity. Meanwhile, the dimensional
-effects of the 0D/2D heterostructure shorten the transport path of
-photogenerated carriers, while the internal electric field formed
-at the Ni-CsPbBr&lt;sub&gt;3&lt;/sub&gt;/ZnO heterojunction interface further
-promotes carrier separation and transport, resulting in an increased
-local electron density. Under UV-Vis illumination for 4 h, the CO
-and CH&lt;sub&gt;4&lt;/sub&gt; yields over 4CsPbBr&lt;sub&gt;3&lt;/sub&gt;-3Ni/ZnO reached
-155.06 and 125.87 μmol/g, respectively, which are 4.38-fold
-and 5.43-fold those of CsPbBr&lt;sub&gt;3&lt;/sub&gt;-3Ni, 4.33-fold and 60.22-fold
-those of pure ZnO, and 1.40-fold and 4.32-fold those of 4CsPbBr&lt;sub&gt;3&lt;/sub&gt;/ZnO. The excellent photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; reduction
-performance is attributed to the synergistic interplay between d-band
-center engineering and S-scheme heterojunction formation. This synergy
-concurrently strengthens light harvesting, facilitates directional
-charge migration, maintains a high redox potential, and optimizes
-the CO&lt;sub&gt;2&lt;/sub&gt; adsorption and activation. This study offers meaningful
-guidance for the rational design of high-efficiency photocatalysts.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Composite and Blends
-of PFD and MEH-PPV Conjugated
-Polymer Nanoparticles: Combined Optical Properties and Quantum Yield
-Increase by FRET</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07561/5428906/Composite-and-Blends-of-PFD-and-MEH-PPV-Conjugated</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07561</guid>
-<pubDate>Sat, 12 Sep 2026 15:00:38 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07561/5428906/Composite-and-Blends-of-PFD-and-MEH-PPV-Conjugated"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c07561/1/m_ao6c07561_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Conjugated Polymer Nanoparticles (CPNs) exhibit photophysical
-properties
-that depend strongly on morphology, chain conformations, solvent conditions,
-synthesis processes, the polymer chain’s length and distribution,
-and interchain/intrachain interactions. The production of CPNs using
-combinations of two different conjugated polymers can be used to create
-nanocomposites, by mixing previously formed CPNs from distinct polymers,
-and to create blend CPNs, by mixing distinct polymers prior to the
-formation of the CPNs. These two methods can produce diverse nanoparticle
-solutions with distinct properties due to the interaction between
-the chosen conjugated polymers. In this work, we fabricated water-dispersible
-luminescent CPNs from the combination of two distinct conjugated polymers:
-Poly[2-methoxy-5-(2-ethylhexyloxy)-1,4-phenylenevinylene], MEH-PPV,
-and poly(9,9-di-n-dodecylfluorene-2,7-diyl), PFD. The CPNs prepared
-separately and subsequently mixed exhibit the combined optical properties
-of the individual CPNs. More importantly, our results show that in
-CPNs fabricated with both polymers mixed prior to the formation, PFD
-can transfer energy by Förster resonance energy transfer (FRET)
-to MEH-PPV. The FRET efficiency is highly dependent on the concentration
-and ratio of the polymers, reaching values of efficiency above 90%
-for distances of the order of 4 nm. This energy transfer in blend
-nanoparticle samples (CPN/PFD:MEH-PPV) resulted in an overall enhancement
-of the photoluminescence quantum yield of the hybrid nanoparticles,
-reaching values up to two times higher than those measured for pure
-CPN/MEH-PPV nanoparticles. These findings show that the donor–acceptor
-ratio controls energy-transfer efficiency by regulating the fraction
-of interacting donor–acceptor pairs in hybrid conjugated polymer
-nanoparticles, enabling applications in luminescent nanostructures,
-sensing, and photonic devices.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Exatecan-Loaded
-HSA Nanoparticles for Sustained Release
-and Enhanced Cancer Treatment</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c02568/5428905/Exatecan-Loaded-HSA-Nanoparticles-for-Sustained</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c02568</guid>
-<pubDate>Sat, 12 Sep 2026 15:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Exatecan, a potent topoisomerase 1 inhibitor and a potent
-anticancer
-agent, is derived from naturally occurring camptothecin. Its clinical
-development has been halted due to dose-limiting toxicities and a
-shorter plasma half-life in humans. To overcome these challenges,
-we synthesized a novel human serum albumin nanoparticle (Exa-HSA-NPs)
-for selective cancer therapy. The Exa-HSA-NPs exhibited a uniform
-spherical morphology with an average hydrodynamic diameter of 147
-nm, zeta potential of −24 mV, and a very low polydispersity
-index (PDI &amp;lt; 0.1). STEM-EDS mapping confirmed homogeneous distribution
-of exatecan within the albumin medium. In vitro release kinetics demonstrated
-pH-responsive, sustained drug release for up to 9 days, with faster
-release in acidic (tumor-like) conditions. Molecular docking of exatecan
-with HSA revealed the formation of a stable complex stabilized by
-hydrophobic interactions and hydrogen bonding. Exa-HSA-NPs displayed
-potent cytotoxicity in oral cancer (AW13516) and lung cancer (A549)
-cells, with significantly reduced toxicity in non-cancerous HEK293T
-cells. Cellular uptake analysis revealed preferential NPs internalization
-in cancer cells (70% in AW13516, 63% in A549) compared with normal
-cells (27%), consistent with gp60 and SPARC-mediated albumin uptake
-mechanisms. Apoptosis assays confirmed selective induction of cancer
-cell death with minimal impact on normal cells. The Exa-HSA-NPs exhibited
-excellent biodegradability and hemocompatibility, indicating favorable
-safety and potential for clinical translation. Overall, Exa-HSA-NPs
-offer a promising strategy for the sustained, selective tumor delivery
-of exatecan, with an improved therapeutic index and reduced systemic
-toxicity.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Solvent and Bar
-Coating Parameter Selection for Optimum
-Deposition of Perovskite Films at Low Temperatures under Ambient Conditions</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06331/5428904/Solvent-and-Bar-Coating-Parameter-Selection-for</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c06331</guid>
-<pubDate>Sat, 12 Sep 2026 15:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The transition from
-small-area and atmosphere-controlled
-spin-coating
-to large-area bar coating in an uncontrolled ambient process requires
-a comprehensive understanding of the crystallization kinetics in perovskite
-precursor layers. In this work, we investigate the structural, optical,
-and photovoltaic properties of additive-free methylammonium lead triiodide
-(MAPbI&lt;sub&gt;3&lt;/sub&gt;) films fabricated via bar coating without a glove
-box. We analyze these properties as a function of the precursor solvent
-system, plate temperature, and bar groove depth. The solvent strategy
-employs a mixture of 2-methoxyethanol (2ME), acetonitrile (ACN), and &lt;span style="font-style:italic;"&gt;N&lt;/span&gt;-methyl-2-pyrrolidone (NMP) to regulate nucleation and
-growth at low processing temperatures (24–50 °C). Our
-findings indicate that the volumetric ratios of the solvent components
-and the plate temperature are critical in determining crystallinity,
-optical homogeneity, and film compactness. In contrast, the bar groove
-depth primarily modulates film morphology and compactness, with a
-less pronounced effect on the material’s intrinsic structural
-or optical properties. By optimizing the synergy between solvent chemistry
-and physical coating parameters, the power conversion efficiencies
-(&lt;span style="font-style:italic;"&gt;PCE&lt;/span&gt;) were enhanced from 7 to 11.85% under relative
-humidity &amp;gt;35%. This study establishes a processing protocol that
-may
-facilitate future scale-up of bar-coated perovskite films.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Deep-Learning-Assisted
-Single-Shot Plasma Emission
-Imaging for Pollen Morphology Reconstruction and Apparent Hydration-State
-Classification</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07927/5428838/Deep-Learning-Assisted-Single-Shot-Plasma-Emission</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07927</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Monitoring pollen
-is important for crop productivity,
-plant breeding,
-and environmental forecasting, yet current approaches remain limited
-in throughput and physiological insight. Here, we combine single-shot
-plasma emission imaging with artificial intelligence for pollen morphology
-reconstruction and apparent hydration state classification. Plasma
-plumes generated during laser–pollen interaction provide indirect
-measurements of pollen morphology, extending plasma-based analysis
-beyond conventional spectroscopic readouts. A conditional generative
-adversarial neural network reconstructed morphology from such plasma
-images, while chromaticity analysis revealed systematic color shifts
-between hydrated and dehydrated grains. A support vector machine using
-chromaticity histogram and scalar color features distinguished these
-groups with ∼76% leave-one-out accuracy. The results suggest
-that plasma emission contains structural and hydration-associated
-information, supporting rapid pollen morphology inference and physiological
-phenotyping for agricultural and environmental monitoring.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Study on the Adsorption Characteristics of Tectonic
-Coal under Infrared Radiation Heating</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07103/5428837/Study-on-the-Adsorption-Characteristics-of</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07103</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The fundamental mechanistic
-question addressed in this study is
-how infrared radiation heating (IRH) modulates the methane adsorption
-capacity of tectonic coal – a critical yet poorly understood
-issue for thermal-enhanced coalbed methane (CBM) recovery. Unlike
-conventional conductive or convective heating, IRH delivers noncontact
-electromagnetic energy that directly excites molecular vibrations
-and rotations within the coal matrix, generating volumetric heating
-with higher thermal efficiency and no secondary contamination. To
-elucidate this mechanism, we adopted an integrated methodology combining
-high-pressure isothermal adsorption experiments under controlled IRH
-power levels, theoretical derivation of the Langmuir adsorption equilibrium
-constant &lt;span style="font-style:italic;"&gt;b&lt;/span&gt; based on heat transfer and adsorption
-kinetics, thermodynamic calculation of key parameters (Δ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;&lt;sup&gt;0&lt;/sup&gt;, Δ&lt;span style="font-style:italic;"&gt;H&lt;/span&gt;&lt;sup&gt;0&lt;/sup&gt;, Δ&lt;span style="font-style:italic;"&gt;S&lt;/span&gt;&lt;sup&gt;0&lt;/sup&gt;, and equivalent heat of adsorption &lt;span style="font-style:italic;"&gt;q&lt;/span&gt;&lt;sub&gt;st&lt;/sub&gt;), and quantitative microstructural analysis
-via SEM coupled with ImageJ pore statistics. Our key findings are
-fourfold: (1) Both the saturation adsorption capacity &lt;span style="font-style:italic;"&gt;a&lt;/span&gt; and the adsorption equilibrium constant &lt;span style="font-style:italic;"&gt;b&lt;/span&gt; decrease
-with increasing IRH power, with &lt;span style="font-style:italic;"&gt;a&lt;/span&gt; following a sharp
-initial decline that plateaus at higher power – a trend quantitatively
-captured by our theoretically derived &lt;span style="font-style:italic;"&gt;b&lt;/span&gt;(&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;) model; (2) Thermodynamic analysis confirms that methane adsorption
-on coal is spontaneous physical adsorption (Δ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;&lt;sup&gt;0&lt;/sup&gt; &amp;lt; 0, Δ&lt;span style="font-style:italic;"&gt;H&lt;/span&gt;&lt;sup&gt;0&lt;/sup&gt; ≈
-−30 kJ/mol), and IRH weakens the adsorption affinity by raising
-the system energy state; (3) The equivalent heat of adsorption &lt;span style="font-style:italic;"&gt;q&lt;/span&gt;&lt;sub&gt;st&lt;/sub&gt; is positively correlated with uptake, demonstrating
-that IRH-driven desorption is an endothermic process that requires
-energy input to overcome adsorption barriers; (4) Microstructurally,
-IRH reduces micropore abundance from 45–51% to 34–43%
-while increasing small- and mesopore fractions, indicating that pore
-enlargement and interconnectivity – rather than mere temperature
-rise – underlie the reduced specific surface area and adsorption
-site availability. Collectively, these results establish that IRH
-enhances CBM recovery through a dual mechanism: direct weakening of
-adsorption thermodynamic affinity and concurrent improvement of pore
-transport pathways. This work provides both theoretical insights and
-experimental validation for the rational design of IRH-based stimulation
-strategies in low-permeability coal seams.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Chiral Anthranyl
-Bis-sulfoxides with Modular Chiroptical
-Properties Controlled by an Ionic Stimulus</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07072/5428836/Chiral-Anthranyl-Bis-sulfoxides-with-Modular</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07072</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;New chiral fluorescent
-bis-sulfoxide receptors based on &lt;span style="font-style:italic;"&gt;syn&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;anti&lt;/span&gt; anthracene atropisomers were
-synthesized. Their coordination complexes for silver(I), sodium(I),
-and cesium(I) cations were investigated using NMR and chiroptical
-spectroscopies as well as quantum chemical calculations. Notably,
-the CPL signals of a pair of (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;) and (&lt;span style="font-style:italic;"&gt;S&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;S&lt;/span&gt;) &lt;span style="font-style:italic;"&gt;syn&lt;/span&gt; atropisomers were reversibly almost quenched by CsBArF, enabling &lt;span style="font-style:italic;"&gt;in situ&lt;/span&gt; nearly on/off modulation of the CPL response &lt;span style="font-style:italic;"&gt;via&lt;/span&gt; an ionic stimulus.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Molecular Evaluation
-of Deep Eutectic Solvents for
-Wet Algae Lipid Extraction and Biofuel Production</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06748/5428835/Molecular-Evaluation-of-Deep-Eutectic-Solvents-for</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c06748</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Microalgae represent
-promising feedstocks for biofuel
-production,
-yet cell-wall disruption remains a critical bottleneck for scaling
-up lipid extraction. This study evaluates four cholinium-based ionic
-liquids (ILs) and deep eutectic solvents (DESs) as green, energy-efficient
-pretreatment agents to facilitate the lipid release from &lt;span style="font-style:italic;"&gt;Chlorella vulgaris&lt;/span&gt; under wet conditions. A geranic acid-based DES (CG
-1-2 DES) was identified as the optimal agent, demonstrating direct
-wet biomass extraction with substantial process energy savings at
-comparable overall lipid yields. To minimize the energetic costs of
-biomass drying and reduce CO&lt;sub&gt;2&lt;/sub&gt; emissions, lipid extraction
-was evaluated under wet conditions by using a one-pot method for DES
-recycling. FTIR spectroscopy and mesoscopic molecular dynamics simulations
-suggested the underlying mechanism: CG 1-2 DES disrupts cell wall
-lipids while maintaining specific miscibility to phase-separate from
-the product lipids, with water acting as a key process parameter that
-weakens hydrogen bonding and lowers mixture viscosity. These insights
-highlight key operational differences from conventional dry extraction
-and the previous use of CG 1-2 DES in skin permeation applications.
-Ultimately, utilizing IL/DES systems for wet extraction offers a sustainable,
-cost-effective pathway for biofuel processing where integrated experimental
-and computational screening can further accelerate material optimization.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Bioactive Constituents
-of  Melipona quadrifasciata  anthidioides  Geopropolis
-with Antifungal Activity against  Sporothrix brasiliensis</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05995/5428834/Bioactive-Constituents-of-Melipona</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05995</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Sporotrichosis caused by &lt;span style="font-style:italic;"&gt;Sporothrix brasiliensis&lt;/span&gt; represents an emerging public health challenge in Brazil, with increasing
-therapeutic limitations and antifungal resistance. This study investigated
-Brazilian geopropolis produced by &lt;span style="font-style:italic;"&gt;Melipona quadrifasciata&lt;/span&gt;&lt;span style="font-style:italic;"&gt;anthidioides&lt;/span&gt; as a potential source of antifungal
-bioactive compounds. Bioassay-guided fractionation of the ethanolic
-extract led to the isolation of three constituents, identified by
-NMR, Fourier transform infrared spectroscopy (FTIR)-ATR, and LC-HRMS
-analyses as kaurenoic acid, cinnamoylgrandifloric acid, and 3&lt;span style="font-style:italic;"&gt;S&lt;/span&gt;(+)-vestitol, the latter two being reported for the first
-time in this matrix. The dichloromethane fraction exhibited the best
-antioxidant capacity among the tested fractions (EC&lt;sub&gt;50&lt;/sub&gt; =
-200.22 μg mL&lt;sup&gt;–1&lt;/sup&gt;). In vitro assays against clinical
-isolates of &lt;span style="font-style:italic;"&gt;S. brasiliensis&lt;/span&gt; revealed
-minimum inhibitory concentration (MIC) values ranging from 170.18
-to 567.11 μg mL&lt;sup&gt;–1&lt;/sup&gt; for the extract and isolated
-compounds. Among them, 3&lt;span style="font-style:italic;"&gt;S&lt;/span&gt;(+)-vestitol showed the
-strongest antifungal activity (MIC = 170.18 μg mL&lt;sup&gt;–1&lt;/sup&gt;). These findings demonstrate that &lt;span style="font-style:italic;"&gt;M. quadrifasciata&lt;/span&gt; geopropolis contains bioactive diterpenes and isoflavonoids with
-significant antifungal activity, highlighting its potential as a source
-of lead compounds for developing new therapeutic strategies against
-endemic sporotrichosis.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Thermally Activated
-Construction Waste as an Efficient
-Adsorbent for Free Fatty Acid Removal from Waste Cooking Oil</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c03383/5428833/Thermally-Activated-Construction-Waste-as-an</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c03383</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This study aimed to evaluate the reduction of free fatty
-acids
-(FFAs) in waste cooking oil (WCO) using calcined concrete, brick,
-and ceramic tile residues as adsorbents. Concrete, brick, and ceramic
-tile residues were collected, ground (590–297 μm), and
-calcined at 850 °C. Characterization using SEM-EDS, FTIR, XRD,
-and TGA revealed that the calcination process increased porosity and
-surface alkalinity, enhancing the presence of calcium oxide (CaO)
-and silicate (SiO&lt;sub&gt;2&lt;/sub&gt;) phases, both active in acid neutralization.
-Among the tested materials, concrete waste showed the highest efficiency,
-achieving a 62% reduction in free fatty acids, compared to 23% for
-ceramic and 17.5% for brick residues. The kinetic data fit best to
-the Elovich model (R&lt;sup&gt;2&lt;/sup&gt; = 0.9865), indicating a chemisorption-controlled
-mechanism on heterogeneous active sites dominated by interactions
-between Ca&lt;sup&gt;2+&lt;/sup&gt; and carboxyl groups of fatty acids. The adsorption
-capacity reached 75 mg g&lt;sup&gt;–1&lt;/sup&gt;, a value comparable to
-other alkaline adsorbents such as quicklime or calcium silicate, confirming
-the strong reactivity of concrete-derived materials. The FTIR spectra
-confirmed the formation of calcium carboxylates after adsorption,
-while XRD patterns showed crystalline transformations consistent with
-CaO and C–S–H phase reactivation. The pH increase from
-7.5 to 10.5 during the adsorption process further confirmed the alkalinity
-of the adsorbent and the neutralization of FFAs. Comparative clustering
-analysis with literature data demonstrated that thermally treated
-concrete achieved high FFA reduction under mild operational conditions
-(25 °C, 150 rpm, 360 min), offering an energy-efficient alternative
-to conventional adsorbents. The results validate calcined concrete
-waste as a technically viable and environmentally sustainable adsorbent
-for the pretreatment of waste cooking oils.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Solvent Extraction
-for Heavy Oil from Carbonate Asphalts─Experiment
-and Molecular Dynamics Study</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c01207/5428832/Solvent-Extraction-for-Heavy-Oil-from-Carbonate</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c01207</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We have systematically
-studied the effects of solvents such as
-benzene, toluene, isooctane, and cyclooctane on the selective separation
-of four heavy oil components (saturates, aromatics, resins, asphaltenes),
-aiming to clarify the molecular mechanism of solvent extraction as
-an oil–solid separation method in heavy oil extraction. However,
-the time-dependent extraction kinetics and the detachment behavior
-of different saturates, aromatics, resins, and asphaltenes (SARA)
-fractions from mineral surfaces under solvent action remain insufficiently
-understood. In this work, solvent extraction experiments were combined
-with molecular dynamics simulations to analyze solvent-dependent extraction
-behavior from the perspectives of SARA-selective recovery, molecular
-diffusion, solvent–solute interaction, and oil–solid
-interfacial detachment. In terms of experiments, we used SARA component
-analysis, contact angle measurement, and oil–solid interaction
-force test to comprehensively characterize the extraction efficiency
-and interface behavior. In addition, we used Materials Studio 2022
-software and COMPASS II force field to simulate molecular dynamics.
-By analyzing the evolution of molecular conformation, mean-square
-displacement (MSD), radial distribution function (RDF), and concentration
-distribution, the diffusion and interaction kinetics of molecular
-scale are revealed. Based on comprehensive experimental and simulation
-results, we found that four solvents showed remarkable selectivity:
-toluene was the best solvent for asphaltenes, while isooctane excelled
-in separating saturates. The MSD analysis revealed the diffusion order
-of “saturates &amp;gt; aromatics &amp;gt; asphaltenes &amp;gt; resins”,
-and
-the RDF results indicate structure-dependent solvent–solute
-interactions among different SARA fractions. On this basis, we propose
-that the solvent extraction behavior can be interpreted by a combined
-mechanism involving molecular structure matching, solvent–solute
-interactions, diffusion behavior of SARA fractions, and oil–solid
-interfacial detachment. This mechanism, together with the established
-correlative interpretation of solvent-heavy oil component interaction,
-provides a mechanistic reference for the reasonable design of efficient
-heavy oil extraction process. Compared with previous studies that
-mainly focused on solvent screening, extraction yield, or process
-optimization, this work provides an integrated experimental-simulation
-interpretation of solvent-dependent extraction behavior by linking
-SARA-selective recovery, extraction kinetics, oil–solid interfacial
-detachment, and MD-derived diffusion/RDF evidence in carbonate asphalt
-systems.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Incorporation of
-Bone Marrow Stem Cell-Derived Exosomes
-into GelMA Hydrogel Effectively Attenuates Disc Degeneration in the
-Vertebrae of Rats</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.5c08053/5428831/Incorporation-of-Bone-Marrow-Stem-Cell-Derived</link>
-<guid>http://dx.doi.org/10.1021/acsomega.5c08053</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chronic back pain and related disabilities are largely
-caused by
-intervertebral disc degeneration (IVDD). However, effective treatments
-remain limited. Existing treatment modalities, encompassing both conservative
-and surgical approaches, often fail to effectively arrest disease
-progression and may be associated with significant adverse effects.
-Recent studies have underscored the potential of tissue engineering
-and exosomes derived from bone marrow mesenchymal stem cells (BMSC-exos)
-as a promising strategy for the repair of intervertebral discs. This
-study aims to employ bioengineering techniques to enhance the retention
-and achieve sustained release of exosomes in the context of IVDD treatment.
-Our team developed a gelatin methacryloyl (GelMA) hydrogel system
-containing exosomes. Then Exosomes were mixed with GelMA to prepare
-a composite hydrogel (Exo-GelMA). This hydrogel-based system facilitates
-the targeted delivery of therapeutic agents to the degenerated disc,
-thereby modulating the proliferation, migration, and matrix synthesis
-of nucleus pulposus cells (NPCs). In a model of IVDD induced by puncture,
-this system notably slowed down the degeneration process and demonstrated
-considerable potential as a non-surgical treatment modality for IVDD,
-offering a promising strategy to attenuate the progression of IVDD
-and facilitate disc repair.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Ti 3 C 2 T  x   MXene Combined with Laser Photothermal
-for High-Performance
-Oocyte Cryopreservation</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07760/5428798/Ti3C2Tx-MXene-Combined-with-Laser-Photothermal-for</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07760</guid>
-<pubDate>Sat, 12 Sep 2026 03:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Vitrification cryopreservation
-of oocytes represents
-a pivotal
-technique for the cryopreservation of female fertility. Nevertheless,
-conventional vitrification still faces the challenge of devitrification
-ice crystal damage stemming from an insufficient rewarming rate, which
-compromises the efficacy of oocyte cryopreservation. In this study,
-the two-dimensional nanomaterial Ti&lt;sub&gt;3&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;T&lt;span style="font-style:italic;"&gt;x&lt;/span&gt; MXene was introduced into the oocyte cryoprotectants,
-and combined with 808 nm near-infrared (NIR) laser irradiation to
-achieve rapid photothermal rewarming. This nanophotothermal rewarming
-technology enables rapid temperature increase of cryopreserved oocytes,
-thereby inhibiting devitrification and mitigating ice crystal damage.
-The results revealed that the survival rate of oocytes subjected to
-nanophotothermal rewarming was 81.0 ± 3.2%, outperforming the
-traditional water bath rewarming group, and the cellular functionality
-post-thaw was also better preserved. Furthermore, no significant cytotoxic
-effects on oocytes were observed with Ti&lt;sub&gt;3&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;T&lt;span style="font-style:italic;"&gt;x&lt;/span&gt; MXene. Overall, this study introduces a novel
-approach for optimizing the vitrification cryopreservation of oocytes,
-and offers fresh insights into the cryopreservation of fertility and
-the safeguarding of genetic resources in endangered species.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Integrated Systems
-Toxicology Analysis and Molecular
-Dynamics Study Reveal the Potential Mechanism by which Benzo[a]pyrene
-Contributes to Depression in Lung Adenocarcinoma via RNASE1 Upregulation</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04956/5428797/Integrated-Systems-Toxicology-Analysis-and</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c04956</guid>
-<pubDate>Sat, 12 Sep 2026 03:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Benzo[a]pyrene (Bap),
-a prominent carcinogen found in
-tobacco smoke
-and air pollution, is closely associated with lung adenocarcinoma
-(LUAD) and subsequent depression, though the mechanism underlying
-this comorbidity remains unclear. LUAD patients were categorized based
-on depression-related gene expression. Prognostic genes identified
-through machine learning were cross-referenced with predicted Bap
-targets. Mendelian randomization (MR) evaluated the causal relationship
-between RNASE1 and depression. Single-cell RNA sequencing (scRNA-seq),
-molecular docking, and 100 ns molecular dynamics (MD) simulations
-(using the CHARMM36 force field and TIP3P water model) were conducted,
-followed by analyses of RMSD, RMSF, Rg, SASA, and Gibbs free energy
-landscape. A Bap-exposed mouse model was used to validate key gene
-expression and depression-like behaviors in vivo. Consensus clustering
-based on 52 depression-related genes stratified the TCGA-LUAD cohort
-into two gene signature-based molecular subtypes with distinct expression
-patterns and prognostic outcomes. Cluster 1 represented a favorable-prognosis
-subtype with better disease-free survival, whereas Cluster 2 represented
-a poor-prognosis subtype with stronger depression-related transcriptomic
-features; however, these clusters should not be interpreted as clinically
-confirmed depression subgroups because TCGA lacks psychiatric assessment
-data. Among 57 depression-related prognostic genes intersected with
-375 Bap targets, five genes overlapped: CLEC7A, NEK2, RNASE1, ITGAL,
-and CPA3. MR confirmed that elevated lung RNASE1 increased depression
-risk (IVW: OR = 1.008, 95% CI: 1.002–1.014, &lt;span style="font-style:italic;"&gt;P&lt;/span&gt; = 0.005), while CLEC7A and other genes showed no causal link. scRNA-seq
-localized RNASE1 upregulation to tumor epithelial cells, monocytes,
-and macrophages. Docking and MD analyses supported stable Bap–RNASE1
-binding, involving hydrophobic interactions with key residues and
-a dominant low-energy conformational state. In vivo, Bap-exposed mice
-showed prolonged immobility time in the tail suspension test, fewer
-open-arm entries, and reduced open-arm time in the elevated plus-maze
-test, accompanied by elevated WBC, MPV, PDW, and increased lung RNASE1
-protein expression. Bap may contribute to LUAD-related depression
-through RNASE1 upregulation. This provides molecular-level mechanistic
-insight into the cancer–depression comorbidity driven by environmental
-carcinogens.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Validation of a
-Low-Cost Parallel Plate Rotational
-Viscometer: Effect of Plate Spacing on Viscosity Measurement of Automotive
-Oils</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06689/5428791/Validation-of-a-Low-Cost-Parallel-Plate-Rotational</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c06689</guid>
-<pubDate>Sat, 12 Sep 2026 02:00:39 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Viscosity is the most relevant property of automotive
-lubricants,
-directly influencing friction, wear, and energy efficiency of internal
-combustion engines. This work presents the design, construction, and
-validation of a low-cost parallel plate rotational viscometer, with
-emphasis on the systematic analysis of the effect of plate spacing
-(&lt;span style="font-style:italic;"&gt;h&lt;/span&gt;) on the measured viscosity. Two commercial lubricants
-(SAE 15W40 and SAE 20W50) were evaluated for five plate spacings (1.25
-mm to 6.25 mm) at room temperature, yielding viscosities of 0.34 ±
-0.02 Pa·s and 0.39 ± 0.01 Pa·s at &lt;span style="font-style:italic;"&gt;h&lt;/span&gt; = 6.25 mm, respectively. The experimental results were compared
-with literature data from Anton Paar. It is demonstrated that for &lt;span style="font-style:italic;"&gt;h&lt;/span&gt; ≥ 5 mm, the viscosity values obtained (0.34 ±
-0.02 Pa·s for 15W40) are consistent with the reference, while
-for &lt;span style="font-style:italic;"&gt;h&lt;/span&gt; ≤ 3.75 mm significant deviations are
-observed (up to 0.78 ± 0.03 Pa·s for &lt;span style="font-style:italic;"&gt;h&lt;/span&gt; =
-1.25 mm), associated with the increase in shear rate (from 119 s&lt;sup&gt;–1&lt;/sup&gt; to 594 s&lt;sup&gt;–1&lt;/sup&gt;) and possible nonparallelism
-effects. It is concluded that the equipment is validated for &lt;span style="font-style:italic;"&gt;h&lt;/span&gt; ≥ 5 mm, establishing its reliable operating range.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Development of an Electrochemical Reactor Prototype
-for Biodiesel Production Powered by Photovoltaic Energy</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07137/5428782/Development-of-an-Electrochemical-Reactor</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07137</guid>
-<pubDate>Sat, 12 Sep 2026 01:00:43 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The continuous increase
-in global energy demand has intensified
-the search for renewable alternatives capable of replacing fossil
-fuels. In this study, an electrochemical reactor prototype powered
-by photovoltaic energy was developed for biodiesel production from
-sunflower oil, using 304 stainless steel electrodes. The system was
-designed to operate under mild conditions, with adjustable voltage
-(10–30 V) and different oil:methanol molar ratios (1:3–1:9).
-The influence of these parameters on the physicochemical properties
-of the produced biodiesel was evaluated, including acid value, ester
-content, yield, and density. The electrochemical process achieved
-yields above 90% and ester contents exceeding 96.5%, meeting the standards
-established by ANP and EN 14214. The acid value decreased from 1.85
-mg KOH·g&lt;sup&gt;–1&lt;/sup&gt; in the feedstock oil to 0.18–0.54
-mg KOH·g&lt;sup&gt;–1&lt;/sup&gt; in the biodiesel, indicating efficient
-conversion of free fatty acids. The density of the samples (881–889
-kg·m&lt;sup&gt;–3&lt;/sup&gt;) remained within the limits recommended
-by regulatory agencies. Statistical analysis (Welch’s ANOVA)
-confirmed significant effects of the molar ratio and applied potential
-on the final acid value of the biodiesel. The results demonstrate
-the technical feasibility of integrating photovoltaic energy with
-electrolysis for sustainable biodiesel synthesis, highlighting the
-potential of low-cost materials and renewable energy sources for biofuel
-production.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Exploring the Inhibitory
-Effects of Some Detergents
-on  Mycobacterium avium  subspecies  paratuberculosis  with Specific Focus on Zwitterionic Sulfobetaines</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04053/5428774/Exploring-the-Inhibitory-Effects-of-Some</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c04053</guid>
-<pubDate>Sat, 12 Sep 2026 00:00:41 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;Mycobacterium avium&lt;/span&gt; subspecies &lt;span style="font-style:italic;"&gt;paratuberculosis&lt;/span&gt; (MAP) infects ruminants with Johne’s
-disease and is also involved in human inflammatory bowel syndrome,
-such as Crohn’s disease. With increasing drug resistance and
-zoonosis, there is a critical need for novel antimicrobial compounds
-having the potential to inhibit disease-causing bacteria. The present
-work examines the antimycobacterial activity of six detergent-like
-compounds, among which four are sulfobetaine-based zwitterionic detergents:
-amidosulfobetaine-14 (ASB-14), lauryl sulfobetaine (DDAPS), caprylyl
-sulfobetaine (D4266), and sulfobetaine 3-14 (SB3-14). Molecular docking
-and molecular dynamics (MD) simulations demonstrated higher binding
-affinities of ASB-14 and SB3-14 towards the carveol dehydrogenase
-(CD), catalase-related peroxidase (CRP), and dephospho-CoA kinase
-(DPCK) of MAP than the other compounds. MD simulation analysis showed
-less ligand root mean square deviation (RMSD) values for ASB-14 than
-SB3-14. MD simulations also revealed that certain regions in CRP and
-DPCK are perturbed to a greater extent upon binding to SB3-14 than
-ASB-14. Further, ADME studies and PASS predictions suggest good oral
-bioavailability and broad-spectrum bioactivity of both sulfobetaines,
-with minimal predicted toxicity for ASB-14, highlighting their efficacy
-as drug targets. Resazurin Microtiter Assay (REMA) indicates that
-SB3-14 exhibits inhibitory activity with a low MIC&lt;sub&gt;50&lt;/sub&gt; value
-of 0.0937 mg/mL, whereas ASB-14 inhibits MAP at 0.75 mg/mL. The computational
-and experimental findings of this study allude that the viability
-of MAP can be affected by the zwitterionic compounds lacking aromatic
-groups. Collectively, sulfobetaines such as ASB-14 and SB3-14 are
-promising multitarget inhibitors of MAP, offering possibilities to
-limit zoonotic transmission for One Health interventions.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Non-Coalesced ZIF-8
-MOF-Derived Hierarchical
-Porous Carbon Nanofibers for Energy Storage Applications</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05089/5428773/Non-Coalesced-ZIF-8-MOF-Derived-Hierarchical</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05089</guid>
-<pubDate>Sat, 12 Sep 2026 00:00:41 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The development of a nitrogen-doped carbon nanofiber-incorporated
-3D MOF structure as an electrode for an energy storage device has
-attracted significant attention for advanced electrochemical performance
-due to its high energy and power density. Herein, ZIF-8 was deliberately
-grown in situ on PAN/PVP nanofiber using an electrospinning technique
-to attain a hierarchically porous architecture. The integration of
-ZIF-8 templates and the thermal decomposition of PVP created a network
-of interconnected micropores and mesopores, yielding a Brunauer–Emmett–Teller
-(BET) specific surface area of 373.18 m&lt;sup&gt;2&lt;/sup&gt; g&lt;sup&gt;–1&lt;/sup&gt; and a maximum pore volume of 0.28 cm&lt;sup&gt;2&lt;/sup&gt; g&lt;sup&gt;–1&lt;/sup&gt;. X-ray photoelectron spectroscopy (XPS) confirmed successful nitrogen
-doping, which significantly enhanced pseudocapacitive behavior, surface
-wettability, and charge-transfer kinetics in an acidic medium. The
-dominant surface-controlled capacitive storage mechanism (65–94%)
-makes the C-ZNF electrode exhibit a high specific capacitance of 278
-F g&lt;sup&gt;–1&lt;/sup&gt; at 1 A g&lt;sup&gt;–1&lt;/sup&gt; in 1 M H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;. This unique architecture facilitates effective
-ion transport pathways and improves the charge storage mechanism by
-reducing internal resistance at the electrode–electrolyte interface.
-Furthermore, the symmetric coin cell-assembled device exhibits higher
-power density and energy density of 1000 W kg&lt;sup&gt;–1&lt;/sup&gt; and
-34 Wh kg&lt;sup&gt;–1&lt;/sup&gt;, respectively. The device exhibited a
-maximum specific capacitance of 340 F g&lt;sup&gt;–1&lt;/sup&gt; at a current
-density of 0.3 A g&lt;sup&gt;–1&lt;/sup&gt; (C-ZNF // C-ZNF). The device
-retained 84% of its initial capacitance after 5000 charge–discharge
-cycles. These findings demonstrate the potential of ZIF-8-derived
-carbon nanofiber as a promising electrode material for high-performance
-supercapacitors.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Fine-Tuning DeepSeek-OCR-2
-for Molecular Structure
-Recognition</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c04159/5428738/Fine-Tuning-DeepSeek-OCR-2-for-Molecular-Structure</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c04159</guid>
-<pubDate>Fri, 11 Sep 2026 21:00:31 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Optical chemical structure recognition (OCSR) is critical
-for converting
-2D molecular diagrams from printed literature into machine-readable
-formats. While vision-language models have shown promise in end-to-end
-OCR tasks, their direct application to OCSR remains challenging, and
-direct full-parameter supervised fine-tuning often fails. In this
-work, we adapt DeepSeek-OCR-2 for molecular optical recognition by
-formulating the task as an image-conditioned SMILES generation. To
-overcome training instabilities, we propose a two-stage progressive
-supervised fine-tuning strategy: starting with parameter-efficient
-LoRA and transitioning to selective full-parameter fine-tuning with
-split learning rates. We train our model on a large-scale corpus combining
-synthetic renderings from PubChem and realistic patent images from
-USPTO-MOL to improve the coverage and robustness. Our fine-tuned model,
-MolSeek-OCR, demonstrates competitive capabilities, achieving exact-match
-accuracies comparable to those of the best-performing image-to-sequence
-model. However, it remains inferior to state-of-the-art image-to-graph
-models. Exploratory post-training shows mixed results: ReFT provides
-small benchmark-dependent gains, whereas GSPO does not yield stable
-improvement and can collapse under extended optimization.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Development of Antimicrobial Chitosan-Silver and Chitosan-Gold
-Nanocomposite Films by 3D Printing for Skin Application</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07342/5428659/Development-of-Antimicrobial-Chitosan-Silver-and</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07342</guid>
-<pubDate>Fri, 11 Sep 2026 16:00:35 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Silver (AgNP) and
-gold (AuNP) nanoparticles are notable in nanomedicine
-for their unique properties and strong antibacterial effects; however,
-formulating them into skin-applied systems that preserve bioactivity
-while controlling nanoparticle exposure remains challenging. Herein,
-semisolid extrusion 3D printing of chitosan nanocomposite hydrogels
-loaded with AgNPs or AuNPs was used to manufacture personalized topical
-films with antimicrobial performance and minimized skin penetration
-risk. AgNPs and AuNPs were synthesized with comparable nanoscale dimensions
-(11.83 ± 3.74 nm and 11.67 ± 1.96 nm), enabling their uniform
-incorporation into chitosan matrices. The resulting inks presented
-topical-compatible pH (&amp;gt;4.0) and pronounced thixotropy with &amp;gt;90%
-viscosity
-recovery, translating into adequate performance in 3D printing. Nanoparticle
-incorporation afforded the tuning of properties such as swelling,
-mechanical behavior, and bioadhesion. Functionally, AgNP-loaded films
-exhibited the strongest broad-spectrum activity against &lt;span style="font-style:italic;"&gt;Staphylococcus aureus&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Pseudomonas aeruginosa&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;Candida albicans&lt;/span&gt;. &lt;span style="font-style:italic;"&gt;Ex vivo&lt;/span&gt; porcine skin studies indicated that free
-nanoparticles were detectable only in the stratum corneum, whereas
-metals were not detected after application of the 3D-printed films,
-supporting effective nanoparticle confinement by the chitosan matrix.
-These results position 3D-printed chitosan-nanoparticle films as a
-promising platform for customizable antimicrobial dressings for infected
-skin wounds.&lt;/span&gt;</description>
-</item>
-<item>
-<title>MXenes at the Immune
-Interface: A Perspective on Influence
-of Physicochemical Design in Immunomodulation</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05386/5428658/MXenes-at-the-Immune-Interface-A-Perspective-on</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05386</guid>
-<pubDate>Fri, 11 Sep 2026 16:00:35 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;MXenes are a recently
-discovered family of two-dimensional
-(2D)
-transition metal-based nanomaterials, known for their compositional
-diversity, exceptional tunability, structural versatility, and surface
-functionality. Beyond their well-established application in energy
-storage, MXenes have attracted growing interest for their promising
-role in regenerative biomedicine, particularly in antimicrobial and
-immune engineering applications. Recent studies, including contributions
-from our group, demonstrate that MXenes exhibit unique interactions
-with immune cells and associated immunosuppressive functions. Notably,
-MXene nanosheets and derived quantum dots can be tailored to modulate
-key immunosuppressive mechanisms, including the enhancement of regulatory
-T-cells (Tregs), reduction of proinflammatory cytokines, macrophages
-modulation and autophagy induction. These findings position MXenes
-as potential next-generation platform for immunomodulatory therapy,
-either as standalone agents or in combination with existing immunosuppressants.
-In this perspective, we systematically examine how physiochemical
-parameters including size, dimension, morphology, surface chemistry,
-and functionalization govern their interactions with innate and adaptive
-system. We highlight recent advances in MXene-mediated immunomodulation,
-paving a roadmap for further investigations, by identifying key knowledge
-gaps and translational challenges. We further outline future research
-directions necessary to bridge the divide between experimental studies,
-artificial intelligence (AI)-driven optimization/predictive approaches,
-and clinical applications of MXene-based immunotherapies.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Rheology-Guided
-PHB/PBAT/MgO Nanocomposites for FDM
-Printing with Balanced Mechanical and Degradation Performance</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08431/5428653/Rheology-Guided-PHB-PBAT-MgO-Nanocomposites-for</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c08431</guid>
-<pubDate>Fri, 11 Sep 2026 16:00:35 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Biodegradable poly(3-hydroxybutyrate) (PHB)/poly(butylene
-adipate-&lt;span style="font-style:italic;"&gt;co&lt;/span&gt;-terephthalate) (PBAT) blends are promising
-for fused
-deposition modeling (FDM), but their application is limited by phase
-immiscibility and inadequate melt stability. This study investigates
-the effects of reactive compatibilization with Joncryl ADR and MgO
-nanoparticle incorporation on the rheological behavior, FDM processability,
-mechanical performance, thermal behavior, morphology, and degradation
-of PHB/PBAT blends. Reactive compatibilization increased melt elasticity,
-complex viscosity, and relaxation time, accompanied by improved filament
-stability and FDM printability. The PHB/PBAT/J0.3 formulation exhibited
-the best mechanical performance, reaching a tensile strength of 17.73
-MPa, an elongation at break of 705%, and a toughness of 78.66 MPa,
-corresponding to increases of approximately 86, 45, and 116%, respectively,
-relative to the uncompatibilized PHB/PBAT (25:75) blend. Thermal and
-morphological analyses showed formulation-dependent changes in crystallization,
-thermal stability, and phase morphology, while MgO incorporation influenced
-both mechanical and degradation behavior. In vitro testing in phosphate-buffered
-saline at 37 °C showed progressive degradation over 42 days.
-Overall, the results demonstrate that controlling melt viscoelasticity
-through reactive modification provides a practical route to balancing
-FDM processability, mechanical performance, and degradation behavior
-in biodegradable PHB/PBAT-based materials.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Pyrene-Functionalized  o -COSAN
-Noncovalently Anchored onto Graphene Oxide for Advanced Photocatalytic
-Alcohol Oxidation</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07608/5428634/Pyrene-Functionalized-o-COSAN-Noncovalently</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c07608</guid>
-<pubDate>Fri, 11 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We report the synthesis
-and characterization of new pyrene-functionalized
-cobaltabis(dicarbollide) anions [o-COSAN]&lt;sup&gt;-&lt;/sup&gt; and their
-first successful immobilization onto graphene oxide (GO). The complex
-Na[3,3′-Co(8-O(CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;2&lt;/sub&gt;C(O)-(CH&lt;sub&gt;2&lt;/sub&gt;–pyrene)(1,2-C&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;9&lt;/sub&gt;H&lt;sub&gt;10&lt;/sub&gt;)(1′,2′-C&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;9&lt;/sub&gt;H&lt;sub&gt;11&lt;/sub&gt;],
-denoted as Na[&lt;strong&gt;3&lt;/strong&gt;], was obtained via a ring-opening reaction
-of a cyclic oxonium derivative with pyreneacetic acid. Subsequent
-cation exchange yielded the tetramethylammonium salt, [N(CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;4&lt;/sub&gt;][3,3′-Co(8-O(CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;2&lt;/sub&gt;C(O)(CH&lt;sub&gt;2&lt;/sub&gt;–pyrene-1,2-C&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;9&lt;/sub&gt;H&lt;sub&gt;10&lt;/sub&gt;)(1,2-C&lt;sub&gt;2&lt;/sub&gt;B&lt;sub&gt;9&lt;/sub&gt;H&lt;sub&gt;11&lt;/sub&gt;)], [N(CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;4&lt;/sub&gt;][&lt;strong&gt;3&lt;/strong&gt;]. Electrochemical analysis revealed
-irreversible oxidation peaks for the pyrene moiety alongside well-defined
-Co(IV)/Co(III) and Co(III)/Co(II) redox couples. Noncovalent anchoring
-of [Na][&lt;strong&gt;3&lt;/strong&gt;] onto GO produced the hybrid material GO@&lt;strong&gt;3&lt;/strong&gt;, which was thoroughly characterized by TEM, SEM, XPS, UV–vis,
-and DPV. GO@&lt;strong&gt;3&lt;/strong&gt; exhibited the narrowest optical and electrochemical
-bandgaps among the studied species. All complexes demonstrated exceptional
-catalytic efficiency and selectivity for the UVA-driven photooxidation
-of alcohols in water. Notably, homogeneous Na[&lt;strong&gt;3&lt;/strong&gt;] achieved
-high conversions at a remarkably low loading of 0.01 mol %. While
-the insoluble [N(CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;4&lt;/sub&gt;][&lt;strong&gt;3&lt;/strong&gt;], acted
-as a robust heterogeneous catalyst, the hybrid &lt;strong&gt;GO@3&lt;/strong&gt; surpassed
-the activity of the homogeneous system, showing enhanced performance
-in shorter reaction times. This enhancement is attributed to the synergistic
-role of GO in facilitating electron transfer and suppressing charge
-recombination. GO@&lt;strong&gt;3&lt;/strong&gt; was easily recovered by filtration
-and reused over six cycles without loss of activity, reaching turnover
-numbers (TON) exceeding 45,000.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Beyond Tuberculosis:
-Unlocking the Antifungal Potential
-of Novel Isoniazid Derivatives against Non- Candida albicans  Candida Species</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c00859/5428331/Beyond-Tuberculosis-Unlocking-the-Antifungal</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c00859</guid>
-<pubDate>Fri, 11 Sep 2026 13:00:40 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The increasing prevalence of drug-resistant non-&lt;span style="font-style:italic;"&gt;Candida&lt;/span&gt;&lt;span style="font-style:italic;"&gt;albicans&lt;/span&gt;&lt;span style="font-style:italic;"&gt;Candida&lt;/span&gt; (NCAC) species has created an urgent need for novel
-antifungal agents with improved efficacy and selectivity. In this
-study, eight modified isoniazid derivatives were synthesized through
-hydrazone formation and structurally characterized using single-crystal
-X-ray diffraction (SC-XRD), Fourier transform infrared (FTIR) spectroscopy,
-Raman spectroscopy and nuclear magnetic resonance (NMR) analysis.
-The antioxidant potential of the derivatives was evaluated using the
-DPPH radical scavenging assay, while antifungal activity was assessed
-against &lt;span style="font-style:italic;"&gt;Candida auris&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Candida glabrata&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;Candida parapsilosis&lt;/span&gt; using minimum inhibitory concentration (MIC) assays. Several derivatives
-demonstrated enhanced antifungal activity relative to the parent compound,
-with Compounds II, V, and VI exhibiting the strongest activity against &lt;span style="font-style:italic;"&gt;C. auris&lt;/span&gt; (MIC = 15.6 μg/mL). Compound II also
-displayed broad-spectrum activity across all tested &lt;span style="font-style:italic;"&gt;Candida&lt;/span&gt; species. Flow cytometry using propidium iodide staining revealed
-increased membrane permeability and loss of cellular integrity following
-treatment, supporting membrane disruption as a potential contributor
-to antifungal activity. Antioxidant evaluation showed that Compound
-VII (17.61 μg/mL) possessed the strongest radical scavenging
-activity among the derivatives, with an IC&lt;sub&gt;50&lt;/sub&gt; value approaching
-that of ascorbic acid (9.7 μg/mL). Cytotoxicity assessment using
-Vero cells demonstrated concentration-dependent effects, with variable
-LC&lt;sub&gt;50&lt;/sub&gt; values observed across the series. Real-time cell
-analysis (RTCA) further revealed dynamic differences in cellular responses
-following compound exposure, with Compound III exhibiting comparatively
-lower effects on mammalian cell viability. Structure–activity
-relationship analysis suggested that phenolic functionalities, lipophilic
-substituents and hydrazone-linked modifications contribute to both
-antifungal and antioxidant behaviour.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
