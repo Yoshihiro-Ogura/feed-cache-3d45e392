@@ -5,6 +5,32 @@
 <link>https://pubs.acs.org/rss/amclct/asap.xml</link>
 <description>ACS Medicinal Chemistry Letters (mirrored feed)</description>
 <item>
+<title>Fragment
+Optimization─Simple SMILES String
+Manipulation Strategies to Optimize a Hit or Fragment</title>
+<link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00181/5435504/Fragment-Optimization-Simple-SMILES-String</link>
+<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00181</guid>
+<pubDate>Tue, 22 Sep 2026 14:00:48 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00181/5435504/Fragment-Optimization-Simple-SMILES-String"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/amclct/pap/10.1021_acsmedchemlett.6c00181/1/m_ml6c00181_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;AI/ML-based tools for generative and predictive modeling
+have become
+important contributors to small molecule drug discovery, enabling
+virtual compound design and ADME profiling prior to synthesis. Alongside
+these methods, simpler nonlearned strategies based on direct SMILES
+manipulation remain useful, particularly for low data targets. Herein
+is described a method for fragment optimization in which characters
+of a SMILES string are systematically replaced with alternative SMILES
+patterns to generate atom-type swaps, ring expansion/contraction,
+cyclization, ring opening, and fragment grafts. The method was initially
+implemented as a KNIME workflow and demonstrated on fragment-to-lead
+optimization of fragments from several programs. A fully open-source
+counterpart written in Python utilizing AutoDock Vina is also provided.
+Together, these tools are used in parallel with alternative open-source
+and commercial solutions to accelerate fragment-to-lead optimization
+through iterative &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; design and profiling,
+and require no AI/ML or proprietary licensing for the open source
+python version.&lt;/span&gt;</description>
+</item>
+<item>
 <title>[Graphical abstract added] Toward Rational
 Design of Orally Bioavailable PROTACs:
 Development of a Fully Computational Oral Absorption Score</title>
