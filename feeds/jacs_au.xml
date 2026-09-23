@@ -5,6 +5,35 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Electrochemical Platform
+for Automated Design-of-Experiment
+Optimization of Ni-Catalyzed Cross-Electrophile Coupling Reactions</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01220/5434835/Electrochemical-Platform-for-Automated-Design-of</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01220</guid>
+<pubDate>Tue, 22 Sep 2026 05:00:53 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Electrosynthetic
+organic reactions have advanced significantly
+in recent years, but their adoption for large-scale applications remains
+limited. Here, we report an automated experimental platform designed
+to facilitate translation of small-scale chemical and electrochemical
+redox reactions into robust larger-scale electrochemical processes.
+This platform, which integrates a commercial chemical synthesis workstation,
+peristaltic pumps, and a potentiostat, is equipped to conduct an automated
+sequence of batch experiments to optimize standard variables, such
+as stir rate and temperature, in addition to variables unique to electrosynthesis,
+such as applied current and total charge passed. Analysis of these
+variables using a design-of-experiment (DoE) approach accelerates
+identification of optimal reaction conditions and translation of mg-to-multigram
+operations. To evaluate the DoE optimization protocol and experimental
+platform, four Ni-catalyzed C(&lt;span style="font-style:italic;"&gt;sp&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt;)–C(&lt;span style="font-style:italic;"&gt;sp&lt;/span&gt;&lt;sup&gt;3&lt;/sup&gt;) cross-electrophile coupling reactions were
+selected from the literature that were originally conducted on a 0.2–0.4
+mmol scale with chemical or electrochemical reduction methods. Each
+reaction was successfully scaled by a factor of 30–250, delivering
+up to 20 g (100 mmol) of isolated product. These results show how
+small-scale redox reactions may be rapidly translated to scalable
+electrosynthetic processes.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Asymmetric Radical-Type
 Clayden Rearrangement for
 the Synthesis of Enantiopure 1,2-Aminothiols and 1,2-Aminoalcohols</title>
@@ -347,6 +376,47 @@ scale with experimental measurements, theoretical calculations, and
 data-driven analyses within the evaluated NaBH&lt;sub&gt;4&lt;/sub&gt;/MeOH domain
 and provides a basis for testing broader applicability through reaction-specific
 data, retraining, and validation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Axial Ligand Effects
+on Electronic Structures and
+H-Atom Abstraction by Oxidoiron(IV) Complexes Featuring Triplet-Only
+Reactivity</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00781/5429596/Axial-Ligand-Effects-on-Electronic-Structures-and</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00781</guid>
+<pubDate>Mon, 14 Sep 2026 16:00:43 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Oxidoiron(IV) species
+are crucial intermediates for the functionalization
+of C–H bonds by biological oxidases and oxygenases, and understanding
+the relations between ligation, electronic structure, and reactivity
+of the Fe&lt;sup&gt;IV&lt;/sup&gt;═O unit is key to the rational design
+of bioinspired catalysts. Here, a series of Fe&lt;sup&gt;IV&lt;/sup&gt;═O
+complexes based on a macrocyclic tetracarbene ligand and with different
+anionic &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-axial ligands (L&lt;sup&gt;ax&lt;/sup&gt; = CF&lt;sub&gt;3&lt;/sub&gt;COO&lt;sup&gt;–&lt;/sup&gt;, &lt;sup&gt;&lt;span style="font-style:italic;"&gt;t&lt;/span&gt;&lt;/sup&gt;BuS&lt;sup&gt;–&lt;/sup&gt;, AdaS&lt;sup&gt;–&lt;/sup&gt;) has been comprehensively
+characterized, including X-ray crystallography in two cases, as well
+as zero-field and applied-field &lt;sup&gt;57&lt;/sup&gt;Fe Mössbauer spectroscopy,
+magnetic susceptibility measurements, magnetic circular dichroism
+(MCD), and helium-tagging infrared photodissociation (IRPD). This
+establishes a detailed picture of the electronic structures of these
+ferryl complexes, featuring a well-separated &lt;span style="font-style:italic;"&gt;S&lt;/span&gt; =
+1 ground state, and the influence of the &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-ligand.
+The confinement to triplet-only pathways in C–H bond activations
+and comparison with the parent Fe&lt;sup&gt;IV&lt;/sup&gt;═O complex (L&lt;sup&gt;ax&lt;/sup&gt; = MeCN) allow uncovering trends in hydrogen atom abstraction
+(HAA) ability without perturbations from different extents of two-state
+reactivity (TSR). Kinetic studies on HAA for C–H substrates
+with BDEs up to 78 kcal mol&lt;sup&gt;–1&lt;/sup&gt; show relatively minor
+effects of the axial ligands, with rates following an electrophilic
+trend in the order L&lt;sup&gt;ax&lt;/sup&gt; = MeCN &amp;gt; CF&lt;sub&gt;3&lt;/sub&gt;COO&lt;sup&gt;–&lt;/sup&gt; ≈ RS&lt;sup&gt;–&lt;/sup&gt;. This contrasts the
+antielectrophilic
+trend found for a related series of tetramethylcyclam (TMC)-based
+Fe&lt;sup&gt;IV&lt;/sup&gt;═O complexes for which TSR is dominant. For
+the present systems, temperature-dependent KIEs, in combination with
+computations at the DFT and ab initio levels of theory, suggest a
+semiclassical model with modest tunneling contributions that are most
+pronounced in the case of a strongly donating &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-thiolate. This study thus provides a combined experimental and computational
+basis for understanding intrinsic axial ligand effects and the effect
+of a &lt;span style="font-style:italic;"&gt;trans&lt;/span&gt;-axial thiolate in &lt;span style="font-style:italic;"&gt;S&lt;/span&gt; =
+1 ferryl intermediates.&lt;/span&gt;</description>
 </item>
 <item>
 <title>Descriptor-Guided

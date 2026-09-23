@@ -5,6 +5,101 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Surfactant-Mediated
+Enantioselective Extraction: Interfacial
+Behavior Investigation from a Microscopic Perspective</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01740/5435109/Surfactant-Mediated-Enantioselective-Extraction</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01740</guid>
+<pubDate>Tue, 22 Sep 2026 12:00:35 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Enantioselective liquid–liquid extraction (ELLE)
+based on
+cyclodextrin host–guest recognition is a promising green strategy
+for chiral resolution. However, its industrial application is often
+hindered by restricted chiral recognition efficiency and ill-defined
+interfacial mass transfer mechanisms. In this work, a multiscale approach─integrating
+macro-equilibrium experiments, molecular dynamics simulations, and
+quantum chemical calculations─was employed to decode the interfacial
+molecular interactions and their decisive roles in the ELLE of ibuprofen.
+The interface was regulated and reconstructed through the introduction
+of surfactants. The anionic surfactant SDS shortened extraction equilibrium
+time by approximately 30%, while the facial amphiphilic NaDC extended
+equilibration but improved the enantiomeric excess. MD simulations
+revealed that the addition of SDS and NaDC increased the interfacial
+thickness from 0.41 nm by 1.23 and 1.51 times, respectively. Via umbrella
+sampling, the chiral migration process exhibited characteristic free-energy
+changes of approximately −11.48 kJ·mol&lt;sup&gt;–1&lt;/sup&gt; and +35.58 kJ·mol&lt;sup&gt;–1&lt;/sup&gt; when transferring from
+the organic and aqueous phases to the interface, respectively. Furthermore,
+quantum chemical analysis quantified the interaction energy differences,
+demonstrating that steric hindrance and hydrogen-bonding intensity
+variations drove the observed changes in equilibrium parameters. These
+findings establish a conceptual microscopic model for interface-mediated
+chiral partitioning, providing a robust theoretical framework for
+optimizing separation efficiency and process intensification in ELLE
+systems.&lt;/span&gt;</description>
+</item>
+<item>
+<title>ML-RKIM: Physics-Informed
+Machine Learning for Reaction
+Kinetics Identification and Modeling</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01936/5434850/ML-RKIM-Physics-Informed-Machine-Learning-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01936</guid>
+<pubDate>Tue, 22 Sep 2026 06:00:47 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Kinetic processes
+play a central role in structural transformations
+across natural, engineered, and biological systems, ultimately determining
+their final properties. Traditional kinetic characterization methods
+are often time-consuming and resource-intensive, and require prior
+assumptions about the reaction mechanism. In this work, we present
+a physics-informed machine learning framework to extract closed-form
+kinetic representations from time-series data without preselecting
+a single reaction mechanism. The framework combines neural networks,
+physics-informed features, and sparse regularization. The framework
+was applied to a range of processes, including thermally driven reactions
+such as polymer curing and crystallization, and nonthermal processes
+such as enzymatic browning. The method identified sparse, closed-form
+kinetic representations while reducing reliance on a single predefined
+kinetic model. R&lt;sup&gt;2&lt;/sup&gt; values exceeded 98% for the synthetic
+cases and ranged from 76% to 92% for the experimental cases. In addition,
+a systematic ablation study evaluated robustness to noise, data availability,
+sampling density, incomplete measurements, and candidate function
+library variation, and an experimental case study was included to
+assess the performance under realistic conditions. These results demonstrate
+the potential of this approach to accelerate kinetic characterization
+across polymer, food, and biomolecular processing applications, where
+accurate kinetic models are essential.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Unraveling the
+PFAS Helix: A Statistical Approach</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01874/5434804/Unraveling-the-PFAS-Helix-A-Statistical-Approach</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01874</guid>
+<pubDate>Tue, 22 Sep 2026 03:00:34 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The extreme persistence of per- and
+polyfluoroalkyl substances
+(PFAS) in the environment is rooted in their three-dimensional molecular
+conformation. The helical twist adopted by perfluoroalkyl chains due
+to hyperconjugation involving their recalcitrant C–F bonds
+governs their resistance to degradation, yet a quantitative, continuous
+metric for helicity has remained absent. Here we introduce a data-driven
+framework that quantifies backbone helicity using three statistical
+descriptors: void-state (binary occupancy) spatial autocorrelations,
+local backbone principal component analysis, and persistent homology.
+We further validate each statistical descriptor against geometric
+dihedral benchmarks and DFT-calculated Vibrational Circular Dichroism
+(VCD) spectra. The framework is initially established on a homologous
+series of perfluorocarboxylic acids (&lt;sup&gt;F&lt;/sup&gt;C&lt;sub&gt;2&lt;/sub&gt; through &lt;sup&gt;F&lt;/sup&gt;C&lt;sub&gt;16&lt;/sub&gt;) and their hydrogenated analogues, then extended
+across perfluorosulfonic acids, fluorotelomer alcohols, polyfluoroalkyl
+hexanoic acid analogues, and longer-chain PFOA and PFOS analogues.
+Agreement between statistical, geometric, and spectroscopic definitions
+of helicity is established for PFCAs and extended to structurally
+distinct subfamilies, including PFOA analogues of varying fluorine
+content and perfluorosulfonic acids, demonstrating that the descriptors
+are robust to changes in headgroup chemistry and fluorine substitution
+pattern. The framework provides a chemistry-agnostic toolset for incorporating
+backbone conformation into predictive models of PFAS environmental
+fate and degradation reactivity.&lt;/span&gt;</description>
+</item>
+<item>
 <title>SwinTransRNA: A Swin Transformer-Based Framework for
 Accurate Prediction of RNA Subcellular Localization</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02004/5434788/SwinTransRNA-A-Swin-Transformer-Based-Framework</link>
@@ -952,6 +1047,108 @@ as the most promising CASP4 inhibitors. Overall, this workflow provides
 an efficient and robust strategy for prioritizing repositioned DrugBank
 compounds as potential CASP4 inhibitors against Alzheimer’s
 disease.&lt;/span&gt;</description>
+</item>
+<item>
+<title>An AI-Driven Chemogenomics
+Knowledgebase for Human-Transmissible
+Pathogens: A Platform for Antimicrobial Drug Discovery</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02102/5429808/An-AI-Driven-Chemogenomics-Knowledgebase-for-Human</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02102</guid>
+<pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Emerging
+infectious diseases (EIDs) pose a critical threat to global
+biosecurity. Integrating bio/chemical information and artificial intelligence
+would bring new strategies for antimicrobial drug discovery. Herein,
+the Human Pathogenic Microorganisms Chemogenomics Knowledgebase (HPM-CKB)
+is presented as the largest domain-specific resource, consolidating
+chemical, genetic, and proteomic data on human-transmissible pathogens,
+together with multiple computational functional modules. The current
+release covers 7876 pathogenic proteins from 267 microorganisms (including
+13,914 protein 3D structures) and 234,287 associated with bioactive
+molecules. HPM-CKB enables large-scale virtual screening, target identification,
+and drug repurposing, and integrates a large language model (LLM)
+for interactive queries. The computational prediction performance
+of HPM-CKB is corroborated by known inhibitors targeting SARS-CoV-2
+replicase polyprotein 1ab. In wet-lab validations, four approved drugs
+(cefixime, ceftazidime, saquinavir, and rilapladib) identified via
+virtual screening show binding activity to SARS-CoV-2 nucleoprotein
+in affinity assays and inhibit SARS-CoV-2 replication in Vero E6 cells,
+demonstrating HPM-CKB’s potential in drug repurposing. Meanwhile,
+two anti-&lt;span style="font-style:italic;"&gt;Staphylococcus aureus&lt;/span&gt; lead
+compounds with novel scaffolds (CYC-HXL-9124 and CYC-HXL-9126) are
+identified via deep learning, and the potential target protein, cell
+division protein FtsZ, is subsequently prioritized using HPM-CKB (http://cgai.asia/g/pathogenDB) and experimentally validated by affinity assays. Collectively,
+these findings establish HPM-CKB as both a chemogenomic knowledgebase
+and a systematic drug development platform against EIDs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>MoaNet: Learning
+Protein–Ligand Mechanism of
+Action from Transcriptional Profiles and Sequence Information</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01275</guid>
+<pubDate>Mon, 14 Sep 2026 21:00:39 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding the functional interactions between molecules
+and
+their targets is critical in drug discovery. While current computational
+approaches achieve high accuracy in predicting drug–target
+interactions, they often fail to capture the functional consequences
+of these interactions, such as agonistic or antagonistic effects.
+Here, we present an end-to-end framework for predicting protein–ligand
+mechanism of action with transcriptional signature and molecular structural
+information (MoaNet). Computational evaluations demonstrate that MoaNet
+outperforms several representative molecular representation architectures
+adapted for MoA classification on our benchmark data set under scaffold-split
+evaluation. In a targeted experimental screen for estrogen receptor
+alpha (ERα) modulators, MoaNet successfully identified both
+ERα agonists and antagonists, highlighting its practical utility
+in functional drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Assay-Level Modeling
+and External Validation of Antibody
+Developability Using Physicochemical Descriptors and Sequence Embeddings</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02385/5429617/Assay-Level-Modeling-and-External-Validation-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02385</guid>
+<pubDate>Mon, 14 Sep 2026 16:00:43 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antibody
+developability is inherently multidimensional,
+involving
+thermal stability, aggregation and hydrophobicity, nonspecific interactions,
+and expression-related manufacturability. Instead of treating developability
+as a single composite label, we investigated assay-level modeling
+using GDPa1 as a benchmark data set. We developed a two-branch framework
+combining interpretable developability descriptors and data-driven
+calibration. One branch fits assay-specific descriptor models to derive
+end point-specific physicochemical weights, while the other integrates
+frozen pretrained VH/VL sequence embeddings with computed descriptors
+in a multitask regression architecture. Internal validation across
+eight GDPa1 assays showed assay-dependent predictability, with hydrophobicity-
+and aggregation-related readouts generally showing stronger signals
+than expression-related and some thermal stability end points. Descriptor
+coefficient analysis revealed distinct physicochemical patterns across
+assays, supporting the view that antibody developability cannot be
+represented by a single universal descriptor weighting scheme. External
+held-out validation on GDPa3 revealed limited cross-data set transferability.
+Across seven directly matched assays, mean Spearman correlations were
+0.126 for the full descriptor model, 0.139 for the sequence-only descriptor
+model, and 0.125 for the hybrid sequence–descriptor model.
+HIC retention time was the most transferable end point, whereas SEC
+monomer percentage and several thermal stability end points showed
+weak external correlations. The hybrid model did not consistently
+outperform descriptor-only baselines, indicating that pretrained sequence
+embeddings provided limited and assay-dependent incremental value
+in this small-data setting. GDPa1 sequence-cluster analysis showed
+that internal validation estimates depended on clustering threshold
+and fold construction, whereas GDPa3 provided a more direct external
+assessment of cross-data set transferability. These results support
+a cautious assay-level framework for antibody developability modeling.
+Descriptor-based representations remain strong and interpretable baselines,
+while sequence embeddings require end point-specific and external
+validation. The proposed workflow can convert assay-level predictions
+into domain-level profiles for computational triage, but prospective
+candidate prioritization requires binding assessment and experimental
+validation.&lt;/span&gt;</description>
 </item>
 <item>
 <title>Evolutionary Weighted Hodge Laplacian Descriptors
@@ -4083,48 +4280,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01507</guid>
 <pubDate>Mon, 20 Jul 2026 01:16:38 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01507/asset/images/medium/ci6c01507_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01507&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Unlocking the Dynamics of Human SPPL2a: First Atomistic Characterization of an Alzheimer’s-Linked Intramembrane Protease</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01556</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01556</guid>
-<pubDate>Sun, 19 Jul 2026 11:03:37 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01556/asset/images/medium/ci6c01556_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01556&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] DeepHeptox: An Interpretable Deep Learning Model for Multi-Endpoint Hepatotoxicity Prediction of Chemical Compounds</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01434</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01434</guid>
-<pubDate>Sun, 19 Jul 2026 11:02:13 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01434/asset/images/medium/ci6c01434_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01434&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Pan-Cancer Landscape of Spatial PTM and Mutation Clusters Reveals Allosteric Regulation of Protein–Protein Interactions</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01767</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01767</guid>
-<pubDate>Fri, 17 Jul 2026 09:12:58 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01767/asset/images/medium/ci6c01767_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01767&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Physics-Inspired Latent Dynamics for Predicting Olfactory Mixture Similarity</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01297</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01297</guid>
-<pubDate>Fri, 17 Jul 2026 07:50:39 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01297/asset/images/medium/ci6c01297_0004.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01297&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] CatIF-RL: Activity-Oriented Enzyme Sequence Design by Steered Inverse Protein Folding</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01587</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01587</guid>
-<pubDate>Fri, 17 Jul 2026 06:31:30 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01587/asset/images/medium/ci6c01587_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01587&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] SpaVCCA Identifies Spatial Transcriptomics Domains Across Slices by Coupling Variational Autoencoder with Canonical Correlation Analysis</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01401</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01401</guid>
-<pubDate>Thu, 16 Jul 2026 12:58:19 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01401/asset/images/medium/ci6c01401_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01401&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

@@ -5,6 +5,18 @@
 <link>http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1860-7187</link>
 <description>ChemMedChem (mirrored feed)</description>
 <item>
+<title>A Multistage Computational Framework for Early Prioritization of Natural Anti‐Inflammatory Candidates From Diverse Chemical Spaces</title>
+<link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70497?af=R</link>
+<guid>10.1002/cmdc.70497</guid>
+<pubDate>Mon, 21 Sep 2026 18:43:30 -0700</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70497?af=R"&gt;&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/967f9fa1-aaad-49a8-8506-52df39460cc3/cmdc70497-blkfxd-0001-m.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
+&lt;p&gt;A multistage in silico workflow integrates chemical space filtering, scaffold hopping, SHAP-based feature interpretation, and molecular docking to prioritize natural anti-inflammatory candidates from the NPASS library. The framework contributes to the identification of potential multitarget anti-inflammatory compounds, supporting and accelerating early-stage lead discovery.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Identifying safe and effective anti-inflammatory agents is challenging, especially given the adverse effects of long-term conventional therapies. Here, we present a multistage computational framework to prioritize early natural compounds with potential anti-inflammatory activity across diverse chemical spaces. The proposed workflow integrates machine learning, consensus prediction, drug-likeness evaluation, synthetic accessibility assessment, toxicity prediction, and molecular docking to enable stepwise refinement of candidate selection. Six predictive models were developed and evaluated with gold-standard metrics, all showing consistent performance with accuracies, AUROCs, and AUPRCs above 0.8. A consensus strategy was used to reduce model variability and improve prediction reliability. SHAP analysis identified structural scaffolds associated with predicted anti-inflammatory activity, providing interpretability for compound prioritization. Sequential filtering selected compounds that met predefined criteria for drug-likeness, synthetic feasibility, and predicted safety profiles. Application of the framework to the NPASS database yielded 20 prioritized natural products, of which 17 candidates were further selected based on molecular docking analysis, exhibiting predicted binding affinities of &amp;lt;−7 kcal/mol. This framework was deployed on a web server, CAIP (&lt;a target="_blank"
+   title="Link to external resource"
+   href="https://caip-predictor.streamlit.app/"&gt;https://caip-predictor.streamlit.app/&lt;/a&gt;), enabling rapid prediction and preliminary virtual screening of novel compounds. In total, the proposed framework offers a computational approach to systematically support the prioritization of anti-inflammatory candidate molecules.&lt;/p&gt;</description>
+</item>
+<item>
 <title>Potent Caspase‐1 Antagonists From Dihydropyridine Derivatives: In Vitro Fluorescence Assays and Cell Imaging</title>
 <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70496?af=R</link>
 <guid>10.1002/cmdc.70496</guid>
