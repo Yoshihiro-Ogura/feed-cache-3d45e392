@@ -5,6 +5,126 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>CAPRICHO: Interpretable
+Quality Flagging and Flexible
+ChEMBL Bioactivity Curation for QSAR Modeling</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00802/5436330/CAPRICHO-Interpretable-Quality-Flagging-and</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00802</guid>
+<pubDate>Wed, 23 Sep 2026 12:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Preparing ChEMBL bioactivity data for quantitative structure–activity
+relationship (QSAR) modeling requires navigating curation decisions
+that often lack documentation and are hard to reproduce. We present
+CAPRICHO (ChEMBL Aggregation Package with Robust Inspection and Curation
+Handling Options), a Python command-line tool addressing two gaps
+in current workflows: transparency and flexibility. Unlike approaches
+that remove problematic data, CAPRICHO flags quality issues while
+preserving all data for inspection, letting users assess how each
+curation decision affects cross-assay comparability. Aggregation is
+configured via customizable grouping columns, supporting both traditional
+QSAR and emerging assay-aware modeling paradigms, with all parameters
+recorded in recipe files for reproducibility. Three case studies demonstrate
+the tool: (i) programmatic support of ChEMBL max-curation standards,
+(ii) CYP inhibition multitask curation, and (iii) Caco-2 permeability
+with unit standardization. Together, these show that preserving rather
+than removing flagged data lets practitioners identify which quality
+issues most affect comparability and balance data quality with availability
+for QSAR modeling. CAPRICHO is freely available at https://github.com/CDDLeiden/Capricho&lt;/span&gt;</description>
+</item>
+<item>
+<title>Cholesterol Hot
+Spot Automated Mapping Protocol (CHAMP):
+Identifying Cholesterol-Binding Hot Spots in Membrane Proteins</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01419/5436273/Cholesterol-Hot-Spot-Automated-Mapping-Protocol</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01419</guid>
+<pubDate>Wed, 23 Sep 2026 11:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Biological membranes are dynamic and heterogeneous environments
+that actively influence protein structure and function. Cholesterol,
+in particular, has been widely reported to modulate membrane proteins
+through binding to specific interaction sites. However, the identification
+of these sites remains challenging due to the intrinsic complexity
+and dynamics of lipid bilayers, especially when multiple systems and
+membrane environments are considered. Here, we present CHAMP (Cholesterol
+hot spot automated mapping protocol), an automated Python-based workflow
+that combines coarse-grained molecular dynamics simulations with a
+dual analysis based on contact persistence and spatial density to
+identify cholesterol-binding hot spots at protein–membrane
+interfaces. The protocol requires limited user intervention and is
+designed to enable consistent and reproducible analyses across different
+targets. We validated CHAMP on the serotonin transporter and the cannabinoid
+receptor 1 (CB&lt;sub&gt;1&lt;/sub&gt;), where it recovers known cholesterol-binding
+regions reported in experimental and computational studies. In the
+CB&lt;sub&gt;1&lt;/sub&gt; system, the method also identifies a potential additional
+interaction site. To assess the generality of the approach, we applied
+the protocol to the CB&lt;sub&gt;1&lt;/sub&gt; negative allosteric modulator Org27569,
+showing that it can capture relevant interaction hot spots beyond
+sterol molecules. Overall, CHAMP provides a practical framework for
+mapping interaction hot spots at protein–membrane interfaces
+and may support large-scale and comparative studies of membrane proteins.
+Limitations of the current implementation and possible extensions
+are discussed.&lt;/span&gt;</description>
+</item>
+<item>
+<title>From Closed to
+Mighty: How GTP-Induced Allosteric
+Dynamics, Dimerization, and Membrane Binding Transform a Bacterial
+Dynamin-like Protein</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01952/5436118/From-Closed-to-Mighty-How-GTP-Induced-Allosteric</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01952</guid>
+<pubDate>Wed, 23 Sep 2026 07:00:35 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Dynamins, crucial GTPases involved in membrane remodeling,
+play
+key roles in processes like endocytosis and membrane fission. While
+their importance is well-established, the precise dynamics of their
+conformational changes remain unclear. This study investigates the
+bacterial dynamin-like protein (BDLP) from &lt;span style="font-style:italic;"&gt;Nostoc punctiforme&lt;/span&gt;, which undergoes a dramatic closed-to-open transition upon GTP binding.
+Using standard and enhanced all-atom molecular dynamics simulations,
+we map this transition, revealing a complex energetic landscape. The
+initial barrier arises from disruption of salt bridges formed by the
+GTPase domain with the trunk and paddle, setting off the main hinge
+motion. Subsequent conformational changes involve further hinge motions
+and lateral shearing to minimize electrostatic forces. Notably, GTP
+binding accelerates the transition by 5 orders of magnitude through
+an allosteric mechanism. Our multiscale simulations of 37.1 μs
+accumulated simulation time show that BDLP dimerization and membrane
+binding are necessary to initiate the stabilization of the open conformation.
+These findings provide crucial insights into BDLP’s membrane
+remodeling mechanism, advancing our understanding of dynamin dynamics.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Energy Landscape Sampling Reveals Ligand-Dependent
+Structural Dynamics of the Protease-Activated Receptor 1</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01315/5436112/Energy-Landscape-Sampling-Reveals-Ligand-Dependent</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01315</guid>
+<pubDate>Wed, 23 Sep 2026 07:00:35 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protease-activated
+receptor 1 (PAR1) is a class A G protein-coupled
+receptor activated by proteolytic cleavage and exposure of a tethered
+agonist. While existing structures have revealed inactive and active
+conformations, the ligand-dependent conformational energy landscape
+governing PAR1 activation remains poorly understood. Here, we employed
+enhanced-sampling molecular dynamics simulations using the string
+method with swarms of trajectories to quantify how extracellular ligands
+and G-protein binding modulate PAR1 activation. Free-energy landscapes
+were computed for five receptor states (apo, tethered agonist, thrombin
+receptor-activating peptide (TRAP), vorapaxar (VPX), and VPX + Na&lt;sup&gt;+&lt;/sup&gt;) using five transmembrane (TM) helix distance metrics as
+collective variables. In the apo state, PAR1 samples inactive, intermediate,
+and active-like conformations, indicating substantial intrinsic receptor
+flexibility. VPX increases the free energy of active conformations
+and restricts TM helix 5 and 6 rearrangements, while VPX + Na&lt;sup&gt;+&lt;/sup&gt; eliminates intermediate basins and stabilizes the inactive
+state. In contrast, the tethered agonist stabilizes the active state
+as the global minimum and promotes TM6 displacement of up to ∼1
+nm. The simulations reveal a continuous activation pathway linking
+extracellular ligand engagement to intracellular motifs, including
+the connector, DRF, intracellular loop 3 (ICL3), and KRK motifs, with
+intracellular chloride ion coordination contributing to inactive-state
+stabilization. Gα&lt;sub&gt;q&lt;/sub&gt; binding reduces TM6 flexibility
+and shifts the free-energy minimum toward more active-like conformations.
+Alanine mutagenesis and G&lt;sub&gt;q&lt;/sub&gt;-CASE BRET assays validate predicted
+roles of key residues in activation and G-protein coupling. Together,
+these results provide a detailed understanding of ligand- and transducer-dependent
+PAR1 signaling and inform the design of pathway-selective PAR1 modulators.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Unraveling a Case Where the NAC Approach Fails─MD
 and QM Modeling of Regioselective  cis -Stilbene Oxide
 Hydrolysis by Engineered Epoxide Hydrolases</title>
@@ -4355,34 +4475,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01284</guid>
 <pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01284/asset/images/medium/ci6c01284_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01284&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] FGSGT-DDI: An LLM-Enhanced Functional Group Semantic Graph Transformer for Drug–Drug Interaction Prediction</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01476</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01476</guid>
-<pubDate>Mon, 20 Jul 2026 11:55:01 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01476/asset/images/medium/ci6c01476_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01476&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Chemical Information Modeling for Component-Level Review Prioritization of Adverse-Reaction Signals in Multi-Component Medicines</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01464</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01464</guid>
-<pubDate>Mon, 20 Jul 2026 11:51:59 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01464/asset/images/medium/ci6c01464_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01464&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Mapping the Glycan Recognition Landscape of Galectin-3 through Enhanced Sampling Simulations</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00794</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00794</guid>
-<pubDate>Mon, 20 Jul 2026 10:13:47 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00794/asset/images/medium/ci6c00794_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00794&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] A Lightweight Universal Machine-Learning Interatomic Potential via Knowledge Distillation for Scalable Atomistic Simulations</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01103</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01103</guid>
-<pubDate>Mon, 20 Jul 2026 07:21:51 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01103/asset/images/medium/ci6c01103_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01103&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
