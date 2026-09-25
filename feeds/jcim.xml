@@ -5,6 +5,180 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>A Chemical Foundation
+Model Benchmark for PFAS Bioactivity
+Prediction: Multi-Task Fine-Tuning Beats Fingerprint Baselines, PFAS
+Domain Pretraining Does Not Help</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02202/5438022/A-Chemical-Foundation-Model-Benchmark-for-PFAS</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02202</guid>
+<pubDate>Thu, 24 Sep 2026 21:00:43 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Per- and polyfluoroalkyl substances (PFAS) comprise more
+than 21,000
+chemicals, yet fewer than 1.3% have any experimental bioactivity measurement,
+making structure-based hazard prediction the gating problem for prioritizing
+the untested majority. Existing PFAS models are single-task and rarely
+evaluated under leakage-aware cross-validation. We present the first
+multitask chemical foundation-model benchmark for PFAS bioactivity,
+fine-tuning off-the-shelf MolFormer-XL with 156 ToxCast classification
+heads under Tanimoto-Butina cluster-out cross-validation, which is
+appropriate because 89% of PFAS have empty Murcko scaffolds. The model
+reaches macro AUROC 0.764, beating a Morgan-fingerprint XGBoost baseline
+by +0.18 and winning on 155 of 156 end points. That baseline is, however,
+partly degenerate: binary Morgan fingerprints map a quarter of the
+compounds onto identical vectors, and sweeping eight 1&lt;span style="font-style:italic;"&gt;D&lt;/span&gt;/2D/3D representations on the same folds raises the best classical
+model to 0.688, so the margin properly attributable to the foundation
+model is +0.076. A matched factorial ablation shows that backbone
+fine-tuning and multitask learning are synergistic: multitask learning
+helps only once the backbone is fine-tuned (+0.08). This interaction
+is backbone- and task-dependent: it reproduces on Tox21 for two backbones
+but is absent for ChemBERTa-2 on PFAS, and label-free encoder diagnostics
+show this is not because ChemBERTa-2 represents PFAS poorly, so static
+representation quality does not predict postfine-tuning performance.
+PFAS-specific domain-adaptation pretraining gives no detectable improvement
+(Δ = – 0.01 to – 0.03). Mondrian-by-class conformal
+calibration improves rare-active-class coverage from 0.36 to 0.78,
+and an applicability-domain analysis shows only 26% of untested PFAS
+lie close enough to the training set for the model to be applied without
+caveat. The representation also transfers to soil-water partitioning
+(&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;d&lt;/sub&gt;) regression, where it holds at Spearman
+ρ = 0.75 even on PFAS chemistries absent from training while
+the fingerprint baselines collapse.&lt;/span&gt;</description>
+</item>
+<item>
+<title>DeepKa Protein
+p K  a  Database:
+Identifying pH Dependence in the Protein Data Bank</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01937/5437802/DeepKa-Protein-pKa-Database-Identifying-pH</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01937</guid>
+<pubDate>Thu, 24 Sep 2026 15:00:45 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01937/5437802/DeepKa-Protein-pKa-Database-Identifying-pH"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01937/1/m_ci6c01937_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;pH plays a central role in many biological events. To
+explore the
+underlying molecular mechanisms, it is of importance to determine
+p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; values of ionizable residues in proteins.
+In this work, DeepKa, a deep learning-based protein p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; predictor, was employed to create the p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; database DeepKa DB (http://computbiophys.com/DeepKa/database), which contains p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; data of over 30
+million residues in about 200 thousand soluble proteins. The database
+has been integrated into the existing DeepKa web server, from which
+users can obtain the data of interest freely. In addition to the data
+presentation, four representative case studies were set up to demonstrate
+how p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt;’s extracted from the database
+could be applied to the investigation of pH-dependent processes in
+proteins.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Candidate Structure Prioritization in Non-Target Screening
+with Predicted Collision Cross-Sections and Uncertainty Quantification</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02492/5437770/Candidate-Structure-Prioritization-in-Non-Target</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02492</guid>
+<pubDate>Thu, 24 Sep 2026 13:00:50 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Candidate structure
+prioritization in non-target screening (NTS) can be
+performed using collision cross-sections (CCSs) predicted by a machine-learning (ML) model, with
+a threshold on the relative difference between measured and &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; CCSs. Such thresholds generally are heuristic
+and lack a statistical foundation. In this context, we have constructed
+a conformal predictive system to quantify the uncertainty of the ML-predicted
+CCSs and provide guarantees on the minimum percentage of prioritized
+true structures among the candidate lists of the NTS features detected
+in a sample. The system is designed as a wrapper around the open-source
+ML model GraphCCS and can, in principle, be combined with any CCS
+model. Additionally, we propose the detection of the applicability
+domain of the conformal predictive system based on maximum common-edge subgraph (MCES) molecular distances. We showcase the
+application of our tool to two independent &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; NTS datasets. Results on the two tested external datasets suggest
+that applicability domain detection based on the MCES distance allows
+to maintain the guarantees on the minimum percentage of true structures
+prioritized. In terms of candidate structure prioritization performance,
+on average ∼16% of incorrect candidates could be deprioritized
+while retaining 90% of all true structures. Although this constitutes
+a modest 8% improvement over random prioritization, our tool additionally
+offers adaptivity of removal efficiency to the difficulty of the NTS
+candidates based on quantified uncertainty. Furthermore, the framework
+can potentially be combined with other analytical properties to improve
+candidate structure prioritization in NTS.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AGENTi: APCI-ESI
+Analyte Ionization Fidelity Pre-Screening
+Workflow using Multimodel Inference</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01085/5437769/AGENTi-APCI-ESI-Analyte-Ionization-Fidelity-Pre</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01085</guid>
+<pubDate>Thu, 24 Sep 2026 13:00:50 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ionization sources convert neutral analytes into ions,
+enabling
+their subsequent separation and detection by mass spectrometry. Depending
+on the technique, this mechanism occurs within a solution or in the
+gas phase. The two most common methods to generate ions are electrospray
+ionization (ESI) and atmospheric-pressure chemical ionization (APCI),
+respectively. Both ESI and APCI can generate the same resultant ion
+species; however, it has been shown that preferential charge sites
+can change in response to an ionization source environment. Therefore,
+an additional quality control is warranted &lt;span style="font-style:italic;"&gt;a priori&lt;/span&gt; to delineate erroneous analyte identification and/or unequivocal
+structural assignment. For protonation, protomer fidelity can be assessed
+by comparing the ion-mobility collision cross section (CCS) values
+obtained for both ESI and APCI. In this work, we utilized proxy standards
+(i.e., controls) derived from the available literature to develop
+a proof-of-concept multimodel inference application called AGENTi
+to probe differences in ionization for high-throughput protomer shift
+exploratory analysis. AGENTi uses in sequence the TensorFlow Autoencoder
+anomaly detection and the YDF Gradient Boosted Tree machine learning
+frameworks to generate more balanced and robust anomaly scores. We
+found that using a multimodel screening approach can reduce false
+positive capture at an acceptable loss of true positives. Moreover,
+we expect to achieve a better recovery of true positives with an improvement
+on the current Gradient Boosted Tree regression model for ΔCCS
+prediction as more ESI-APCI dual data are obtained for training. In
+all, we demonstrated in this pilot study that our foundation model
+for &lt;span style="font-style:italic;"&gt;a priori&lt;/span&gt; probing of ionization pathway fidelity
+is feasible and efficient with AGENTi. The AGENTi prototype application
+and documentation are accessible at https://github.com/mitkeng/AGENTi.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Targeting the “Undruggable”
+STAT3 DBD:
+Free-Energy Perturbation-Guided Design of Covalent Micheliolide Derivatives
+Targeting Cysteine 367</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03067/5437355/Targeting-the-Undruggable-STAT3-DBD-Free-Energy</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03067</guid>
+<pubDate>Thu, 24 Sep 2026 07:00:51 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Pancreatic cancer remains a highly lethal malignancy,
+largely due
+to persistent STAT3 signaling that sustains cancer stem cells (CSCs)
+and drives therapeutic resistance. Conventional inhibitors targeting
+the conserved SH2 domain of STAT3 have exhibited limited selectivity
+and efficacy. Here, we report that micheliolide (MCL), the active
+metabolite of the clinical-stage candidate ACT001, inhibits STAT3
+through Cys367 (C367)-dependent covalent engagement within the DNA-binding
+domain (DBD)–a residue unique to STAT3 among STAT family members.
+This specific modification disrupts STAT3 phosphorylation at Tyr705,
+nuclear translocation, and transcriptional activity prior to any detectable
+inhibition of upstream JAK phosphorylation, a finding that suggests
+that STAT3 inhibition is not primarily driven by upstream kinase blockade.
+Guided by covalent docking, R-group enumeration, and relative binding
+free-energy calculations via free-energy perturbation (FEP), we have
+designed and synthesized a series of MCL analogs. These derivatives
+retain comparable antiproliferative potency but exhibit markedly improved
+physicochemical properties, including enhanced kinetic aqueous solubility
+and optimized lipophilicity. Microscale thermophoresis confirms C367-dependent
+binding, while microsecond-scale molecular dynamics simulations and
+pair-interaction energy analyses highlight stable complexes in which
+electrostatic interactions predominate, with major contributions from
+key residues (Lys365, Val366, and Ile368). This study establishes
+C367 as a druggable covalent site in the historically challenging
+STAT3 DBD, validates FEP-guided optimization of covalent inhibitors,
+and identifies compound &lt;strong&gt;16&lt;/strong&gt; as a promising next-generation
+lead with a superior drug-like profile for targeting STAT3-dependent
+cancers. All in all, these findings provide a foundation for advancing
+selective STAT3 DBD inhibitors toward clinical translation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Correction to “PoseidonQ:
+A Free Machine Learning
+Platform for the Development, Analysis, and Validation of Efficient
+and Portable QSAR Models for Drug Discovery”</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03051/5437341/Correction-to-PoseidonQ-A-Free-Machine-Learning</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03051</guid>
+<pubDate>Thu, 24 Sep 2026 07:00:51 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;Ministero dell'Universit? e della Ricerca10.13039/501100021856P2022KCW3L&lt;/span&gt;</description>
+</item>
+<item>
 <title>CAPRICHO: Interpretable
 Quality Flagging and Flexible
 ChEMBL Bioactivity Curation for QSAR Modeling</title>
@@ -4433,48 +4607,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.5c03020</guid>
 <pubDate>Tue, 21 Jul 2026 12:12:49 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c03020/asset/images/medium/ci5c03020_0001.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c03020&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] MolGuidance: Advanced Guidance Strategies for Conditional Molecular Generation with Flow Matching</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c00964</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00964</guid>
-<pubDate>Tue, 21 Jul 2026 06:17:01 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c00964/asset/images/medium/ci6c00964_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c00964&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Epistatic Modulation of Sec/Cys Catalysis in GPX6 Revealed by EVB Free-Energy Landscapes</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01502</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01502</guid>
-<pubDate>Tue, 21 Jul 2026 05:19:19 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01502/asset/images/medium/ci6c01502_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01502&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] ADMET-Driven Chemical Navigability Rules for Early-Stage Virtual Compound Prioritization</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01901</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01901</guid>
-<pubDate>Tue, 21 Jul 2026 01:50:16 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01901/asset/images/medium/ci6c01901_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01901&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Estimating Permeabilities from Biased Molecular Dynamics with a Green–Kubo Formalism for Transport across the Blood-Brain Barrier</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01624</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01624</guid>
-<pubDate>Tue, 21 Jul 2026 01:02:15 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01624/asset/images/medium/ci6c01624_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01624&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] MolT5-Linker: A Transformer-Based Sequence- and Putative Site-Guided Generative Framework for Antibody-Drug Conjugate Linkers</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01342</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01342</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01342/asset/images/medium/ci6c01342_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01342&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Extending Hamiltonian-Adaptive Resolution Simulation to Interfaces: An Updated LAMMPS Implementation and Application to Porous Solids</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01284</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01284</guid>
-<pubDate>Mon, 20 Jul 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01284/asset/images/medium/ci6c01284_0009.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01284&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

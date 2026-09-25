@@ -5,6 +5,79 @@
 <link>https://pubs.acs.org/rss/oprdfk/asap.xml</link>
 <description>OPR&amp;D (mirrored feed)</description>
 <item>
+<title>Computer-Aided
+Solvent Selection for the Design of
+Integrated Synthesis, Crystallization, and Isolation Processes</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00168/5437785/Computer-Aided-Solvent-Selection-for-the-Design-of</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00168</guid>
+<pubDate>Thu, 24 Sep 2026 14:00:49 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The extensive use
+of solvents in pharmaceutical manufacturing has
+major impacts on overall process performance and final product quality.
+Solvent selection often requires tedious and resource-intensive experimental
+investigations. Nevertheless, the growing interest in embedding sustainable
+practices in process development workflows has motivated pharmaceutical
+manufacturers and researchers to deploy digital tools for enhancing
+process understanding and guiding the design of greener materials
+and processes. In this work, a computer-aided mixture/blend design
+(CAM&lt;sup&gt;&lt;span style="font-style:italic;"&gt;b&lt;/span&gt;&lt;/sup&gt;D) methodology is developed to identify
+simultaneously the optimal solvent or solvent/antisolvent mixtures,
+mixture compositions, and process conditions in end-to-end processes,
+considering integrated synthesis, crystallization, and isolation.
+Within the proposed approach, thermodynamic models are used to couple
+property prediction with process modeling to describe pharmaceutical
+process systems, while mathematical optimization techniques are applied
+to search the large design space of potential solvents and process
+conditions and identify the most promising designs among thousands
+of possible options. Further consideration is also given to the integrated
+design of reaction, crystallization, and wash solvents, where design
+decisions across the entire process are interlinked. The methodology
+is applied to the synthesis, crystallization, and isolation of mefenamic
+acid as a case study, while considering a broad range of process-wide
+key performance indicators (KPIs) that quantify product quality and
+resource efficiency, such as product purity and process energy consumption.
+In order to explore the trade-offs between competing KPIs, the proposed
+approach is extended to solve multiobjective design problems and generate
+a list of Pareto-optimal designs. The results highlight that the optimal
+designs are strongly dependent on the criteria considered and motivate
+the need for an integrated approach to solvent selection and process
+design. The findings of this study are expected to contribute to the
+digitalization of solvent selection for the accelerated development
+of sustainable pharmaceutical processes.&lt;/span&gt;</description>
+</item>
+<item>
+<title>High-Throughput
+Screening of Conditions for Gas–Liquid
+Reactions Involving Ozone Gas: A Workflow for Rapid Development and
+Optimization of Scalable Conditions</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00209/5437357/High-Throughput-Screening-of-Conditions-for-Gas</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00209</guid>
+<pubDate>Thu, 24 Sep 2026 07:00:51 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ozone is an attractive, sustainable oxidant for organic
+synthesis,
+yet its adoption in pharmaceutical process development is often limited
+by safety concerns, poor gas–liquid mass transfer, solvent
+incompatibilities, and challenges in scaling. Herein, a robust, high-throughput
+workflow for the rapid development and optimization of scalable ozonolysis
+reactions is reported. Miniaturized screening using a 96-well high-pressure
+reaction block in which ozone-containing gas flows through the headspace
+enabled rapid evaluation of solvent systems, cosolvents, and quenching
+agents under controlled low-temperature conditions, allowing hundreds
+of experiments to be conducted with minimal material consumption.
+Key reaction parameters were efficiently translated to larger-scale
+sparged tube and bubble reactor platforms, demonstrating a consistent
+performance across scales. Reaction progress monitoring and temperature-dependent
+studies suggest that the ozonolysis reaction is influenced by gas–liquid
+mass-transfer control rather than intrinsic kinetic limitation. The
+use of immiscible solvent mixtures and sodium sulfite as a quenching
+agent provided clean phase separations and operationally simple workups
+while mitigating the safety risks associated with peroxide formation.
+Collectively, this workflow enables the identification, scale-up,
+and validation of practical ozone-based oxidations within weeks, providing
+a general and scalable approach for integrating ozone chemistry into
+sustainable pharmaceutical process development.&lt;/span&gt;</description>
+</item>
+<item>
 <title>[Graphical abstract added] Encouraging the
 Exploration of Nickel Catalysis in
 Pharmaceutical Manufacturing Processes: Lessons Learned during Catalyst
