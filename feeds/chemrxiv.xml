@@ -5,6 +5,55 @@
 <link>https://chemrxiv.org/action/showFeed?type=latest&amp;format=rss</link>
 <description>ChemRxiv: Latest Preprints (mirrored feed)</description>
 <item>
+<title>Molecular Design and Interface Engineering of Self-Assembled Monolayers for Inverted Perovskite Solar Cells: A Data-Driven Review of Efficiency, Stability and Scalability</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009477/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009477/v1</guid>
+<pubDate>2026-09-25T10:47:16Z</pubDate>
+<description>Self-assembled monolayers (SAMs) have become indispensable hole-transport layers in inverted perovskite solar cells which enables power conversion efficiencies (PCEs) above 27% in single-junction devices and above 32% in tandems where the tandem devices ...</description>
+</item>
+<item>
+<title>Eugenol Sustained Release from a Non-Innocent Zn-MOF for Antimicrobial Fruit Preservation</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009476/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009476/v1</guid>
+<pubDate>2026-09-25T10:41:17Z</pubDate>
+<description>Active packaging is an effective strategy to extend food shelf life and reduce waste. In this work, a Zn-based Metal-Organic Framework (ZnBDP) was loaded with the natural antimicrobial eugenol using a vapour-phase impregnation, achieving complete ...</description>
+</item>
+<item>
+<title>(N-Hydroxy)amide-Mediated Ligation of Peptides in Chemical Protein Synthesis</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009475/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009475/v1</guid>
+<pubDate>2026-09-25T10:07:56Z</pubDate>
+<description>Chemical protein synthesis enables the production of synthetic proteins with precisely controlled structures. Some chemoselective methods for ligation of peptides in water have been developed thus far, and a variety of target proteins were successfully ...</description>
+</item>
+<item>
+<title>Influence of exchange–correlation functional on machine-learnt interatomic potentials accuracy: a systematic study in borosilicate glasses</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002879/v2?af=R</link>
+<guid>10.26434/chemrxiv.15002879/v2</guid>
+<pubDate>2026-09-25T10:05:29Z</pubDate>
+<description>Machine-learnt interatomic potential (MLIP) has emerged as a strategy to accelerate molecular simulations, offering the promise of quantum chemical accuracy at a cost close to that of classical force fields. They are commonly trained on reference data ...</description>
+</item>
+<item>
+<title>Revealing the Deactivation Mechanism of Aconitase at the Atomistic Level by Multiscale Simulations</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009474/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009474/v1</guid>
+<pubDate>2026-09-25T09:59:15Z</pubDate>
+<description>Mitochondrial aconitase is a key enzyme of the citric acid cycle that converts citrate to isocitrate at its [4 Fe−4 S] cluster cofactor. It is widely conserved across vertebrates and also found in numerous other organisms. Oxidation of the [4 Fe−4 S] ...</description>
+</item>
+<item>
+<title>Topologically-constrained toehold-mediated strand displacement</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009472/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009472/v1</guid>
+<pubDate>2026-09-25T08:45:18Z</pubDate>
+<description>Toehold-mediated strand displacement (TMSD) is regarded as the simplest mechanism through which synthetic nucleicacid nanosystems can be dynamically actuated and is central to applications in biosensing, molecular computing, data storage and retrieval, ...</description>
+</item>
+<item>
+<title>Response to Comment “Rethinking the Evidence for a Liquid–Liquid Transition in Water: What Decompression Experiments Reveal” [J. Chem. Phys. 164, 024506 (2026)]</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009478/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009478/v1</guid>
+<pubDate>2026-09-25T08:23:22Z</pubDate>
+<description>Ultrafast decompression experiments on deeply supercooled water have been interpreted as showing long-lived coexistence of high- and low-density liquid. We reassess this interpretation by separating the timescales of pressure release, structural ...</description>
+</item>
+<item>
 <title>Tweaking the Water Rigidity at Noble Metal Interfaces for Enhanced Alkaline Hydrogen Production via myo-Inositol Coating - A Bioinspired Approach</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009471/v1?af=R</link>
 <guid>10.26434/chemrxiv.15009471/v1</guid>
@@ -997,55 +1046,6 @@
 <guid>10.26434/chemrxiv.15009258/v1</guid>
 <pubDate>2026-09-22T12:53:07Z</pubDate>
 <description>Evaluation of the fluctuation factor can become a computational bottleneck in ringpolymer instanton calculations, particularly at low temperatures where large numbers of ring-polymer beads are required. Conventional evaluation involves diagonalization of ...</description>
-</item>
-<item>
-<title>AI-Driven Optimization of Electrochemical Fertilizer Processes</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009257/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009257/v1</guid>
-<pubDate>2026-09-22T12:43:10Z</pubDate>
-<description>Conventional fertilizer production relies on centralized, fossil-fuel-intensive processes such as Haber–Bosch ammonia synthesis, with high energy demand and associated carbon emissions. Electrochemical routes to nitrogen and phosphorus fertilizers offer a ...</description>
-</item>
-<item>
-<title>Direct generation of a prototypical n-pentyl peroxy radical reveals how mixedfate chemical regimes shape product distributions</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009256/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009256/v1</guid>
-<pubDate>2026-09-22T12:35:12Z</pubDate>
-<description>Organic peroxy radicals (RO2) are key branch points in atmospheric oxidation with competing fates in the troposphere: reaction with NO, reaction with HO2, self-/cross-reaction with another RO2, and isomerization. RO2 often react in mixed-fate regimes, ...</description>
-</item>
-<item>
-<title>Atomic Chalcogen Substitution Modulates Photophysical Properties and Electronic Structure in Donor–Acceptor Covalent Organic Frameworks</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009255/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009255/v1</guid>
-<pubDate>2026-09-22T12:31:12Z</pubDate>
-<description>While chalcogen substitution has recently emerged as a means for tuning the properties of covalent organic frameworks (COFs), its influence on the intrinsic photophysical and charge-transport properties of isoreticular donor–acceptor COFs remains largely ...</description>
-</item>
-<item>
-<title>Direct Observation of Ligand Exchange Dynamics on Atomically Precise Gold Clusters</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009254/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009254/v1</guid>
-<pubDate>2026-09-22T12:25:28Z</pubDate>
-<description>Ligand exchange reactions provide a route to modify the monolayers of atomically precise gold clusters, but the structural dynamics of the process remain poorly understood. In this work, we use collision-initiated direct dynamics driven by a semiempirical ...</description>
-</item>
-<item>
-<title>GXNU MolStudio: An Integrated Open-Source Platform for Molecular Visualization and Quantum Chemical Analysis</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009253/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009253/v1</guid>
-<pubDate>2026-09-22T12:03:04Z</pubDate>
-<description>We report GXNU MolStudio, an open-source, bilingual (Chinese/English) desktop application that integrates real-time molecular visualization with a broad suite of quantum chemical analyses in a single interactive environment. MolStudio embeds a purpose-...</description>
-</item>
-<item>
-<title>Programmable aggregation of photosensitizer in multi- organelles for cancer therapy</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009252/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009252/v1</guid>
-<pubDate>2026-09-22T11:51:10Z</pubDate>
-<description>The precise spatiotemporal control of subcellular drug distribution remains a central therapeutic challenge. Here, a stimulus-responsive aggregation-induced emission (AIE) photosensitizer (TBPBB) is utilized to achieve controllable aggregation switching ...</description>
-</item>
-<item>
-<title>High-Field Spin Dynamics of Photoexcited Pentacene at 9.2 T by Time-Resolved Pulsed EPR and Vector DC Magnetic-Field Sensing</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009251/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009251/v1</guid>
-<pubDate>2026-09-22T11:37:03Z</pubDate>
-<description>Photoexcited triplet spin states of pentacene molecules are promising for dynamic nuclear polarization (DNP) and quantum sensing, yet their spin properties at high magnetic fields remain largely unexplored. Here, we study the high field spin dynamics of ...</description>
 </item>
 </channel>
 </rss>
