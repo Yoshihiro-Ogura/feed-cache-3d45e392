@@ -5,6 +5,90 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Graph-to-Graph
+Inverse Design of Surfactants under
+Multiobjective and Structural Constraints</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02137/5438519/Graph-to-Graph-Inverse-Design-of-Surfactants-under</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02137</guid>
+<pubDate>Fri, 25 Sep 2026 13:00:33 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Rapid,
+sustainable redesign of large functional molecules
+requires
+efficient exploration of vast chemical spaces subject to multiple
+properties and constraints. Graph neural networks have shown strong
+performance in molecular property prediction, yet their use for inverse
+design remains relatively underexplored. Meanwhile, chemical language
+transformers capable of learning long-range relationships have emerged
+as a competing paradigm. To address this gap, we propose a novel motif-based
+graph-to-graph framework for the inverse design of surfactants, in
+which latent representations are optimized to meet target specifications.
+We demonstrate the framework on a challenging and industrially relevant
+problem, targeting the critical micelle concentration (CMC), the air–water
+surface tension at CMC, and the maximum surface excess concentration,
+while considering constraints on surfactant classes and compatibility
+between amphiphiles and counterions. We observed that our framework
+could accurately target multiple properties with greater accuracy
+than surfactant-property models from the literature. Additionally,
+compared with our previously proposed SMILES-based transformer, the
+graph-to-graph framework significantly improves prediction accuracy
+and inverse design validity and expands the diversity of generated
+surfactant classes. Overall, these results establish the motif-based
+graph-to-graph framework as a more accurate, chemically expressive,
+and industrially applicable technology for the multiobjective inverse
+design of large functional molecules.&lt;/span&gt;</description>
+</item>
+<item>
+<title>CSoM Software: Continuous Symmetry Operation Measure
+for Point Group Symmetry Determination of Atomic Coordinates</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02312/5438408/CSoM-Software-Continuous-Symmetry-Operation</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02312</guid>
+<pubDate>Fri, 25 Sep 2026 12:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Symmetry
+is a determining characteristic for molecules and materials
+that determines the electronic properties. Thus, the symmetry of a
+set of atoms, whether in a material or a molecule, should be determined.
+The CSoM software aligns a set of atoms according to a point group
+and reports the deviation from ideal symmetry as a CSoM value: σ&lt;sub&gt;sym&lt;/sub&gt;(&lt;span style="font-style:italic;"&gt;Q&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;). Previously, using
+the CSoM software required programming expertise. Here we report and
+describe an online version of the CSoM software that is freely available
+and able to determine the symmetry, or lack of symmetry, for any set
+of atoms with less than 1000 members. CSoM takes the identity and
+the position of every single atom into account, which we demonstrate
+for three different materials: a mineral, a hydrogen-bonded dimer,
+and a polyoxometalate containing an advanced molecular material. Following
+the guides herein, everybody is able to measure the symmetry of all
+computed or synthesized compounds.&lt;/span&gt;</description>
+</item>
+<item>
+<title>MARS-RNA: An Automated Pipeline for Correlating RNA
+Molecular Dynamics Trajectories with Chemical Probing Data</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03140/5438311/MARS-RNA-An-Automated-Pipeline-for-Correlating-RNA</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03140</guid>
+<pubDate>Fri, 25 Sep 2026 10:00:34 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ribonucleic acid
+(RNA) molecules fold into complex, highly dynamic
+three-dimensional conformational structures that govern their biological
+activities. Chemical probing methods, such as SHAPE (selective 2′-hydroxyl
+acylation analyzed by primer extension), provide structural insights
+in the form of one-dimensional (1D) nucleotide reactivity profiles.
+However, mapping these one-dimensional profiles back to the underlying
+dynamic structures remains a key challenge, as traditional analyses
+rely on a static view based on three-dimensional (3D) high-resolution
+structures from X-ray crystallography or nuclear magnetic resonance,
+rather than accounting for the dynamic nature of the system. In this
+Application Note, we introduce MARS-RNA (Molecular
+dynamics  Analysis for Reactivity and Structure), an automated pipeline
+that extracts and integrates multiscale structural and geometric features
+from RNA Molecular Dynamics (MD) trajectories, combining them with
+secondary (2D) and 3D annotations from X3DNA-DSSR to identify features
+that correlate with experimental reactivity. MARS-RNA processes raw GROMACS trajectories, performs frame-by-frame structural
+annotation, calculates spatial centroids and physical distance fluctuations,
+computes Pearson/Spearman correlation coefficients against SHAPE data,
+and preprocesses results for machine learning pipelines. We show its
+value on the RNA 3′-UTR (PDB ID: &lt;a href="1AUD"&gt;1AUD&lt;/a&gt;, chain A), by highlighting several single
+correlation with SHAPE reactivity.&lt;/span&gt;</description>
+</item>
+<item>
 <title>A Chemical Foundation
 Model Benchmark for PFAS Bioactivity
 Prediction: Multi-Task Fine-Tuning Beats Fingerprint Baselines, PFAS
@@ -4586,27 +4670,6 @@ PMMA).&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01435</guid>
 <pubDate>Thu, 23 Jul 2026 02:44:02 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01435/asset/images/medium/ci6c01435_0005.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01435&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Structural Thermodynamics of Membrane Electroporation: Voltage-Driven Interdigitation Induces Electro-Topological Disparity</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01534</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01534</guid>
-<pubDate>Wed, 22 Jul 2026 12:51:05 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01534/asset/images/medium/ci6c01534_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01534&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Deep Learning-Driven Anticancer Drug Discovery: Emodepside as a Potential Therapeutic Candidate for Triple-Negative Breast Cancer</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.6c01061</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01061</guid>
-<pubDate>Wed, 22 Jul 2026 06:50:28 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.6c01061/asset/images/medium/ci6c01061_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.6c01061&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Real-World Assessment of Machine-Learned Docking Using Bioassay-Derived Benchmarks</title>
-<link>http://dx.doi.org/10.1021/acs.jcim.5c03020</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.5c03020</guid>
-<pubDate>Tue, 21 Jul 2026 12:12:49 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c03020/asset/images/medium/ci5c03020_0001.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Journal of Chemical Information and Modeling&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.jcim.5c03020&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
