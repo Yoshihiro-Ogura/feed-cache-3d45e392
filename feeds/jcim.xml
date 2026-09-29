@@ -222,6 +222,102 @@ Molecular Dynamics Trajectories with Chemical Probing Data</title>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03140/5438311/MARS-RNA-An-Automated-Pipeline-for-Correlating-RNA"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03140/1/m_ci6c03140_0002.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 <item>
+<title>T-ANALYZE
+as a Workflow for Matched Molecule
+Pair Analysis on Peptides</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01414/5440019/T-ANALYZE-as-a-Workflow-for-Matched-Molecule-Pair</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01414</guid>
+<pubDate>Mon, 28 Sep 2026 12:00:44 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01414/5440019/T-ANALYZE-as-a-Workflow-for-Matched-Molecule-Pair"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01414/1/m_ci6c01414_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Matched
+molecular pairs (MMP) is an approach to finding local changes
+in structure that give rise to consistent changes in activity. Assuming
+molecules A and B are in a matched pair, one can imagine a “transformation”,
+i.e., adding, removing, or exchanging a small set of atoms that changes
+A to B. Typical machine-learning algorithms are meant to handle individual
+molecules A, and model the activity difference between A and the average
+activity, and are agnostic to the presence of similar compounds in
+the training set. In contrast, MMP looks for differences between similar
+compounds A and B and is agnostic to the absolute value of the activities
+of A and B. Machine learning models tend to be poor at predicting
+activity cliffs, while MMP is designed to identify them. Previously,
+we (Sheridan et al., &lt;span style="font-style:italic;"&gt;J. Chem. Inf. Model.&lt;/span&gt; &lt;strong&gt;2006&lt;/strong&gt;, 46, 180–192) suggested a workflow T-ANALYZE that organizes
+and displays sets of closely related drug-sized compounds such that
+any consistent MMP-based structure-activity in a data set can be easily
+seen. Nowadays, peptides are under consideration as candidate drugs
+and the MMP approach should be extended to them. Peptides are small
+enough that they can be treated as connection tables, i.e., atoms
+connected with bonds. Alternatively, they can be written as sequences,
+i.e., a one-dimensional list of monomer names. In this paper, we adapt
+the T-ANALYZE workflow to peptides represented both as connection
+tables and as sequences. We demonstrate this on the PAMPA activity
+of the CycPeptMPDB dataset.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Untranslated Region-FNex:
+An Integrative Multimodal
+Framework for Functional Untranslated Region Variant Prioritization</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01582/5439857/Untranslated-Region-FNex-An-Integrative-Multimodal</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01582</guid>
+<pubDate>Mon, 28 Sep 2026 11:00:41 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01582/5439857/Untranslated-Region-FNex-An-Integrative-Multimodal"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01582/1/m_ci6c01582_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Genetic variants in untranslated regions (UTRs) can alter
+post-transcriptional
+regulation, yet functional interpretation remains difficult because
+regulatory mechanisms differ between 5′UTR and 3′UTR
+contexts and are not fully captured by generic noncoding-variant scores.
+We developed UTR-FNex, an interpretable machine-learning framework
+for prioritizing candidate functional variants in both UTR regions.
+We first constructed MetaUTR, a harmonized resource of approximately
+200,000 UTR variant loci, and derived model-development sets containing
+14,627 3′UTR and 3533 5′UTR variants after confidence-based
+filtering. UTR-FNex integrates region-specific sequence, RNA-structure,
+regulatory-motif, miRNA, conservation, and DNABERT-derived allele
+representations, with a neural feature enhancement (NFE) module providing
+additional interaction summaries. Across 10 repeated random hold-outs,
+mean AUROCs were 0.876 for 3′UTR and 0.974 for 5′UTR.
+Under gene-grouped evaluation, AUROCs decreased to 0.769 and 0.672,
+respectively, indicating substantial context dependence, especially
+for 5′UTR. In an external prostate-cancer 3′UTR cohort,
+UTR-FNex achieved an AUROC of 0.720 (95% CI 0.690–0.750), compared
+with 0.696 (95% CI 0.660–0.733) for FunUV; however, FunUV achieved
+higher AUPRC and stronger top-&lt;span style="font-style:italic;"&gt;k&lt;/span&gt; enrichment. A TP53
+rs78378222 case study connected model sensitivity to a known polyadenylation-signal
+context, whereas RNAfold-derived differences were window-dependent
+and were treated as exploratory. These results support UTR-FNex as
+a multimodal prioritization framework while defining important limits
+in cross-gene and cross-source generalization. Source code is available
+at https://github.com/liyaning233/UTR-FNex, and MetaUTR is deposited at &lt;a href="https://doi.org/10.5281/zenodo.19719670"&gt;10.5281/zenodo.19719670&lt;/a&gt;.&lt;/span&gt;</description>
+</item>
+<item>
+<title>MultiRankDTA: A
+Hybrid Ranking Framework for Robust
+and Generalizable Drug-Target Affinity Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00799/5439704/MultiRankDTA-A-Hybrid-Ranking-Framework-for-Robust</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00799</guid>
+<pubDate>Mon, 28 Sep 2026 08:00:45 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00799/5439704/MultiRankDTA-A-Hybrid-Ranking-Framework-for-Robust"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00799/1/m_ci6c00799_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predicting drug-target affinity (DTA)
+is essential for
+screening
+candidate compounds in early-stage drug discovery. However, most existing
+computational methods formulate DTA prediction as a regression task,
+leading to an objective mismatch with the practical need to rank and
+prioritize candidate compounds based on their relative binding strengths.
+Moreover, existing ranking-based methods often adopt a fixed ranking
+objective or scoring function, which may limit their flexibility when
+they are applied to diverse drug-target interaction scenarios. To
+address these challenges, we propose MultiRankDTA, a novel framework
+that formulates DTA prediction as a multilevel ranking task to better
+align with the practical goal of drug screening. By integrating pointwise,
+pairwise, and listwise ranking strategies through a mixture-of-experts
+(MoE) module, MultiRankDTA enables dynamic and adaptive compound prioritization.
+Furthermore, we introduce a fusion network to reduce data set-specific
+biases by leveraging auxiliary supervision from multiple sources.
+Extensive experiments demonstrate that MultiRankDTA achieves superior
+performance compared to state-of-the-art computational methods across
+multiple benchmark data sets and delivers strong results on an independent
+benchmark for virtual screening, indicating its potential for generalization
+and practical utility. The source code can be obtained at https://github.com/CSUBioGroup/MultiRankDTA.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Graph-to-Graph
 Inverse Design of Surfactants under
 Multiobjective and Structural Constraints</title>
@@ -4050,100 +4146,6 @@ In particular, the setup using the Amber ff19sb force field yields
 systematically different scores than all CHARMM36m-based setups, emphasizing
 the importance of methodological choices when designing MD experiments
 and interpreting their results.&lt;/span&gt;</description>
-</item>
-<item>
-<title>MolADR: Multi-Scale
-Complementary Learning of Dual-Granularity
-Molecules and Knowledge Graphs for ADR Prediction in Drug Combinations</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01536/5329135/MolADR-Multi-Scale-Complementary-Learning-of-Dual</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01536</guid>
-<pubDate>Wed, 26 Aug 2026 02:01:02 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01536/5329135/MolADR-Multi-Scale-Complementary-Learning-of-Dual"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01536/1/m_ci6c01536_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;With the increasing use of multiple medications in clinical
-practice,
-accurate and interpretable prediction of organ-level adverse drug
-reactions (ADRs) induced by drug combinations is essential for drug
-safety assessment and precision medicine. Existing knowledge graph
-(KG)-based methods primarily model biomedical associations but leave
-direct structure-level interactions within drug pairs undercharacterized,
-while molecular representation methods often rely on whole-molecule
-or latent substructure encodings, offering limited chemically meaningful
-evidence for ADR risks. This study proposes MolADR, a multiscale complementary
-learning framework that integrates GNN-based KG learning with dual-granularity
-molecular cross-attention modeling to combine macro-level biomedical
-associations with microlevel molecular interaction cues. Under an
-emerging-drug setting, MolADR achieves PR-AUC scores of 81.17 ±
-3.97, 84.04 ± 4.67, and 74.37 ± 9.90 on three data sets,
-consistently outperforming state-of-the-art baselines, with further
-analyses supporting its robustness and suggesting its ability to highlight
-chemically plausible atoms and functional groups for organ-level ADR
-prediction.&lt;/span&gt;</description>
-</item>
-<item>
-<title>SSE-DDI: Selective
-Substructure Encoding with Bond-Centered
-Molecular Representations for Drug–Drug Interaction Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01505/5328973/SSE-DDI-Selective-Substructure-Encoding-with-Bond</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01505</guid>
-<pubDate>Tue, 25 Aug 2026 17:01:01 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01505/5328973/SSE-DDI-Selective-Substructure-Encoding-with-Bond"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01505/1/m_ci6c01505_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug–drug interactions (DDIs) can alter therapeutic
-efficacy
-or cause severe adverse reactions, posing major risks in polypharmacy.
-Accurate DDI prediction is therefore important for medication safety
-and early stage drug screening. Although molecular graph learning
-has been widely used for DDI prediction, many methods still rely on
-atom-centered propagation and global graph aggregation, which may
-obscure interaction-relevant local structural patterns. To address
-this limitation, we propose SSE-DDI, a molecular structure-driven
-framework centered on selective substructure encoding for relation-specific
-DDI prediction. SSE introduces a bond-level substructure-selective
-encoder in molecular line graphs, where chemical bonds serve as fundamental
-representation units and DDI-relevant local patterns are emphasized
-before drug-level representation learning. The encoder performs selective
-information routing between adjacent bond states and condenses interaction-relevant
-substructures into compact molecular representations. These representations
-are further refined by an edge-fusion graph transformer. To complement
-local structural modeling, SSE-DDI refines SMILES-derived Morgan-fingerprint
-similarity profiles to suppress noisy global structural signals without
-external biomedical annotations. Experiments on DrugBank and Twosides
-under transductive and inductive settings show that SSE-DDI outperforms
-representative baselines across multiple metrics. Ablation and visualization
-analyses verify the effectiveness of selective encoding and highlight
-DDI-relevant molecular substructures. The source code is available
-at https://github.com/qichi77/SSE-DDI.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Combining Device
-Information and Molecular Fingerprints
-into a Global Model for Reliable Prediction of Power Conversion Efficiency
-of Dye-Sensitized Solar Cells</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01826/5328366/Combining-Device-Information-and-Molecular</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01826</guid>
-<pubDate>Tue, 25 Aug 2026 11:00:59 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01826/5328366/Combining-Device-Information-and-Molecular"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01826/1/m_ci6c01826_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Solar cells hold the potential to meet the growing worldwide
-demand
-for clean and sustainable energy. Today most solar cells are based
-on silicon, yet new alternatives are continuously emerging. In particular,
-dye-sensitized solar cells (DSSCs) constitute low-cost electrochemical
-energy-harvesting devices. The design of new DSSCs with improved properties
-could be aided by computational techniques, in particular machine
-learning (ML) models. In this work, we therefore present the first
-global ML model based on nearly all entries (4351 out of 4426) in
-the DSSC Database (DSSCDB). Recognizing that the performance of DSSCs
-depends on both dye and device, cells were characterized by a combination
-of Morgan fingerprints and device features, and the resulting dye-device
-pairs were subjected to Histogram-based Gradient Boosting (HGB) regression
-using Power Conversion Efficiency (PCE) as the modeled end point.
-Considering both dye and device properties allowed us to resolve duplicate
-dye entries found in the DSSCDB and to highlight the importance of
-both components to cell performance. The resulting global model boasts
-high predictive ability on the test set (Q&lt;sup&gt;2&lt;/sup&gt; = 0.73 ±
-0.02, MAE = 0.97 ± 0.03 standard deviation over 100 random splits)
-and has a broad applicability domain, covering organic compounds of
-various scaffolds, metal-organic compounds, and dye mixes. SHAP analysis
-was performed to elucidate structure–property relationships.
-The implications of this study contribute methodological and chemical
-novelty in the search for technology that can meet the world’s
-energy demand.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

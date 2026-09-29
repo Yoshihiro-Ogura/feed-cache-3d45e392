@@ -122,6 +122,42 @@ Intermediates Drives Catalyst Deactivation in Cycloalkane Dehydrogenation</title
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01362/5434500/Structure-Sensitive-Pathway-Branching-of-Reaction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01362/1/m_au6c01362_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 <item>
+<title>Interfacial Intelligence for Polymer Brushes: Toward
+Physics-Grounded Design</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01349/5440039/Interfacial-Intelligence-for-Polymer-Brushes</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01349</guid>
+<pubDate>Mon, 28 Sep 2026 13:00:49 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01349/5440039/Interfacial-Intelligence-for-Polymer-Brushes"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01349/1/m_au6c01349_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Polymer brushes are
+adaptive soft interfaces whose functions emerge
+from the coupling of molecular chemistry, chain architecture, grafting
+statistics, solvent and ion organization, and operating conditions.
+This complexity enables diverse functions in antifouling, lubrication,
+separations, sensing, and colloidal assembly but also limits the transferability
+of empirical design rules and purely data-driven predictions. Here,
+we define interfacial intelligence as a physics-grounded, state-resolved
+framework in which the realized interfacial state under defined operating
+conditions connects molecular design to function and is iteratively
+tested and updated through experiments. We discuss how molecular identity
+and brush-specific structural variables can be connected with state-resolved
+measurements, polymer theory, and molecular simulations to represent
+hydration and ion organization. Using protein-resistant brushes as
+a recurring example, we examine how regression identifies conditional
+physicochemical relationships, how high-dimensional analysis identifies
+candidate interfacial states and interaction patterns, and how molecular
+representation and literature-based tools connect chemical space to
+distributed experimental evidence. We further consider how active
+learning and automated experimentation could use these relationships
+to guide the next synthesis or measurement. We distinguish predictive
+association from mechanistic evidence and argue that physics-grounded
+models should generate testable predictions of how an interfacial
+state and its function respond to controlled perturbations. Finally,
+we outline a closed-loop strategy linking provenance-aware data sets,
+physical models, machine learning, controlled synthesis, state-resolved
+characterization, and adaptive experimentation. Such integration could
+shift polymer-brush informatics from end point prediction toward experimentally
+accountable and transferable interfacial design.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Direct Skeletal Modification
 of Bioactive  N -Fused Heterocycles via Transmutation</title>
 <link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01052/5439436/Direct-Skeletal-Modification-of-Bioactive-N-Fused</link>
@@ -2649,13 +2685,6 @@ gradual decrease in overpotential.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/jacsau.6c00325</guid>
 <pubDate>Tue, 16 Jun 2026 10:06:01 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/jacsau.6c00325/asset/images/medium/au6c00325_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;JACS Au&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/jacsau.6c00325&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Reductive and Oxidative Transformations of Nitrite at Nickel(II): Insights into the Generation, Electronic Structure, and Reactivity of {NiNO}10</title>
-<link>http://dx.doi.org/10.1021/jacsau.6c00323</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00323</guid>
-<pubDate>Tue, 16 Jun 2026 10:05:45 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/jacsau.6c00323/asset/images/medium/au6c00323_0011.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;JACS Au&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/jacsau.6c00323&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
