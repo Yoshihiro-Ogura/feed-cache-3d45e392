@@ -5,6 +5,219 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Language of Toxicity:
+An eXplainable Artificial Intelligence
+Approach</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.5c03214/5442022/Language-of-Toxicity-An-eXplainable-Artificial</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.5c03214</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:33 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.5c03214/5442022/Language-of-Toxicity-An-eXplainable-Artificial"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.5c03214/1/m_ci5c03214_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Toxicity prediction
+in small molecules represents a fundamental
+challenge in drug development and chemical safety assessment. Traditional
+approaches heavily rely on predefined molecular descriptors or fingerprints,
+potentially limiting the ability to capture complex and nonlinear
+structure–activity relationships. Here, we present a descriptor-free,
+language-inspired framework that can be applied to different toxicity
+prediction tasks within a unified architecture. The model proposed
+combines a multiscale Convolutional Neural Network (CNN) layer to
+capture chemical patterns at different scales and a Gated Recurrent
+Unit (GRU) layer to capture the sequential nature of these patterns.
+This architecture also exploits an attention mechanism that computes
+attention weights across the sequence, enabling the model to focus
+on the most relevant molecular substructures for toxicity prediction.
+Toxic and nontoxic chemicals, represented by canonical SMILES, are
+investigated as the words of two languages which have to be discriminated;
+using eight different end points, the model provided an accurate description
+of toxicity patterns, with an average Area under the ROC curve (AUC)
+of 0.83 (min: 0.70, max: 0.94) under repeated cross-validation. The
+models were trained on relatively small data sets (∼1000 samples)
+and often strongly imbalanced, two important challenges that highlight
+the opportunities for future improvement; moreover, the proposed attention-based
+framework offers a representation of the molecular regions influencing
+model predictions, providing a basis for future investigations into
+toxicity-related structural patterns and potentially supporting hypothesis
+generation in drug design or drug repurposing applications.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Evaluation of the
+Complementarity of Three Major Databases
+of Protein–Ligand Binding Affinity Data</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02172/5441904/Evaluation-of-the-Complementarity-of-Three-Major</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02172</guid>
+<pubDate>Tue, 29 Sep 2026 22:00:31 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02172/5441904/Evaluation-of-the-Complementarity-of-Three-Major"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02172/1/m_ci6c02172_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein–ligand binding affinity data underpin
+a variety
+of tasks at the early stage of drug discovery. Public databases including
+ChEMBL, BindingDB, and PDBbind curate such data with distinct focuses,
+yet their data overlap and complementary attributes remain insufficiently
+quantified. In this work, we systematically cross-mapped protein–ligand
+binding data in PDBbind (version 2024) against data records sourced
+from ChEMBL (version 35) and BindingDB (version 2025.08). Our analysis
+revealed that merely 22.1% and 23.9% of PDBbind’s annotated
+protein–ligand complexes possess matching binding data records
+in ChEMBL and BindingDB, respectively, confirming that the PDBbind
+dataset is not a subset of the other two larger repositories. This
+limited overlap arises from fundamental differences in scope: ChEMBL
+and BindingDB center on drug discovery datasets, whereas the data
+entries in PDBbind encompass a broader chemical and biological landscape.
+Our analysis further uncovered substantial data redundancy in ChEMBL
+and BindingDB, where 40%–50% of protein–ligand interaction
+pairs are associated with multiple, discrepant binding affinity values.
+Currently, no single resource achieves a comprehensive coverage of
+available protein–ligand binding data, mandating researchers
+to adopt resource-selection strategies customized to their goals.
+While ChEMBL and BindingDB host extensive bioactivity archives, PDBbind
+directly links three-dimensional complex structures with carefully
+curated binding affinity data. This unique value makes it best suited
+for structure-based studies.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Benchmarking Experiments
+with External Data, Domain-Specific
+Features, and Learning Strategies for Modeling ADME and Potency of
+Coronavirus Main Protease Inhibitors</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00304/5441801/Benchmarking-Experiments-with-External-Data-Domain</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00304</guid>
+<pubDate>Tue, 29 Sep 2026 18:00:31 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00304/5441801/Benchmarking-Experiments-with-External-Data-Domain"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00304/1/m_ci6c00304_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predictive computational models of potency and pharmacokinetic
+properties of antiviral drug candidates can dramatically accelerate
+the path from molecular design to clinical evaluation. The ASAP-Polaris-OpenADMET
+consortium hosted the open-science Antiviral Drug Discovery Challenge
+2025, providing a rigorous setting for this problem and requiring
+prediction of potency against the SARS-CoV-2 and MERS-CoV &lt;span style="font-style:italic;"&gt;M&lt;/span&gt;&lt;sup&gt;&lt;span style="font-style:italic;"&gt;pro&lt;/span&gt;&lt;/sup&gt; alongside five ADME end
+points (LogD, KSOL, HLM, MLM, and MDR1-MDCKII). In response, we pursued
+a domain-aware modeling strategy, reasoning that the distinctive chemical
+properties of antiviral compounds could be explicitly engineered in
+the feature space. We tested this premise by isolating the key molecular
+descriptors capable of identifying antivirals, augmenting challenge
+data sets with curated public data, and building both classical machine
+learning and graph neural network (GNN) variants. For ADME modeling,
+ensemble gradient boosting models trained on our bespoke feature space
+consistently outperformed both broader tree-based approaches and GNN
+variants across the five ADME end points in blind evaluation. By a
+factorial design of experiments and statistical benchmarking, we evaluated
+the performance of the optimal XGBoost model for each end point. For
+modeling potency, we explored varied pretraining paradigms and ensemble
+fusion strategies, and found that a stacking ensemble combining docking-enhanced
+XGBoost with a stereochemistry-aware AttentiveFP Graph-Transformer
+model yielded the strongest significant generalization on the Challenge
+test set, suggesting that orthogonal model families reduced epistemic
+uncertainty attributable to model selection in data-limited, multitarget
+settings. Beyond benchmarking, our experiments provided a testbed
+for evaluating critical assumptions in the field, encompassing data
+augmentation strategies, splitting protocols, and ensemble integration
+approaches. Our analysis revealed that a consistently optimal model
+is elusive, and that several standard industry practices fail to withstand
+close inspection. Overall, our work provides both practical benchmarked
+modeling strategies for ADME and potency prediction and a reproducible
+computational foundation for AI-driven antiviral drug discovery efforts.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Generative AI-Assisted
+Molecular Design of AChEIs</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02233/5441756/Generative-AI-Assisted-Molecular-Design-of-AChEIs</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02233</guid>
+<pubDate>Tue, 29 Sep 2026 16:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02233/5441756/Generative-AI-Assisted-Molecular-Design-of-AChEIs"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02233/1/m_ci6c02233_0020.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Alzheimer’s disease (AD) remains a major neurodegenerative
+disorder with limited therapeutic options, while currently approved
+acetylcholinesterase inhibitors (AChEIs), such as donepezil, are associated
+with adverse effects including cardiotoxicity. Here, we integrated
+a deep learning-based framework to design novel AChEIs candidates
+with improved predicted cardiac safety. A reinforcement learning-guided
+GraphVAE (RL-GraphVAE) was employed for target-biased molecular generation.
+The generated compounds were prioritized through CardiotoxPred-based
+cardiotoxicity screening, molecular docking, triplicate molecular
+dynamics simulations, and chemical synthesis. Experimental evaluation
+identified D0209 as a lead molecule exhibiting a noncompetitive inhibition
+mechanism. Notably, compared with donepezil, D0209 showed ∼43-fold
+lower hERG channel inhibition, indicating an improved cardiac safety
+profile. Overall, this integrated computational and experimental workflow
+demonstrates the utility of generative modeling for the discovery
+of novel leads with improved predicted safety profiles, providing
+promising starting points for further optimization and biological
+evaluation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Predicting Synergistic and Antagonistic Micellization
+Effects in Surfactant Blends for Optimized Formulation Design</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02030/5440504/Predicting-Synergistic-and-Antagonistic</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02030</guid>
+<pubDate>Tue, 29 Sep 2026 11:00:33 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02030/5440504/Predicting-Synergistic-and-Antagonistic"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02030/1/m_ci6c02030_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Surfactant mixtures
+exhibit non-ideal interactions that govern
+their macroscopic behavior, yet their prediction is limited by the
+need for experimentally derived interaction parameters. Within Rubingh’s
+Regular Solution Approximation (RST), these interactions are described
+by the parameter β, which is typically obtained by fitting experimental
+mixture data, restricting its applicability in large-scale formulation
+design. In this work, a computational hybrid approach combining machine
+learning with thermodynamic modeling is introduced to enable end-to-end
+prediction and optimization of surfactant mixtures. A dataset of interaction
+parameters derived from experimental binary surfactant mixtures was
+constructed to train predictive models for β, together with
+models for pure-component properties. The predicted, composition-dependent
+β values are incorporated into the RST framework to estimate
+mixture behavior without requiring experimental mixture data, while
+treating the resulting activity coefficients as effective quantities.
+The overall framework was further validated against a comprehensive
+dataset of binary surfactant mixtures and further evaluated on ternary
+systems, showing good agreement with experimental values across diverse
+interaction regimes and compositions. In addition, a multi-objective
+optimization strategy is introduced to identify formulations that
+balance performance and molecular complexity, enabling efficient exploration
+of chemical space. A case study on representative systems further
+demonstrates the applicability of the framework for computational
+formulation design. Overall, the proposed approach provides a scalable
+computational tool for surfactant mixture design, reducing reliance
+on experimental parameterization while enabling rapid virtual screening
+of formulation space.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Enzymatic Reaction
+Feasibility Classification Using
+Machine Learning Methods</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02294/5440449/Enzymatic-Reaction-Feasibility-Classification</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02294</guid>
+<pubDate>Tue, 29 Sep 2026 07:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02294/5440449/Enzymatic-Reaction-Feasibility-Classification"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02294/1/m_ci6c02294_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;With the advancement of computer-aided retrobiosynthesis,
+numerous
+biosynthetic pathways have been predicted, exceeding the capacity
+of experimental validation. Effective classifiers are needed to identify
+feasible reactions. In this study, we collected 75,864 feasible reactions
+from biocatalysis databases and generated an equal number of infeasible
+reactions based on reaction rules. Following atom mapping focused
+on reaction centers and systematic reaction preprocessing, three datasets
+for training were constructed: the “stereo” dataset,
+which retained reaction stereochemical information; the “non-stereo”
+dataset, which was a stereochemistry-agnostic version of the “stereo”
+dataset; and the “mixed” dataset, which comprised both.
+We established a total of 22 individual enzymatic reaction feasibility
+classification models, which include: eXtreme Gradient Boosting (XGBoost)
+and Deep Neural Network (DNN) models utilizing Reaction Fingerprints
+(RXNFP), Differential Reaction Fingerprint (DRFP), and our constructed
+Combined ECFP4 Reaction Fingerprints (c_ECFP4) for reaction representation,
+and Transformer models and fine-tuned ChemBERTa-77M-MLM (ChemMLM)
+models using reaction SMILES strings as the direct input. The results
+indicate that models utilizing the c_ECFP4 representation achieved
+the highest predictive performance, which effectively captured underlying
+enzymatic reaction mechanisms. Among them, Model 1A-M (based on XGBoost
+and “mixed” dataset) was identified as the optimal individual
+model, achieving Matthews Correlation Coefficient (MCC) values of
+0.865 and 0.853 and Area Under Curve (AUC) values of 0.981 and 0.980
+on the “stereo” and “non-stereo” test
+sets, respectively. Furthermore, a consensus model enzymatic reaction
+feasibility classification (ERFC) integrating four reaction representations
+further improved predictive performance, achieving MCC values of 0.894
+and 0.886 and an AUC of 0.986 on both test sets. Moreover, both models
+(Model 1A-M and ERFC) successfully validated a five-step biosynthetic
+pathway, demonstrating higher prediction accuracy than the previously
+reported DeepRFC and DORA-XGB models in identifying feasible reactions.
+All data, the individual Model 1A-M, and the consensus model ERFC
+are openly available, offering a reliable and flexible framework for
+predicting enzymatic reaction feasibility in the presence or absence
+of stereochemical information.&lt;/span&gt;</description>
+</item>
+<item>
 <title>[Graphical abstract added] HDACiAP: A Curated
 Database and Analytical Platform
 for Histone Deacetylase Inhibitors</title>
@@ -3934,218 +4147,6 @@ be finetuned from vanilla BERT models (&lt;span style="font-style:italic;"&gt;i.
 pretraining is needed), pending the availability of sufficiently large,
 high-quality, domain-specific QA data sets that this work shows how
 to autogenerate.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Halogen-Bonding-like
-Interactions Complement Hydrogen
-Bonding in a Human Flavin-Dependent Dehalogenase</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00986/5337641/Halogen-Bonding-like-Interactions-Complement</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00986</guid>
-<pubDate>Thu, 27 Aug 2026 12:01:24 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00986/5337641/Halogen-Bonding-like-Interactions-Complement"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00986/1/m_ci6c00986_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;An accurate description of halogen bonding in biomolecules
-remains
-a challenge in modern biochemistry, as exemplified by the flavin-dependent
-human dehalogenase, iodotyrosine deiodinase. Analyses of the static
-crystal structure and kinetics data suggested that halogen bonding
-is absent in the enzyme’s active site, which does not preclude
-its transient formation along the binding or unbinding pathway. No
-studies have yet explored iodotyrosine deiodinase’s dynamic
-behavior from the perspective of halogen bonding. Here, extensive
-equilibrium and nonequilibrium molecular dynamics (MD) simulations
-together with quantum-mechanical calculations are performed to elucidate
-how the cooperative interplay of transient halogen bonds and stable
-hydrogen bonds governs substrate recognition and retention. An extra-point
-charge model is employed to describe σ-hole of the halogen to
-capture its charge anisotropy in classical simulation. The isotropic
-steered molecular dynamics simulations and dynamic time warping algorithm
-identify dominant unbinding pathways for I-Tyr, Cl-Tyr, and I-Phenol.
-Substrate release kinetics is controlled by a stepwise disruption
-of key hydrogen bonds and salt bridges with K182, Y161, E157, and
-the flavin cofactor. Molecular dynamics simulation-derived geometries
-were screened, representative poses were chosen based on structural
-criteria, and halogen-bond-like interactions were validated through
-natural bond orbital and energy-decomposition analyses. Geometries
-consistent with halogen-bond-like interactions (0.5–2.0 kcal/mol)
-are observed for I-Tyr and I-Phenol near the protein surface. In contrast,
-Cl-Tyr interactions identified solely by structural criteria largely
-correspond to false positives, underscoring the necessity of quantum-mechanical
-validation for reliably characterizing halogen-bond-like interactions.
-These early, short-lived halogen bonds help orient the native substrate
-toward a possible alternate site, triggering a communication network
-that grows with strong hydrogen bonds during substrate recognition.
-By integrating dynamic simulations with quantum-mechanical validation,
-this work reconciles conflicting views on halogen bonding in human
-iodotyrosine deiodinase, revealing transient geometries consistent
-with halogen-bond-like interactions alongside persistent hydrogen
-bonds.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Multiscale Free-Energy
-Methods for Protonation-Coupled
-Light-Responsive Binding of Ionizable Photoswitchable eDHFR Inhibitors</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02133/5337543/Multiscale-Free-Energy-Methods-for-Protonation</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02133</guid>
-<pubDate>Thu, 27 Aug 2026 12:01:24 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02133/5337543/Multiscale-Free-Energy-Methods-for-Protonation"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02133/1/m_ci6c02133_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Photoswitchable ligands enable photocontrol of biomolecular
-activity
-by binding to targets in an isomer-dependent, light-responsive manner.
-Recent developments in ionizable photoswitchable ligands greatly expand
-their applications but introduce a major design challenge: light-responsive
-binding can depend on isomeric form, chemical substitution, and binding-induced
-shifts in protonation equilibria. These effects are tightly coupled,
-subtle in magnitude, and difficult to predict. Consequently, few computational
-methods have been developed and systematically benchmarked for quantitatively
-predicting them. Here, we establish a multiscale free energy method
-and benchmark it against experimental data for a series of recently
-developed photoswitchable inhibitors of &lt;span style="font-style:italic;"&gt;Escherichia coli&lt;/span&gt; dihydrofolate reductase (eDHFR), a crucial target
-in photopharmacology. Constant pH replica-exchange molecular dynamics
-and quantum mechanics/molecular mechanics umbrella sampling simulations
-quantitatively characterize the ligand’s protonation-state
-change upon binding to the eDHFR’s active site. Thermodynamic
-integration (TI) simulations using alternative alchemical pathways,
-thermodynamic cycles, and protonation-state assignments were evaluated
-for predicting light-responsive affinity differentials and substituent
-effects. Direct &lt;span style="font-style:italic;"&gt;cis&lt;/span&gt;-to-&lt;span style="font-style:italic;"&gt;trans&lt;/span&gt; transformations
-with explicit treatment of environment-dependent protonation states
-best reproduce experimental trends. Compound-to-compound pathways
-are less reliable because force-field inaccuracies introduce large
-p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; errors that are difficult to correct
-when protonation/deprotonation processes implicitly enter the thermodynamic
-cycle. TI simulations that ignore binding-induced protonation-state
-changes fail to consistently reproduce experimental trends. Protein–ligand
-and ligand-water interaction analyses further reveal the energetic
-and structural origins of isomer-dependent binding. This study presents
-a multiscale free-energy framework applied to ionizable photoswitches
-targeting eDHFR, and highlights the importance of explicitly accounting
-for binding-induced changes in protonation state when predicting light-responsive
-binding behavior.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Exploring Protein Conformational Ensembles Using Evolutionary
-Conditional Diffusion</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01319/5336932/Exploring-Protein-Conformational-Ensembles-Using</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01319</guid>
-<pubDate>Thu, 27 Aug 2026 11:01:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01319/5336932/Exploring-Protein-Conformational-Ensembles-Using"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01319/1/m_ci6c01319_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein
-conformational ensembles encode the dynamic landscapes
-underlying biological function, regulation, and allostery. Accurately
-reconstructing such ensembles while balancing the accuracy of conformational
-distributions and physical plausibility remains a fundamental challenge
-in structural biology, particularly when dynamic data are scarce.
-Here, we propose DiffEnsemble, a diffusion-based framework designed
-for modeling protein conformational ensembles. DiffEnsemble learns
-latent dynamical representations from static protein structures in
-the Protein Data Bank and integrates the structural profile derived
-from the AlphaFold Protein Structure Database as conditional guidance
-during the diffusion process. Benchmarking on 72 protein targets from
-the ATLAS molecular dynamics simulation data set demonstrates that
-DiffEnsemble outperforms existing methods, including BioEmu and AlphaFLOW.
-Compared with AlphaFLOW, DiffEnsemble achieves improvements of 28.9%
-and 7.5% in Pearson correlation coefficients for ensemble pairwise
-root-mean-square deviation and root-mean-square fluctuation, respectively.
-The results demonstrate that latent dynamical information embedded
-in static structural data can effectively support the modeling of
-protein conformational ensembles.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Efficient, Few-Shot
-Directed Evolution with Energy
-Rank Alignment</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01333/5331673/Efficient-Few-Shot-Directed-Evolution-with-Energy</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01333</guid>
-<pubDate>Thu, 27 Aug 2026 00:01:22 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01333/5331673/Efficient-Few-Shot-Directed-Evolution-with-Energy"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01333/1/m_ci6c01333_0010.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Directed evolution is a powerful and widely used technique
-for
-protein engineering, and reducing the cost of iterated experimental
-observations has become a major priority for practitioners. A number
-of recent efforts to use machine-learning-based predictors to improve
-sequence selection have led to remarkable improvements in efficiency,
-but the sparse data at each experimental iteration restricts these
-approaches to extremely simple models. Adapting large-scale pretrained
-protein language models using experimental data offers an alternative
-that we show productively leverages the strong inductive biases of
-the natural distribution of protein sequences to navigate high-dimensional,
-combinatorially large fitness landscapes. Our approach uses a general-purpose
-“post-training” algorithm grounded in statistical physics
-that employs quantitative experimental rankings to directly produce
-a sampler for diverse, high fitness sequences with fewer data points
-than competing methods. The resulting adapted protein language model
-can itself be studied and interpreted, shedding further light on the
-biophysical characteristics of highly fit sequences and their properties.&lt;/span&gt;</description>
-</item>
-<item>
-<title>The Chemical Imitation
-Game: Navigating Spaces of
-Meaning in Language and Chemistry</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01773/5329805/The-Chemical-Imitation-Game-Navigating-Spaces-of</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01773</guid>
-<pubDate>Wed, 26 Aug 2026 17:00:57 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01773/5329805/The-Chemical-Imitation-Game-Navigating-Spaces-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01773/1/m_ci6c01773_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The historical evolution of chemistry bears striking
-parallels
-to the evolution of language. Both disciplines began as domains governed
-by tacit practitioner knowledge, underwent successive stages of formalization
-through systematic symbolic representations, and have ultimately converged
-toward geometric frameworks that enable machine-guided exploration.
-From Lavoisier’s nomenclature and Kekulé’s structural
-formulas to SMILES notation, molecular fingerprints, and learned embeddings,
-chemistry has progressively transformed molecular representations
-into navigable spaces. A comparable trajectory can be traced in linguistics,
-from Dante’s formalization of the vernacular and de Saussure’s
-structural linguistics to distributed semantic embeddings, large language
-models, and generative AI. In this Perspective, we argue that these
-parallels are not merely historical or metaphorical but reflect a
-deeper representational transition shared by both disciplines: symbols
-become representations, representations become geometries, and geometries
-become spaces that can be explored by humans and machines alike. Building
-on concepts from computational linguistics, molecular machine learning,
-Free Energy Perturbation (FEP), and diffusion-based generative modeling,
-we propose a conceptual framework in which molecular properties may
-be interpreted as forms of chemical meaning emerging from molecular
-structure. Within this framework, semantic interpolation in latent
-spaces and alchemical transformations in molecular simulation appear
-as related strategies for navigating continuous manifolds that connect
-discrete chemical states. We suggest that modern molecular AI is best
-understood not simply as a collection of predictive or generative
-algorithms, but as a new set of tools for exploring chemical meaning
-within learned representations of chemical space. Recent examples
-from molecular generative modeling, including our own work on normalizing-flow
-architectures, illustrate both the promise and the inherent challenges
-of machine-guided navigation of chemical space. We further propose
-the concept of a Chemical Imitation Game as a possible framework for
-evaluating progress in molecular AI beyond syntactic validity and
-toward chemically meaningful reasoning. This Perspective highlights
-the opportunities and the limitations of such approaches and argues
-for a future in which human intuition and machine navigation operate
-as complementary and mutually reinforcing components of chemical innovation.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Which Metrics Best
-Capture Protein Structural Changes
-in Molecular Dynamics Simulations? Evaluating Score Combinations and
-Force-Field Effects</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01218/5329319/Which-Metrics-Best-Capture-Protein-Structural</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01218</guid>
-<pubDate>Wed, 26 Aug 2026 11:01:01 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01218/5329319/Which-Metrics-Best-Capture-Protein-Structural"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01218/1/m_ci6c01218_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The scores RMSD, TM-score, GDT, lDDT, SphereGrinder,
-CAD, QCS,
-FlexE, and MolProbity provide an automated, comprehensive assessment
-of conformational changes and structural quality of proteins and thus
-represent a promising tool for routine use in molecular dynamics (MD)
-simulations, particularly in high-throughput settings. However, it
-remains unclear to what extent these scores provide redundant information
-and which scores are most informative for capturing conformational
-changes. Based on MD simulations of 268 diverse proteins, we demonstrate
-that the investigated scores are highly correlated and that one global
-score (or QCS), one local score, and FlexE capture almost 90% of the
-variance across all scores. Since MD randomness partially explains
-FlexE’s variability, we argue that a combination of one global
-and one local score is sufficient for most practical applications.
-We also investigate the influence of simulation setups and find that
-the choice of the force field can significantly affect scoring results.
-In particular, the setup using the Amber ff19sb force field yields
-systematically different scores than all CHARMM36m-based setups, emphasizing
-the importance of methodological choices when designing MD experiments
-and interpreting their results.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
