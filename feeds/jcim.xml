@@ -5,6 +5,288 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>A Multimodal Integration
+Framework for Taste and Odor
+Prediction and Flavor Molecule Discovery</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02181/5442651/A-Multimodal-Integration-Framework-for-Taste-and</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02181</guid>
+<pubDate>Wed, 30 Sep 2026 17:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02181/5442651/A-Multimodal-Integration-Framework-for-Taste-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02181/1/m_ci6c02181_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Data-driven molecular property prediction is increasingly
+used
+to accelerate molecular discovery and computer-aided design. In flavor
+science, accurate prediction of molecular taste and odor attributes
+could facilitate the screening and rational design of candidate flavor
+molecules. However, this task remains challenging because structure–flavor
+relationships are complex, single molecular representations may provide
+incomplete property-relevant information, and the available labels
+are highly imbalanced. To address these challenges, we implemented
+and evaluated Uni-Flavor, a multimodal prediction framework embedded
+in an integrated computational discovery workflow. Uni-Flavor combines
+three-dimensional molecular representations extracted from a LoRA-fine-tuned
+Uni-Mol2 model with stability-selected Mordred physicochemical descriptors
+through a dual-branch fusion architecture incorporating modality-specific
+projection, multiplicative late fusion, label-aware classification,
+and imbalance-aware optimization. Independent taste and odor models
+were trained separately under a common modeling and evaluation protocol,
+using curated datasets containing 17,202 taste molecules across six
+categories and 4,983 odor molecules across 138 labels. On held-out
+test sets, the taste model achieved an accuracy of 95.63% and an AUROC
+of 97.35%, an AUPRC of 82.05%, and an F1 score of 76.32%, whereas
+the corresponding values for the odor model were 96.03%, 89.97%, 38.00%
+and 36.94%. Branch-specific atom-level attribution analysis provided
+heuristic structural insights into the Uni-Mol2-derived component
+of the predictions by associating attribution patterns with specific
+molecular substructures. The trained models were subsequently used
+to screen approximately 670,000 natural products and coupled with
+a ScaffoldCAMD strategy for the constrained design of synthetic flavor
+candidates under chemical-validity, scaffold-assembly, and physicochemical-property
+constraints, followed by preliminary structural safety filtering.
+Molecular docking was further used to examine plausible receptor–ligand
+interactions and provide preliminary receptor-level support for selected
+candidates. This work presents a common multimodal modeling strategy
+that integrates three-dimensional molecular representations with physicochemical
+descriptors and is instantiated independently for multilabel taste
+and odor prediction. Although developed for flavor-related prediction,
+evaluation on the SIDER dataset provides preliminary cross-task evidence
+that the multimodal integration strategy can be applied to another
+imbalanced multilabel molecular property problem; broader transferability
+to other property domains remains to be established.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Fréchet
+ChemNet Distance Is Blind to Double-Bond
+Stereochemistry</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02441/5442618/Fre-chet-ChemNet-Distance-Is-Blind-to-Double-Bond</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02441</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:34 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02441/5442618/Fre-chet-ChemNet-Distance-Is-Blind-to-Double-Bond"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02441/1/m_ci6c02441_0003.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Fréchet ChemNet Distance (FCD) cannot distinguish &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;/&lt;span style="font-style:italic;"&gt;Z&lt;/span&gt; stereoisomers, because the ChemNet
+tokenizer maps the SMILES bond-direction symbols / and &lt;span style="font-style:italic;"&gt;\&lt;/span&gt; to the same unknown token; inverting every
+double-bond configuration in MolT5-large’s ChEBI-20 output
+(384 molecules altered) changes FCD by 0.001 resampling standard deviations
+while conditional per-bond accuracy falls from 98.97% to 1.03%, and
+MOSES and GuacaMol cannot expose the defect because their benchmark
+data contain no stereochemistry. A stereochemistry-aware correction
+is monotone under synthetic corruption yet prefers fully inverted
+real output, illustrating that a metric operating only on unpaired
+generated and reference embeddings cannot recover per-caption correctness.
+Across real generators FCD carries no dependable signal about a more-than-3-fold
+difference in &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;/&lt;span style="font-style:italic;"&gt;Z&lt;/span&gt; recall: on the
+double bonds where MolT5-large and BioT5-base both recover the molecular
+skeleton, recall is 0.26 versus 0.997, yet FCD does not separate the
+two models─its ordering is statistically borderline, with a
+bootstrap interval that crosses zero. The failure is one of uninformativeness
+rather than of reversal. Where paired conditional references exist,
+stereochemistry should be reported directly, as coverage, precision,
+and recall, rather than inferred from a distributional score.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Predicting Adsorbate-Solvent
+Interaction Energies
+in Zeolite Pores Using Convolutional Neural Networks with Attention
+Mechanisms</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02080/5442606/Predicting-Adsorbate-Solvent-Interaction-Energies</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02080</guid>
+<pubDate>Wed, 30 Sep 2026 15:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02080/5442606/Predicting-Adsorbate-Solvent-Interaction-Energies"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02080/1/m_ci6c02080_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Solvent effects play
+a critical role in determining reaction
+thermodynamics
+and kinetics in liquid-phase heterogeneous catalysis, particularly
+in confined nanoporous environments such as zeolite pores. However,
+accurate prediction of solvation thermodynamics remains computationally
+prohibitive due to the need for extensive first-principles calculations
+on diverse solvent configurations. In this work, we present an attention-enhanced
+three-dimensional convolutional neural network (3D-CNN) framework
+to predict solvation interaction energies (Δ&lt;span style="font-style:italic;"&gt;Eint&lt;/span&gt;) of adsorbates in Ti-faujasite (Ti-FAU) zeolite pores.
+Molecular dynamics (MD) snapshots of C&lt;sub&gt;1&lt;/sub&gt;–C&lt;sub&gt;3&lt;/sub&gt; oxygenates in aqueous and water–methanol solvent environments
+are transformed into multichannel voxel grid representations that
+encode spatially resolved atomistic information. The 3D-CNN architecture
+incorporates separate adsorbate and solvent branches and employs convolutional
+block attention modules to dynamically prioritize spatial regions
+and feature channels relevant to adsorbate–solvent interactions.
+Trained on density functional theory (DFT)-derived interaction energies
+from a multiscale modeling workflow, the model achieves a mean absolute
+error of 0.08 eV for individual configurations and 0.04 eV for ensemble-averaged
+solvation energies, approaching DFT accuracy while substantially reducing
+computational cost. Cross-validation (CV) using simulation-system,
+solvent-composition, and pore-type splits demonstrates predictive
+performance on held-out systems within the represented chemical domain
+and across the solvent and pore conditions considered in this study.
+Analysis of spatial attention maps and feature attributions reveals
+that the model emphasizes adsorbate-proximal solvent structures and
+hydrogen-bonding interactions, consistent with physical intuition.
+This framework enables efficient and interpretable prediction of solvation
+interaction energies in confined systems and provides a scalable pathway
+for mapping structural information sampled from force-field-MD to
+DFT targets.&lt;/span&gt;</description>
+</item>
+<item>
+<title>GMSF: A Dual-Path
+Multimodal Framework for Enzyme
+Function Prediction via Difference Graph Encoding and Multiscale Semantic
+Fusion</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02672/5442605/GMSF-A-Dual-Path-Multimodal-Framework-for-Enzyme</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02672</guid>
+<pubDate>Wed, 30 Sep 2026 15:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02672/5442605/GMSF-A-Dual-Path-Multimodal-Framework-for-Enzyme"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02672/1/m_ci6c02672_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Enzymes play a central role in green chemistry and biomanufacturing.
+However, precise enzyme selection via Enzyme Commission (EC) number
+prediction remains a critical bottleneck between the retrosynthetic
+pathway planning and experimental implementation. Existing computational
+methods predominantly rely on single-modality representations that
+either lose spatial topological structures or treat reactions as static
+snapshots, failing to capture the explicit atom-level state transitions
+in chemical bond evolution. To address these limitations, we propose
+GMSF, a dual-path multimodal deep learning framework. GMSF features
+two core innovations: Difference Graph Encoding, which leverages atom–atom
+mapping (AAM) to compute node feature differences and extract structural
+difference signatures of reaction centers; and Multiscale Sequence
+Encoding, which uses AAM-aligned node mappings to hierarchically capture
+chemical semantics. Experimental results on the ECREACT dataset demonstrate
+that GMSF achieves an accuracy of 93.17% in the highly challenging
+level 3 (subsubclass) enzyme function prediction, outperforming the
+state-of-the-art (SOTA) baseline by a margin of 1.36%. Furthermore,
+its successful application to real-world metabolic networks in the
+BioCyc database validates its immense potential for deciphering complex
+biochemical reactions, serving as a powerful computational screening
+tool to narrow down catalytic mechanisms and coenzyme dependencies
+prior to the exact enzyme selection.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Speak to a Protein: An Interactive Multimodal Co-Scientist
+for Protein Analysis</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01738/5442322/Speak-to-a-Protein-An-Interactive-Multimodal-Co</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01738</guid>
+<pubDate>Wed, 30 Sep 2026 12:00:33 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01738/5442322/Speak-to-a-Protein-An-Interactive-Multimodal-Co"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01738/1/m_ci6c01738_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Building
+a working mental model of a protein typically requires
+weeks of reading, cross-referencing crystal and predicted structures,
+and inspecting ligand complexes, an effort that is slow, unevenly
+accessible, and often requires specialized computational skills. We
+introduce &lt;span style="font-style:italic;"&gt;Speak to a Protein&lt;/span&gt;, a new capability that
+turns protein analysis into an interactive, multimodal dialogue with
+an expert coscientist. The AI system retrieves and synthesizes relevant
+literature, structures, and ligand data; grounds answers in a live
+3D scene; and can highlight, annotate, manipulate, and see the visualization.
+It also generates and runs code when needed, explaining results in
+both text and graphics. We demonstrate these capabilities on relevant
+proteins, posing questions about binding pockets, conformational changes,
+or structure-activity relationships to test ideas in real time. &lt;span style="font-style:italic;"&gt;Speak to a Protein&lt;/span&gt; reduces the time from question to evidence,
+lowers the barrier to advanced structural analysis, and enables hypothesis
+generation by tightly coupling language, code, and 3D structures. &lt;span style="font-style:italic;"&gt;Speak to a Protein&lt;/span&gt; is freely accessible at https://open.playmolecule.org.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Computer-Aided Drug Design for Type 2 Diabetes-Related
+Enzymes: Polarizable and Nonpolarizable Simulations of Enzyme-Inhibitor
+Complexes</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01734/5442239/Computer-Aided-Drug-Design-for-Type-2-Diabetes</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01734</guid>
+<pubDate>Wed, 30 Sep 2026 11:00:35 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01734/5442239/Computer-Aided-Drug-Design-for-Type-2-Diabetes"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01734/1/m_ci6c01734_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Carbohydrate-digesting
+enzymes, including pancreatic α-amylase
+and maltase-glucoamylase (MGAM), are important therapeutic targets
+for type 2 diabetes due to their role in regulating glucose production.
+In this study, molecular dynamics (MD) simulations were performed
+to investigate the stability and interaction patterns of inhibitors
+identified through SILCS-based virtual screening. Representative ligands
+for the N-terminal and C-terminal domains of MGAM (NtMGAM, CtMGAM),
+and α-amylase were parametrized using both the nonpolarizable
+CHARMM and polarizable Drude force fields based on quantum mechanical
+(QM) reference data. MD simulations of the apo enzymes show that their
+overall structures remain stable, with flexibility primarily localized
+to regions surrounding the catalytic pockets. Simulations of the enzyme–ligand
+complexes demonstrate that the ligands remain associated with the
+binding regions throughout the trajectories. Comparison between the
+two force fields reveals distinct interaction patterns: CHARMM interactions
+are largely driven by a small number of dominant contacts, whereas
+the Drude model captures a more extensive and cooperative interaction
+network. Notably, the Drude model enables enhanced engagement with
+catalytic residues in NtMGAM, whereas ligand binding in CtMGAM and
+α-amylase remains more flexible and less directly coupled to
+the catalytic machinery. These results highlight the importance of
+polarization in describing enzyme–ligand interactions and suggest
+that polarization can influence the balance and persistence of interactions
+in a system-dependent manner. These findings provide further computational
+support for the candidate inhibitors identified through computational
+screening.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Computer-Aided
+Drug Design for Type 2 Diabetes-Related
+Enzymes: SILCS-Based Fragment Mapping, Pharmacophore Modeling, and
+Virtual Screening</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01733/5442221/Computer-Aided-Drug-Design-for-Type-2-Diabetes</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01733</guid>
+<pubDate>Wed, 30 Sep 2026 10:00:34 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01733/5442221/Computer-Aided-Drug-Design-for-Type-2-Diabetes"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01733/1/m_ci6c01733_0014.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Highly charged enzyme active sites present a challenge
+for conventional
+Site Identification by Ligand Competitive Saturation (SILCS) because
+strongly interacting charged probes can suppress sampling of neutral
+fragments, while additive force fields do not explicitly account for
+electronic polarization. To address these limitations, we developed
+a comprehensive SILCS-based computational framework and applied it
+to the N-terminal and C-terminal domains of maltase–glucoamylase
+and to α-amylase. Both the conventional mixed-probe SILCS workflow
+and a modified neutral–charged protocol were evaluated using
+the CHARMM additive and Drude polarizable force fields. FragMap convergence
+analysis demonstrated reliable sampling across all systems, with the
+neutral–charged protocol alleviating competitive exclusion
+effects observed in conventional simulations. In highly charged catalytic
+pockets, the conventional workflow was dominated by cationic probe
+sampling, suppressing neutral and hydrogen-bonding features. Separation
+of charged and neutral probes restored chemically diverse interaction
+patterns, improving representation of hydrogen-bond donor, acceptor,
+and hydrophobic hotspots. Incorporation of the Drude polarizable force
+field further enhanced resolution of electrostatic and hydrogen-bonding
+interactions. Energy-based SILCS-Pharmacophore models were generated
+from the neutral–charged FragMaps and used for virtual screening
+of the Maybridge and ChemBridge libraries. Hits were refined using
+SILCS-MC, ranked by ligand grid free energy (LGFE) and ligand efficiency
+(LE), and analyzed through scaffold- and fingerprint-based clustering.
+Integration of energetic and structural analyses enabled identification
+of favorable scaffolds and functional group patterns associated with
+strong binding efficiency. Together, this study develops, evaluates,
+and applies an improved SILCS workflow to three enzymes associated
+with type 2 diabetes (T2D), demonstrating its utility for characterizing
+highly charged active sites and prioritizing candidate inhibitors.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Binding Free Energy Landscape of Different SARS-CoV-2
+Nsp1 Variants Interacting with NXF1-RRM: Insights from Molecular Dynamics
+Simulations and Markov State Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02358/5442058/Binding-Free-Energy-Landscape-of-Different-SARS</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02358</guid>
+<pubDate>Wed, 30 Sep 2026 03:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02358/5442058/Binding-Free-Energy-Landscape-of-Different-SARS"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02358/1/m_ci6c02358_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The
+interaction of the SARS-CoV-2 Nsp1 protein with the host NXF1-RRM
+domain plays an important role in host gene expression, which influences
+virus replication and host immune surveillance. Thus, understanding
+the key factors that determine their binding affinity, such as mutations,
+is of great interest. In this work, we investigated the effects of
+three Nsp1 mutants─D33K/E36K/E37K/E41K, L27D/V28D, and R124E/K125E─on
+its binding to the NXF1-RRM domain using structural and energetic
+analysis. To quantify the affinity changes, we developed a computational
+framework for calculating the free energy landscape of protein–protein
+binding based on the Markov state model (MSM). Our approach is based
+on fluctuations of the radius of gyration and the root mean square
+deviation (RMSD) from a reference state. We found that the D33K/E36K/E37K/E41K
+mutant exerts the strongest destabilizing effect, resulting in greater
+structural deviation, reduced compactness, and a significant loss
+of intermolecular hydrogen bonds. In contrast, the L27D/V28D and R124E/K125E
+mutants retain structural and dynamical properties closer to those
+of wild-type Nsp1 (WT), indicating that these mutations have a more
+limited impact on the stability of the Nsp1–NXF1-RRM complex.
+These results are in good agreement with the previous experimental
+work. We also used the molecular mechanics Poisson–Boltzmann
+surface area (MM-PBSA) method to estimate the binding free energy
+of these complexes, yielding results consistent with the MSM analysis
+and experimental data. However, the binding free energy values obtained
+from the MSM method are more realistic compared to the MM-PBSA method,
+which tends to overestimate binding free energy values or produce
+unphysically negative results. Therefore, the MSM approach provides
+a useful framework for characterizing mutation-induced changes in
+the structural stability and binding energetics of Nsp1–NXF1-RRM
+complexes.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Language of Toxicity:
 An eXplainable Artificial Intelligence
 Approach</title>
@@ -3900,253 +4182,6 @@ Finally, we outline recommendations for data set standardization,
 open sharing of data and code, and the establishment of benchmark
 validation protocols to improve reproducibility and accelerate the
 discovery of ILs for TES applications.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Toward Imbalanced
-Molecular Property Regression: A
-Benchmark Study and Interval-Aware Mixture of Experts</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01847/5350961/Toward-Imbalanced-Molecular-Property-Regression-A</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01847</guid>
-<pubDate>Fri, 28 Aug 2026 15:00:57 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01847/5350961/Toward-Imbalanced-Molecular-Property-Regression-A"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01847/1/m_ci6c01847_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular property prediction is a key task in AI-driven
-drug discovery,
-yet the prevalence and impact of label imbalances in molecular property
-regression remain poorly understood. Through a systematic benchmark
-of widely used molecular property data sets, we show that target values
-are often highly imbalanced and that prediction errors are consistently
-concentrated in sparsely represented regions of the label space. We
-further evaluate representative imbalance-learning approaches developed
-for general regression tasks and find that their effectiveness on
-molecular data sets is limited. To address this challenge, we propose
-interval-aware mixture-of-experts (IA-MoE), a plug-in framework that
-partitions the continuous target space into intervals and promotes
-expert specialization across different regions of the label distribution.
-IA-MoE can be seamlessly integrated with diverse molecular encoders
-without modifying their underlying architectures. Experiments on five
-molecular property benchmarks and four graph neural network backbones
-demonstrate that IA-MoE consistently improves the predictive performance
-in underrepresented regions while maintaining or improving overall
-accuracy. Our findings establish label imbalance as an important challenge
-in molecular property regression and highlight interval-aware expert
-learning as an effective strategy for addressing this challenge.&lt;/span&gt;</description>
-</item>
-<item>
-<title>UniPoseScore: A Unified Graphormer3D-Based Framework
-for Protein–Ligand Binding Pose Scoring and Refinement</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00858/5348843/UniPoseScore-A-Unified-Graphormer3D-Based</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00858</guid>
-<pubDate>Fri, 28 Aug 2026 11:00:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00858/5348843/UniPoseScore-A-Unified-Graphormer3D-Based"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00858/1/m_ci6c00858_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate
-prediction of protein–ligand binding poses is essential
-for structure-based drug discovery. In recent years, computational
-approaches, particularly molecular docking, have generated large numbers
-of candidate ligand poses. However, existing scoring functions remain
-limited in their ability to distinguish near-native poses from incorrect
-docking decoys. In this work, we propose UniPoseScore, a Graphormer3D-based
-framework for ligand pose scoring and refinement. The model simultaneously
-predicts pose RMSD and atomic displacement vectors to guide ligand
-pose refinement. Across four benchmark data sets, UniPoseScore showed
-consistently strong performance and better generalization, with a
-particularly clear advantage in RMSD correlation. Visualization of
-the learned embeddings further suggests that the model captures structural
-features correlated with pose accuracy. On the CASF-2016 benchmark,
-UniPoseScore achieves a refinement success rate of 74.3%, highlighting
-the effectiveness of UniPoseScore in improving ligand binding poses
-and its potential applications in drug discovery. The UniPoseScore
-is available at https://github.com/April-Zhangjq/UniPoseScore.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Catalytic Mechanism
-of γ-Elimination
-and Michael Addition Catalyzed by Pyridoxal-5′-Phosphate-Dependent
-γ-Substitution Enzyme Fub7 Involved in the Biosynthesis
-of 5-Alkyl-pipecolic Acid</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02530/5348001/Catalytic-Mechanism-of-Elimination-and-Michael</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02530</guid>
-<pubDate>Fri, 28 Aug 2026 09:01:03 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02530/5348001/Catalytic-Mechanism-of-Elimination-and-Michael"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02530/1/m_ci6c02530_0013.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Fub7 is a rare pyridoxal 5′-phosphate (PLP)-dependent
-enzyme
-that can subsequently catalyze the γ-elimination of O-acetyl-&lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;l&lt;/span&gt;-homoserine (OAH) and Michael addition with &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;-valeraldehyde (NVA) to synthesize 5-alkyl-pipecolic acid, which
-shows significant potential in synthetic chemistry. In this study,
-we constructed the computational models and performed MD and QM/MM
-calculations to illuminate the complete catalytic cycle of Fub7, which
-contains five reaction stages, including external aldimine formation,
-γ-elimination, Michael addition, reformation of the internal
-aldimine, and final cyclization and dehydration, of which γ-elimination
-and Michael addition correspond to relatively high energy barriers.
-In addition, according to our test calculations, Fub7 can also catalyze
-the β-elimination. During the catalysis, the terminal amino
-of Lys211 exhibits significant conformational changes and was found
-to play multiple roles. On one hand, Lys211 forms internal aldimine
-with the cofactor PLP. On the other hand, Lys211 functions as a catalytic
-base/acid or as a bridge to mediate a series of proton transfer in
-the γ-elimination and Michael addition. Tyr109 only participates
-in the Michael addition. The deprotonated Tyr109 acts as a base to
-abstract the α-proton of NVA to generate the carbanion nucleophile,
-which is the key for Michael addition. These findings may provide
-useful information for understanding the catalysis of PLP-dependent
-enzymes and designing biocatalysts for γ-substitution.&lt;/span&gt;</description>
-</item>
-<item>
-<title>ChemLint: Conversational
-Cheminformatics with Large
-Language Models</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00638/5346216/ChemLint-Conversational-Cheminformatics-with-Large</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00638</guid>
-<pubDate>Fri, 28 Aug 2026 04:00:58 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00638/5346216/ChemLint-Conversational-Cheminformatics-with-Large"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00638/1/m_ci6c00638_0002.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We introduce ChemLint, an open-source Model Context Protocol
-(MCP)
-server that connects any MCP-compatible large language model to a
-curated suite of local cheminformatics and machine learning tools,
-enabling rigorous molecular data handling through a conversational
-interface. Molecular machine learning studies are frequently undermined
-by inconsistent data preprocessing, including invalid SMILES, unresolved
-duplicates, and train-test leakage, yet existing large language model
-(LLM)-based chemistry tools do not address these data-centric challenges.
-ChemLint provides tools for data exploration and diagnostics, molecule
-standardization, and machine learning modeling. All operations are
-executed deterministically by established libraries and recorded in
-a project manifest that traces every action, supporting reproducibility
-and making curation choices explicit. We demonstrate through several
-examples how ChemLint can be used to identify common data quality
-issues, evaluate splitting strategies, and execute complete modeling
-pipelines from raw data to evaluation. ChemLint is freely available
-at https://github.com/molML/ChemLint.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Mimotope-Guided
-Molecular Dynamics Enables Precise
-Functional Epitope Mapping</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01562/5343086/Mimotope-Guided-Molecular-Dynamics-Enables-Precise</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01562</guid>
-<pubDate>Thu, 27 Aug 2026 23:01:12 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01562/5343086/Mimotope-Guided-Molecular-Dynamics-Enables-Precise"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01562/1/m_ci6c01562_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Mimotopes selected by phage display have been used for
-antibody
-epitope mapping for nearly four decades, but residue-level recovery
-of functional epitopes has remained unreliable. This is not a problem
-of algorithms but of assumptions: mimotopes recapitulate native epitope
-recognition through compensatory interaction networks that preserve
-binding energetics, without conserving sequence or surface geometry.
-Predictors trained on sequence similarity or static interface geometry
-therefore miss the residues that drive recognition. We present a physics-based
-workflow that refines antibody-bound mimotope conformations by microsecond-scale
-molecular dynamics and maps the resulting structures onto the cognate
-antigen using Folddisco. Across four antibody–antigen systems
-with crystallographically defined epitopes, the workflow reaches 60
-to 100% precision in epitope localization and recovers 100% of mutagenesis-
-or structurally validated functional hotspots, compared with at most
-25% for three widely used benchmarks (EpiSearch, ClusPro, SEPPA-mAb).
-For the clinically relevant ChiLob 7/4 system, it further identifies
-a minimal tetrapeptide (PWVP) sufficient for antibody recognition,
-validated by Western blot and immunoprecipitation. By grounding epitope
-prediction in experimentally selected binding information and energy-resolved
-conformational refinement, the workflow connects phage display to
-mechanistic structural insight.&lt;/span&gt;</description>
-</item>
-<item>
-<title>PolluCarc-MFSE:
-A Multi-Fingerprint Stacking Ensemble
-Learning Model for Chemical Pollutant Carcinogenicity</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01404/5343028/PolluCarc-MFSE-A-Multi-Fingerprint-Stacking</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01404</guid>
-<pubDate>Thu, 27 Aug 2026 23:01:12 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01404/5343028/PolluCarc-MFSE-A-Multi-Fingerprint-Stacking"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01404/1/m_ci6c01404_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Traditional carcinogenicity assessment relies on animal
-experiments,
-which are costly, time-consuming, and difficult to extrapolate across
-species. Consequently, the carcinogenic potential of most chemical
-pollutants remains uncharacterized, posing significant risks to human
-health. Here, we combined 2356 compounds from public databases with
-six molecular fingerprints, five base machine learning models, and
-ensemble strategies to develop PolluCarc-MFSE (a multifingerprint
-stacking ensemble learning model using Klekota-Roth, extended-connectivity
-fingerprint (ECFP), and MACCS (Molecular ACCess System) fingerprints)
-as the optimal predictive model. This model was then applied to predict
-the carcinogenicity of 179 petrochemical pollutants with unknown carcinogenic
-potential, as listed in the emission standard of pollutants for the
-petroleum chemistry industry (GB 31571-2015, 2024 amendment). Among
-213 carcinogenic compounds (130 predicted by the model and 83 identified
-via dataset intersection), the major types were high-ring-number polycyclic
-aromatic hydrocarbons, halogenated unsaturated hydrocarbons, and multisubstituted
-aromatics. To assess biological relevance, disease-associated targets
-for ten pollutant-linked cancers were retrieved from GeneCards. Using
-a novel multimetric scoring approach in network analysis, we identified
-29 hub targets (e.g., JAK2, EGFR, TP53, MYC) that exhibit stable binding
-to the predicted carcinogens. Pathway enrichment confirmed involvement
-in cancer-related, PI3K-Akt, and JAK-STAT signaling pathways, while
-Disease Ontology linked these targets to liver, breast, and lung malignancies.
-This integrated “data–model–mechanism”
-framework provides a practical tool for prioritizing high-risk chemical
-pollutants and demonstrates how computational toxicology can support
-regulatory decision-making and the adoption of New Approach Methodologies
-in chemical risk assessment.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Mechanism and Origin
-of Stereoselectivity of Halohydrin
-Dehalogenase-Catalyzed Ring-Expansion Reaction of Spiro-Epoxides</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02380/5340654/Mechanism-and-Origin-of-Stereoselectivity-of</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02380</guid>
-<pubDate>Thu, 27 Aug 2026 19:01:12 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02380/5340654/Mechanism-and-Origin-of-Stereoselectivity-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02380/1/m_ci6c02380_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The detailed mechanism of halohydrin
-dehalogenase (HHDH)-catalyzed
-ring-expansion reaction between spiro-epoxides and the nucleophile
-OCN&lt;sup&gt;–&lt;/sup&gt; to form spiro-oxazolidinones was investigated
-using molecular docking, molecular dynamics (MD) simulations, and
-quantum mechanics/molecular mechanics (QM/MM) calculations. Molecular
-docking and molecular mechanics/Poisson–Boltzmann surface area
-(MM-PBSA) results revealed that the &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;-configurational
-substrate exhibited significantly superior binding affinity compared
-to the &lt;span style="font-style:italic;"&gt;S&lt;/span&gt;-configurational one, validating the stable
-binding mode within the enzyme′s active pocket. The fundamental
-pathway initiates with the nucleophilic attack of OCN&lt;sup&gt;–&lt;/sup&gt; accompanied by proton transfer, which is followed by ring closure
-coupled with a proton transfer to form a five-membered ring. A total
-of four possible selective nucleophilic attack pathways were evaluated,
-and the most energetically favorable pathway associated with the &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;-configurational product has an energy barrier of 17.1
-kcal/mol, which is close to the experimental value of 18.1 kcal/mol
-derived from kinetic parameters. This study provides valuable theoretical
-insights for the future engineering of HHDHs for chiral spiro-oxazolidinone
-synthesis.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Autogenerating
-a Domain-Specific Question-Answering
-Data Set to Enable High-Performing Language Models for Magnetic Materials</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00136/5339775/Autogenerating-a-Domain-Specific-Question</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00136</guid>
-<pubDate>Thu, 27 Aug 2026 17:01:15 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00136/5339775/Autogenerating-a-Domain-Specific-Question"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00136/1/m_ci6c00136_0021.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Domain-specific language models are attractive because
-they can
-be tailored to suit their users. However, the high-end computational
-resources needed to pretrain large language models (LLMs) by conventional
-methods tend to prohibit their development. Furthermore, there is
-a dearth of large, domain-specific, question-answering (QA) data sets
-to finetune LLMs for prompt engineering, even when computational resources
-can be found to pretrain LLMs. Our paper presents a method for autogenerating
-a data set of 168,080 domain-specific QA pairs relating to magnetic
-materials. We show how this can be employed to finetune LLMs for the
-downstream task of Question-Answering (QA) for the magnetic materials
-domain. We use the bidirectional encoder representations from transformers
-(BERT) architecture as our benchmark LLM to compare the relative performance
-of 6 LLMs. These include 3 vanilla (BERT-base-cased) LLMs that have
-been finetuned on various QA data sets (i) our domain-specific QA
-data set (MagQA); (ii) the Stanford Question-Answering Data set (SQuAD
-v2); (iii) our QA data set mixed with SQuAD v2. The other 3 (BERT-base-cased)
-LLMs have been subjected to domain-adaptive pretraining on a corpus
-of 97,308 magnetic papers prior to their finetuning on the same combination
-of QA data sets (i)-(iii). As well as our QA data set autogeneration
-pipeline, we show how our work can be extrapolated to the larger architectures
-of RoBERTa-base and DeBERTa-base. We also undertake an ablation study
-of the finetuning process using four sizes of QA data sets to gain
-insights into the quantity of data that are needed for sufficient
-domain-specification. The highest performing LLM was MagBERT_MagQA_Mixed,
-a vanilla BERT-base-cased LLM that had been finetuned on the combination
-of our autogenerated MagQA data set and SQuAD v2, achieving an &lt;span style="font-style:italic;"&gt;F&lt;/span&gt;1 score of 78.43% and an exact-match score of 72.84% when
-tested on a manually annotated data set on magnetic materials. These
-results demonstrate that domain-specific BERT models only need to
-be finetuned from vanilla BERT models (&lt;span style="font-style:italic;"&gt;i.e&lt;/span&gt;. no domain-adaptive
-pretraining is needed), pending the availability of sufficiently large,
-high-quality, domain-specific QA data sets that this work shows how
-to autogenerate.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

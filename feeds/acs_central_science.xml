@@ -5,6 +5,65 @@
 <link>https://pubs.acs.org/rss/acscii/asap.xml</link>
 <description>ACS Central Science (mirrored feed)</description>
 <item>
+<title>Quantifying Directedness
+in Chemical Reaction Networks
+Using Assembly Theory</title>
+<link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c00618/5442620/Quantifying-Directedness-in-Chemical-Reaction</link>
+<guid>http://dx.doi.org/10.1021/acscentsci.6c00618</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:34 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c00618/5442620/Quantifying-Directedness-in-Chemical-Reaction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acscii/pap/10.1021_acscentsci.6c00618/1/m_oc6c00618_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;There is currently
+no general experimental framework
+for determining
+whether an open-ended reaction network explores chemical space undirectedly
+or with some level of directedness. Assembly Theory (AT) provides
+a quantitative framework for mapping experimentally observed molecular
+ensembles into assembly space. Here we show that directedness in chemical
+systems can be quantified using two experimentally accessible observables,
+the exploration ratio (ER) and ensemble assembly (A). ER measures
+the fraction of the inferred joint assembly space sampled, while A
+integrates the molecular assembly index with the observed copy number.
+Together, these quantities distinguish undirected from directed exploration
+and, when applied to time-resolved data or matched controls, provide
+a quantitative measure of transitions associated with selection. By
+analyzing peptide ensembles generated under diverse polymerization
+conditions, we find that nonspecific activation conditions yield exploration
+ratios of 0.77–0.96, whereas sequence-selective proteases yield
+lower ratios of 0.51–0.75 and elevated A. These differences
+are consistent across multiple environments and amino-acid combinations.
+The results establish ER and A as experimentally tractable metrics
+for directedness in chemical reaction networks and provide a route
+to quantify selection when the relevant temporal or causal context
+is defined, with implications for reaction-network analysis, combinatorial
+synthesis, and chemical evolution.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Ninhydrin as a Covalent Warhead for Chemical Proteomic-Enabled
+Discovery and Selective Engagement of Reactive Arginines</title>
+<link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c00922/5442588/Ninhydrin-as-a-Covalent-Warhead-for-Chemical</link>
+<guid>http://dx.doi.org/10.1021/acscentsci.6c00922</guid>
+<pubDate>Wed, 30 Sep 2026 15:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c00922/5442588/Ninhydrin-as-a-Covalent-Warhead-for-Chemical"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acscii/pap/10.1021_acscentsci.6c00922/1/m_oc6c00922_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Covalent molecules
+have emerged as next-generation therapeutics
+and as powerful tools for perturbing fundamental biological processes.
+Chemical proteomic methods to screen for reactive proteinaceous amino
+acids have transformed small-molecule discovery pipelines, but their
+application remains mostly limited to sites where reactive cysteines
+and lysines are present. Here we report a ninhydrin-based warhead
+that selectively modifies arginine residues, thus expanding the repertoire
+of amino acids targetable by covalent molecules. Specifically, we
+developed alkyne-functionalized variants of ninhydrin to establish
+an arginine-specific chemical proteomics platform, enabling the classification
+of more than 6,800 unique reactive arginines from one cell line. These
+studies uncovered potential modification sites on disease-relevant
+proteins, including reactive arginines within catalytic sites that
+are essential for function and reactive arginines on proteins lacking
+reactive cysteines. By endowing a reversible small-molecule binder
+of cyclophilin A with a ninhydrin warhead, we achieved selective,
+covalent engagement in cell lysates and attenuation of enzymatic activity &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt;. These findings establish ninhydrin as a warhead
+for studying arginine reactivity and identifying at scale arginines
+amenable to covalent modification.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Overcoming EGFR
 Resistance by Monovalent and Bident
 Inhibitors Targeting Cys775</title>
