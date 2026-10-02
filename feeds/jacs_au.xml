@@ -5,6 +5,96 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Computational Design
+Strategies for Nanoscale 3D Auxetic
+Metastructures from DNA</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01136/5443632/Computational-Design-Strategies-for-Nanoscale-3D</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01136</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Auxetic metamaterials exhibit negative Poisson’s
+ratio (NPR)
+behaviors due to their architecture of periodically arranged unit
+cells. Although mechanical metamaterials are well established at the
+macroscale, programmable auxetic units remain scarce at the nanoscale.
+DNA origami offers a promising platform to bridge this gap, but design
+principles for dynamically deformable 3D auxetic nanostructures remain
+largely unexplored. Here, we develop design strategies for such 3D
+auxetic metastructures built from wireframe DNA origami. As a model
+system, we use a 3D re-entrant triangular unit composed of double-stranded
+DNA (dsDNA) bundle edges connected by single-stranded DNA (ssDNA)
+joints. Using coarse-grained molecular dynamics (MD) and umbrella-sampling
+free-energy simulations, we examine how edge design and joint-connection
+schemes govern auxetic responses and the energetics of the structural
+transformation. Our results show that auxetic performance and deformation
+energetics emerge from the coupled effects of DNA bundle rigidity
+and connector mechanics at the joints. This study provides mechanistic
+insights and design guidelines for programmable auxetic motion and
+energetics in 3D DNA origami metamaterials, advancing the development
+of stimuli-responsive nanomechanical devices.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Glycosylation Encodes Selective Galectin Recognition
+and Signaling by Osteopontin</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01041/5443615/Glycosylation-Encodes-Selective-Galectin</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01041</guid>
+<pubDate>Thu, 01 Oct 2026 22:00:31 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Post-translational
+modifications critically regulate extracellular
+molecular recognition, yet their roles in intrinsically disordered
+proteins remain poorly defined. Here, we integrate glycoproteomics,
+NMR, and cellular assays to reveal how glycosylation shapes the interaction
+network of osteopontin (OPN), a highly glycosylated intrinsically
+disordered protein. We show that OPN displays a heterogeneous repertoire
+of predominantly sialylated O-glycans that drive selective lectin
+binding: galectin-3 preferentially binds terminal LacNAc-containing
+epitopes, whereas galectin-8 engages multiple sialylated and sulfated
+glycan motifs, promoting cross-linking of OPN. In contrast, binding
+to CD44 receptor is largely glycosylation-independent and is mediated
+primarily through the polypeptide backbone. This dual recognition
+mechanism enables OPN to act as a molecular scaffold that couples
+glycan-mediated galectin binding with CD44 receptor engagement. Consistent
+with this proposed mechanistic model, OPN/galectin complexes are recruited
+to CD44-expressing cells where glycosylated OPN suppresses galectin-8-induced
+apoptosis, whereas deglycosylated OPN does not. Together, our results
+reveal that glycosylation encodes interaction specificity and downstream
+signaling outcomes in an intrinsically disordered extracellular protein,
+establishing OPN as a paradigm for how glycans organize extracellular
+recognition networks.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Prediction of Residue-Level
+Base Preference for DNA-Binding
+Proteins Using a Multimodal Learning Framework</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00925/5443142/Prediction-of-Residue-Level-Base-Preference-for</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c00925</guid>
+<pubDate>Thu, 01 Oct 2026 06:00:44 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Specific recognition between proteins and DNA governs
+essential
+cellular functions, yet the binding specificity of most DNA-binding
+proteins (DBPs) remains experimentally uncharacterized and high-throughput
+experimental methods still lag far behind the ever-growing protein
+data set. Here, we present 3M-BSIP (3-modal base-specific interaction
+predictor), a multimodal deep learning framework capable of predicting
+the DNA-binding interface and residue-level base preference for DBPs.
+3M-BSIP constructs a holistic protein representation by integrating
+three distinct modalities: a protein language model capturing evolutionary
+conservation; a graph neural network encoding 3D structural features;
+and a hierarchical encoder characterizing physicochemical properties
+of protein surface pointclouds. Comprehensive benchmarking demonstrates
+that 3M-BSIP achieves SOTA performance on both interface-residue identification
+and base-preference predictions. Crucially, the model maintains robust
+performance on computationally constructed protein structures and
+is also tolerant toward those undergoing profound structural rearrangements
+upon DNA binding. Two real-world applications of 3M-BSIP demonstrate
+that our model not only can accurately predict the specific binding
+motif of structurally unknown transcription factors but also, more
+importantly, can guide rapid reprogramming of the base preference
+of DBPs based on a purely computational pipeline. Therefore, 3M-BSIP
+holds great potential in annotating the binding motifs of all DBPs
+in a high-throughput manner and designing new DBPs with desired base
+specificities.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Correction to “Enhanced
 Reaction in Supercritical
 Inhomogeneous Microaggregation”</title>
@@ -2666,27 +2756,6 @@ gradual decrease in overpotential.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/jacsau.6c00621</guid>
 <pubDate>Wed, 17 Jun 2026 01:03:47 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/jacsau.6c00621/asset/images/medium/au6c00621_0007.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;JACS Au&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/jacsau.6c00621&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Enantioselective Synthesis of cis-Hydroisoquinolines via Cross-[4 + 2] Cycloadditions of 2-Pyrones and Dihydropyridines</title>
-<link>http://dx.doi.org/10.1021/jacsau.6c00632</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00632</guid>
-<pubDate>Tue, 16 Jun 2026 12:01:13 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/jacsau.6c00632/asset/images/medium/au6c00632_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;JACS Au&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/jacsau.6c00632&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Tetrazine-Enabled Peptide Macrocyclization and Bioorthogonal Cell Penetration Profiling</title>
-<link>http://dx.doi.org/10.1021/jacsau.6c00457</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00457</guid>
-<pubDate>Tue, 16 Jun 2026 11:48:38 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/jacsau.6c00457/asset/images/medium/au6c00457_0006.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;JACS Au&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/jacsau.6c00457&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Coordination Mode Engineering of Silver Cages: From ACQ to AIE for Sequential Artificial Light Harvesting and Near-White Light Emission</title>
-<link>http://dx.doi.org/10.1021/jacsau.6c00413</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00413</guid>
-<pubDate>Tue, 16 Jun 2026 10:15:01 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/jacsau.6c00413/asset/images/medium/au6c00413_0008.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;JACS Au&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/jacsau.6c00413&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
