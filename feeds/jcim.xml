@@ -5,6 +5,190 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>GroScore: Automated
+Scoring of Protein–Protein
+Interactions Using Bidirectional Steered Molecular Dynamics</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01771/5444157/GroScore-Automated-Scoring-of-Protein-Protein</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01771</guid>
+<pubDate>Sat, 03 Oct 2026 00:00:33 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01771/5444157/GroScore-Automated-Scoring-of-Protein-Protein"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01771/1/m_ci6c01771_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;GroScore is an open-source Python toolkit that automates
+the scoring
+of protein–protein structures using bidirectional steered molecular
+dynamics (SMD) simulations with explicit solvent. Building on a previously
+published unidirectional pulling approach, the current version introduces
+bidirectional pulling (unbinding and rebinding), interface cutout
+for reduced computational cost, support for three force fields (AMBER19SB,
+CHARMM36m, GROMOS 54A8), and automated handling of small molecules
+and noncanonical amino acids (using OpenFF), structural ions, and
+crystal waters. GroScore integrates with GROMACS and SLURM for high-performance
+computing and is validated on protein–protein affinity benchmarks,
+showing significant correlation between computed scores and experimental
+binding affinities across all tested force fields. The software is
+freely available at https://github.com/jwperthold/GroScore under the
+MIT License.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Topology-Aware
+Modeling of the Full Genome Reveals
+Stability Determinants in a Small Naked Virus</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01934/5444147/Topology-Aware-Modeling-of-the-Full-Genome-Reveals</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01934</guid>
+<pubDate>Fri, 02 Oct 2026 22:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01934/5444147/Topology-Aware-Modeling-of-the-Full-Genome-Reveals"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01934/1/m_ci6c01934_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding how viral genomes are organized under extreme
+spatial
+confinement remains a fundamental challenge in structural virology.
+Icosahedral viruses, despite offering high-resolution capsid structures
+through cryo-electron microscopy and X-ray crystallography, present
+a major obstacle: their genomes do not obey icosahedral symmetry and
+are thus averaged out during standard reconstruction procedures, leaving
+genome topology largely unresolved. Computational modeling offers
+a complementary avenue, but existing approaches often rely on simplified
+polymer representations that fail to capture sequence-specific features
+and the extreme compaction observed in small DNA viruses. Here, we
+focus on Porcine Circovirus type 2 (PCV2), a member of the &lt;span style="font-style:italic;"&gt;Circoviridae&lt;/span&gt; family and one of the smallest autonomous mammalian
+viruses, which packages a circular ∼1.7 kb single-stranded
+DNA genome into a ∼20 nm T = 1 icosahedral capsid at one of
+the highest DNA packing densities found in nature. We introduce an
+integrative methodology combining AI-based structural prediction,
+lattice Monte Carlo simulations, and multiscale molecular dynamics
+to generate and simulate three-dimensional topological models of the
+complete virions. Our results demonstrate that distinct genome arrangements
+can produce virions with experimentally indistinguishable external
+morphologies, yet differ substantially in their internal energies
+and predicted particle stability. These findings suggest that circovirus
+populations comprise structurally similar but energetically heterogeneous
+assemblies, with implications for infectivity, uncoating, and environmental
+persistence, while providing a generalizable framework for modeling
+genome topology in other confined viral systems.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Enhanced Generalization
+through Atomic Embeddings and Cross-Element Parameterization</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01725/5444133/Enhanced-Generalization-through-Atomic-Embeddings</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01725</guid>
+<pubDate>Fri, 02 Oct 2026 21:00:34 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01725/5444133/Enhanced-Generalization-through-Atomic-Embeddings"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01725/1/m_ci6c01725_0003.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The limited transferability of machine-learned interatomic
+potentials (MLIPs) to unseen chemical compositions constrains their
+utility in computational materials discovery. We present a systematic
+investigation into two interdependent design principles─learned
+atomic representations and cross-element parameterization─that
+govern MLIP generalization. Using the diverse, multielement OC20 catalyst
+dataset, we evaluate chemically informed atomic embeddings against
+conventional 1-hot encoding within two distinct model architectures:
+the tensor-based LATTE descriptor and the MACE message-passing neural
+network. We demonstrate that embeddings such as Magpie and Matscholar
+reduce force mean absolute errors (MAEs) by 20–30% compared
+to 1-hot encoding, and improve data efficiency in low-data regimes
+by over 40%. Furthermore, by strategically sharing parameters across
+elements, we reduce the model sizes by up to 98% (from 23M to 400k
+parameters) without remarkably compromising accuracy, and even enable
+meaningful few-shot prediction for underrepresented elements. This
+work establishes a practical framework for building compact, transferable,
+and data-efficient MLIPs suitable for exploration across heterogeneous
+chemical spaces.&lt;/span&gt;</description>
+</item>
+<item>
+<title>DESPOT: Direction-Enhanced Scoring POTentials for
+Scoring of Protein–Ligand Interactions</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02173/5444105/DESPOT-Direction-Enhanced-Scoring-POTentials-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02173</guid>
+<pubDate>Fri, 02 Oct 2026 19:00:31 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02173/5444105/DESPOT-Direction-Enhanced-Scoring-POTentials-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02173/1/m_ci6c02173_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Knowledge-based potentials
+(KBPs) remain among the most reliable
+and interpretable scoring functions for protein–ligand interactions,
+yet most share two structural limitations. They assume that the space
+around each protein atom is isotropic, and their interaction-conditioned
+reference state cannot represent regions of space that are preferentially
+left empty. We introduce DESPOT (Direction-Enhanced Scoring POTentials),
+an all-atom anisotropic KBP that overcomes both. DESPOT classifies
+atoms into isotropic, axially symmetric, and fully anisotropic symmetry
+classes from their hybridization and bonding environment, and discretizes
+the surrounding interaction space using the corresponding symmetry.
+By adopting a positionally averaged reference state and using a void
+ligand atom type, it learns, for every point around a protein atom,
+the probability that the point is occupied by a given ligand atom
+type or preferentially left empty─a ligand-independent description
+that naturally encodes steric exclusion. This occupancy-conditioned
+potential captures the precise, atom-level placement of ligand atoms;
+we pair it with a complementary geometry-conditioned, residue-level
+formulation (DESPOT-screen, in the spirit of KORP-PL) and combine
+the two inverse-Boltzmann scores into a consensus score, DESPOT-combo.
+Derived from 110,943 curated, energy-minimized complexes drawn from
+the CROWN database and evaluated on the CASF-2016 benchmark, DESPOT
+achieves competitive scoring power (Pearson &lt;span style="font-style:italic;"&gt;r&lt;/span&gt; = 0.61),
+while DESPOT-combo attains best-in-class docking power (89.5% top-1
+success); all anisotropic DESPOT variants significantly outperform
+isotropic KBPs and established empirical scoring functions in virtual
+screening. Anisotropy is decisive for rejecting geometrically implausible
+poses, and uniting the atom-level precision of DESPOT with the implicit
+flexibility tolerance of the residue-level score yields the most consistent
+performance across tasks. Because the same occupancy-conditioned potentials
+can be evaluated over an empty grid, DESPOT generates molecular interaction
+fields as well, unifying pose scoring with direction-aware binding-site
+characterization within a single interpretable model.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Validation Strategy Dominates Model Choice in Chronological
+QSAR Evaluation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02796/5443814/Validation-Strategy-Dominates-Model-Choice-in</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02796</guid>
+<pubDate>Fri, 02 Oct 2026 11:00:34 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02796/5443814/Validation-Strategy-Dominates-Model-Choice-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02796/1/m_ci6c02796_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Quantitative structure–activity
+relationship (QSAR) models
+are commonly evaluated by random cross-validation or random train-test
+splits, but these retrospective procedures may overestimate performance
+when validation compounds are structurally or temporally close to
+the training data. In this study, we examined whether this optimism
+is primarily explained by structural redundancy, chronological data
+set evolution, or the choice of machine-learning model. Fourteen public
+ChEMBL bioactivity data sets were curated as binary classification
+tasks. Five validation conditions were compared: random validation,
+chronological validation by publication year, a size-matched randomly
+thinned control, structural filtering of the random validation set,
+and structural filtering of the chronological validation set. Model
+development was deliberately held fixed within the random-derived
+and year-derived comparisons, so that the effect of validation-set
+composition could be assessed without simultaneously changing the
+training cohort. Four standard QSAR model classes─random forest,
+support vector machine, XGBoost, and a feed-forward neural network─were
+evaluated under the same training-only model-selection workflow. Random
+validation produced closely aligned internal and external estimates,
+with mean MCC values of 0.75 and 0.72, respectively, while random
+thinning gave essentially unchanged validation performance (MCC 0.73).
+Structural filtering reduced validation MCC to 0.48 without changing
+the corresponding training-only CV estimate. Chronological validation
+produced a much larger generalization gap, with mean CV MCC of 0.73
+and validation MCC of 0.19; additional structural filtering reduced
+validation MCC to 0.15. Model-class comparisons showed substantial
+overlap among classifiers, and no standard algorithm consistently
+overcame the chronological validation penalty. These results indicate
+that validation-set definition has a dominant influence on estimated
+QSAR generalization and that chronological data set shift is not reproduced
+by random or structure-only validation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>An Inverse Design
+Workflow for Solvent Mixtures Based
+on Hansen Solubility Parameters</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02092/5443716/An-Inverse-Design-Workflow-for-Solvent-Mixtures</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02092</guid>
+<pubDate>Fri, 02 Oct 2026 07:00:34 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02092/5443716/An-Inverse-Design-Workflow-for-Solvent-Mixtures"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02092/1/m_ci6c02092_0014.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We present &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt;, an open-source
+Python framework
+for inverse design of solvent mixtures based on Hansen solubility
+parameters (HSPs). &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt; allows users to control
+the composition of solvent mixtures while setting essential experimental
+constraints. As a case study, we applied &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt; to optimize a polyimide condensation as a model reaction, where
+the hydrogen-bonding HSP term was selectively tuned. &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt; identified seven viable ternary mixtures from an otherwise intractable
+space of 171,871 possibilities. The best-performing solvent mixture
+achieved a fivefold improvement in the product yield at a milder temperature
+when compared with the conventional single-solvent condition. This
+work establishes &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt; as a practical solution
+for rational solvent mixture design and experimental planning, as
+well as an efficient tool for property-guided solvent optimization
+within data-driven experimental workflows.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Decoding Conformational Dynamics and Hyperactivity
 of Histone H3K36  N -Methyltransferase in Oncogenic
 Mutations via tICA and Markov State Modeling</title>
@@ -4027,194 +4211,6 @@ where repaired candidates yielded docking scores comparable to reference
 crystal poses across all three systems; in the BTK–cIAP1 case
 (6W8I), repair produced an improvement from −9.9 to −11.3
 kcal/mol, with anchor coordinates fixed throughout repair by construction.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Leveraging a Deep
-Learning Model and Computational
-Screening for the Discovery of ABCG2 Inhibitors against Drug-Resistant
-Breast Cancer</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00582/5388498/Leveraging-a-Deep-Learning-Model-and-Computational</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00582</guid>
-<pubDate>Mon, 31 Aug 2026 20:00:47 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00582/5388498/Leveraging-a-Deep-Learning-Model-and-Computational"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00582/1/m_ci6c00582_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Multidrug resistance (MDR) mediated by ATP-binding cassette
-transporter
-G2 (ABCG2) remains a major clinical challenge in breast cancer chemotherapy,
-primarily due to its role in reducing intracellular adriamycin (ADR)
-concentrations. To address this challenge, we developed an integrated
-computational strategy for the rapid identification of potent ABCG2
-inhibitors capable of reversing ADR resistance. We first established
-the Prediction of Protein–Ligand’s p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;d&lt;/sub&gt; (PPLK), a specialized deep learning model that employs
-multimodal sequence-ligand representations and feedforward neural
-networks to accelerate the discovery of ABCG2 inhibitors. Next, computational
-virtual screening of a compound library (∼1.58 million) was
-conducted, coupled with molecular dynamics simulations, focusing on
-the key binding residues THR542, PHE439, ASN436, and SER440. Among
-the top-ranked candidates, reserpine was validated as a potent ABCG2
-inhibitor, achieving 1.90-fold sensitization in ADR-resistant cells,
-thereby confirming the predictive accuracy of the PPLK model. Notably,
-we identified a small-molecule compound, F0161-0219, as a promising
-ABCG2 inhibitor, which led to a 1.94-fold sensitization enhancement
-in ADR-resistant cells. Direct target engagement of F0161-0219 with
-ABCG2 was confirmed by biolayer interferometry, DARTS, and CETSA assays.
-Collectively, our research underscores the potential of leveraging
-deep learning models and computational screening for the discovery
-of ABCG2 inhibitors.&lt;/span&gt;</description>
-</item>
-<item>
-<title>MolSelector: A
-Machine Learning Framework for Interpretable
-Subset Selection from Molecular Science Data Sets</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01332/5386758/MolSelector-A-Machine-Learning-Framework-for</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01332</guid>
-<pubDate>Mon, 31 Aug 2026 17:00:52 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01332/5386758/MolSelector-A-Machine-Learning-Framework-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01332/1/m_ci6c01332_0013.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We describe MolSelector,
-a machine learning framework for selecting
-representative subsets of molecular science data sets for efficient
-and accurate neural network training. As part of MolSelector, we introduce
-the interpretable Atypicality Score algorithm, which identifies molecules
-that are typical versus atypical of their data set and selects a representative
-sample of the data set on that basis. These subsets can be used for
-subsequent neural network training, leading to fast model training
-with reduced memory requirements while still maintaining low test
-set error across several molecular property prediction tasks. Our
-experiments demonstrated that the Atypicality Score subsets resulted
-in errors close to the errors obtained when the entire training set
-is used, while achieving a 3× or greater training time speedup
-compared to this baseline. Additionally, we analyzed the Atypicality
-Score algorithm’s typical and atypical molecule assignments
-to gain insight into the molecular characteristics the algorithm determined
-most beneficial for subset selection.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Probe-Atom Distributions
-Obtained from Mixed-Solvent
-Molecular Dynamics Improve the Scoring of Docking Calculations</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00947/5386756/Probe-Atom-Distributions-Obtained-from-Mixed</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00947</guid>
-<pubDate>Mon, 31 Aug 2026 17:00:52 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00947/5386756/Probe-Atom-Distributions-Obtained-from-Mixed"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00947/1/m_ci6c00947_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Structure-based virtual screening (VS) is widely used
-for the computational
-selection of drug candidates from compound libraries. Protein–ligand
-docking calculations are often performed as key steps in the early
-stages of this process. However, current docking calculations have
-limited accuracy. Thus, improvements are needed to more efficiently
-identify promising drug candidates. In this study, we performed mixed-solvent
-molecular dynamics (MSMD) simulations using four types of probe molecules
-to improve the accuracy of large-scale VS. We proposed a method for
-the modification of the docking scoring function for five selected
-atom classifications (XS_types). This approach integrated the grid
-free energy derived from the relevant atoms across the probe molecules.
-VS experiments conducted on nine target proteins showed improved accuracy,
-with the average EF&lt;sub&gt;1%&lt;/sub&gt; increasing from 6.65 to 7.36. Our
-method may facilitate drug discovery with higher accuracy than that
-of conventional methods.&lt;/span&gt;</description>
-</item>
-<item>
-<title>GAPEK: A General
-Framework for Multiparameter Enzyme
-Kinetic Prediction with Adaptive Learning</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02546/5385492/GAPEK-A-General-Framework-for-Multiparameter</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02546</guid>
-<pubDate>Mon, 31 Aug 2026 14:01:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02546/5385492/GAPEK-A-General-Framework-for-Multiparameter"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02546/1/m_ci6c02546_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The enzyme kinetic parameters, including the turnover
-number, Michaelis
-constant, and inhibition constant, are key metrics for assessing catalytic
-performance. Although deep learning models have recently incorporated
-multimodal information from enzymes and substrates to predict these
-parameters, several obstacles still persist. First, current data sets
-suffer from limited size, inconsistency, and a lack of unified standards.
-Second, most existing approaches prioritize cross-modal consistency
-but fail to sufficiently exploit the unique information residing in
-each individual modality. Meanwhile, although a limited number of
-studies have recognized that collaborative exploration of shared and
-specific information can enhance model performance, these methods
-remain difficult to directly apply to enzyme–substrate pairs,
-as enzyme–substrate relationships are inherently interactive
-rather than semantically equivalent counterparts. Third, the measured
-kinetic parameters are often unevenly distributed, which severely
-undermines the predictive accuracy of existing models when dealing
-with extreme value ranges. To resolve the above challenges, we first
-compile Kinetic-DB, a large-scale and consistently formatted data
-set from public resources. Building upon this data set, we develop
-GAPEK, a new framework for estimating enzyme kinetic parameters. In
-particular, an adaptive data augmentation module is devised to enrich
-the diversity of both enzyme and substrate sequences, thereby alleviating
-the adverse effects of data imbalance. Subsequently, we perform feature
-extraction using two pretrained models, ESM-2 for enzymes and Mole-BERT
-for substrates, to obtain multimodal embeddings. To decouple these
-complex interacting features, we introduce a tailored dual information
-exploration module to capture both modality-specific and cross-modal
-information, further refined by domain classification and distribution
-alignment loss functions. To explicitly handle the imbalanced data
-distribution, our base model, GAPEK, incorporates an adaptive density-weighted
-loss function. Building on this, we propose GAPEK+, which integrates
-the Squared Error Relevance Area (SERA) function to reconfigure the
-learning objective. By prioritizing high-relevance regions, GAPEK+
-effectively calibrates the model’s sensitivity to rare but
-critical extreme values, substantially mitigating the prediction bias
-inherent in heavy-tailed regression tasks. Experimental results demonstrate
-that both GAPEK and GAPEK+ achieve superior performance over existing
-state-of-the-art approaches, particularly across extreme parameter
-ranges, highlighting their potential as valuable tools applicable
-to enzyme engineering, synthetic biology, and drug discovery.&lt;/span&gt;</description>
-</item>
-<item>
-<title>In-Context Learning
-Meets Small Molecule Property
-Prediction: Benchmarking Novel Machine Learning Approaches</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02361/5382778/In-Context-Learning-Meets-Small-Molecule-Property</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02361</guid>
-<pubDate>Mon, 31 Aug 2026 09:01:06 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02361/5382778/In-Context-Learning-Meets-Small-Molecule-Property"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02361/1/m_ci6c02361_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Recently,
-a new category of machine learning approaches for tabular
-data has emerged: tabular foundation models (TFM), based on in-context
-learning. A TFM is a neural network (usually a transformer) pretrained
-primarily on synthetic data. Its input is an entire data set: features
-and labels for training records, along with features for the target
-records. This study comprehensively benchmarked these methods for
-predicting the properties of small organic molecules. Several TFM
-were compared with multiple machine learning methods across 11 data
-sets (regression, random and structure-aware splits, up to 10,000
-molecules each). The evaluation showed that TFM consistently outperform
-XGBoost, CatBoost, multilayer perceptrons, and other descriptor-based
-methods, even with careful hyperparameter selection for the baselines.
-TFM also demonstrate accuracy on par with or better than graph-based
-methods, including those pretrained on chemical data. Uni-Mol2, a
-pretrained deep neural network operating on 3D atomic coordinates,
-slightly outperforms TFM in some experiments. However, this comparison
-deliberately disfavors TFM, as they do not use any chemical pretraining
-and rely on a minimalistic set of 2D molecular descriptors without
-feature engineering. Some further improvement in results for relatively
-large data sets and random splits is achieved using retrieval: for
-each test molecule, the 500 closest neighbors (by Tanimoto similarity)
-are selected from the training set, and TFM inference is performed
-on this local subset. Overall, TFM (particularly the TabPFN family)
-are highly promising for predicting the properties of small molecules.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Rational Polyligand
-Design for G-Quadruplex
-Multimer Stabilization</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01189/5362429/Rational-Polyligand-Design-for-G-Quadruplex</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01189</guid>
-<pubDate>Sat, 29 Aug 2026 19:00:48 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;G-quadruplexes (G4)
-are noncanonical nucleic acid secondary structures
-formed by guanine-rich sequences that can form higher-order multimers
-under appropriate conditions and represent attractive targets for
-multivalent molecular recognition. Here, we propose a rational ligand
-design strategy based on multivalency, in which ligand molecules are
-covalently linked into polymer-like macromolecules. Using coarse-grained
-molecular dynamics, we show that these “polyligands”
-intercalate G4 multimers more efficiently than their monomeric counterparts,
-achieving strong stabilization through cooperative effects, even when
-individual ligands exhibit low intrinsic binding affinity. Polyligand
-intercalation induces structural changes in G4 multimers, modifying
-their size and stiffness. Using a quantitative polymer theory framework,
-we connect these structural changes with the thermal stabilization
-of G4 multimers. Polyligands represent a general design principle
-for G4-targeting molecular stabilizers, offering enhanced G4 stabilization
-via programmable linker length and backbone rigidity.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
