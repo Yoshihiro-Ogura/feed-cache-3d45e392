@@ -5,6 +5,37 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Refining AMOEBA
+Electrostatics for  d -Glucose
+and 1→4-Linked  d -Glucose Oligosaccharides</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02832/5444169/Refining-AMOEBA-Electrostatics-for-d-Glucose-and-1</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02832</guid>
+<pubDate>Sat, 03 Oct 2026 03:00:35 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02832/5444169/Refining-AMOEBA-Electrostatics-for-d-Glucose-and-1"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02832/1/m_ci6c02832_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Carbohydrate simulations
+are highly sensitive to the treatment
+of hydroxyl electrostatics because hydration, conformational sampling,
+and reactivity are governed by dense hydrogen-bonding networks. Here,
+we examine how oxygen quadrupole scaling affects AMOEBA &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose models generated with &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;Poltype2&lt;/span&gt; by comparing the
+standard 0.7 scaling with full 1.0 scaling for α- and β-&lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose monosaccharides, 1→4-linked oligomers, and
+concentrated solutions. Increasing the oxygen quadrupole scaling from
+0.7 to 1.0 improves monosaccharide hydration free energies, increases &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose–water hydrogen-bond counts and lifetimes, and
+strengthens hydroxyl electric-field projections without substantially
+altering hydration-shell structure. In 1→4-linked &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose oligomers, full scaling also enhances intramolecular hydrogen
+bonding, restricts conformational sampling, and produces more organized
+chain electrostatics. Electric-field decompositions indicate that
+OH2 and OH3 in α1→4 &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose oligomers are
+strongly coupled to intramolecular hydrogen-bond networks, whereas
+OH6 remains more water-controlled and solvent-accessible. Diffusion
+simulations show that both models perform reasonably well at concentrations
+up to 0.5 mol/kg but overestimate the slowdown of &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose
+mobility at higher concentrations, especially with 1.0 scaling. Overall,
+full oxygen quadrupole scaling improves local hydration, hydroxyl
+electrostatics, and diffusion behavior in the lower-concentration
+regime. Further refinement is needed to balance these stronger interactions
+against transport properties in highly concentrated carbohydrate solutions,
+which may be particularly relevant to materials applications.&lt;/span&gt;</description>
+</item>
+<item>
 <title>GroScore: Automated
 Scoring of Protein–Protein
 Interactions Using Bidirectional Steered Molecular Dynamics</title>
@@ -4172,45 +4203,6 @@ that have proven challenging to confirm otherwise. Together, the combination
 of GDS and VAMP opens a new route toward rapid characterization of
 protein-folding intermediates and kinetics traps to help address frontier
 challenges such as protein misfolding, aggregation, and protein design.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Pro-GAT: Reconnecting Fragmented PROTACs Using Graph
-Attention Transformer</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01049/5391811/Pro-GAT-Reconnecting-Fragmented-PROTACs-Using</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01049</guid>
-<pubDate>Tue, 01 Sep 2026 02:01:21 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01049/5391811/Pro-GAT-Reconnecting-Fragmented-PROTACs-Using"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01049/1/m_ci6c01049_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;PROTACs recruit an E3 ligase to a
-protein of interest via a bifunctional
-linker, and their activity is critically dependent on the geometry
-and chemical integrity of that linker. Diffusion-based generative
-models, which operate in continuous coordinate space, lack explicit
-mechanisms for enforcing discrete bond connectivity under fixed anchor
-constraints; as a result, they routinely produce linker structures
-that are geometrically plausible yet chemically disconnected or valence
-invalid. Because these generation artifacts arise from a systematic
-gap between the continuous output space and the discrete requirements
-of chemical bonding, they recur across samples and are not remedied
-by naive resampling. Pro-GAT is a graph attention-based framework
-for geometry-preserving molecular graph repair that operates on chemically
-disconnected diffusion-generated PROTAC candidates by predicting bounded
-coordinate corrections and constrained atom-type modifications through
-geometry-aware graph attention layers. The model is trained on PROTAC
-data sets with introduced disconnections to address systematic connectivity
-challenges inherent to diffusion-based PROTAC generation under fixed
-anchor constraints and recovers 31.58% of disconnected structures
-in the DiffPROTAC test set. When combined with DiffPROTAC and DiffLinker
-fine-tuned on PROTAC-specific data, Pro-GAT improves the proportion
-of chemically valid candidates in the aggregated output from 76.70%
-to 83.92% and from 63.16% to 68.73%, while maintaining uniqueness
-levels of 80.18% and 63.80% among valid candidates, respectively,
-thereby converting otherwise unusable disconnected diffusion outputs
-into viable PROTAC candidates. Structural validation was performed
-across three experimentally characterized ternary complexes: 7Z76
-(SMARCA2–VHL), 7JTO (WDR5–VHL), and 6W8I (BTK–cIAP1),
-where repaired candidates yielded docking scores comparable to reference
-crystal poses across all three systems; in the BTK–cIAP1 case
-(6W8I), repair produced an improvement from −9.9 to −11.3
-kcal/mol, with anchor coordinates fixed throughout repair by construction.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
