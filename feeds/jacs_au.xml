@@ -5,6 +5,41 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Conformational Dynamics
+of Phase-Separating Methacrylated
+Carbohydrates</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01217/5444256/Conformational-Dynamics-of-Phase-Separating</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01217</guid>
+<pubDate>Sun, 04 Oct 2026 13:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01217/5444256/Conformational-Dynamics-of-Phase-Separating"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01217/1/m_au6c01217_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Polysaccharide-based materials, particularly dextran
+(Dex) derivatives,
+have emerged as versatile platforms for biomedical and materials science
+applications primarily due to their tunable chemical functionality
+and intrinsic biocompatibility. Native Dex is a highly hydrophilic
+molecule and does not inherently exhibit phase separation; however,
+recent experimental studies have shown that systematically introducing
+hydrophobic methacrylate groups on the Dex backbone induces phase
+separation, presumably due to hydrophilic/hydrophobic partitioning
+of interactions. In this work, we employed all-atom molecular dynamics
+(MD) simulations to probe the effect of site-specific methacrylation
+on the conformational dynamics of the individual chains as well as
+on the intermolecular interactions and aggregation. We generated atomistic
+models of all possible mono-, di-, and trisubstituted repeating units
+and further constructed Dex chains of varying lengths and degrees
+of methacrylation. Our simulations revealed that methacrylation consistently
+promotes chain compaction, with increasing degrees of methacrylation
+yielding progressively more globular conformations. This structural
+transition was accompanied by reduced intramolecular hydrogen bonding,
+decreased polysaccharide–water interactions, and enhanced interactions
+between methacrylate groups, indicating that compaction is primarily
+induced by hydrophobic interactions rather than hydrogen bonding.
+In multichain systems, variants exhibiting the greatest chain compaction
+also displayed the strongest aggregation propensity, resulting in
+the formation of stable hydrated polymer-rich assemblies. Our results
+revealed the molecular details of chain compaction and phase separation
+induced by conjugating methacrylate groups to a hydrophilic carbohydrate.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Atomically Precise Metal Nanoclusters: Advancing Electrocatalytic
 Nitrate-to-Ammonia Conversion</title>
 <link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01238/5443812/Atomically-Precise-Metal-Nanoclusters-Advancing</link>
@@ -2773,13 +2808,6 @@ gradual decrease in overpotential.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/jacsau.6c00351</guid>
 <pubDate>Wed, 17 Jun 2026 05:44:18 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/jacsau.6c00351/asset/images/medium/au6c00351_0010.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;JACS Au&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/jacsau.6c00351&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] A Ligand-Triggered Receptor Conformation Enables the Design of Selective Agonists for the Dopamine 3 Receptor (D3R) Using a Bitopic Strategy</title>
-<link>http://dx.doi.org/10.1021/jacsau.6c00654</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00654</guid>
-<pubDate>Wed, 17 Jun 2026 02:41:18 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://pubs.acs.org/cms/10.1021/jacsau.6c00654/asset/images/medium/au6c00654_0012.gif" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;JACS Au&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/jacsau.6c00654&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
