@@ -180,6 +180,13 @@
 <description>Research on the Spin-crossover (SCO) phenomenon has generated extensive experimental and computational data, distributed across hundreds of different sources, limiting systematic comparison and data reuse. Here, we introduce the SCO ATLAS, a data ...</description>
 </item>
 <item>
+<title>Developing An Entirely Mechanochemical Synthesis of Cram’s Cavitands and Carcerands</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009991/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009991/v1</guid>
+<pubDate>2026-10-06T07:59:42Z</pubDate>
+<description>We report the development of an entirely mechanochemical synthesis of a set of iconic and complex supramolecular targets, Cram’s carcerands and cavitands, using a sequence of mechanochemical, liquid-assisted steps. By demonstrating how mechanochemical methods can be adapted to each segment of carcerand synthesis, this work highlights the benefits and opportunities mechanochemistry offers for simpler, high-yielding synthesis of complex targets. This work exploits grinding based on dual asymmetric centrifugal motion, which provides high autogenous frictional heating to drive chemical reactivity and, in some cases, permits thick and resinous reaction systems to mix without solidifying. The analogous media-free approach provided efficient mixing when heating was not required. Using these methods, we show that a set of phenolic cavitands, which are crucial precursors to a wide set of carcerands and hemicarcerands, can be synthesized rapidly, in high yields, using minimal organic solvent, and with improved operational simplicity, and that the final capsule-like carcerands can also be assembled mechanochemically, despite the common expectation that effectiveness of such supramolecular transformations requires high dilutions.</description>
+</item>
+<item>
 <title>Dual-Ligand Engineering of a Stable and High-Utilization Iron Complex Anolyte for Alkaline All-Iron Flow Batteries</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009967/v1?af=R</link>
 <guid>10.26434/chemrxiv.15009967/v1</guid>
@@ -277,6 +284,13 @@
 <description>The state of affairs of multidimensional gas chromatography (MDGC) at present is no more than an implementation of a two-dimensional form (2D-GC) reducing the domain to the setup known as GCxGC. Introduced in 1991 with great expectation, however, GCxGC ...</description>
 </item>
 <item>
+<title>Multiscale Insights into CO2 Chemisorption and Proton Transfer in Choline-Imidazolate based Deep Eutectic solvents: Exploring the Effect of Primary, Secondary and Tertiary Alkanolamine on Reaction Pathways and Product Distribution</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009039/v3?af=R</link>
+<guid>10.26434/chemrxiv.15009039/v3</guid>
+<pubDate>2026-10-06T06:23:48Z</pubDate>
+<description>Understanding how solvent composition governs competitive CO2 chemisorption within solvents is essential for the rational design of solvents for CO2 capture. In this work, we combine density functional theory (DFT), classical molecular dynamics (cMD), and microkinetic modeling to investigate CO2 chemisorption in choline-imidazolate based systems containing different alkanolamine hydrogen bond donors (HBDs): monoethanolamine (MEA), diethanolamine (DEA), and methyldiethanolamine (MDEA). By systematically characterizing the thermodynamics, kinetics and liquid structure influence, our results show that within these systems, choline is the preferred CO2-binding site unless a HBD is present. Accordingly, the MEA system shifts almost entirely to amine-centered carbamate formation, the DEA system retains carbamate dominance but with stronger competition from choline-centered capture, and the MDEA system which additionally includes water shifts back toward choline-centered carbonate together with a competitive water-assisted bicarbonate pathway. The findings illustrate how CO2 chemisorption in multicomponent liquids is controlled by a combination of intrinsic reaction thermodynamics, liquid-structure, and CO2 concentration. More broadly, this work provides insights that will facilitate molecular-level design of solvents for CO2 uptake and regeneration.</description>
+</item>
+<item>
 <title>Predicting Thermophysical Properties of Halide Salts Using On-the-Fly Machine-Learned Interatomic Potentials Across Multiple Exchange-Correlation Functionals</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008809/v2?af=R</link>
 <guid>10.26434/chemrxiv.15008809/v2</guid>
@@ -289,6 +303,13 @@
 <guid>10.26434/chemrxiv-2024-h0b3g/v4</guid>
 <pubDate>2026-10-06T06:15:23Z</pubDate>
 <description>Understanding and regulating photocurrent generation in semiconductors, particularly the control of polarity, is central to photoelectrochemical (PEC) system design. While engineered heterojunctions enable wavelength-dependent polarity switching, they ...</description>
+</item>
+<item>
+<title>Talking to instruments: device-integration standards for self-driving laboratories</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009990/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009990/v1</guid>
+<pubDate>2026-10-06T06:10:04Z</pubDate>
+<description>Self-driving laboratories (SDLs) are rapidly outgrowing the single-instrument prototype, scaling into multi-instrument and multi-site platforms that run autonomous discovery across chemistry, materials science, biotechnology, pharmaceutical re-search and adjacent domains. What now decides whether an SDL can scale, share its integrations and federate experiments is no longer the algorithms or the robots, but the software layer that orchestrates heterogeneous devices. Today that layer is the bottleneck: a fast-growing ecosystem of open-source orchestrators in which most have built device integration on their own bespoke conventions instead of adopting a formally governed standard. The result is predictable and costly. Integrations do not transfer between laboratories, orchestrators cannot interoperate and many new SDLs rebuild their device-control layer from scratch. Crucially, this is an engineering coordination problem, not a fundamental scientific one and therefore among the most tractable bottlenecks in autonomous science. We map the device-integration standards landscape onto the open-source orchestrator ecosystem, compare the leading options and give scenario-driven guidance on when to use each. We then translate the requirements of autonomous operation into a concrete deliverable: a set of testable engineering criteria and a weighted procurement scorecard that defines an autonomous-ready control interface and gives institutional buyers the leverage to demand it; these requirements do not change as orchestration turns agentic: whether an instrument is driven by a program or by a language-model agent through a model-facing protocol, it is only as safe and reliable as the interface it exposes. Adopted at scale, these requirements turn device integration from a burden repaid lab by lab into shared infrastructure,</description>
 </item>
 <item>
 <title>Highly Luminescent Alkyl- and Alkoxy-Terminated Silicon Quantum Dots via Aging Following Single-Step Plasma Synthesis and Functionalization</title>
@@ -1024,27 +1045,6 @@
 <guid>10.26434/chemrxiv.15009764/v1</guid>
 <pubDate>2026-10-02T09:01:03Z</pubDate>
 <description>Platinum-based chalcogenides (PtX2) can be efficiently activated as electrocatalysts for water splitting through the hydrogen evolution reaction (HER). Edges in layered PtSe2 are effective in HER; however, the effect of edge interaction with conductive ...</description>
-</item>
-<item>
-<title>Self-Assembled 3,4,9,10-Perylenetetracarboxylic Dianhydride is a Molecular Graphite</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-7sq05/v2?af=R</link>
-<guid>10.26434/chemrxiv-2025-7sq05/v2</guid>
-<pubDate>2026-10-02T08:55:27Z</pubDate>
-<description>Viable organic charge storage materials must display rapid cation insertion. Typically, these materials are composed of monomers that undergo slow outer-sphere electron transfer coupled to significant bond rearrangement. Here we show that 3,4,9,10-...</description>
-</item>
-<item>
-<title>Closing the Loop Between Synthetic and Living Cells</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009350/v2?af=R</link>
-<guid>10.26434/chemrxiv.15009350/v2</guid>
-<pubDate>2026-10-02T08:51:19Z</pubDate>
-<description>Synthetic cells are moving beyond compartmentalised microreactors to become integrated components of biological networks that physically and chemically merge with their hosts. Existing reviews classify this field by mode of emission, by chemistry, or by ...</description>
-</item>
-<item>
-<title>Symmetry Numbers: A Flexible Approach for Molecules and Transition States</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006158/v2?af=R</link>
-<guid>10.26434/chemrxiv.15006158/v2</guid>
-<pubDate>2026-10-02T08:37:16Z</pubDate>
-<description>Symmetry numbers are essential corrections in thermochemistry and chemical kinetics, but their reliable assignment remains difficult in automated workflows, especially for stereochemical, fluxional, cyclic, and transition-state structures. We present a ...</description>
 </item>
 </channel>
 </rss>
