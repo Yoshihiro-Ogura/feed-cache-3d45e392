@@ -5,6 +5,132 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>SpectralMol: Spectral
+Graph Bisection Achieves Universal
+Molecular Fragment Decomposition for Drug-Like Molecule Generation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01818/5444884/SpectralMol-Spectral-Graph-Bisection-Achieves</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01818</guid>
+<pubDate>Tue, 06 Oct 2026 01:00:37 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01818/5444884/SpectralMol-Spectral-Graph-Bisection-Achieves"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01818/1/m_ci6c01818_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Generating valid, diverse, and drug-like molecules remains
+a central
+challenge in computational drug discovery. A key bottleneck for fragment-based
+generative models is &lt;span style="font-style:italic;"&gt;decomposition coverage&lt;/span&gt;: existing
+junction-tree methods fail on bridged bicyclic and spiro ring systems
+common in drug-like scaffolds. &lt;strong&gt;Our primary contribution is Fiedler-BFS
+(breadth-first search) molecular decomposition&lt;/strong&gt;, a spectral
+bisection algorithm achieving 100% decomposition success on all 250,000
+ZINC-250K molecules, including bridged and spiro systems where junction-tree
+methods fail. A decomposition ablation (5,000 molecules, 5 seeds)
+confirms that spectral structure drives the improvement: 91.4% vs
+7.1% for random bisection. Compared to BRICS (break retrosynthetically
+interesting chemical substructures; a rule-based retrosynthesis method),
+Fiedler-BFS produces fewer fragments per molecule (2.31 vs 5.13),
+better suited for hierarchical generative modeling. &lt;strong&gt;As a secondary
+contribution&lt;/strong&gt;, we instantiate the decomposition in a Tree-VAE
+(variational autoencoder) with classifier-free guidance over molecular
+properties, Inverse Multi-Quadratic MMD (maximum mean discrepancy)
+regularization, and gradient-based latent-space steering. Under a
+matched protocol in which the identical Tree-VAE is retrained while
+only the cut-bond set varies, Fiedler-BFS yields shorter, more learnable
+fragment trees than BRICS and junction-tree decomposition (validation
+reconstruction loss of 0.012 vs 0.048 vs 0.083). On ZINC-250K, the
+model achieves 100% chemical validity, 99.87% novelty, a mean QED
+(quantitative estimate of drug-likeness) of &lt;strong&gt;0.603&lt;/strong&gt; (matching
+the ZINC-250K training mean), and an SA (synthetic accessibility score)
+of &lt;strong&gt;2.70&lt;/strong&gt;, confirming compatibility with a hierarchical
+generative pipeline for drug-like molecule generation. Property conditioning
+reaches only a 12.2% QED hit rate and, under robust metrics, does
+not outperform an unconditioned baseline; the v2 vocabulary naturally
+generates drug-like molecules with QED ≈ 0.60, so stronger
+property guidance remains an open challenge.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Domain-Aware Feature
+Engineering for Prediction of
+Molecular Optical Interference in High-Throughput Screening</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02217/5444876/Domain-Aware-Feature-Engineering-for-Prediction-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02217</guid>
+<pubDate>Tue, 06 Oct 2026 00:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02217/5444876/Domain-Aware-Feature-Engineering-for-Prediction-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02217/1/m_ci6c02217_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Optical interference from small molecules─compounds
+that
+absorb UV/visible light or exhibit intrinsic fluorescence─is
+a significant source of false positives and false negatives in fluorescence-
+and absorbance-based high-throughput screening assays. Computational
+prediction of optical activity from molecular structure offers a promising
+route to early triage of such compounds, yet the problem is challenging
+due to its quantum mechanical underpinnings and the extreme class
+imbalance characteristic of diverse drug-like libraries. Here I describe
+a domain-aware feature engineering and automated hyperparameter optimization
+approach developed for the EUOS25 Challenge, a benchmark comprising
+approximately 100,000 small organic compounds with experimentally
+measured UV/visible absorbance and fluorescence spectra. Beyond standard
+RDKit physicochemical descriptors and molecular fingerprints, I developed
+four domain-specific descriptor groups that encode prior chemical
+knowledge about chromophoric systems: count fingerprints of Murcko
+scaffolds derived from known dyes and fluorophores, binary indicators
+for manually curated chromophoric substructures, semiempirical quantum-mechanical
+descriptors from GFN2-xTB calculations, and ML-predicted quantum properties
+trained on the QM9 data set. Meta-learning features - probability
+outputs of baseline models trained on structurally related, easier-to-model
+end points - were included as cross-task inputs. Hyperparameter optimization
+was performed using the FLAML automated machine learning framework.
+The best model for each end point was selected from three complementary
+strategies: single best model, ensemble consensus, and semisupervised
+pseudolabeling. Postchallenge feature importance and ablation analyses
+showed that cross-task meta-features were the dominant driver of predictive
+accuracy for physically related end points. Semiempirical xTB descriptors─in
+particular─HOMO–LUMO gap and dipole/quadrupole terms
+- rank among the top-weighted CatBoost features and provide a physically
+interpretable account of model behavior. The dye-scaffold and chromophore-indicator
+descriptors, by contrast, carry genuine but redundant signal: used
+in isolation they classify well above chance for the two well-predicted
+end points, yet their removal from the full feature set produces no
+statistically significant change for any end point, indicating that
+the fingerprint/2D backbone already encodes this information. These
+results demonstrate that combining a standard cheminformatics backbone
+with cross-task meta-learning and automated hyperparameter optimization
+yields highly competitive predictive models on this benchmark.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Mapping Functional
+Transitions across Protein Homologues
+from a Single Simulation: Application of gEDES-HM to Adenylate Kinases</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02521/5444611/Mapping-Functional-Transitions-across-Protein</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02521</guid>
+<pubDate>Mon, 05 Oct 2026 15:00:45 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02521/5444611/Mapping-Functional-Transitions-across-Protein"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02521/1/m_ci6c02521_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Proteins fluctuate
+across different conformational states,
+which
+constitute a dynamic ensemble that regulates their interaction networks
+and functions. Predicting the conformational landscape remains a computational
+challenge, and even more difficult is capturing the link between state
+distributions and specific functions within protein homologues. Here,
+we present gEDES-HM (generalized Ensemble Docking with Enhanced sampling
+of pocket Shape-Homology Modeling), a scalable computational protocol
+enabling us to remap conformational ensembles obtained from enhanced
+sampling simulations of a single protein to its homologous family
+members, removing the need to perform individual simulations for all
+of them and thus speeding up the whole process by orders of magnitude.
+Specifically, we exploit our recent gEDES protocol to bias through
+metadynamics simulations the shape and volume of the binding site(s)
+of a reference protein. Next, a number of maximally diverse conformations
+of the protein are extracted from a multistep cluster analysis and
+used together as a multitemplate library for comparative modeling
+of the conformational ensemble of each homologue in the pool. This
+enables the functional conformational ensemble of one protein to be
+transferred to its homologues and used, for example, in restrained
+ensemble docking. We validated the protocol on 22 homologues of the &lt;span style="font-style:italic;"&gt;E. coli&lt;/span&gt; adenylate kinase (hereafter, ADK), corresponding
+to 26 protein-ligand complexes and spanning 31% to 99% sequence identity
+to the reference. Our protocol retrieves a bound-like conformation
+of the protein binding site (corresponding to experimental substrate/inhibitor-bound
+states) for almost all targets, which allows reproducing native-like
+binding modes for 92% of the investigated complexes in ensemble docking
+calculations. Validated so far within a single family, gEDES-HM could
+provide a practical route to generate binding-competent structural
+libraries for homologues lacking experimental structures suitable
+for downstream structure-based modeling.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Refining AMOEBA
 Electrostatics for  d -Glucose
 and 1→4-Linked  d -Glucose Oligosaccharides</title>
@@ -4102,107 +4228,6 @@ Alzheimer’s disease. In summary, ATSFCL-DR provides an effective
 approach for drug–disease association prediction and candidate
 drug screening by adaptively integrating topological and semantic
 information within a contrastive learning framework.&lt;/span&gt;</description>
-</item>
-<item>
-<title>KinEAGER: An Evidence-Aware
-Multitask Model with Calibrated
-Uncertainty for Enzyme Kinetics Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02075/5396673/KinEAGER-An-Evidence-Aware-Multitask-Model-with</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02075</guid>
-<pubDate>Tue, 01 Sep 2026 13:01:26 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02075/5396673/KinEAGER-An-Evidence-Aware-Multitask-Model-with"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02075/1/m_ci6c02075_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Public enzyme-kinetics records have
-labels that are incomplete
-across tasks, assay conditions that vary across sources, and structure-associated
-evidence that is not uniformly available. Consequently, naive multimodal
-concatenation is limited, and scores from random splits are weak proxies
-for deployment performance. We present KinEAGER, an evidence-aware
-multitask framework that jointly predicts &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt; and &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;m&lt;/sub&gt; and analytically derives &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt;/&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;m&lt;/sub&gt; under missing
-modalities and distribution shift. KinEAGER combines frozen ESM-2
-and MolT5 encoders, low-rank adapters (LoRA), cross-modal interaction
-layers, availability-aware soft gating, domain-by-task heteroscedastic
-training, and a &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt; specialist engaged
-according to distance from the training distribution for out-of-distribution
-(OOD) queries; three independently trained models form a deep ensemble
-that supplies sample-level uncertainty. On a grouped enzyme–substrate
-split, &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt; reaches a MAE of 0.719 (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.542) and &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;m&lt;/sub&gt; reaches a MAE of 0.722 (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.737)
-in log&lt;sub&gt;10&lt;/sub&gt; units, with a macro-average MAE of 0.817. Under
-sequence-cluster OOD evaluation, KinEAGER achieves the lowest MAE
-among the locally evaluated models and approaches the performance
-reported for CatPred. Three-run ablations show a consistent pattern:
-the Full configuration gives the best overall performance, structure
-randomization causes the largest degradation in point prediction,
-domain-by-task uncertainty primarily improves NLL and coverage, and
-either physicochemical or structural evidence alone is weaker than
-the Full configuration. Prediction disagreement among the three independent
-models is positively correlated with absolute error (macro-average
-Spearman correlation 0.144). When ensemble disagreement is used as
-a split-conformal normalizer, validation-calibrated sample-adaptive
-intervals achieve empirical coverage of 0.903/0.951 at the nominal
-90%/95% levels (Cov90/Cov95). Calibration degrades on new data sources,
-while a small target-source calibration set can restore coverage.
-A Nitrocefin assay on four beta-lactamases reproduces the predicted
-HIGH/LOW ranking, with KPC-family 0G8 exceeding the CTX-M-1 reference.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Coupled-Cluster
-Theory for Water Empowered by Quantum
-Fragmentation and Deep Learning</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01715/5395515/Coupled-Cluster-Theory-for-Water-Empowered-by</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01715</guid>
-<pubDate>Tue, 01 Sep 2026 11:01:45 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Water exhibits many anomalous properties, which have
-given rise
-to uninterrupted interest in it. A large number of theoretical models
-have been proposed to elucidate the unique behavior of water, yet
-the long-sought-after “universal water model” capable
-of describing the properties of water across diverse thermodynamic
-conditions remains elusive. Herein, combining advanced fragment-based
-quantum mechanical calculation and deep learning approach, we present
-a Deep neural network Potential at the Coupled Cluster considering
-single, double, and perturbative triple excitations (CCSD(T)) level
-of theory (DP-CC) to represent the first-principles potential energy
-surface of water. Utilizing the DP-CC potential, our simulations demonstrate
-overall good agreement with experimental observations regarding the
-structural, dynamical, and thermodynamic properties of liquid water
-and ice Ih. The DP-CC potential provides a reliable way for efficient
-coupled-cluster-level simulations of liquid water and ice Ih, which
-may contribute to a better understanding of the origin of the anomalous
-water properties.&lt;/span&gt;</description>
-</item>
-<item>
-<title>A Simulation-Free Topological Basis for Building Compact
-Koopman Models of Protein Folding</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01905/5395304/A-Simulation-Free-Topological-Basis-for-Building</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01905</guid>
-<pubDate>Tue, 01 Sep 2026 10:01:43 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Unravelling protein-folding
-mechanisms and kinetics is a key challenge
-to biochemical science. The variational approach for Markov processes
-(VAMP) is a powerful tool to build Markov Models that capture key
-kinetic and structural information despite the conformational complexity
-and long time scales associated with protein folding. However, VAMP-based
-Markov models use data from exhaustive molecular dynamics (MD) simulations
-to construct an underlying basis set describing the “coarse-grained”
-kinetics; the same MD data can be used to predict transition probabilities
-between partitioned configuration space, enabling the extraction of
-folding time scales and mechanism. Here, we propose an alternative
-strategy for Markov model construction that does not rely on extensive,
-computationally demanding MD data for configuration space partitioning.
-Specifically, we show that graph-driven sampling (GDS) can generate
-a complete “landscape” of intermediate contact-maps
-linking unfolded and folded protein conformations; importantly, extensive
-MD simulations are not required in GDS. When combined with a physically
-intuitive shortest-contact-hop metric to discriminate different intermediate
-states, GDS mapping of protein-folding configuration space generates
-a reliable “structurally aware” partitioning for VAMP
-model construction. To demonstrate this strategy, we show that a GDS-constructed
-Markov model variationally improves folding time scale estimates for
-all-atom models of the WW domain protein─and has the additional
-advantage of easily resolving kinetic traps in the folding landscape
-that have proven challenging to confirm otherwise. Together, the combination
-of GDS and VAMP opens a new route toward rapid characterization of
-protein-folding intermediates and kinetics traps to help address frontier
-challenges such as protein misfolding, aggregation, and protein design.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
