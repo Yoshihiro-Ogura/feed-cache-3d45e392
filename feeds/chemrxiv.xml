@@ -5,6 +5,375 @@
 <link>https://chemrxiv.org/action/showFeed?type=latest&amp;format=rss</link>
 <description>ChemRxiv: Latest Preprints (mirrored feed)</description>
 <item>
+<title>Inconsistent odor-threshold measurements limit prediction from molecular structure</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010039/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010039/v1</guid>
+<pubDate>2026-10-07T12:56:01Z</pubDate>
+<description>Existing work treats odor detection threshold prediction as a supervised regression problem, assuming published thresholds are clean targets. In current public datasets, they are not: values come from different measurement sources and often disagree for the same molecule. Across the three largest public air-phase compilations, thresholds for identical molecules differ systematically by median factors of 3 to 11. Individual source studies vary around a compound’s underlying threshold by about 1.4 log 10 units, so under an independent-source approximation, a new study is expected to differ from the compiled value by about 1.6 log 10 units. This exceeds the best structure-based model’s error against that value (root-mean-square error 1.34), meaning the model matches the published compilation more closely than a new experiment would be expected to. Although averaging multiple studies makes the compiled value more precise, its remaining uncertainty still accounts for at least one-third of the model’s prediction-error variance, and a single source-study threshold has estimated reliability near 0.5. Changing the molecular representation, by comparison, changes root-mean-square error by only about 0.2 log 10 units. We therefore introduce a joint calibration model that places the compilations on a common scale, estimates source-specific offsets and noise, and improves cross-compilation prediction over a simple fixed-offset correction while providing calibrated uncertainty. These results show that progress in odor detection threshold prediction depends not only on better molecular models, but also on better measurements and methods that account for disagreement across data sources.</description>
+</item>
+<item>
+<title>Homogeneous Electrochemical Hydrogenation of 1-Octene with [(iPrPNP)CoCl] and Water</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010038/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010038/v1</guid>
+<pubDate>2026-10-07T12:42:03Z</pubDate>
+<description>Here we present the electrochemical hydrogenation (ECH) of 1-octene to n-octane using the homogeneous complex [(iPrPNP)CoCl] [CoCl] and water as the source of hydrogen atoms. We showcase how tuning only electrode surface area, as well as supporting electrolyte type and concentration can drastically increase the reaction selectivity for ECH over parasitic H2 evolution from initially 9% to eventually 82% faradaic efficiency, without traditional chemical reaction optimization or catalyst tuning. The ECH process runs via a single electron path of hydrogen atom transfer (HAT) rather than hydride transfer according to quantum chemical calculations. Two consecutive HAT cycles must be completed to hydrogenate one substrate molecule, which renders the process more sensitive to mass transport effects and reaction design than hydride transfer mediated ECH with two electrons transferred in one step. Mechanistically, upon an initial one-electron reduction of [CoCl], the complex undergoes HAT at one of its benzylic C–H positions to afford a dearomatized ligand structure. A key step of the active ECH cycle is then the oxidative addition of H2O to a Co(I) intermediate, affording a fleeting Co(III)-hydroxy-hydride, which immediately undergoes HAT to the substrate, forming a more stable Co(II)–OH species. A proton coupled electron transfer regenerates Co(I) for the next cycle. Using Bu4NOH in water as hydrogen atom source proved the resilience towards high pH values and suggests that the process does not rely on high proton activity in the electrolyte.</description>
+</item>
+<item>
+<title>GCI-TPs: Identifying Potentially Hazardous Transformation Products of Global Chemical Inventory Compounds</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005019/v2?af=R</link>
+<guid>10.26434/chemrxiv.15005019/v2</guid>
+<pubDate>2026-10-07T12:38:02Z</pubDate>
+<description>Environmental contamination from an ever-increasing number of chemicals is a subject of high concern, with over one hundred thousand discrete chemicals listed in a recently compiled open global chemical inventory (GCI). As these compounds enter the environment, they often form transformation products (TPs) which may have persistent, mobile and toxic (PMT) properties. Despite this, less than 1% of compounds have openly available TP information. Although TP prediction can fill some data gaps, the models are prone to combinatorial explosion, and predicted TPs must be prioritized. This study implemented multi-step environmental biotic and novel abiotic TP prediction of the ZeroPM GCI chemicals using BioTransformer 4.0, combined with toxicity and mobility models to prioritize which TPs are potentially persistent, mobile and toxic. The resulting GCI-TPs database, contains over 13 million predicted TPs, including 5481 compounds labeled as potential dead-end compounds (compounds that are not predicted to transform further), of which 478 were predicted to be either PMT or PvM compounds. From this, 38 substructures that can act as flags for potential PMT-TP formation were identified. The dead-end PMT-TPs are available on the NORMAN Suspect List Exchange and through the GCI-TPs website (https://gcitps.lcsb.uni.lu/).</description>
+</item>
+<item>
+<title>A field-deployable method for measuring picomolar mercury levels in natural waters</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009893/v2?af=R</link>
+<guid>10.26434/chemrxiv.15009893/v2</guid>
+<pubDate>2026-10-07T12:34:04Z</pubDate>
+<description>Measurements of mercury (Hg) at sub- to picomolar concentrations in natural waters often rely on cold vapor atomic fluorescence spectrometry (CVAFS), which provides the sensitivity required for trace detection. However, CVAFS instruments are not well suited for routine field deployment and require compressed high-purity argon or helium gas to operate, limiting their use in remote regions and locations without established analytical infrastructure. Cold-vapor atomic absorption spectrometry (CVAAS) offers a robust alternative but generally lacks the sensitivity required for low-level natural waters. Here, we optimized and tested the Nippon Instruments EMP Gold+, a purge-and-trap preconcentration system coupled to a portable CVAAS detector, to address this analytical challenge. We developed protocols for total Hg (THg) and dissolved gaseous Hg (DGM) and evaluated their performance in seawater during field deployments in Monterey Bay, California, USA and the Gulf of Guinea, Ghana. The optimized methods achieved detection limits of 0.97 pM for THg and 0.25 pM for DGM. THg measured in the Gulf of Guinea agreed closely with laboratory CVAFS measurements (R2 = 0.953, slope = 1.11), with field matrix-spike recoveries of 90.6-96.2%. In Monterey Bay, portable DGM measurements reproduced the vertical structure observed independently for dimethylmercury using gas chromatography coupled to CVAFS. We demonstrate that this new approach can support direct measurements in regions where compressed gases and specialized analytical infrastructure are unavailable and provide rapid screening to guide subsequent sampling for more detailed Hg speciation.</description>
+</item>
+<item>
+<title>Decoupling Dissolution from Water Oxidation at Single-Faceted High-Entropy Perovskite Electrodes</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010037/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010037/v1</guid>
+<pubDate>2026-10-07T12:30:14Z</pubDate>
+<description>High-entropy oxides (HEOs) are promising anode materials for the oxygen evolution reaction (OER) due to their wide compositional space and electronic flexibility. However, their electrochemical dissolution and OER remains concurrent, preventing decoupled analysis of dissolution kinetics and stability. Here, we present a combined atomic force microscopy (AFM) and scanning electrochemical cell microscopy (SECCM) strategy to decouple lattice dissolution from water oxidation under well-defined reaction conditions. Structurally analogous, atomically flat, single-faceted (001) ABO3 perovskite electrodes, La1-xSrx(Cr0.2Mn0.2Fe0.2Co0.2Ni0.2)O3 with x = 0 and x = 0.3, serve as model systems to probe dissolution and OER kinetics in acid. Pipette probed localized cyclic voltammetry and chronoamperometry reveal that the measured current contains contributions from both OER and lattice dissolution, the latter producing nanoscale dissolution pits beneath the SECCM droplet. By correlating pit-growth kinetics with total OER charge as a function of pulse duration (τ), overpotential (η), and pH, we quantitatively separate dissolution from OER. The proportional scaling between dissolution charge and total charge indicates that OER and dissolution proceed within a common kinetic regime, sharing a common intermediate. A rate-law-based analysis yields the standard dissolution rate constant (kd0, cm/s), transfer coefficient (α), and proton reaction order (b), for the dissolution of the 001 facet of both HEO-P. Our results unravel how aliovalent A-site substitution (30% Sr2+) alters dissolution kinetics, charge partitioning between dissolution and OER, and thickness-dependent stability, thereby enabling quantitative disentangling of the intrinsic activity and stability of HEO electrodes.</description>
+</item>
+<item>
+<title>Active-Space Selection in Nonadiabatic Dynamics Simulations of Dense Manifolds of Excited States: When Local Diabatization Needs Great Care</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010036/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010036/v1</guid>
+<pubDate>2026-10-07T12:26:04Z</pubDate>
+<description>Local diabatization (LD) propagates electronic amplitudes using time-overlaps of adiabatic states and is robust to wavefunction phase arbitrariness, root character transport, and rotations within near-degenerate manifolds. However, when truncated dynamical bases are not numerically supported by the consecutive-geometry overlaps, polar orthogonalization underlying the LD approach can enforce unitary evolution in unresolved directions leading to unphysical population transfer. This work introduces an active-space screening protocol based on singular values of time-overlap matrices. Candidate spaces proposed from persistent energy gaps and state character are accepted only when every singular direction remains above the user-defined threshold and can then be tested for physical convergence across nested active spaces. Three-state and 30-state models, controlled overlap-failure tests, and atomistic (TiO2)2 and C20 trajectories show that formal rank and increasing state count alone do not guarantee reliable LD dynamics. Smaller, well-supported spaces can outperform the nominal full space when the latter is ill-conditioned.</description>
+</item>
+<item>
+<title>Transition from Anisotropic to Isotropic Crystal Growth Enables Ultrahigh-Rate Zn Metal Anodes in Batteries</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010035/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010035/v1</guid>
+<pubDate>2026-10-07T12:22:04Z</pubDate>
+<description>Achieving controllable crystallization under dynamic, far-from-equilibrium conditions remains a fundamental challenge underlying many technologically important processes, including highpower batteries based on metal anodes. Recent studies have identified crystal anisotropy as a key factor governing electrodeposit morphology. Departing from conventional wisdom, we find that suppressing highly anisotropic facet-dependent growth by slowing interfacial kinetics results in more isotropic, morphologically uniform electrodeposition. Taking Zn as an example, we use a nonaqueous Zn(Otf)2 in acetonitrile electrolyte to promote the formation of dense irregular-shaped nuclei in sharp contrast to the faceted nuclei formed in conventional aqueous Zn(Otf)2 and ZnSO4 electrolytes. 3-D profilometry shows the isotropic growth of Zn in the organic electrolyte leads to significantly flatter deposit morphology compared to the aqueous electrolytes. We rigorously characterize the electrochemical properties of the Zn(Otf)2 in acetonitrile electrolyte and compare it to aqueous Zn(Otf)2 and ZnSO4 electrolytes, using a combination of ultra-fast scan cyclic voltammetry on an ultra-microelectrode (UME) and interfacial molecular dynamics simulations. Our measurements show the plating/stripping kinetics in the organic electrolyte are reduced by over 100-fold relative to the aqueous electrolytes, while the transport properties are only slowed by 3 to 4-fold. Using a two-step Butler-Volmer model, we find slow interfacial kinetics in the organic electrolyte eliminate the facet-dependent rate-determining step present in aqueous electrolytes, directly linking sluggish kinetics to isotropic growth. The uniform morphology and the suppression of Zn corrosion reactions in the organic electrolyte lead to over a 10-fold improvement in cycling stability over benchmark aqueous Zn electrolytes, both at moderate current densities (1 mA/cm2) and ultra-fast current densities (200 mA/cm2). Taken together, these results highlight the viability of using a fully organic Zn electrolyte for Zn batteries and Zn electroplating systems, challenging the prevailing assumption that organic electrolytes are inferior under fast cycling conditions. Moreover, the demonstrated correlation between interfacial kinetics and electrodeposit morphology offers a generalized framework for morphological control in metal deposition.</description>
+</item>
+<item>
+<title>Data-Driven Prospective Design of Phase-Inversion Conductive Polymer Membranes</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010034/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010034/v1</guid>
+<pubDate>2026-10-07T12:09:59Z</pubDate>
+<description>Conductive polymer membranes combine separation and electrical functionality, but their design remains challenging because performance emerges from coupled effects of composition, fabrication, and operating conditions. Here, we assembled 396 membrane records from 77 publications and developed target-specific machine-learning models for pure-water permeability (PWP), solute rejection, and electrical conductivity. Weighted artificial neural network ensembles for PWP and rejection and XGBoost for conductivity achieved fixed-holdout R2 values of 0.855, 0.896, and 0.914, respectively, with distinct SHAP feature-contribution patterns across the three targets. We then coupled the predictive models with residual Gaussian-process uncertainty estimation and sequential Monte Carlo expected hypervolume improvement to search a 3,024-member PANI–DBSA/PES design space and identify 12 formulations for prospective experimental evaluation. Atomistic molecular dynamics simulations provided complementary mechanistic insight: increasing PANI from 0.47 to 1.89 wt% decreased the first-shell hydration number around DBSA sulfonate sites from 1.02 to 0.74, while the apparent finite-time water diffusion coefficient declined from 0.6910-10 m2∙s-1 in neat PES to 0.3710-10 m2∙s-1 at 1.89 wt% PANI. Together, these results connect literature-derived learning, uncertainty-aware formulation selection, and molecular-scale interpretation, providing a systematic framework for prospective conductive membrane design</description>
+</item>
+<item>
+<title>Case Studies of Homemorphic Isomerization: Interconversion of In/Out Isomers of Bicyclo[6.5.1]tetradecane and Related Bicyclic Hydrocarbons</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010033/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010033/v1</guid>
+<pubDate>2026-10-07T12:06:40Z</pubDate>
+<description>Homeomorphic isomerization is equivalent to turning a molecule inside out in the same manner as a reversible article of clothing. Manifestations include the interconversion of (a) in,in and out,out isomers, or (b) in,out and out,in isomers of bicyclic molecules, but without inverting the configurations of the bridgehead atoms. In this preprint, this topological process is probed computationally for the title molecules. For the in,in/out,out manifold, the CH2 tether is able to transit through the CH(CH2)6CH tether with a barrier of ~26 kcal/mol, in good agreement with an experimental measurement. The geometries of the ground and transition states are analyzed in detail and the process of isomerization is visualized in animations.</description>
+</item>
+<item>
+<title>Integrated Process Environmental and Economic Modeling of Electrically Assisted Forward Osmosis Microbial Desalination for Water and Struvite Recovery</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010032/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010032/v1</guid>
+<pubDate>2026-10-07T11:58:02Z</pubDate>
+<description>Electrically assisted forward osmosis (eFO) coupled with a microbial desalination cell (MDC) integrates water recovery, nutrient recovery, desalination, and bioelectricity utilization. This study coupled a previously validated hybrid mechanistic–data-driven model with cradle-to-grave life cycle assessment (LCA) and techno-economic analysis (TEA) to evaluate the sustainability of eFO–MDC across operating conditions and scale-up scenarios. Operational electricity was the dominant environmental hotspot, accounting for 90.7% of the positive life-cycle GWP burden, whereas manufacturing impacts were concentrated in the MDC cathode and energy-management unit. Model-coupled LCA showed that hydraulic throughput strongly governed treatment-normalized impacts, while applied voltage produced comparatively small changes in GWP relative to its effect on nutrient recovery. TEA identified capital intensity, pumping, and treatment scale as the principal economic drivers, with combined scale-up and capital reduction lowering processing cost by 67.8%. Overall, eFO–MDC sustainability depends primarily on improving throughput and energy efficiency while reducing capital intensity during scale-up.</description>
+</item>
+<item>
+<title>Spin-dependent thermoelectric transport properties of DPH-based molecular device</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009890/v2?af=R</link>
+<guid>10.26434/chemrxiv.15009890/v2</guid>
+<pubDate>2026-10-07T11:47:58Z</pubDate>
+</item>
+<item>
+<title>Enhancing double-duplex invasion by using multiple parallel-stranded peptide nucleic acids</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010031/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010031/v1</guid>
+<pubDate>2026-10-07T11:37:58Z</pubDate>
+<description>Peptide nucleic acids (PNAs) enable sequence-specific recognition of double-stranded DNA (dsDNA) via invasion complex formation. Here, we report a strategy using multiple parallel-stranded PNAs to enhance invasion efficiency. Cooperative binding of PNAs at adjacent target sites markedly improved invasion efficiency and enabled sequence-specific recognition of plasmid DNA under physiological conditions.</description>
+</item>
+<item>
+<title>RGST-ΔSCF: Response-Guided Construction and Tracking of Excitation-energy-Resolved states along surface Reaction Pathways</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008182/v2?af=R</link>
+<guid>10.26434/chemrxiv.15008182/v2</guid>
+<pubDate>2026-10-07T11:34:01Z</pubDate>
+<description>Illumination can promote or inhibit catalytic reactions, yet the origin of their excitation-energy dependence remains unclear. Here, constrained ΔSCF calculations and spin- and k-resolved wavefunction-overlap tracking are used to follow nonequilibrium electronic configurations across four excitation-energy intervals along H2-dissociation pathways at doped Cu/ZnO interfaces. The preferred pathway switches from final-state-referenced configurations at low excitation energies to initial-state-referenced configurations at higher energies, with dopant-dependent crossover energies and nonmonotonic barrier responses. Metal-site dopants regulate reactivity primarily through excitation-induced reconstruction of collective metal-H bonding, whereas support-site dopants act through pathway-dependent interfacial spin redistribution. Neither excitation energy nor the magnitude of charge, bonding, or spin redistribution alone universally predicts catalytic promotion; the response depends on its direction, localization, and differential coupling to the initial and transition states. Application to Ag-mediated O2 dissociation further demonstrates that population-dependent interfacial reorganization, rather than net adsorbate charge alone, controls bond activation.</description>
+</item>
+<item>
+<title>Understanding the Dynamics of C-OH Bond Activation over Mo2C under Hydrodeoxygenation Reaction Conditions</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010030/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010030/v1</guid>
+<pubDate>2026-10-07T11:21:56Z</pubDate>
+<description>Hydrodeoxygenation (HDO) of biomass to value-added chemicals using transition metal carbides (TMCs) serves as a two-fold solution to overreliance on fossil-based feedstocks and excessive usage of noble metal catalysts. Specifically, Mo2C and W2C have emerged as viable alternatives to noble metal catalysts for HDO reactions. However, the underlying reaction mechanisms and structure-activity relationships for TMC catalysts are still not fully understood. Our previous mechanistic studies (Meena et al. ACS Catalysis, 2023, 13, 13446–13455), based on static DFT calculations and microkinetic modeling, indicated that C-OH bond dissociation (C4H9OH⋆ →C4H9 ⋆ + OH⋆) is the rate-determining step (RDS) of HDO reaction over Mo2C. Nevertheless, these static calculations, which neglect thermal fluctuations, cannot fully capture the catalysts’ behavior under working conditions. To address this limitation, here, we present a comprehensive computational investigation of the RDS under more realistic reaction conditions using ab initio Molecular Dynamics simulations combined with the path metadynamics enhanced sampling technique. Path metadynamics runs reveal that the Mo2C surface is stable at the reaction temperature and no significant surface reconstructions take place. Further, the C-OH activation barrier obtained at 623 K using path metadynamics (38 kcal/mol) is higher than that from static DFT calculation (30 kcal/mol), likely emphasizing the significance of entropic contributions. The comparison of the barriers of C-OH activation over Mo2C and Zr- and Co-doped Mo2C surfaces revealed similar activity trends compared to that from static DFT, i.e., Zr doping improves the activity and Co doping inhibits the activity</description>
+</item>
+<item>
+<title>On the Mechanism of Catalytic Chain Transfer Photopolymerization (CCTP2): the Good, the Bad and the Ugly</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010029/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010029/v1</guid>
+<pubDate>2026-10-07T11:16:06Z</pubDate>
+<description>Previously, the addition of catalytic quantities of cobalt(II) complexes to standard methacrylatebased formulations was found to reduce the crosslinking density, glass transition temperature, modulus and stiffness of the resultant photopolymeric materials proportional to catalyst loading. We have dubbed this technique catalytic chain transfer photopolymerization (CCTP2), which is conceptually and mechanistically linked to its predecessor catalytic chain transfer polymerization (CCTP), but uses photoinitiation, multifunctional methacrylate monomers, and creates crosslinked 2 materials. Expansion of this technology has been met with issues related to non-linear catalyst performance, limited methacrylate conversion, and long exposure times. These roadblocks prompted us to develop a working mechanistic model for CCTP2 using a combined experimental and computational approach, which is presented here. We anticipate that understanding the good, the bad, and the ugly of this catalytic process will inform future catalyst development, formulation chemistry, and broader applications of this technique towards the synthesis of functional materials and stereolithography.</description>
+</item>
+<item>
+<title>Electrochemical Detection of Ethanol in Liquid Samples and Simulated Breath: Investigating Calibration, Selectivity, and Preconcentration</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010028/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010028/v1</guid>
+<pubDate>2026-10-07T11:09:56Z</pubDate>
+<description>Advances in miniaturized and point-of-care electrochemical sensors have expanded their applications in healthcare, environmental monitoring, and public safety. Consequently, it is important to study the principles of these technologies in an undergraduate setting. This experiment uses screen-printed electrodes for electrochemical detection of ethanol and introduces students to electrocatalysis, calibration curves, chemical interference, selectivity, and preconcentration. Students use cyclic voltammetry and chronoamperometry to make calibration curves and determine ethanol concentrations in ethanol standards and diluted beer and wine samples. Glucose interference is investigated, and a simulated breath experiment demonstrates how selecting breath as the analytical sample and condensing it can eliminate interference while simultaneously preconcentrating ethanol. The activity provides an opportunity to discuss blood alcohol concentration (BAC), breath alcohol concentration (BrAC), and modern alcohol-sensing technologies. This experiment is suitable for upper-level undergraduate courses in analytical chemistry, physical chemistry, and electrochemistry.</description>
+</item>
+<item>
+<title>Atomic Level Characterization of PolyGlycine Assembly</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010027/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010027/v1</guid>
+<pubDate>2026-10-07T11:02:06Z</pubDate>
+<description>Polyglycine peptides can adopt polyproline II (PPII) helical conformations that assemble into honeycomb-shaped oligomers. These polyglycine II (PGII) helical bundles, which are also found in several natural proteins, lack apolar groups and cannot be stabilized by hydrophobic interactions. Thus, their folding must differ from that of typical globular proteins for which hydrophobic interactions promote structure formation. Despite their fundamental interest and relevance for molecular pathology, the atomic level details on how these PGII assemblies form are scarcely explored. To elucidate this process, we used CD and NMR spectroscopies to show that oligoglycine peptides with a few terminal Asp residues readily form oligomers rich in PPII helix at low pH and cool temperatures. Next, to test whether these structures can emerge without a preformed template, we performed ten independent, unbiased, multi-microsecond, all-atom molecular dynamics simulations starting from dispersed, terminally capped nonaglycine monomers in water. We observed PPII helical bundle formation through an oligomeric intermediate that is relatively poor in nematic order and H-bonds.</description>
+</item>
+<item>
+<title>Mechanism-grounded fragmentation trees enable explicit chemical reasoning for electron ionization mass spectrum prediction</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010026/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010026/v1</guid>
+<pubDate>2026-10-07T10:58:04Z</pubDate>
+<description>Developing predictive models that connect molecular structures with measured spectra while preserving interpretable links to ion formation and fragmentation chemistry remains a central challenge in predictive spectroscopy. Here we present FragTreeMS, a mechanism-grounded framework that decomposes electron ionization (EI) mass spectrum prediction into fragmentation tree generation and repair followed by pathway- conditioned intensity learning. FragTreeMS organizes source-mechanism-product relations into traceable fragmentation trees and uses candidate-guided self-review to identify and recover plausible omissions before intensity prediction. The repaired fragmentation tree provides the pathway from the molecular root to each retained product ion, and these pathways are directly used for intensity prediction. FragTreeMS improves product ion recovery and complete spectrum similarity relative to direct spectrum prediction and established EI-MS baselines. The inferred ion formation processes and associated putative structural fragments are explicitly represented and visualized, advancing mass spectrum prediction toward interpretable chemical reasoning.</description>
+</item>
+<item>
+<title>Exploring intermediates in mechanochemical cycle and mechanism of regulation of full-length Dynein</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010025/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010025/v1</guid>
+<pubDate>2026-10-07T10:51:59Z</pubDate>
+<description>Cytoplasmic dynein is a complex hexameric AAA+ motor protein essential for intracellular transport, yet the structural mechanisms and domain cooperativity driving its mechanochemical cycle remain incompletely understood. In this study, we utilize a dual-basin structure-based model (SBM) to simulate the full-length dynein cycle in the presence of microtubules. Rather than a single concerted transition, our results reveal that dynein moves through discrete, on-pathway conformational intermediates, including a transient, ADP-bound state that bridges the pre- and post-powerstroke configurations. We identify four key regulatory interfaces (AAA1-subdomains, AAA1–AAA2, AAA3–AAA4, and AAA5–AAA6) that function as checkpoints to couple the AAA+ ring changes to power- and recovery stroke. Crucially, we elucidate the regulatory roles of the non-dominant domains: suppressing AAA3 disrupts recovery-stroke progression and linker relocation, while suppressing AAA4 selectively impairs linker stabilization and docking. Together, these findings demonstrate that dynein's force generation relies on a highly coordinated allosteric network across the entire AAA+ ring.</description>
+</item>
+<item>
+<title>Water-Responsive Shape-Memory Origami Enabled by a Washi–Bulk pNIPAAm Hydrogel Hybrid Sheet</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010023/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010023/v1</guid>
+<pubDate>2026-10-07T10:31:57Z</pubDate>
+<description>Origami transforms two-dimensional sheets into complex three-dimensional forms through folding and has evolved from a traditional art into a versatile design principle for deployable and reconfigurable structures. Here, we develop a water-responsive shape-memory origami sheet by combining highly concentrated poly(N-isopropylacrylamide) (bulk pNIPAAm) hydrogel with Japanese kozo paper. Bulk pNIPAAm undergoes pronounced hydrationinduced softening and recovers its permanent shape upon rehydration, whereas the paper scaffold enables the hydrogel to be fabricated and handled as a thin, foldable sheet. Rather than programming only individual active creases, the hybrid sheet allows complex folded three-dimensional configurations to be programmed directly as permanent shapes. Two complementary programming strategies are demonstrated: photopolymerization of precursorimpregnated paper in a pre-folded configuration and post-fabrication programming by local photopolymerization at selected creases. Kozo washi-based hybrid sheets exhibited more than 90% recovery within several seconds in a simple folding test, and Miura-fold, crane, dolphin, and kirigami structures recovered their memorized geometries after unfolding and dehydration-induced temporary fixation. Finally, simply pouring warm water onto a flowershaped structure triggers spontaneous blooming without full immersion. This approach transforms a bulk shape-memory hydrogel into a fold-programmable sheet material and</description>
+</item>
+<item>
+<title>Self-quenched growth of monodisperse SnO2 nanocrystals—insensitive to synthesis conditions</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010022/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010022/v1</guid>
+<pubDate>2026-10-07T10:21:56Z</pubDate>
+<description>Metal oxide thin film fabrication from colloidal nanocrystal dispersions separates the materials synthesis from the device (layer) fabrication, enabling fast solution processing. However, nanocrystal ink syntheses can be still too complex to be truly scalable for large-area ultra-lowcost applications such as solar modules. Here, we present a self-quenched (by precipitation) nanocrystal synthesis at room temperature. The synthesis is independent of the precursor concentrations, precursor addition speed (injection vs. slow addition), mixing dynamics of the solutions, reaction duration, and temperature. Crystalline and monodisperse tin(IV) oxide nanocrystals (&lt;3 nm diameter) are obtained with a near-unity reaction yield. After purification, the nanocrystal surface is modified with acetate ligands and brought into a colloidal dispersion, again with near-unity yield. Nip perovskite solar cells containing tin oxide nanocrystal thin films 2 achieve power conversion efficiencies of at least 21%. This method introduces a highly scalable SnO2 nanocrystal ink synthesis, which may be applicable to other metal oxides for coating technologies such as displays, windows, and perovskite solar modules, as well as the deposition on polymer films.</description>
+</item>
+<item>
+<title>Beyond Organic Molecules: MetalLipoDB, a Lipophilicity Dataset for Metal Complexes and Machine Learning Benchmarks</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010021/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010021/v1</guid>
+<pubDate>2026-10-07T10:18:14Z</pubDate>
+<description>Lipophilicity governs the uptake, distribution and toxicity of drug candidates, yet the experimental logP datasets used to build predictive models contain almost exclusively organic molecules. Here we present MetalLipoDB, a manually curated dataset of 5158 experimental logP and logD values of complexes of 23 metals from 1192 articles, including 556 entries for multinuclear and heterometallic complexes, annotated with the measurement conditions and counterions. The dataset quantifies the inter-study reproducibility of these measurements (0.56 log units) and serves as a benchmark for machine learning, with a mean absolute error of 0.72–0.75 for complexes from unseen articles. For articles with at least four measurements, anchoring the predictions to three measured complexes of the series reduced the error on the remaining complexes from 0.73 to 0.51. MetalLipoDB, the code and an interactive web application (https://biometaldb.streamlit.app/) are openly available to support the design of metal-based drugs.</description>
+</item>
+<item>
+<title>Machine Learning-Guided QSAR Modeling and Virtual Screening of Medicinal Plant-Derived Phytochemicals for the Identification of Potential hDHFR Inhibitors</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010020/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010020/v1</guid>
+<pubDate>2026-10-07T10:13:55Z</pubDate>
+<description>Human dihydrofolate reductase (hDHFR) is a well-established anticancer drug target due to its essential role in folate metabolism and DNA synthesis. This study employed integrated machine based structural-activity relationship, virtual screening, and molecular docking to identify potential hDHFR inhibitors from medicinal plant-derived phytochemicals. A curated dataset of 1,368 compounds was obtained from ChEMBL and presented using Morgan fingerprints and RDKit molecular descriptors. Four regression model algorithms, including RF, XGBoost, LightGBM, and SVR were developed and optimized. Among them, SVR achieved the best score with a test R2 of 0.669 and a Spearman coefficient of 0.789. The SVR model was then used to screen the drug like phytocompounds collected from medicinal plants. The top-ranked compounds were subsequently evaluated through molecular docking against hDHFR (PDB ID: 1U72). Several phytochemicals exhibited stronger binding affinities than the reference inhibitor methotrexate. Among them Withaferin A showed the strongest docking score (-11.68 kcal/mol). These findings highlight the potential of combining machine learning and structure based virtual screening to identify promising hDHFR-targeted lead compounds for further validation.</description>
+</item>
+<item>
+<title>Parallel Production of Uniform Artificial Multicellular Models Using Vibration-Induced Local Microvortices</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010019/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010019/v1</guid>
+<pubDate>2026-10-07T10:07:56Z</pubDate>
+<description>In this study, we propose a facile and efficient method for constructing artificial multicellular models via vibration-induced flow (VIF), a local fluid flow induced around vibrating microstructures. By applying circular vibration to a substrate with a cylindrical micropillar array, uniform micro-vortices were generated, into which giant unilamellar vesicles (GUVs), as artificial cells, rapidly accumulated at the center. We show that by modifying two GUV populations with complementary single-stranded DNAs, we can promote specific adhesion between GUVs, leading to uniform parallel aggregates. Furthermore, the pillar-array design controls the size of GUV aggregates. Finally, we embedded nanopore-forming α-hemolysin with Spytag and SpyCatcher system in GUV populations, allowing the lumens of assembled GUVs to channel with one another and enable close-proximity molecular communication. This technology will contribute to future research on fabricating artificial multicellular models with complex functions.</description>
+</item>
+<item>
+<title>Active Noise Cancelling in Point-of-Care Testing</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007405/v2?af=R</link>
+<guid>10.26434/chemrxiv.15007405/v2</guid>
+<pubDate>2026-10-07T10:04:12Z</pubDate>
+<description>Point-of-care testing (POCT) holds great potential to improve diagnostic accessibility because of its low cost, portability, user-friendliness, and rapid turnaround times. However, the limited analytical precision and high error rates of most POCT platforms usually caused by the assay noises at the POC settings frequently create diagnostic ambiguity and lead to further confirmatory testing. Consequently, these limitations restrict broader clinical translation. To address this issue, we introduce an active assay noise canceling approach, using the deep-learning-based Whole-Process Analysis (WPA), a universal, device-adaptable software paradigm without altering assay hardware or chemistry. Instead of relying on static endpoint readouts, WPA uses a deep-learning architecture to continuously capture the spatiotemporal evolution of the entire POCT assay process. The architecture decodes dynamic, high-dimensional "assay noise footprints" and algorithmically compensate for the signal variations caused by assay noises. We demonstrated the proof of concept, we chose the lateral flow assay (LFA) as a model, which is a leading POCT platform. We validated WPA for xylazine LFA across 251 patient urine samples, benchmarking against gold-standard liquid chromatography-tandem mass spectrometry (LC-MS/MS). WPA drastically decreased signal variations among different clinical samples and compressed the diagnostic gray zone, delivering 94.02% accuracy (95% CI: 90.33%-96.62%), 71.15% sensitivity (95% CI: 56.92%-82.87%), and 100% specificity (95% CI: 98.16%-100.00%), compared with human reading, which achieved 89.2% accuracy (95% CI: 84.74%-92.79%), 48.1% sensitivity (95% CI: 34.01%-62.37%), and 100% specificity (95% CI: 98.16%-100.00%). By computationally untangling true analyte signals from assay noises in POC settings, WPA provides a transformative, device-adaptable pathway to improve POCT accuracy and precision without altering assay hardware or chemistry.</description>
+</item>
+<item>
+<title>Practical In Situ Generation of Phosphorus Pentafluoride as a Metal-Free Potent Lewis Acid</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010018/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010018/v1</guid>
+<pubDate>2026-10-07T09:31:58Z</pubDate>
+<description>Metal-free potent Lewis acids are of great interest in the pharmaceutical and food industries to avoid metal contaminants. Phosphorus pentafluoride (PF5) is a potent Lewis acid, but its practical use is severely restricted by its gaseous state and corrosiveness. Here we report a simple and convenient method for either the rapid or slow in situ generation of PF5 from widely available and easy to handle hexafluorophosphate (PF6−) salts and either aluminum chloride (AlCl3) or boron trifluoride etherate (BF3·Et2O), respectively. The potency of PF5 in Lewis acid catalysis is demonstrated in the tandem Friedel–Craft alkylation of thiophene derivatives with ketones, where PF5 outperforms conventional Lewis acids such as BF3·Et2O, AlCl3, and SnCl4.</description>
+</item>
+<item>
+<title>Experimental Inter-Report Scatter Bounds Machine-Learning Accuracy for TADF Singlet–Triplet Gaps—Structure and Semi-Empirical Features Reach the Same Limit</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010017/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010017/v1</guid>
+<pubDate>2026-10-07T09:27:57Z</pubDate>
+<description>The singlet–triplet gap ∆ESTis the screening parameter for thermally activated delayed fluorescence (TADF), yet independent experimental reports of the same compound scatter by 0.072 eV RMS, and the per-molecule median regressed on is known only to 0.049 eV, about half of any model’s error. This label noise sets a ceiling on every predictor, yet the models sit below it: neither noise nor capacity alone accounts for the remaining error. Against that ceiling, two-dimensional structure predicts as accurately as a semiempirical excited-state calculation: on 231 donor–acceptor molecules (212 Bemis–Murcko scaffolds, scaffold cross-validation), random forests from Morgan fingerprints (MAE 0.091 eV) and RDKit descriptors (0.100 eV) match natural-transition-orbital descriptors from a GFN2-xTB/sTDA excited state (0.096 eV) to within 0.017 eV on paired folds, so the excited-state step buys no accuracy. Two further results are specific to this corpus. First, under a source-paper split the accuracy advantage over a mean-value baseline disappears, but the excited-state descriptors keep the rank correlation the fingerprints lose (paired ∆ρ = 0.19 on a single split, 95 % CI narrowly excluding zero): they order candidates across laboratories without predicting the gap. Second, the leakage that inflates many computed-gap models is learner-dependent—given the S1 and T1 energies as features, a linear model returns ∆EST ≡ ES1 − ET1 exactly (R2 = 1.000) while an axis-aligned forest on the same features recovers only R2 = 0.59 and clears cross-validation unremarked. Progress past the ≈ 0.1eV ceiling needs a curated, solvent-controlled, single-source experimental benchmark—one that would also expose the remaining modelling headroom. Data, models, and code are available (Zenodo DOI: 10.5281/zenodo.17436069).</description>
+</item>
+<item>
+<title>Atomically Precise Platinum Nanocluster Catalysts for Efficient Hydrogen Production via Methylcyclohexane Dehydrogenation</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010016/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010016/v1</guid>
+<pubDate>2026-10-07T09:24:09Z</pubDate>
+<description>In hydrogen storage technologies with liquid organic hydrogen carriers, the development of efficient catalysts for methylcyclohexane dehydrogenation is highly important. In this study, we developed atomically precise platinum nanocluster catalysts supported on Al2O3 (Ptx/Al2O3; x = 17, ~51). Comprehensive characterization demonstrated that the catalysts remained highly monodisperse and of uniform particle size (0.86 or 1.15 nm), and maintained a cationic electronic state (Ptδ+) even after thermal treatment. Remarkably, the Pt17/Al2O3 and Pt~51/Al2O3 catalysts exhibited a mass activity up to 7.9 and 8.2 times higher than that of conventional nanoparticle catalysts. Furthermore, by effectively suppressing undesirable cracking pathways at a low operating temperature of 250 °C, the catalyst achieved both high selectivity (byproduct yield &lt; 3%; below the detection limit) and durability. These findings pave the way for practical guidelines in advanced catalyst design.</description>
+</item>
+<item>
+<title>Continuous-wave laser ablation enables high-resolution ambient mass spectrometry imaging</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010015/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010015/v1</guid>
+<pubDate>2026-10-07T09:15:56Z</pubDate>
+<description>Continuous-wave lasers are generally not considered for applications demanding precision ablation, because sustained heating in bulk tissue causes extensive thermal damage. Here we show that this limitation does not apply to thin sections: a 2.91 µm continuous-wave laser leaves no resolvable heat-affected zone beyond the ablation track on 10 µm thick cryosections, a confinement consistent with heat sinking vertically into the glass slide rather than diffusing laterally. This defines a distinct sampling regime in which confined material removal by a continuous-wave mid-infrared laser preserves the sample morphology for post-hoc staining and optical imaging while generating a laminar plume well suited for aspiration into the atmospheric inlet of a mass spectrometer. Here we demonstrate matrix-free ambient mass spectrometry imaging at 3 µm pixel size with a fibre-delivered beam, uniting few micron scale sampling, broad chemical coverage, and same-section co-registration on a readily adoptable platform assembled entirely from commercial components.</description>
+</item>
+<item>
+<title>Accelerating discovery of phosphorescent blue OLED emitters using chemical foundation models</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003869/v2?af=R</link>
+<guid>10.26434/chemrxiv.15003869/v2</guid>
+<pubDate>2026-10-07T08:22:10Z</pubDate>
+<description>In OLED displays, phosphorescent emitter molecules are used for red and green but not for blue pixels. Iridium organometallics are promising phosphorescent emitters, but a molecule satisfying the requirements of color, brightness, and stability has not yet been developed. One strategy to discover an emitter is virtual screening, in which computational predictions are used to prioritize candidates for synthesis. Due to the computational difficulty of screening with first-principles methods such as density functional theory (DFT), empirical machine-learning methods have been used for virtual screening. Recently, machine-learned interatomic potentials (MLIPs) have provided fast proxies for DFT energies. This suggests that virtual screening could be conducted with ML proxies for DFT calculations rather than empirical ML, but this has not yet been applied to OLEDs. We show on a dataset of experimental values extracted from the literature that for emission wavelength, MLIP-based predictions are not inferior to empirical ML. Using an MLIP, we screened millions of molecules for blue emission. Although blue emission is not sufficient for an emitter, our results suggest that further development of virtual screening could focus on machine learned proxies for DFT prediction pipelines rather than models trained to experimental data.</description>
+</item>
+<item>
+<title>Spatially Refined Analysis of Emission Burdens and Equity from Light-, Medium-, and Heavy-Duty Vehicle Traffic in the United States</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-lmx3n/v5?af=R</link>
+<guid>10.26434/chemrxiv-2025-lmx3n/v5</guid>
+<pubDate>2026-10-07T08:14:11Z</pubDate>
+<description>We estimate block-level emission intensities of nitrogen oxides (NOX) and fine particulate matter (PM2.5) from on-road vehicle traffic for every census block in the United States, combining MOVES-based emission factors with street level traffic data. We use this spatially refined, computationally efficient, and policy-sensitive metric to evaluate emissions burden. Despite comprising less than 11% of vehicle kilometers traveled, we find that medium- and heavy-duty trucks account for 46% of NOX and 50% of PM2.5 emission burden nationally — with PM2.5 burden from trucks dominated by exhaust emissions while tire and brake wear constitute nearly half of light-duty vehicle PM2.5 burden. People of color face emission burdens averaging 40% above the national mean, with Asian populations exceeding 60%, and lower-income populations face 20–25% higher burdens. Statistically significant racial-ethnic or income disparities are present in 85–89% of US counties. Critically, these disparities are not confined to large metropolitan areas. They are widespread across both urban and rural counties nationwide. We also show that spatial aggregation substantially attenuates estimated disparities of burdened groups, underscoring the importance of spatially refined analysis.</description>
+</item>
+<item>
+<title>Data-Driven Discovery of Boronic Acid Catalysts for Amidation Reactions</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003365/v4?af=R</link>
+<guid>10.26434/chemrxiv.15003365/v4</guid>
+<pubDate>2026-10-07T07:43:53Z</pubDate>
+<description>Artificial intelligence (AI) is increasingly recognized as a powerful tool for catalyst optimization in organic synthesis. Yet, applications are often restricted by the need for large datasets, programming expertise, and specialized knowledge in model development. Boronic acidcatalyzed amidation reactions represent an attractive target for AI-guided optimization because of their synthetic relevance, detailed mechanistic understanding, and the need for improved catalysts for amidations. Here, an AI-guided workflow for catalyst optimization in boronic acidcatalyzed amidation reactions was established using the large-language model ChatGPT for code generation and workflow development. A dataset was generated by high-throughput screening of 459 arylboronic acids and combined with DFT-derived steric and electronic descriptors of the catalysts for model training. The model enabled the identification of the unprecedented catalyst FIBA with higher activity than the benchmark catalyst MIBA. In addition, detailed data analysis of the highly active but poorly predicted diboronic acid catalyst DBA led to the identification of a distinct activation mode involving higher-order boronate aggregates that activate and preorganize the amine nucleophile. Thus, improved catalyst performance and new mechanistic insight were obtained through an AI-guided workflow.</description>
+</item>
+<item>
+<title>Growth-Triggered Nano-vesicle Budding via Leaflet Area Asymmetry in Fatty-Acid Protocells</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010013/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010013/v1</guid>
+<pubDate>2026-10-07T07:39:52Z</pubDate>
+<description>Fatty-acid vesicles growing by monomer uptake, as demonstrated experimentally for Szostak-type protocells, insert new amphiphiles predominantly into the outer leaflet. Because transbilayer flip-flop is not instantaneous, this generates a growing area mismatch between the two leaflets. We show, using the area-difference-elasticity (ADE) framework for vesicle shape, that this mismatch crosses a threshold beyond which the vesicle relieves it by shedding small, high-curvature nano-vesicles rather than by symmetric division–with no external mechanical forcing required. A leaflet-resolved kinetic model shows that sustained parent growth over many such cycles requires the shed nano-vesicles to be compositionally enriched in the destabilizing (outer-leaflet) material rather than ordinary bilayer: a specific, falsifiable prediction. For illustrative growth and flipflop rates the model predicts nano-vesicles of radius 60–90 nm, above the stability floor of fatty-acid vesicles. This mechanism, and its central prediction, match independent experimental observations on fatty-acid and lysolipid-containing vesicles. In an earlier work [1] we explored periodic environmental mechanical forcing (tidal, geyser and vortex-driven shear) as an alternative trigger for vesicle instability; that mechanism rests on poorly constrained assumptions about Hadean orbital dynamics and produces, in its simplest form, no resonance, only a low-pass response. The present mechanism requires no assumption about the early Earth’s mechanical environment at all.</description>
+</item>
+<item>
+<title>A Highly Proton-Tolerant Multicenter Borane/Phosphazene Catalytic System for Efficient PO/CO2 Copolymerization toward CO2-Based Poly(carbonate-ether) Polyols</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010012/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010012/v1</guid>
+<pubDate>2026-10-07T07:13:58Z</pubDate>
+<description>Low-molecular-weight CO2-based poly(carbonate-ether) polyols from ring-opening copolymerization (ROCOP) of propylene oxide (PO) with CO2 are highly desired as soft blocks to synthesize sustainable polyurethanes. However, such process remains great challenges because of the demanding of highly proton-tolerant catalysts. Herein, we report a binary organocatalysis system based on a nanoscopic multicenter borane Lewis acid (POSS-B8) combined with various organobases for the tunable ROCOP of PO and CO2. The confined POSS-B8 framework not only endows excellent tolerance to proton but enables cooperative activation of PO and CO2, thereby facilitating PO/CO2 ROCOP while effectively suppressing the formation of cyclic propene carbonate (cPC). Remarkably, the binary system can tolerate high loadings of chain-transfer agents (up to 400 equivalents), affording low-molecular-weight polycarbonate polyols (0.6 kDa) with narrow dispersity (Ð = 1.16). By tuning POSS-B8 loading and CO2 pressure, both the carbonate content (19-64 mol%) and glass transition temperature (-58.6 to 4.7 °C) of resulting polymers can be modulated. This metal-free and tunable platform offers a versatile strategy for the preparation of CO2-based poly(carbonate-ether) polyols with controlled structure and strong potential for industrial applications.</description>
+</item>
+<item>
+<title>Surpassing the sensitivity limit and thermal quenching barrier in NIR luminescent thermometry in monazite BiPO4 concentrated with Nd</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010008/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010008/v1</guid>
+<pubDate>2026-10-07T06:10:13Z</pubDate>
+<description>Non-contact thermometry in the near infrared (NIR) region could enable minimally invasive thermal mapping in biological applications. Yet, existing probes often face trade-offs among sensitivity, brightness, and thermal stability. Here, we developed a single-ion Nd3+-based NIR thermometer, Bi1-xNdxPO4 (x = 0.20-0.40), via integrating several key structure-property considerations. The optimized composition Bi0.70Nd0.30PO4 in monazite structure , synthesized by a high-temperature solid-state reaction, delivers an ultra-high relative sensitivity of 6.62 %K-1 with temperature resolution of 0.29 K at 313 K, while exhibiting no measurable thermal quenching up to 673 K. Remarkably, its NIR-I emission is detectable even under an excitation power as low as 30 μW, highlighting efficient emission at ultra-low excitation. By integrating high sensitivity, thermal robustness, and low-power operation into a single Nd3+-emitting platform, this work establishes a materials design route toward practical NIR thermometry for biological and other demanding environments.</description>
+</item>
+<item>
+<title>FoldX interface ΔΔG depends on which structure it starts from, and a learned predictor does not: a cautionary analysis on glutaryl-CoA dehydrogenase</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010007/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010007/v1</guid>
+<pubDate>2026-10-07T05:55:51Z</pubDate>
+<description>FoldX and related methods are widely used to interpret missense variants, and their sensitivity to the input structure is documented: repair of the coordinates is mandatory, averaging over structural ensembles improves agreement with experiment, and the uncertainty of a FoldX folding ΔΔG has been put at roughly ±3 kcal/mol, with binding stability worse. What has not been asked is whether that uncertainty is spread evenly over a protein. We took 258 ClinVar missense variants in glutaryl-CoA dehydrogenase, a homotetramer, verified every reference residue against the 1SIQ structure and computed ΔΔG for the 124 classified pathogenic. Eighteen variants were then recomputed on three molecular dynamics snapshots of the same complex: six interface variants selected on their monomer-to-tetramer difference, six interface variants drawn at random, and six at least 10 Å from any contact. The displacement between the crystal-based value and the relaxed-frame mean had a median of 1.10, 1.38 and 0.20 kcal/mol in the three groups (random interface against distant, Mann-Whitney p = 0.0130), while frame-to-frame scatter was indistinguishable between them (Kruskal-Wallis p = 0.385). The variation is therefore positional, and it is not explained by noise in the mean. SAAMBE-3D, a learned interface predictor, run on the same eighteen variants and the same four structures, moved by a median of 0.075 kcal/mol at the interface and by nothing at all away from it, so the instability is largely a property of FoldX. It also depends on magnitude: G171R, scored at +22.53 kcal/mol, moved 2.7%, whereas A421V moved from +0.18 kcal/mol, which reads as tolerated, to +4.37 ± 2.22. Along the way we found that ThermoMPNN given a chain selector on a tetramer returns values identical to the isolated monomer at all 7,800 scanned positions. For variant interpretation the consequence is specific: at a subunit interface, in the range where a classification is actually in doubt, a single starting structure does not support a single number.</description>
+</item>
+<item>
+<title>Sulfur-Driven Surface Reconstruction of Nickel into NiOOH for Enhanced Electrooxidative Lignin Depolymerization</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010006/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010006/v1</guid>
+<pubDate>2026-10-07T05:45:54Z</pubDate>
+<description>text Finding strategies to maximize the density of catalytically active sites is pivotal to enhancing the electrooxidative depolymerization of lignin. Here, we present a Ni3S2 precatalyst grown on nickel foam that, upon electrochemical activation, self-reconstructs into a NiOOH electrocatalyst with a high density of Ni3+ active sites. This proliferation of active sites drastically increases the anodic currents for the oxygen evolution reaction as well as for benzyl alcohol oxidation. Operando Raman spectroscopy confirms the formation of the active NiOOH phase at low operating potential, while depth-profiling analysis reveals that this active phase extends tens of nanometers deep before transitioning to the underlying sulfide core. Electrooxidation of veratrylglycerol-beta-guaiacyl ether, a model dimer bearing a β-O-4 interunit linkage, selectively yields veratric acid and veratraldehyde, confirming the Cα-Cβ bond cleavage. Applied to organosolv lignin extracted from pine wood, the electrocatalyst achieves substantial depolymerization, reducing the average molecular weight three-fold and releasing vanillic acid and vanillin as major monomeric products, reaching 22.4 % of the theoretical maximum monomer yield. Overall, this self-reconstructed architecture offers a compelling route for boosting the activity of oxyhydroxide-based electrodes while retaining their intrinsic selectivity.</description>
+</item>
+<item>
+<title>Water-Soluble Isocyanides for Passerini-Mediated Peptide Modification and Ligation</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010005/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010005/v1</guid>
+<pubDate>2026-10-07T05:32:01Z</pubDate>
+<description>Protein solubility is a key factor of peptide and protein modification and downstream application, yet chemical functionalization under aqueous conditions often compromise solubility. Here, we introduce a new class of ionic, water-soluble isocyanides for the functionalization of peptide carboxyl groups under aqueous conditions. By combining strong hydrogen-bonding motifs with ionic functionalities, these reagents provide enhanced water solubility while enabling modulation of peptide isoelectric points. The isocyanides were synthesized via a concise route and applied successfully in Passerini multicomponent reactions without observable precipitation. The resulting esterified peptides remained water-soluble even for highly hydrophobic sequences. They also served as competent substrates for omniligase-1-mediated ligation, with polar cationic modifications showing particularly favorable performance. These results demonstrate that rational isocyanide design can overcome solubility losses associated with peptide esterification, expand the scope of isocyanide-based ligation chemistry in aqueous environments, and provide a platform for tuning protein surface charge.</description>
+</item>
+<item>
+<title>Transition-Metal-Controlled α-C–H Acidity in Keto–Enol Tautomers: A DFT Study of Metal, Tautomer, and Substituent Effects</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010004/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010004/v1</guid>
+<pubDate>2026-10-07T05:23:55Z</pubDate>
+<description>Metal coordination provides an effective strategy for modulating the acidity of otherwise weak C–H bonds and controlling proton-transfer reactivity. Herein, we use density functional theory to investigate the effects of metal identity, tautomeric state, and substituent electronics on α-hydrogen acidity in metal-coordinated keto–enol systems. A systematic set of approximately 128 Au(III)-coordinated structures containing electron-donating and electron-withdrawing substituents was examined, with multiple coordination geometries and tautomeric forms considered to identify the thermodynamically preferred states. Au(III) coordination substantially enhances α-C–H acidity, with many systems exhibiting highly favorable deprotonation and strongly acidic computed pKa values. Electron-withdrawing substituents generally increase acidity, whereas electron-donating groups reduce it, although deviations observed for OMe and CF3 highlight the additional roles of charge delocalization and electrostatic stabilization. Kinetic analysis further reveals a strong dependence on tautomeric state: deprotonation of Au(III)-coordinated enol structures proceeds through barrierless pathways, whereas the corresponding keto structures require activation barriers of approximately 37–46 kcal mol−1. Comparative calculations with Co(III)-and Rh(III)-porphyrin complexes show substantially weaker acidification than Au(III), with both metals preferentially stabilizing the keto tautomer. These results demonstrate that metal identity, tautomeric structure, and substituent effects collectively govern α-C–H acidity and proton-transfer reactivity, highlighting the distinctive ability of Au(III) to promote α-hydrogen acidification in keto–enol systems.</description>
+</item>
+<item>
+<title>Ligand Design Principles Enabling High Efficiency Aqueous Iron Electrodeposition at Ambient Temperature</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010003/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010003/v1</guid>
+<pubDate>2026-10-07T05:19:58Z</pubDate>
+<description>Aqueous iron electrodeposition is an attractive route to enabling lower temperature, more modular ironmaking compared to conventional blast furnaces, but existing approaches require extreme pH, elevated temperatures and exhibit low Faradaic efficiency (FE) at elevated current density. A central challenge is the lack of design rules linking electrolyte chemistry to Fe2+ stability, FE and deposit purity. Here we demonstrate that pH-dependent electrolyte stability follows a volcano-type dependence on ligand functional group chemistry that is governed by a competition between metal–ligand complexation and ligand–solvent interactions. We determine α/β-hydroxycarboxylates optimize this balance and identify glycolate as a highly efficient coordinating ligand – enabling dense, ~99% pure iron deposits with &gt;90% FE at thicknesses &gt;100 μm and current densities approaching 1 A cm-2 under benign operating conditions (25ºC and pH 3.5). More broadly, these molecular design principles provide a framework for aqueous electrolyte development that should be transferrable to other electrochemical metal production processes.</description>
+</item>
+<item>
+<title>Graph-based machine learning model for adsorption energy prediction of CO2 hydrogenation intermediates on metal oxide catalysts</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010002/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010002/v1</guid>
+<pubDate>2026-10-07T05:13:49Z</pubDate>
+<description>Mixed metal oxide catalysts are highly active for CO2 hydrogenation to methanol and typically more selective than classical Cu-based catalysts. Adsorption energies of key reaction intermediates can serve as activity descriptors for high-throughput screening of metal oxide-dopant combinations, but this requires numerous computationally demanding density functional theory (DFT) calculations. Machine-learning interatomic potentials (MLIPs) and adsorption energy prediction models offer faster alternatives, yet current architectures struggle with the structural and electronic complexity of mixed metal oxides introduced by dopants, oxygen vacancies, and diverse adsorption motifs. In this work, a graph-based Gaussian process regression (GPR) model is developed, combining graph representations of adsorption structures with node-level electronic descriptors. Trained on 638 adsorption structures of CO and all formate-pathway intermediates on pristine and Zn-doped ZrO2 and HfO2, as well as pristine In2O3 surfaces, the model achieves a test-set mean absolute error (MAE) of 0.16 eV. Leave-one-feature-out analysis identifies the d-band center, surface work function, and adsorbate LUMO energy as the dominant descriptors governing the prediction accuracy. Coupling the model with UMA small v1.2-D3 establishes an efficient workflow for rapid structural relaxation and accurate adsorption energy prediction, enabling high-throughput screening of mixed metal oxide catalysts for CO2 hydrogenation to methanol.</description>
+</item>
+<item>
+<title>Activationless Charge Transport in Heliobacterial Reaction Centers: Polarizable Cofactors Coupled to Strong Intraprotein Electric Fields</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010001/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010001/v1</guid>
+<pubDate>2026-10-07T05:06:01Z</pubDate>
+<description>We study rate-limiting steps of electron transfer following photoinduced charge separation to the primary acceptor A0 in a heliobacterial reaction center (HbRC). Two steps involved are electron transfer to the iron-sulfur cluster (ISC) FX of HbRC, followed by electron transfer to the FA ISC of a ferredoxin protein in solution. Ferredoxin forms a stable binding configuration with the reaction center as established by Brownian dynamics simulation. Molecular dynamics simulations are used to calculate the reaction times of ∼ 0.1µs (A0 → FX) and ∼ 3− 5µs (FX → FA). These two steps are the slowest in the overall electron transport in HbRC. Electron transfer to ferredoxin is irreversible since the calculated time of recombination to the closest A0 cofactor is ∼ 70 ms. All reactions show near-zero activation barriers when cofactors’ polarizabilities are included in the calculations. The overall robust operation of solar energy conversion in HbRCs is allowed by combining cofactors’ polarizabilities with strong local intraprotein electric fields.</description>
+</item>
+<item>
+<title>Photosensitizer-free infrared-light-induced radical reactions</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-6xnhk/v2?af=R</link>
+<guid>10.26434/chemrxiv-2025-6xnhk/v2</guid>
+<pubDate>2026-10-07T04:34:03Z</pubDate>
+<description>Infrared (IR) light is a source of mild energy that facilitates selective chemical reactions in a deeply penetrative manner. However, harvesting IR light through electronic excitation is challenging, and thus organic photoreactions at wavelengths over 1000 nm are scarce even with specialized photosensitizers. Herein, we report radical reactions driven by IR-A (~1000 nm) or IR-B light (~1500 nm) via vibration-mediated photolysis in the absence of a photosensitizer. The developed method promotes diverse transformations, including iodination, alkylation, and selenation reactions, with wider scope, higher selectivity, and deeper penetration through reaction media, compared with those of conventional irradiation with visible light. Applications include irradiation through obstacles, one-pot sequential transformations, and flow chemistry in opaque tubing. Experimental and spectroscopic studies reveal that the absorption of IR light via vibrational modes promotes photolysis that triggers radical chain reactions.</description>
+</item>
+<item>
+<title>Giant barocaloric effect from spin crossover in a green nitroprusside framework†</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001756/v3?af=R</link>
+<guid>10.26434/chemrxiv.15001756/v3</guid>
+<pubDate>2026-10-07T01:34:10Z</pubDate>
+<description>The interest in spin crossover for solid-state cooling is growing. We investigate the spin crossover transitions of [Fe(pyridine)2Fe(CN)5NO] and [Fe(pyrazine)Fe(CN)5NO] by single-crystal X-ray diffraction, high-pressure X-ray diffraction, magnetometry, and high-pressure calorimetry. The dehydrated form of the latter compound shows a reversible cooling effect (∆Tad,rev) of ∼15K at 1.2 kbar. This is high in the context of other reported spin-crossover barocalorics, and competitive within the field at large. The excellent performance results from a large barocaloric coefficient (dT1/2/dp = 35K kbar−1). In addition, the one-pot synthesis is simple and free from toxic solvents.</description>
+</item>
+<item>
+<title>Improved electrostatic machine learning embedding ML/MM scheme for a phosphoryl transfer reaction</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010047/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010047/v1</guid>
+<pubDate>2026-10-07T01:30:10Z</pubDate>
+<description>The promise of hybrid machine learning/molecular mechanics (ML/MM) simulations is to provide QM/MM-quality free energy profiles at a fraction of the cost. One of the challenges is to accurately treat the interaction between the ML subsystem and the MM environment. Here we test the Electrostatic ML Embedding (EMLE) scheme on a minimal model of RNA cleavage in water, which is already challenging due to a doubly charged reactant dissociating into two anions. The original scheme, a MACE potential embedded by an independent EMLE model, is compared with a new EMLE–MACE architecture, in which a single equivariant network predicts the gas-phase energy together with the atomic charges, valence widths, polarizabilities and static dipoles required by the embedding. The models were trained by active learning against M06-2X/def2- TZVP data, with structures selected by query-by-committee from the ML/MM dynamics itself. About 1500 single point calculations were sufficient for stable 100 ps umbrella sampling simulations in 73 windows along the reaction pathway. The EMLE–MACE profile reproduces the reference DFT/MM profile within its sampling error, including a metastable pentacoordinate intermediate. Energy decomposition shows that the static dipoles are essential: without them the static error stays above chemical accuracy even for an ideally trained model, due to the irreducible error of approximating electron density with spherical atoms.Phosphate diester solute treated with EMLE-MACE inside MM water, and free energy profiles along the reaction coordinate from MACE(EMLE), EMLE-MACE and DFT.Phosphate diester solute treated with EMLE-MACE inside MM water, and free energy profiles along the reaction coordinate from MACE(EMLE), EMLE-MACE and DFT.Phosphate diester solute treated with EMLE-MACE inside MM water, and free energy profiles along the reaction coordinate from MACE(EMLE), EMLE-MACE and DFT.Phosphate diester solute treated with EMLE-MACE inside MM water, and free energy profiles along the reaction coordinate from MACE(EMLE), EMLE-MACE and DFT.</description>
+</item>
+<item>
+<title>Two-Electron Photoreduction of Pd(II) Oxalates: In Crystallo Synthesis and Catalysis</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010046/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010046/v1</guid>
+<pubDate>2026-10-07T01:26:02Z</pubDate>
+<description>Discovery and optimization of cross-coupling catalysts require catalyst activation strategies that balance the operational simplicity of air-stable precatalysts with the need for air-sensitive, lowcoordinate and -valent intermediates for substrate activation and turnover. Here we introduce a general approach for on-demand catalyst activation via two-electron photoreduction of air-stable phosphine-ligated palladium(II) oxalates. The platform exploits rapid ligand exchange at (MeCN)2Pd(ox) to enable modular assembly of catalyst photoprecursors from a single precursor. In crystallo photochemistry and single-crystal Raman spectroscopy of phosphine-supported Pd oxalates establish that photoactivation proceeds via the extrusion of two molecules of CO2 and provide the Uirst crystallographic characterization of a Pd–CO2 adduct. Two-electron photoactivation translates to the solution phase to provide a platform to access Pd oxidative addition complexes (OACs) and to generate poison-free, on-cycle catalyst intermediates. The combination of rapid and quantitative ligand exchange coupled with facile two-electron photoreduction enables application in highthroughput experimentation (HTE) workUlows and on-plate ligand screening. Photogenerated catalysts are competitive with state-of-the-art precatalysts in both C–N cross-coupling and a newly developed base-free Suzuki reaction. These results establish Pd oxalates as general, photoactivated precursors to unsaturated catalyst intermediates that unlock streamlined, combinatorial workUlows for catalyst discovery and data-driven optimization.</description>
+</item>
+<item>
+<title>Synthesis of nitride materials by atmospheric pressure metathesis</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010045/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010045/v1</guid>
+<pubDate>2026-10-07T01:24:09Z</pubDate>
+<description>Nitride materials have many important technological applications, yet they remain underexplored compared to other classes of compounds, as reflected by the smaller number of reports in databases and literature. The primary reason for this is the difficulty of synthesizing nitrides, which must outcompete energetically stable molecular N2 and oxide compounds. As a result, bulk synthesis of nitrides often requires high pressure or corrosive fluxes in addition to oxygen-free conditions. We present our perspective on the metathesis technique as an accessible method for synthesizing nitrides at or below atmospheric pressure for the broader chemistry community. To highlight the advantages of this synthesis approach, we also review traditional methods for bulk nitride synthesis, including high pressure techniques, sodium and halide fluxes, and gas- and liquid-ammonia-based routes. We provide a brief tutorial on metathesis reactions including tips and tricks to help researchers get started. Finally, we discuss the future outlook for metathesis reactions, with an opportunity for precise structural selection during nitride synthesis through the controlled formation of stable and metastable polymorphs within the multidimensional potential-energy landscape of material nucleation and growth.Atmospheric pressure metathesis is an emerging method for accessible bulk synthesis of new nitrides materials, permitting structural selection through the controlled formation of stable and metastable polymorphs.</description>
+</item>
+<item>
+<title>Surface-Aware Generative Design of Selective Inhibitors for Protein–Membrane Adsorption</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010044/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010044/v1</guid>
+<pubDate>2026-10-07T01:20:16Z</pubDate>
+<description>Peripheral membrane proteins (PMPs) bind membrane surfaces through interfacial binding sites (IBSs) that are critical for stable membrane association and proper orientation of catalytic active sites. Dysregulated PMP–membrane interactions can enhance catalytic activity and contribute to diseases including cancer, but many PMPs remain difficult therapeutic targets because their active sites lack well-defined pockets or become accessible only upon membrane binding. In this work, we developed a multistage computational framework that integrates MaSIF-PMP, a surface-centered geometric deep learning model for IBS prediction, with a generative diffusion model to design protein binders that target PMP IBSs and inhibit membrane adsorption. Candidate binders were ranked using MaSIF-PMP prediction scores and geometric descriptors, then validated by molecular dynamics and enhanced sampling simulations. Applied to three disease-relevant PMPs, the framework identified selective binders that disrupted membrane association while minimizing off-target membrane interactions, providing a potential strategy for designing PMP membrane-adsorption inhibitors.</description>
+</item>
+<item>
+<title>Few-Shot Early-Release Adaptation Enables Generalizable Prediction of PLGA Drug Release</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010043/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010043/v1</guid>
+<pubDate>2026-10-07T01:16:01Z</pubDate>
+<description>Reliable prediction of long-term drug release remains challenging for formulations developed under experimental conditions that differ from those represented in literature-derived training data. Standard formulation descriptors capture important physicochemical and formulation characteristics, but they do not fully represent study-specific factors that shape the realized release trajectory. Here, we develop a machine-learning-based few-shot adaptation strategy that combines formulation descriptors with sparse early release measurements to forecast the remaining release trajectory under previously unseen experimental settings. Using a public dataset comprising 321 formulations, 4,913 release measurements, and 113 source studies, we evaluate the framework using strict study-grouped validation. Zero-shot prediction shows limited generalization to new experimental domains, whereas incorporating only a few early observations produces a marked and reproducible improvement in predictive performance. Across repeated held-out study splits, two early measurements increase mean pooled from −0.084 to 0.333 and reduce formulation-level MAE by approximately 30%, with further improvements as additional observations are incorporated. Although absolute predictive accuracy remains moderate, the improvement is consistent across repeated splits and demonstrates that limited target-specific information can substantially reduce the generalization gap. These findings show that sparse early release measurements can serve as an effective calibration signal for machine-learning models, providing a practical strategy for improving long-term drug-release forecasting under previously unrepresented experimental conditions.</description>
+</item>
+<item>
+<title>AI Agents for CRISPR Diagnostics: From Automation to Bounded Autonomy</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010042/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010042/v1</guid>
+<pubDate>2026-10-07T01:12:15Z</pubDate>
+<description>Recent years have witnessed rapid advances in clustered regularly interspaced short palindromic repeats (CRISPR) diagnostics, artificial intelligence (AI), and self-driving laboratories for automation. CRISPR diagnostics have emerged as a promising strategy for earlier disease detection, with Cas12a and Cas13a targeting DNA and RNA, respectively, and converting that recognition into collateral reporter cleavage. In parallel, different subsets of AI have advanced rapidly, with machine learning (ML) interpreting biosensor readouts, and large language models (LLMs) and AI agents applied to automation. Laboratory automation and self-driving platforms reduce the workload of human experimentalists and enable scale-up, having run long unattended campaigns in materials discovery. However, how these advances in AI, CRISPR diagnostics and automation could be integrated to enable a future of autonomous biosensing remains unresolved. In this perspective, we evaluate CRISPR diagnostics as autonomous systems, where analytical metrics alone cannot ensure robustness, failure-mode predictability, recoverability and auditability. We then propose a bounded-autonomy layer in which multimodal evidence, scored by ML, gates a Sense, quality control (QC), Decide, Act and Report loop, with guardrailed LLM agents invoked only when QC flags a run, selecting pre-validated actions under deterministic validation. By tying detectable failure modes to validated recovery actions, we outline a path toward bounded autonomy in CRISPR diagnostics, where a device unable to act safely abstains and escalates.</description>
+</item>
+<item>
+<title>Energy ordering of singlet and triplet excited states in s-indacene, Pentalene, Cyclobutadiene derivatives in singlet fission : A model exact and density matrix renormalization group study</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009885/v2?af=R</link>
+<guid>10.26434/chemrxiv.15009885/v2</guid>
+<pubDate>2026-10-07T01:09:59Z</pubDate>
+</item>
+<item>
+<title>Base-Dependent Lewis Acidity in Substituted Boranes: Revisiting Intrinsic Acidity through DFT and Machine Learning</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010041/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010041/v1</guid>
+<pubDate>2026-10-07T01:04:18Z</pubDate>
+<description>The Lewis acidity of boranes is strongly influenced by the electronic nature of their substituents and is commonly assessed through interactions with representative Lewis bases. However, the extent to which the relative Lewis acidity ordering of substituted boranes depends on the identity of the interacting Lewis base has not been systematically investigated. In this work, Density Functional Theory (DFT) calculations combined with machine learning (ML) analysis were employed to quantify substituent effects and base dependence in borane–Lewis base interactions. A dataset comprising 816 trisubstituted boranes generated from 16 representative substituents was examined in interaction with five Lewis bases (H2O, NH3, C5H5N, P(CH3)3, and Cl−), yielding 3927 computed adduct formation free energies. The results show that electron-withdrawing substituents generally enhance, whereas electron-donating substituents attenuate, the Lewis acidity of boranes. However, the magnitude of these substituent effects depends on the identity of the interacting</description>
+</item>
+<item>
+<title>Beyond the Ligand Applicability Domain: Generalization and Local Resolution in Structure-Aware Foundation Models for Affinity Prediction</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010040/v1?af=R</link>
+<guid>10.26434/chemrxiv.15010040/v1</guid>
+<pubDate>2026-10-07T01:00:29Z</pubDate>
+<description>Structure-aware foundation models that jointly represent proteins and ligands promise to extend affinity prediction beyond the chemical applicability domains of conventional ligand-based models, but whether they provide sufficient resolution to guide fine-grained medicinal-chemistry decisions remains unclear. We evaluatedBoltz-2across12kinasetargetsusinghistoricalbioactivityreconstruction,binding-pocket randomization, cross-target selectivity analysis, and chemical-series evaluation. Across chemically diverse compounds in temporally reconstructed evaluation sets, Boltz-2 and target-specific ligand-based machine learningshowedcomparablemeanglobalrankingacrosstargets,withsubstantialtarget-dependent differences (mean Kendall’s τ = 0.40 vs 0.31). Randomizing the binding pocket reduced mean τ from 0.33 to 0.14, while predictions were centered near −7.64 kcal/mol and retained correlated compound profiles acrossproteins.Together,theseresultssuggestastrongligand-conditionedsignal,withadditional predictive information contributed by the protein pocket. Despite this protein sensitivity, compound-level selectivitypredictionremainedweak(meanτ=0.17),andtheexperimentallystrongesttargetwas recovered for only 18.9% of compounds. Ranking also weakened within 72 temporally classified chemical series and varied substantially among series (protein-balanced mean τ = 0.18 for Boltz-2 and 0.09 for ligand-based models). These results show that structure-aware models can recover affinity information beyond relationshipscaptured by conventionalligand-based approaches whilerevealingaresolution boundary between broad prioritization and the local energetic discrimination required for selectivity and analogue ranking. At their current demonstrated resolution, such models appear best suited to broad compound or series prioritization and complementary hypothesis generation. Extending their use to fine analogueranking,selectivityoptimization,andinterpretationofsmallaffinitydifferenceswillrequire prospective evidence of reliable local resolution.</description>
+</item>
+<item>
 <title>SMILES serialization changes activity-cliff annotations in the MoleculeACE benchmark</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009988/v1?af=R</link>
 <guid>10.26434/chemrxiv.15009988/v1</guid>
@@ -33,6 +402,27 @@
 <description>The Gibbs equation (∆G= ∆H–T∆S) remains a cornerstone of chemical thermodynamics. Yet the scope and origins of the widely observed correlations between the enthalpies (∆H) and entropies (∆S), or Gibbs energies (∆G) and enthalpies, have long been ...</description>
 </item>
 <item>
+<title>On how cell shape determines bactericidal effects of nanopatterned surfaces</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009999/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009999/v1</guid>
+<pubDate>2026-10-06T11:23:49Z</pubDate>
+<description>Nanopatterned surfaces inactivate bacteria by mechanically deforming adherent cells, yet design guidelines remain inconsistent and studies rarely isolate the role of cell shape. Here, we show how cell shape governs responses to nanopatterned surfaces. We develop a thermodynamic model coupling envelope stretching and bending with cell-surface adhesion to compare spherical and rod-shaped bacteria with identical cross-sections. We find that nanopatterning increases strain for both shapes, while cell shape changes how cells attain that strain. We show that spherical and rod-shaped cells adopt different adhesion geometries and energy balances even when they experience similar strains. Rod-shaped cells reach higher strains at lower nanopillar densities over much of the design space, while nanopillar radius and density tune cell shape-dependent strain differences. We identify nanopatterns that preferentially strain either shape or balance their responses using Pareto analysis. Together, our results establish cell shape as a key design consideration for tailoring bactericidal nanopatterned materials.</description>
+</item>
+<item>
+<title>Synthetic Methodologies to Access Fused Six-Membered Phosphorus Heterocycles</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009998/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009998/v1</guid>
+<pubDate>2026-10-06T11:17:50Z</pubDate>
+<description>π-Conjugated molecules are essential in a wide range of modern technologies: organic electronics, sensing and biomedical applications. The incorporation of heteroatoms into fused aromatic systems represents a key strategy to modulate their optoelectronic properties. While nitrogen, sulfur and oxygen have been extensively investigated in this context, phosphorus remains far less explored, despite offering a unique combination of properties: tunable oxidation states, rich coordination chemistry, non-planar geometry at heterocyclic rings, and a strong ability to lower the LUMO energy of π-systems. These properties make six-membered phosphorus heterocycles especially attractive building blocks with capabilities that other heteroatoms simply cannot provide. However, the synthetic methodologies available to incorporate these heterocycles into large fused π-conjugated architectures remain underdeveloped, hampering broader exploration of their extraordinary potential. In this review, we aim to offer synthetic and organometallic chemists a starting point to identify current limitations and develop new, more versatile strategies for incorporating these heterocycles into fused architectures, and, in turn, a practical guide for materials scientists seeking to design new π-extended phosphorus systems. In particular, we provide a systematic catalog of the cyclization reactions reported to date for the preparation of six-membered phosphorus heterocycles fused at different positions to aromatic rings, organized around five model structures according to the bond(s) at which fusion takes place, from metal-free strategies to the transition-metal-mediated C-P bond-forming methodologies that have driven much of the recent progress. We anticipate that this overview will encourage new, more efficient synthetic routes to fused phosphorus heterocycles, broadening access to this underexploited class of π-extended systems.</description>
+</item>
+<item>
+<title>Electronic Structure, Bonding Topology, and Photophysical Properties of the Low-Valent Beryllium Cluster CpBe2NO: A Multireference and Real-Space Wavefunction Analysis</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009997/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009997/v1</guid>
+<pubDate>2026-10-06T11:11:44Z</pubDate>
+<description>A comprehensive ab initio investigation of the cyclopentadienyl-beryllium nitrosyl complex (CpBe2NO) was conducted using complete active space self-consistent field (CASSCF), strongly contracted n-electron valence state perturbation theory (SC-NEVPT2), complete active space second-order perturbation theory (CASPT2), and symmetry-adapted cluster/similarity transformed equation-of-motion domain-based local pair-natural orbital coupled-cluster (STEOM-DLPNO-CCSD) methods, in conjunction with quantum theory of atoms in molecules (QTAIM) and real-space wavefunction topology analyses. The singlet–triplet energy gap indicates a triplet ground state at the CASSCF level. Relaxed CASPT2 potential energy surface scans along the Be–Be internuclear coordinate establish an equilibrium singlet bond distance of 2.200 Å, a dissociation energy (De) of 21.11 kcal mol-1, and a harmonic vibrational frequency (ωe) of 593.75 cm-1. Active-space natural orbital populations and QTAIM bond critical point (BCP) decompositions demonstrate pronounced multireference character and multi-center metallic bonding. STEOM-DLPNO-CCSD excited-state calculations map vertical transition energies, oscillator strengths, and unrelaxed dipole moments across the low-lying singlet manifold. Real-space descriptors—including the electron localization function (ELF), localized orbital locator (LOL), reduced density gradient (RDG), and interaction region indicator (IRI)—further elucidate the electronic shell structure and attractive metallic interaction basins.</description>
+</item>
+<item>
 <title>Provenance-Aware Quality Control for Heterogeneous Bioactivity Data</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006416/v2?af=R</link>
 <guid>10.26434/chemrxiv.15006416/v2</guid>
@@ -40,11 +430,46 @@
 <description>Background. Machine-learning models for proteins increasingly train on large, pooled collections of laboratory measurements-binding affinities such as IC50, Ki, Kd and EC50 (numbers that describe how tightly a molecule binds its target), togetherwith biophysical readouts from techniques such as surface plasmon resonance (SPR), bio-layer interferometry (BLI) and isothermal titration calorimetry (ITC). These measurements arrive in different units, from different assay formats, fitted with different models, and at different levels of quality. Pooling them without care injects substantial noise. The per-record quality flags that some databases attach are incomplete, and they do not travel with the data once records from several sources are combined. What has been missing is an open, model-agnostic layer that turns raw measurements into records a downstream pipeline can consume directly: unit-normalized, quality-checked, and carrying their own uncertainty and provenance. What we built. biophys_interop is an open Python toolkit and data schema. It maps any supportedmeasurement to a single canonical record spanning 24 measurement types (modalities), converts units to a common standard, and runs a registry of 72 deterministic, method-aware quality-control (QC) rules. Every rule cites a reason from the measurement literature, recommends a concrete action, and returns a simple pass / warn / fail flag together with a calibrated uncertainty. The library is small and has few dependencies. We are deliberate about what our validation does and does not cover: two broadly applicable affinity rules (a plausible-value-range rule and an exact-duplicate rule) are tested at scale against an independent curator’s labels; the remaining method-specific biophysical rules are offered as a literaturegrounded, executable registry-useful and auditable, but not claimed as validated here, because no public database publishes the per-record ground-truth flags that would be needed to score them. Results. Using ChEMBL’s own data_validity_comment and potential_duplicate annotations as an independent ground truth, transparent rules on the standardized record reproduce two of ChEMBL’s three curator flag families on 175,387 held-out records across 30 human targets, with no trained model (value-range rule: Matthews correlation coefficient [MCC] 0.61; duplicate rule: MCC 0.65). The thresholds transfer cleanly to a completely separate set of targets (train on 15, test on 15 disjoint targets; 88,443 held-out records; MCC 0.73 and 0.64). Going beyond the curator, the layer flags 929 internally inconsistent records that ChEMBL did not flag, and a comparison against the independent BindingDB database exposes 38 disagreements of 100-fold or more, 89% of them unmarked by either database. A domain expert who checked a 24-record sample against the primary literature confirmed 16 of 24 (67%) as genuine data errors, including 11 of 12 cross-database conflicts. We reproduce the known cross-assay noise regime reported by Landrum and Riniker, and show that a comparability gate based on assay metadata more than halves the median disagreement between records (0.51-&gt; 0.21 log units). Finally, feeding the calibrated signal into a downstreammutation-effect (ΔΔG) predictor gave no reliable improvement; we report this negative result in full. The toolkit, the rule registry, the cleaned datasets, and one-command reproduction scripts are released openly. Conclusions. Once heterogeneous public measurements share one representation, simple transparent rules can catch data problems-matching expert curators at scale on the rule families we tested, and catching errors those curators missed. The result is a reusable, auditable data layer for protein machine learning, rather than a new predictive model. Keywords: bioactivity data; data curation; quality control; ChEMBL; BindingDB; data standardization; FAIR data; machine learning; interoperability; reproducibility</description>
 </item>
 <item>
+<title>Hybrid-CatBoost: an empirical comparison of molecular representations for aqueous-solubility prediction on the TDC benchmark</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009996/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009996/v1</guid>
+<pubDate>2026-10-06T10:55:45Z</pubDate>
+<description>Aqueous-solubility prediction depends on both molecular representation and the definition of the target. We compared fingerprint, descriptor, hybrid, and graph-based representations on the TDC Solubility_AqSolDB benchmark using five official scaffold splits and a fixed test set of 1,997 records. Hybrid-CatBoost achieved a five-run test MAE of 0.749631 ± 0.016216 TDC logS units, compared with 0.764558 ± 0.009666 for descriptor-only CatBoost. However, the corresponding validation improvement was small (ΔMAE = −0.004932) and occurred in only two of five matched splits. Errors increased toward both target extremes and showed opposite-signed residual biases. These results indicate that descriptor-based models capture most of the predictive signal in this benchmark, while the added Morgan fingerprint provides only a modest and split-dependent benefit. Interpretation is limited by incomplete assay metadata and the use of a single fixed test set, which does not provide external validation.</description>
+</item>
+<item>
+<title>Electrochemical passivation of LiFePO4 cathodes by polaron crystallization during cell cycling</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009995/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009995/v1</guid>
+<pubDate>2026-10-06T10:45:48Z</pubDate>
+<description>The nature of intermediate phases during LiFePO4 cycling and their role in limiting lithium transport remain unresolved. Building on our pioneering application of operando 57Fe nuclear resonance vibrational spectroscopy to working batteries, we combine this element-specific probe with machine-learning-based spectral analysis to resolve and quantify a vibrational signature of an intermediate component distinct from the LiFePO4 and FePO4 end-members. Its maximum molar fraction reaches nearly 20% at cycling rates of C/10, C/5 and C/2, revealing a rateindependent formation of intermediate phase. The intermediate exhibits additional distinct feature in the Fe-projected phonon density of states, suggesting localized Fe3+ hole-polaron environments, which is supported by atomistic simulations. These observations motivate a working hypothesis linking the persistence of the intermediate to restricted lithium transport. We propose that local accumulation of hole polarons along with elastic stress at phase interface promotes their crystallization into an ordered superstructure at the advancing phase boundary. Ordering restricts polaron motion and through lithium ion–polaron coupling reduces lithium-ion mobility across the intermediate layer. This layer could therefore to certain extent passivate individual particles against further delithiation, allowing transformation to proceed elsewhere in the electrode. The proposed mechanism offers an explanation for the nearly rate-independent intermediate phase fraction and identifies polaron ordering as a potential target for improving high-rate performance, for example through dopants that inhibit polaron crystallization.</description>
+</item>
+<item>
+<title>Computational shielding of chikungunya viral prefusion with permeable cyclic-minipeptides</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009994/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009994/v1</guid>
+<pubDate>2026-10-06T10:39:48Z</pubDate>
+<description>Permeable cyclic-minipeptide-conformer candidates were computationally co-generated with the aim of shielding the protected prefusion-loops (FL) of the envelop E2E1 protein heterodimers of chikungunya virus (CHIKV). This work attempts to prevent some of the earliest pH-dependent dissociation E2E1 events which trigger CHIKV fusion/ infectivity by fully exposing their FL. To co-generate de novo candidates, a minimized prefusion CHIKV E2E1 (minE2E1) model including minimal E2-protective and E1-FL sequences was targeted by BoltzGen. The advantages of the cogenerated top-affinity nanoMolar candidates include higher affinities compared to previous neutralizing peptides, easier chemical synthesis, low antigenicity and strong conformer stabilities. Top-affinity parents were computationally mutated to derive thousands of membrane-permeable candidates conserving their cyclization, targets and affinities. A few membrane-permeable top-affinity candidates may serve for experimentally-guided validation of possible inhibition of CHIKV fusion and infection.</description>
+</item>
+<item>
 <title>Computational assessment, against criteria specified in advance, of a Na+/Ag+ ion-exchange route to Ag2MgSiO4, a predicted wurtzite-derived silver silicate</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009985/v1?af=R</link>
 <guid>10.26434/chemrxiv.15009985/v1</guid>
 <pubDate>2026-10-06T10:39:27Z</pubDate>
 <description>Many metastable inorganic compounds exist only because a synthetic route delivers them, and database screening is poorly placed to find them. Topotactic ion exchange is such a route: at low temperature it swaps the mobile cation of a known parent for another, ideally while the framework stays intact, yet it is rarely assessed computationally before synthesis. We test whether a simple exchange-energy criterion, specified in advance and checked against independent calculations, can nominate a credible target. Computed with a machine-learned interatomic potential, the criterion reproduced the sign of 42 published DFT exchange enthalpies (36/36 for |∆H| ≥ 10 kJ mol−1) and selected Ag2MgSiO4, to be made from Na2MgSiO4 in molten AgNO3. Density functional theory gives an exchange energy of about −58 kJ mol−1 per Ag, within the ±10 kJ mol−1 window around three reported preparations of silver silicates and germanates from sodium parents in molten AgNO3, and an energy above the hull (0.038–0.042 eV atom−1) like that of known silver silicates. The Pna21 structure is dynamically stable in the harmonic approximation (0 K). Calculated Ag+ hop barriers are comparable to or lower than those of a reported Ag+ conductor, and the HSE06 gap, calibrated on one literature value, is about 3 eV, at the violet edge of the visible range. These are 0 K predictions; no synthesis was attempted, and the closest precedent is Ag2MnSiO4, so a single exchange experiment can confirm or refute them (incomplete exchange or changes in particle size and shape are reported in some precedents).</description>
+</item>
+<item>
+<title>Machine Learning-Powered Simulations of Confinement-Driven 129Xe Nuclear Spin Relaxation</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009993/v1?af=R</link>
+<guid>10.26434/chemrxiv.15009993/v1</guid>
+<pubDate>2026-10-06T10:37:56Z</pubDate>
+<description>The rate at which a nuclear spin returns to equilibrium encodes the dynamics of its surroundings, information the chemical shift, a time-averaged quantity, cannot provide. Building on a previous dual-model machine learning framework, combining a fine-tuned atomistic foundation model (FT-AFM) for molecular dynamics (MD) with an NMR-ML model predicting the 129Xe magnetic shielding tensor, we compute the chemical shift anisotropy-driven 129Xe spin-lattice (T1) and spin-spin (T2) relaxation times of xenon confined in carbon nanotubes by extending the Redfield theory treatment to arbitrary nanotube orientations relative to the external magnetic field. Across various temperatures, nanotube diameters, and Xe loadings, both relaxation times evolve non-monotonically in several cases, and for systems whose Xe densities match those of experimental free xenon gas, confinement shortens T1 by up to fivefold. We also show that T1 provides an indirect NMR probe of single-file Xe diffusion. This work establishes FT-AFMs and NMR-ML models as a fast, accurate, and general route to the nuclear spin relaxation of confined Xe across a broad range of porous materials.</description>
+</item>
+<item>
+<title>Magnetic control of lipid–peroxyl termination yield under spin relaxation: from an optimised dipolar-scale field to a falsifiable kinetic criterion</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007151/v2?af=R</link>
+<guid>10.26434/chemrxiv.15007151/v2</guid>
+<pubDate>2026-10-06T10:31:54Z</pubDate>
+<description>Lipid peroxidation, the radical-chain oxidation of membrane lipids, terminates in part through spin-selective encounters between lipid-peroxyl radicals. We ask how far a shaped magnetic field can steer this branch under spin relaxation and how that change propagates to the oxidation flux. Gradient-projection and bang–bang Pontryagin controls were evaluated with a stochastic-Schrödinger treatment of dipolar fluctuations and an independent Brownian-dynamics model. A best-found dipolar-scale field raises the triplet-initialised singlet termination yield from ΦS|T = 0.220 at 50 µT to 0.562 (+155%), with the bang–bang solution corroborating at 0.522; a bandwidth-filtered proxy retains 0.270. Under Brownian dynamics the control advantage remains positive throughout the sampled rotational-correlation-time range, and one field transfers across eight microdomain-size–diffusion parameter sets. Closing the spin calculation to classical autoxidation kinetics gives Ceff = −f/(1+f), where f is the fraction of peroxyl loss proceeding through bimolecular termination. Two limiting descriptions of the productive encounter population bracket the predicted suppression of oxidation flux in antioxidant-free liposomes at approximately 21–37%, and at approximately 4–10% for the bandwidth-filtered field. α-Tocopherol attenuates the response as interception comes to dominate, providing an internal experimental control. These values describe an elementary encounter and a minimal kinetic model, not whole-cell lipid peroxidation.</description>
 </item>
 <item>
 <title>TiO2 as active site and protective layer on Sn doped spinel cobalt oxide for acidic OER</title>
@@ -620,431 +1045,6 @@
 <guid>10.26434/chemrxiv.15009849/v1</guid>
 <pubDate>2026-10-05T09:27:12Z</pubDate>
 <description>Flow Capacitive Deionization (FCDI) is an electrochemical ion removal technology well-suited for continuous desalination of brackish waters, as well as ion-specific removal. Despite over a decade of research into FCDI, few researchers have probed the ...</description>
-</item>
-<item>
-<title>A Stereochemical Blueprint for Thermoresponsive Polymers</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009848/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009848/v1</guid>
-<pubDate>2026-10-05T09:16:53Z</pubDate>
-<description>Predicting polymer structure-property relationships is challenging due to the vast chemical expanse of polymer design space and the limited availability of high-quality datasets that effectively span the design space. Here, we present a physics-informed ...</description>
-</item>
-<item>
-<title>Mechanochemical Activation of Strontium for the Selective Cross-Coupling of Chlorosilanes</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009847/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009847/v1</guid>
-<pubDate>2026-10-05T09:14:49Z</pubDate>
-<description>Silicon-containing compounds are important in both academic and industrial settings, and the reductive coupling of chlorosilanes is a widely used approach for the formation of Si–Si bonds. However, despite its long history, this strategy for the formation ...</description>
-</item>
-<item>
-<title>Peptide-Directed Ligand Design Enables Chemical Disruption of the Nrf2/MafG Coiled-Coil Transcription Factor Complex.</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009846/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009846/v1</guid>
-<pubDate>2026-10-05T08:16:49Z</pubDate>
-<description>Transcription factor protein interactions remain among the most challenging targets in chemical biology, particularly those driven by leucine zipper coiled coil assemblies. For this challenge we developed a peptide-directed ligand design strategy ...</description>
-</item>
-<item>
-<title>A Fragment-Based Mechanistic Potential for Noncovalent Systems: Combining Conceptual DFT and Quantum Chemical Topology Domains</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009844/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009844/v1</guid>
-<pubDate>2026-10-05T08:09:00Z</pubDate>
-<description>Within a framework combining conceptual Density Functional Theory (cDFT) with the computational efficiency of the quantum chemical topology (QCT) description of matter, we introduce a mechanistic potential designed for the fast exploration of ...</description>
-</item>
-<item>
-<title>Discovery of new octadecanoids in γ-linolenic acid rich oils</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009843/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009843/v1</guid>
-<pubDate>2026-10-05T07:50:52Z</pubDate>
-<description>17 novel hydroxy fatty acids derived from LA, ALA, and GLA were characterized in evening 2 primrose, borage and hemp oil. Structural characterization was based on semi-synthetic 3 standards generated by autoxidation, photoxidation and enzymatic ...</description>
-</item>
-<item>
-<title>Accuracy in Homonuclear Distance Determinations by Solid-State NMR Spectroscopy: The Benefits of Fast Magic-Angle Spinning up to 100 kHz</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009842/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009842/v1</guid>
-<pubDate>2026-10-05T07:44:54Z</pubDate>
-<description>Homonuclear distance measurements by solid-state nuclear magnetic resonance (NMR) spectroscopy under magic-angle spinning (MAS) conditions are key to structural analysis in complex materials. While a wide variety of dipolar recoupling techniques involving ...</description>
-</item>
-<item>
-<title>Solving density-of-states occupation in disordered systems using neural networks</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009841/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009841/v1</guid>
-<pubDate>2026-10-05T07:42:55Z</pubDate>
-<description>Describing density-of-states occupation with high precision in disordered systems is crucial for modeling charge transport and understanding doping mechanisms or interfacial energy-level alignment. Beyond fundamental insight from a mechanistic ...</description>
-</item>
-<item>
-<title>d10 Coinage Metal Organic Chalcogenolates: Tuning Dimensionality and Properties through Phenylthiolate Functionalization</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009840/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009840/v1</guid>
-<pubDate>2026-10-05T07:32:49Z</pubDate>
-<description>Metal–Organic Chalcogenolates (MOCs) based on d10coinage metals constitute a versatile class of coordination polymers combining anisotropic structures with diverse functional properties. In this review, we examine a series of 23 Cu(I), Ag(I), and Au(I)-...</description>
-</item>
-<item>
-<title>Photocatalytic performance of silver clusters on anatase TiO2 for bisphenol A degradation in water under solar light</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009839/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009839/v1</guid>
-<pubDate>2026-10-05T07:30:51Z</pubDate>
-<description>The increasing occurrence of bisphenol A (BPA) in water sources raises significant environmental and health concerns, demanding efficient and sustainable remediation strategies. In this work, we investigate the photocatalytic degradation of BPA using ...</description>
-</item>
-<item>
-<title>Computational assessment of a proposed Na+/Ag+ ion-exchange route to Ag2MgSiO4, a predicted wurtzite-derived silver silicate</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009838/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009838/v1</guid>
-<pubDate>2026-10-05T07:26:49Z</pubDate>
-<description>Low-temperature ion exchange can provide a route to metastable inorganic compounds that are not favoured by equilibrium synthesis. We assess the proposed preparation of Ag2MgSiO4 from Na2MgSiO4 in molten AgNO3, using exchange energies, reported ...</description>
-</item>
-<item>
-<title>Stacking Interactions of Druglike Heterocycles with Histidine</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009837/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009837/v1</guid>
-<pubDate>2026-10-05T07:05:22Z</pubDate>
-<description>Histidine side chains are prevalent in binding sites and can engage in stacking interactions with heterocyclic ligand components. However, efforts to harness these interactions for molecular recognition are often hampered by an incomplete understanding of ...</description>
-</item>
-<item>
-<title>Structure-Based Design of Potent Pan-YTHDF Ligands</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009836/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009836/v1</guid>
-<pubDate>2026-10-05T07:05:10Z</pubDate>
-<description>N6-Adenosine methylation (m6A) is the most abundant post-transcriptional modification of mRNA. The reader proteins YTHDF1, YTHDF2, and YTHDF3 recognize m6A-RNA in the cytosol. Here, we present a protein structurebased medicinal chemistry campaign that ...</description>
-</item>
-<item>
-<title>Magnetron Sputtering of Conformal Tungsten and Copper Coatings onto Glass Microsphere Powder via Agitation</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009835/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009835/v1</guid>
-<pubDate>2026-10-05T06:44:55Z</pubDate>
-</item>
-<item>
-<title>Local-Environment Populations Govern Size-Dependent OER Activity in Supported Subnanometer IrO𝑥 Clusters</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009834/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009834/v1</guid>
-<pubDate>2026-10-05T06:40:56Z</pubDate>
-<description>Proton-exchange-membrane water electrolysis is constrained by the high Ir demand of the acidic oxygen evolution reaction (OER), motivating supported subnanometer IrO𝑥 clusters that maximize Ir utilization. At this scale, however, changing cluster size ...</description>
-</item>
-<item>
-<title>Hydrophobic Interaction as the Resolution of Interfacial Frustration</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008077/v4?af=R</link>
-<guid>10.26434/chemrxiv.15008077/v4</guid>
-<pubDate>2026-10-05T06:34:47Z</pubDate>
-<description>The hydrophobic effect is one of the central organizing principles of molecular biology, underpinning protein folding, molecular recognition, membrane self-assembly and many forms of biomolecular recognition. Contemporary statistical-mechanical frameworks ...</description>
-</item>
-<item>
-<title>Machine Learning-Accelerated Inverse Design of Sequence-Controlled Terpolymers</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009833/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009833/v1</guid>
-<pubDate>2026-10-05T06:30:51Z</pubDate>
-<description>Sequence-controlled polymers hold immense potential for advanced materials design, yet discovering their experimental recipes is bottlenecked by the high-dimension kinetic parameter space of multicomponent copolymerization. Traditional ordinary ...</description>
-</item>
-<item>
-<title>Site-Selective Radical Carbonylation of Aryl Thianthrenium Salts with Gaseous CO in Flow</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009832/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009832/v1</guid>
-<pubDate>2026-10-05T06:15:04Z</pubDate>
-<description>Site-selective carbonylation of complex arenes remains challenging, particularly when carbon monoxide must intercept short-lived radical intermediates. Here, we report a photoredox carbonylation of aryl thianthrenium salts with gaseous CO and Michael ...</description>
-</item>
-<item>
-<title>Machine Learned Interatomic Potentials and MultiobjectiveBayesian Optimization for Hydroxylamine Electrosynthesis overSubstituted COF-366</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009355/v2?af=R</link>
-<guid>10.26434/chemrxiv.15009355/v2</guid>
-<pubDate>2026-10-05T06:14:45Z</pubDate>
-<description>Electrochemical nitrogen oxide reduction to hydroxylamine (NH2OH) couples substrate entry, branching among nitrogen–oxygen intermediates, and product release. This study develops a catalyst discovery workflow combining machine-learning interatomic ...</description>
-</item>
-<item>
-<title>Revealing the Deactivation Mechanism of Aconitase at the Atomistic Level by Multiscale Simulations</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009474/v2?af=R</link>
-<guid>10.26434/chemrxiv.15009474/v2</guid>
-<pubDate>2026-10-05T06:10:46Z</pubDate>
-<description>Mitochondrial aconitase is a key enzyme of the citric acid cycle that converts citrate to isocitrate at its [4Fe−4S] cluster cofactor. It is widely conserved across vertebrates and also found in numerous other organisms. Oxidation of the [4Fe−4S] cluster ...</description>
-</item>
-<item>
-<title>Deposition-Dependent Excitonic Properties of Spin-Coated CsPbBr3 Thin Films Revealed by Temperature-Dependent Optical Spectroscopy.</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009831/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009831/v1</guid>
-<pubDate>2026-10-05T06:06:46Z</pubDate>
-<description>Temperature dependence of the optical properties of CsPbBr3 perovskites prepared by spin coating is studied. Absorbance and photoluminescence spectra were acquired at controlled temperature varying from room temperature to 20 K. In the case of absorbance, ...</description>
-</item>
-<item>
-<title>Ethanol-Oriented CO2 Hydrogenation for Alcohol-to-Jet Sustainable Aviation Fuels: Catalyst Design and Fixed-Bed Performance Benchmarking</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008247/v2?af=R</link>
-<guid>10.26434/chemrxiv.15008247/v2</guid>
-<pubDate>2026-10-05T06:02:58Z</pubDate>
-<description>Sustainable aviation fuel (SAF) is expected to play a central role in aviation decarbonization because long-range flights will continue to depend on energy-dense, infrastructure-compatible liquid fuels. Among available SAF pathways, alcohol-to-jet (ATJ) ...</description>
-</item>
-<item>
-<title>ProtMutMap: Predicting Protein Binding Free Energy Changes Using Multiple-Mutation Networks</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009337/v3?af=R</link>
-<guid>10.26434/chemrxiv.15009337/v3</guid>
-<pubDate>2026-10-05T06:00:47Z</pubDate>
-<description>Predicting changes in binding free energy ΔΔGcaused by multiple mutations at protein−protein interfaces requires accounting for nonadditive interactions between mutations, which an additive approximation based on single mutations cannot capture, and for ...</description>
-</item>
-<item>
-<title>Unlocking chromophore excited state modulation in photoactive biohybrids using protein conformational dynamics</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-5krws/v2?af=R</link>
-<guid>10.26434/chemrxiv-2025-5krws/v2</guid>
-<pubDate>2026-10-05T05:56:56Z</pubDate>
-<description>Photoactive biohybrids offer a promising platform for photonic applications by merging the functional versatility of synthetic molecules with the tunable structure and dynamics of proteins. While unexpected excited-state relaxation in biohybrids has been ...</description>
-</item>
-<item>
-<title>Mining the cysteine-motif repertoire of airway mucins reveals redox-active mucolytic peptides</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009830/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009830/v1</guid>
-<pubDate>2026-10-05T05:55:00Z</pubDate>
-<description>Muco-obstructive lung diseases are characterized by hyper concentrated airway mucus in which gel-forming mucins form mechanically reinforced polymer networks. Thiol-based mucolytics can reduce disulfide bonds within these networks, but clinically used ...</description>
-</item>
-<item>
-<title>Chemically fueled amplification of supramolecular asymmetry with double chiroptical inversion</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002183/v3?af=R</link>
-<guid>10.26434/chemrxiv.15002183/v3</guid>
-<pubDate>2026-10-05T05:52:52Z</pubDate>
-<description>Amplification of asymmetry in supramolecular polymers is typically studied under equilibrium conditions in apolar solvents, while examples in aqueous media, under non-equilibrium conditions or under temporal chemical control remain scarce. Here we ...</description>
-</item>
-<item>
-<title>Non-Orthogonal Exciton Theory Including Charge Transfer Effects for Strongly Coupled Chromophores</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008074/v3?af=R</link>
-<guid>10.26434/chemrxiv.15008074/v3</guid>
-<pubDate>2026-10-05T05:48:48Z</pubDate>
-</item>
-<item>
-<title>When Philicity Fails: Mechanistic Control of Ambiphilic Metal–Superoxo Reactivity</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009918/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009918/v1</guid>
-<pubDate>2026-10-05T05:47:26Z</pubDate>
-<description>A fundamental challenge in oxygen activation chemistry is understanding the factors that govern the switch between electrophilic and nucleophilic reactivity in metal–superoxo intermediates. Notably, only four ambiphilic metal–superoxo systems have been ...</description>
-</item>
-<item>
-<title>Simplified Time-Dependent Density-Functional Theory for Noble Metal Nanoclusters: Progress Toward the Tamm–Dancoff Approximation</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002665/v2?af=R</link>
-<guid>10.26434/chemrxiv.15002665/v2</guid>
-<pubDate>2026-10-05T05:44:55Z</pubDate>
-<description>We investigate the optical and plasmonic properties of noble metal nanoclusters containing up to a few hundred atoms using the simplified time-dependent density functional theory (sTDDFT) framework. Extending our previous work based on the Tamm--Dancoff ...</description>
-</item>
-<item>
-<title>Scalable Multiplexed Electrochemical Aptasensor Enabled by Chitosan for Heavy Metal Ion Detection: Advancing Electrode Functionalization and Reusability</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009550/v2?af=R</link>
-<guid>10.26434/chemrxiv.15009550/v2</guid>
-<pubDate>2026-10-05T05:40:46Z</pubDate>
-<description>The rapid and reliable detection of heavy metal ions in water remains a critical challenge for environmental monitoring and public health protection. While recent advances in aptamer-based electrochemical sensors for heavy metal detection emphasize ...</description>
-</item>
-<item>
-<title>Descriptor-Dependent Metal–Ligand Covalency Across a Matched Mn–Cu Coordination Series</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009829/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009829/v1</guid>
-<pubDate>2026-10-05T05:31:04Z</pubDate>
-<description>Metal–ligand covalency is central to the electronic structure of first-row transition-metal complexes, but different descriptors do not necessarily measure the same component of bonding. Here, we examine descriptor agreement and disagreement across a ...</description>
-</item>
-<item>
-<title>Photo-oxidation of Dilute Methane in Dairy Barn Air: Pilot Scale Optimization</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009362/v2?af=R</link>
-<guid>10.26434/chemrxiv.15009362/v2</guid>
-<pubDate>2026-10-05T05:28:58Z</pubDate>
-<description>Low concentration (below 1000 ppm) methane emissions from point sources such as cattle barns remain a significant source of greenhouse gas emissions, and have proven hard to mitigate. Previously, a novel method for methane photo-oxidation using UV light ...</description>
-</item>
-<item>
-<title>AnhDis: A Scheme for Anharmonic Nuclear Ensembles and Absorption Spectra</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006191/v2?af=R</link>
-<guid>10.26434/chemrxiv.15006191/v2</guid>
-<pubDate>2026-10-05T05:25:12Z</pubDate>
-<description>The Nuclear Ensemble Approach (NEA), typically implemented using the harmonic Wigner approximation, has shown significant limitations when applied to molecules with pronounced anharmonicity. The harmonic model frequently samples unphysical regions of the ...</description>
-</item>
-<item>
-<title>Quantum Sensing of Lithium Ions with Defect-Engineered Recognition Pockets in a TEMPO-Modified Covalent Organic Framework</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15007348/v2?af=R</link>
-<guid>10.26434/chemrxiv.15007348/v2</guid>
-<pubDate>2026-10-05T05:20:47Z</pubDate>
-<description>Nuclear-spin quantum sensing requires coherent molecular electron spin qubits embedded in analyte-recognizing local environments that bring target nuclei into their short-range hyperfine detection volume. Here, we introduce TA-TEMPO, a covalent organic ...</description>
-</item>
-<item>
-<title>Probing Oxygen Transport in β-Cyclodextrin–Cyclohexane Crystal Nanochannels by Luminescence Quenching from Nanoseconds to Seconds</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009739/v2?af=R</link>
-<guid>10.26434/chemrxiv.15009739/v2</guid>
-<pubDate>2026-10-05T05:16:55Z</pubDate>
-<description>Molecular transport in nanochannels can deviate from normal diffusion and exhibit different regimes depending on the observation timescale. However, resolving them from nanoseconds to seconds remains challenging. Here, oxygen transport inβ-cyclodextrin–...</description>
-</item>
-<item>
-<title>Dihydrogen Phosphate as a Hydrophilic Co-Anion in Multicomponent Cholinium Ionic Liquids for Directional Solvent Extraction</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009828/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009828/v1</guid>
-<pubDate>2026-10-05T05:12:44Z</pubDate>
-<description>Directional solvent extraction (DSE) recovers water from brine with low-temperature heat, and its output depends on how much water the solvent takes up on heating and releases on cooling. In an ionic liquid (IL) solvent, adding a hydrophilic co-anion is ...</description>
-</item>
-<item>
-<title>Overcoming the Density Limitation of Polyhydroxyurethane Self-Blown Foams through Sol–Gel Chemistry</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009898/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009898/v1</guid>
-<pubDate>2026-10-05T05:07:07Z</pubDate>
-<description>Non-isocyanate polyurethane foams (NIPUFs), particularly polyhydroxyurethane (PHU) foams prepared by cyclic carbonate aminolysis, are promising safer alternatives to conventional polyurethane foams. Although water-induced CO2self-blowing can now be ...</description>
-</item>
-<item>
-<title>Synergistically Teaching Computational and Experimental Approaches to Study Biocatalysis: Kinetic Resolution of Racemic Citronellol with Lipase</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-whlm1/v2?af=R</link>
-<guid>10.26434/chemrxiv-2025-whlm1/v2</guid>
-<pubDate>2026-10-05T05:06:54Z</pubDate>
-<description>Technological advances in computational methods to describe biochemical systems continue to develop at a rapid rate, but cases that use these techniques synergistically with experimentation require more effort. Many research studies involve only dry lab ...</description>
-</item>
-<item>
-<title>Drugon: Phase-Encoded Morgan Fingerprints Match Pretrained Chemical Transformers in Low-Data Affinity Prediction</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009827/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009827/v1</guid>
-<pubDate>2026-10-05T05:00:43Z</pubDate>
-<description>Pretrained chemical language models such as ChemBERTa and MoLFormer have become the default choice for molecular property prediction. However, they require large training sets to fine-tune effectively, and their computational footprint is substantial. We ...</description>
-</item>
-<item>
-<title>QMzyme: A Python Package for Automated and Systematic QM-based Enzyme Modeling</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009761/v2?af=R</link>
-<guid>10.26434/chemrxiv.15009761/v2</guid>
-<pubDate>2026-10-05T04:48:46Z</pubDate>
-<description>We introduce QMzyme, a Python package to automate the generation of Quantum mechanics (QM)-based enzyme models. QM calculations on enzymes are computationally challenging because full enzyme systems typically contain thousands of atoms, placing accurate ...</description>
-</item>
-<item>
-<title>Flash Communication: On-Complex Assembly of Organic Azide Ligands</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009826/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009826/v1</guid>
-<pubDate>2026-10-05T04:46:43Z</pubDate>
-<description>Organic azides can serve as precursors to reactive metal nitrenes. Transition metal complexes of organic azide ligands are typically prepared by coordination of pre-synthesized organic azides to appropriate metal complexes. Here, we report on-complex ...</description>
-</item>
-<item>
-<title>A PN adamantanoid ligand for reticular materials</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009518/v2?af=R</link>
-<guid>10.26434/chemrxiv.15009518/v2</guid>
-<pubDate>2026-10-05T04:42:46Z</pubDate>
-<description>Despite their functional advantages, ligands featuring inorganic elements are rare in reticular chemistry, as are three dimensional ligands. We report the synthesis and characterisation of a phosphorus-nitrogen (PN) cage-based tetra-benzoic acid –P4(BA)4...</description>
-</item>
-<item>
-<title>From Computation-Ready to Claim-Ready: An Evidence Framework for MOF Machine Learning</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009825/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009825/v1</guid>
-<pubDate>2026-10-05T04:40:46Z</pubDate>
-<description>Scientific data are routinely transformed so they can be stored, joined and used by machine-learning models. These steps enable scale, but they can also remove the context that tells us what a prediction means and how far it can be trusted. Metal–organic ...</description>
-</item>
-<item>
-<title>Gas Phase Structures of Cationized Imidacloprid and Cationized Chlorpyrifos</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-cs4h4/v4?af=R</link>
-<guid>10.26434/chemrxiv-2025-cs4h4/v4</guid>
-<pubDate>2026-10-05T04:18:48Z</pubDate>
-<description>Neonicotinoids and organophosphates are important analytes due to their use as insecticides and environmental profiles. Cationized imidacloprid and chlorpyrifos as prototypical examples of these were analyzed with drift tube, traveling wave, trapped ion, ...</description>
-</item>
-<item>
-<title>Electrochemically Stabilized Iron Foam Enables Selective and Durable Nitrate-to-Ammonia Conversion at Industrial Current Densities</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-g53rc/v3?af=R</link>
-<guid>10.26434/chemrxiv-2025-g53rc/v3</guid>
-<pubDate>2026-10-05T04:16:53Z</pubDate>
-<description>We report the synthesis of Fe foams by dynamic hydrogen bubble template (DHBT)-assisted electrodeposition and their electrocatalytic performance for the selective reduction of nitrate to ammonia, a strategy that mitigates nitrate pollution while providing ...</description>
-</item>
-<item>
-<title>Modulating Geometric Frustration in COFs through Linker Flexibility for Enhanced Glucosamine and Galactosamine Adsorption</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009824/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009824/v1</guid>
-<pubDate>2026-10-05T04:10:47Z</pubDate>
-<description>Geometric frustration remains largely unexplored in covalent organic frameworks (COFs), where reticular synthesis typically relies on highly symmetric and geometrically compatible building blocks. Departing from these conventional geometrical constraints ...</description>
-</item>
-<item>
-<title>The Development and Optimization of Biogenic Molecularly Imprinted Sensors for the Sensitive and Selective Electroanalytical Quantitation of Met-Enkephalin</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009823/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009823/v1</guid>
-<pubDate>2026-10-05T03:58:44Z</pubDate>
-<description>Elucidating the roles of endogenous peptides such as Met-enkephalin in a spatiotemporal manner necessitates sensitive and selective measurement tools capable of measuring peptide dynamics in situ. In this work, we develop novel molecularly imprinted ...</description>
-</item>
-<item>
-<title>A Multiscale Assessment of Oil-in-Water, Water-in-Oil, and Bicontinuous Structures in 2-Butanol/Water/Citric Acid surfactant-free microemulsions</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009822/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009822/v1</guid>
-<pubDate>2026-10-05T03:52:45Z</pubDate>
-<description>Surfactant-free microemulsions (SFMEs) are attracting growing interest as sustainable alternatives to conventional microemulsions, yet their structural organization remains incompletely understood. Here, we investigate a novel green SFME based on water, 2-...</description>
-</item>
-<item>
-<title>Lookahead Bayesian Optimisation for Molecular Growth in Self-Driving Laboratories</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009896/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009896/v1</guid>
-<pubDate>2026-10-05T01:49:01Z</pubDate>
-<description>Self-driving laboratories can autonomously execute iterative design-make-test-analyse cycles, but molecular optimisation presents a distinctive challenge: selecting which compound to elaborate determines not only the next experiment, but also the chemical ...</description>
-</item>
-<item>
-<title>A field-deployable method for measuring picomolar mercury levels in natural waters</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009893/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009893/v1</guid>
-<pubDate>2026-10-05T01:15:11Z</pubDate>
-<description>Measurements of mercury (Hg) at sub- to picomolar concentrations in natural waters often rely on cold vapor atomic fluorescence spectrometry (CVAFS), which provides the sensitivity required for trace detection. However, CVAFS instruments are not well ...</description>
-</item>
-<item>
-<title>Uncertainty Quantification for Aquatic Ecotoxicity Prediction</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009892/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009892/v1</guid>
-<pubDate>2026-10-05T01:09:12Z</pubDate>
-<description>Aquatic ecosystems are threatened by thousands of chemicals whose hazard is often unknown. Laboratory tests of individual chemicals on individual species establish, for example, the Lethal Concentration for 50% of test individuals (LC50), but for most ...</description>
-</item>
-<item>
-<title>Interpretable QSPR Modeling of Surfactant Characteristic Curvature</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009774/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009774/v1</guid>
-<pubDate>2026-10-02T12:53:12Z</pubDate>
-<description>Characteristic curvature (Cc) quantifies the intrinsic interfacial curvature tendency of surfactants under defined reference conditions and is a key input to the hydrophilic–lipophilic deviation (HLD) framework for predicting microemulsion phase behavior; ...</description>
-</item>
-<item>
-<title>Liquid State 31P NMR as a Tool to Leverage the Understanding of Reconstituted Milk Systems</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009773/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009773/v1</guid>
-<pubDate>2026-10-02T12:49:09Z</pubDate>
-<description>The objective of this work was to establish the peak assignment in liquid state 31P NMR of milk systems and investigate the method as a tool to identify di!erences in casein micelles as consequence of di!erent processing history. Suspensions of milk ...</description>
-</item>
-<item>
-<title>Diabat 2.0: A Comprehensive Diabatization Toolkit for Multichromophoric Systems</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009772/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009772/v1</guid>
-<pubDate>2026-10-02T12:41:50Z</pubDate>
-<description>The construction of physically meaningful quasi-diabatic states and the evaluation of their electronic couplings are essential for describing nonadiabatic processes in molecular aggregates and other multichromophoric systems. Existing software ...</description>
-</item>
-<item>
-<title>Revealing Solvent-free Solid-fed Aerosol Flame Technique to Synthesize Copper Oxide Deposited on Ceria Catalyst for Efficient CO Oxidation Applications</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009771/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009771/v1</guid>
-<pubDate>2026-10-02T12:35:34Z</pubDate>
-<description>Developing efficient technologies for CO oxidation is an urgent priority in environmental catalysis. Copper oxide deposited on cerium oxide (CuO/CeO2) has attracted considerable attention as a promising non-precious-metal catalyst for low-temperature CO ...</description>
-</item>
-<item>
-<title>Excited-State Intramolecular Proton Transfer Dynamics with Neural Network Potentials and Nuclear Quantum Effects</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003907/v3?af=R</link>
-<guid>10.26434/chemrxiv.15003907/v3</guid>
-<pubDate>2026-10-02T12:21:22Z</pubDate>
-<description>Excited-state intramolecular proton transfer is a prototypical ultrafast process that forms the foundation for many chemical and biological phenomena and is highly sensitive to changes in the underlying potential energy landscape. Here, we develop neural ...</description>
-</item>
-<item>
-<title>Novel Quinoxaline-Based Cyanocarbonimidodithioate Derivatives as Non-Hydroxamate Selective HDAC8 Inhibitors: Design, Synthesis, Biological Evaluation and Mechanistic Studies</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009770/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009770/v1</guid>
-<pubDate>2026-10-02T12:13:05Z</pubDate>
-<description>Histone deacetylase 8 (HDAC8) has emerged as a promising anticancer target; however, most clinically approved hydroxamate-based HDAC inhibitors possess several limitations. A novel series of quinoxaline-based HDAC inhibitors containing a sulfur-based ...</description>
-</item>
-<item>
-<title>Orthonym: verified IUPAC names for chemical structures in the wild</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009769/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009769/v1</guid>
-<pubDate>2026-10-02T12:07:03Z</pubDate>
-<description>Chemical structures can be named systematically, and the 2013 IUPAC recommendations define one preferred name for each. For most of history, only a specially trained chemist or dedicated closed software tools could generate a correct, systematic molecule ...</description>
-</item>
-<item>
-<title>Helium Compression Chamber: an ab initio molecular dynamics approach to chemical reactions under pressure</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009768/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009768/v1</guid>
-<pubDate>2026-10-02T12:01:03Z</pubDate>
-<description>Understanding how pressure affects chemical reactivity requires methods capable of describing both the structural response of molecules and the thermodynamics of reactions under compression. We present the Helium Compression Chamber (HeCC), a ...</description>
-</item>
-<item>
-<title>ToSCA: Total Scattering Conditioned Variational Autoencoder for Atomic Structure Prediction from Pair Distribution Function Data</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009767/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009767/v1</guid>
-<pubDate>2026-10-02T11:55:20Z</pubDate>
-<description>Designing new materials is often slow and experimentally intensive, with structural characterization representing a particular bottleneck. Recent advances in machine learning (ML) aim to accelerate this process by predicting plausible atomic structures ...</description>
-</item>
-<item>
-<title>Neural Kinetics: LEARNING KINETICS AS TRANSPORT IN COMPOSITIONAL SPACE</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009765/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009765/v1</guid>
-<pubDate>2026-10-02T09:11:07Z</pubDate>
-<description>Complex bio-derived and fossil mixtures contain thousands of molecules whose individual structures and reaction pathways cannot be fully resolved, making conventional mechanism-based kinetic modelling impractical. A reaction network detailed enough to ...</description>
-</item>
-<item>
-<title>PtSe2/Graphene Interfacial Coupling Enhances the Intrinsic Electrocatalytic Activity of PtSe2 Edge Sites</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009764/v1?af=R</link>
-<guid>10.26434/chemrxiv.15009764/v1</guid>
-<pubDate>2026-10-02T09:01:03Z</pubDate>
-<description>Platinum-based chalcogenides (PtX2) can be efficiently activated as electrocatalysts for water splitting through the hydrogen evolution reaction (HER). Edges in layered PtSe2 are effective in HER; however, the effect of edge interaction with conductive ...</description>
 </item>
 </channel>
 </rss>

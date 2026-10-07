@@ -5,6 +5,160 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Temporally Validated
+Models for Target “Tclin-likeness”</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03088/5445688/Temporally-Validated-Models-for-Target-Tclin</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03088</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03088/5445688/Temporally-Validated-Models-for-Target-Tclin"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03088/1/m_ci6c03088_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Identifying which human proteins are likely to become
+validated
+drug targets remains a challenge in drug discovery. We build on the
+“Tclin” concept, which encompasses proteins for which
+at least one approved drug exerts its mode of action (MoA); these
+comprise only ∼3% of the human proteome. We developed disease-agnostic,
+knowledge-graph machine learning (KGML) models that estimate “Tclin-likeness”:
+how closely a non-Tclin protein resembles established MoA drug targets
+in knowledge-graph feature space. Single-class support vector machines
+(1SVM) and XGBoost classifiers were trained on Pharos data current
+as of December 2017, using static (Gene Ontology, Reactome, the Kyoto
+encyclopedia for genes and genomes, STRING, HPA) and dynamic (genotype-tissue
+expression, LINCS, DISEASES, cancer cell line encyclopedia) features.
+To prevent data leakage, 115 proteins that acquired Tclin status after
+January 2018 were withheld entirely from training. Sensitivity on
+this external set was 88%–95% across individual models. Because
+non-Tclin proteins are unlabeled rather than confirmed negatives,
+specificity and precision are reported as bounds: balanced accuracy
+is 54%–75% for individual models and 73.7% for the eight-model
+consensus, which flags 5019 non-Tclin proteins (27.4%). The 1SVM models
+also identified a set of 1290 consensus negatives for XGBoost training.
+Benchmarked against two KGML druggability models, DrugnomeAI and PINNED,
+a consensus of 1133 proteins emerged. The Tclin-like consensus recovered
+145 of 181 non-Tclin proteins in Phase 1–3 clinical trials
+(80.1%) and 23 of 28 proteins that reached Tclin status in 2023–2025
+(82.1%), each approximately 3-fold enriched over background; it is
+statistically indistinguishable from PINNED (McNemar &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.42) while flagging 40% fewer proteins and outperforms DrugnomeAI
+(&lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.0015). The three-model consensus places the
+druggable genome between 1860 and 5745 genes. Tclin-likeness is a
+prior, not a proof of tractability: these features encode nothing
+about binding pockets, ligandability or therapeutic modality. The
+“Tclin-like” consensus score is best used as an independent
+filter alongside disease-specific evidence and modality-specific tractability
+assessment.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Correction to “Enhanced
+Regioselectivity Prediction
+of sp 2  C–H Halogenation via Negative Data Augmentation
+and Multimodel Integration”</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03353/5445634/Correction-to-Enhanced-Regioselectivity-Prediction</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03353</guid>
+<pubDate>Tue, 06 Oct 2026 18:00:30 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;National Natural Science Foundation of China10.13039/50110000180922071249&lt;/span&gt;</description>
+</item>
+<item>
+<title>Validating and
+Correcting Graph Neural Network Attention
+for Drug-Induced Liver Injury Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02332/5445600/Validating-and-Correcting-Graph-Neural-Network</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02332</guid>
+<pubDate>Tue, 06 Oct 2026 17:00:31 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02332/5445600/Validating-and-Correcting-Graph-Neural-Network"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02332/1/m_ci6c02332_0017.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Attention-based graph neural networks (GNNs) are increasingly
+used
+for drug-induced liver injury (DILI) and other toxicity prediction
+tasks on the claimed strength of built-in interpretability, but this
+claim is almost always supported by a handful of hand-selected examples
+rather than being tested systematically. Using a curated, scaffold-split
+gold-standard DILI data set (1,079 compounds), we show that a graph
+attention network’s attention weights do not, in general, concentrate
+on seven literature-derived hepatotoxicity structural alerts across
+the full data set (pooled enrichment ratio of 0.35) and that the network
+itself does not outperform simple descriptor-based baselines under
+rigorous repeated-split evaluation (mean AUROC 0.625-0.649 vs. 0.714
+for random forest, &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.011). We then show both
+gaps can be addressed: a chemistry-informed multitask extension, trained
+with an auxiliary structural-alert-recognition loss, improves attention
+alignment for two alerts by more than 5-fold (both Bonferroni/FDR-corrected &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; &amp;lt; 10&lt;sup&gt;–14&lt;/sup&gt;), confirmed across five independent
+scaffold splits, without a robust cost to classification performance.
+All curated data, trained models, and analysis code are released to
+support reproducibility and further benchmarking of both predictive
+and interpretability claims for molecular GNNs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Toward Autonomous
+Extraction and Building of Machine-Readable
+Molecular Models from Publications Using Large Language Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02128/5445555/Toward-Autonomous-Extraction-and-Building-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02128</guid>
+<pubDate>Tue, 06 Oct 2026 16:00:32 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02128/5445555/Toward-Autonomous-Extraction-and-Building-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02128/1/m_ci6c02128_0010.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Force field models are one of the central pillars of
+molecular
+simulations. A large number of molecular force field models has been
+developed in the past decades─mostly published in scientific
+papers. Building machine-readable force field input files for simulation
+engines is a tedious and error-prone task. We developed a method for
+extracting and building force field files from publications using
+large language models (LLMs). We have tested the new method by extracting
+114 force field models from 21 scientific publications. The studied
+force fields comprise 6–74 parameters that were automatically
+extracted, identified, annotated, and allocated. We have compared
+the performance of different LLMs, namely Gemini 2.5 Pro, Claude 4
+Sonnet, Claude 3.7 Sonnet, Gemini 2.5 Flash, and GPT-4o. Overall,
+they yield similar performance─yet there are important differences
+in individual cases. The overall best performance was obtained by
+the Gemini 2.5 Pro LLM. The force field parameters were extracted
+and identified with an accuracy of 94.0% using the Gemini 2.5 Pro
+LLM. The new LLM-assisted extraction method drastically reduces the
+time required for building force field files. Nevertheless, human-in-the-loop
+verification is still indispensable.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Structure-Guided
+Design of a Subnanomolar Dengue Virus
+NS4B Inhibitor</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02098/5445341/Structure-Guided-Design-of-a-Subnanomolar-Dengue</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02098</guid>
+<pubDate>Tue, 06 Oct 2026 14:00:33 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02098/5445341/Structure-Guided-Design-of-a-Subnanomolar-Dengue"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02098/1/m_ci6c02098_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Dengue virus nonstructural
+protein 4B (NS4B) is an essential
+regulator
+of viral replication but remains structurally unresolved, limiting
+drug discovery. Here, we combine modeling, ligand-based design, and
+experimental validation to enable structure-guided inhibition of NS4B.
+Comparative models across all four serotypes reveal a conserved transmembrane
+binding pocket consistent with resistance mutations. Docking of JNJ-series
+inhibitors defines key interaction features that guide the development
+of predictive field-based 3D-QSAR models (R = 0.91, Q = 0.89). Prospective
+screening of bioisosteric and in-house compounds identifies BNJ-495
+as a candidate broad-spectrum inhibitor with predicted activity across
+all four dengue serotypes. Experimental validation confirms potent
+activity against dengue virus serotype 2 (IC&lt;sub&gt;50&lt;/sub&gt; = 0.17 nM)
+with a high selectivity index (∼37,000). Conserved binding
+interactions across serotypes support broad-spectrum potential. This
+study establishes a general framework for targeting structurally elusive
+viral membrane proteins.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AI and the PI:
+Infinite Generation, Finite Understanding</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03139/5444974/AI-and-the-PI-Infinite-Generation-Finite</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03139</guid>
+<pubDate>Tue, 06 Oct 2026 08:00:31 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03139/5444974/AI-and-the-PI-Infinite-Generation-Finite"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03139/1/m_ci6c03139_0001.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Generative artificial
+intelligence (AI) produces code
+and prose
+quickly, apparently enabling a principal investigator (PI) in a computational
+group to do more. Assessing this gain must also account for the laboratory’s
+role in training scientists who understand, maintain, and own their
+work. AI creates a generation–verification asymmetry: it reduces
+the effort of producing plausible code and prose without similarly
+reducing the expertise needed to evaluate them, potentially leaving
+groups with technical and epistemic debt while obscuring the reasoning
+needed for supervision. I argue that AI adoption should therefore
+be judged by whether it builds sustainable laboratory capacity, with
+assistance adjusted to task purpose and verifiability and human ownership
+retained for every consequential artifact.&lt;/span&gt;</description>
+</item>
+<item>
 <title>SpectralMol: Spectral
 Graph Bisection Achieves Universal
 Molecular Fragment Decomposition for Drug-Like Molecule Generation</title>
@@ -4062,172 +4216,6 @@ KcsA and MthK. In both cases, the currents predicted at low membrane
 potentials are in good agreement with those obtained directly from
 MD simulations, demonstrating the robustness and efficiency of the
 approach.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Dynamics of Ligand Binding Sites and Chloride Penetration
-in a Bitter Taste GPCR</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00140/5414936/Dynamics-of-Ligand-Binding-Sites-and-Chloride</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00140</guid>
-<pubDate>Thu, 03 Sep 2026 19:00:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00140/5414936/Dynamics-of-Ligand-Binding-Sites-and-Chloride"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00140/1/m_ci6c00140_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Taste perception
-strongly influences food choice, drug compliance,
-and dietary behavior. Bitter taste receptors belong to a subfamily
-of Family A GPCRs, while having unique features and deviations from
-conserved motifs. Recent cryo-EM structures revealed that the human
-bitter taste receptor TAS2R14 contains not only the canonical extracellular
-binding site, but also a novel intracellular site, raising questions
-about their interplay. Here, we performed all-atom molecular dynamics
-simulations of TAS2R14 in an explicit membrane to probe different
-receptor states: both cholesterol (extracellular) and aristolochic
-acid (intracellular) bound, only cholesterol bound, only aristolochic
-acid bound, and the apo receptor, with and without the G protein.
-Ligand occupancy at either site reshaped the volume, hydration, and
-conformational plasticity of both pockets and modulated the relative
-proximity of transmembrane helices 3 and 6. In simulations lacking
-the intracellular agonist but containing cholesterol, we observed
-intracellular entry of chloride ions and their long-lived interaction
-with the TAS2R-conserved R55 (BW position 2.50), revealing a charge-inverted
-interaction relative to the D2.50-sodium interaction described in
-many class A GPCRs. Apo simulations without G protein showed shorter-lived
-chloride visits to the same region. Together, these findings point
-to the intracellular pocket as a promising target for future mechanistic
-and ligand-design studies on bitter taste GPCRs.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Benchmarking Generative
-AI and Physics-Based Molecular
-Simulation for Sampling Conformational Heterogeneity in T4 Lysozyme</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02044/5412778/Benchmarking-Generative-AI-and-Physics-Based</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02044</guid>
-<pubDate>Thu, 03 Sep 2026 14:01:11 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02044/5412778/Benchmarking-Generative-AI-and-Physics-Based"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02044/1/m_ci6c02044_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Wild-type
-T4 lysozyme (T4L) is used as a benchmark to
-evaluate
-conformational sampling across generative AI, AI-accelerated molecular
-simulation (AMS), and physics-based enhanced molecular dynamics (EMD).
-A four-state model─exposed/open, exposed/closed, buried/open,
-and buried/closed; is defined using physically meaningful collective
-variables. Generative AI methods (AF-cluster, MSA subsampling of AlphaFold2,
-ConforFold, AlphaFlow, ESMFlow, ConfRover, BioEmu) largely sample
-only the exposed/open state. In contrast, AMS integrates generative
-ensembles with physics-based molecular simulations, recovering all
-states and reproducing equilibrium populations similar to EMD and
-experimental smFRET signatures.&lt;/span&gt;</description>
-</item>
-<item>
-<title>ThermoLIB─A Python Library for Constructing
-and Post-Processing Free-Energy Surfaces to Extract Thermodynamic
-and Kinetic Properties</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02199/5410312/ThermoLIB-A-Python-Library-for-Constructing-and</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02199</guid>
-<pubDate>Thu, 03 Sep 2026 03:01:03 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02199/5410312/ThermoLIB-A-Python-Library-for-Constructing-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02199/1/m_ci6c02199_0003.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;ThermoLIB is a Python/Cython
-library designed to be used as a postprocessing
-tool for constructing free-energy surfaces, including adequate error
-estimation from the output of molecular simulations, transforming
-them between different collective variables (CVs), and extracting
-thermodynamic and kinetic information. ThermoLIB is available for
-download on GitHub and comes with extended documentation as well as
-many tutorials. The implementation is based on the theory of maximum-likelihood
-estimators for robust error estimation. The free-energy surfaces can
-be transformed or projected a posteriori to a larger or lower CV space
-by constructing conditional probabilities from the simulation results.
-Finally, useful CV-independent thermodynamic and kinetic properties,
-such as the rate constant, can be readily obtained, together with
-their uncertainty estimates. We briefly illustrate the capabilities
-of ThermoLIB by means of tutorials and case studies.&lt;/span&gt;</description>
-</item>
-<item>
-<title>ChalcoVina: Enhancing Molecular Docking Accuracy by
-Incorporating Chalcogen Bond-Aware Scoring</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02680/5403550/ChalcoVina-Enhancing-Molecular-Docking-Accuracy-by</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02680</guid>
-<pubDate>Wed, 02 Sep 2026 05:01:02 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02680/5403550/ChalcoVina-Enhancing-Molecular-Docking-Accuracy-by"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02680/1/m_ci6c02680_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular
-docking is a cornerstone technique in structure-based
-drug design (SBDD), providing a computationally efficient approach
-for predicting ligand–receptor interactions. However, conventional
-docking programs fail to accurately identify chalcogen bonds (ChBs),
-which play crucial roles in molecular recognition. Here, we present
-ChalcoVina, an augmented molecular docking program based on AutoDock
-Vina that simultaneously evaluates intermolecular and intramolecular
-ChBs for the first time. An intermolecular ChB term was incorporated
-into the Vina scoring function using 14,049 sets of quantum-mechanically
-derived geometric and energetic data. An empirical function constructed
-from prior knowledge and statistical data was further introduced to
-account for intramolecular ChBs. Docking experiments demonstrated
-that ChalcoVina improved docking success rates by 3.3%–13.1%
-and the geometric reproduction rate of intramolecular ChBs by approximately
-23%, which significantly refined the prediction of binding poses.
-These enhancements expand the applicability of molecular docking for
-drug discovery involving sulfur-containing compounds. Furthermore,
-the approach for constructing and integrating ChB terms can be a blueprint
-for other σ-hole-mediated interactions, facilitating the inclusion
-of more nonclassical interactions in SBDD.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Performances and Critical Limitations of Docking and
-Protein–Ligand Interactions for Efficacy-Driven Virtual Screening
-Targeting Class A GPCRs</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02252/5398497/Performances-and-Critical-Limitations-of-Docking</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02252</guid>
-<pubDate>Tue, 01 Sep 2026 17:01:06 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02252/5398497/Performances-and-Critical-Limitations-of-Docking"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02252/1/m_ci6c02252_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Structure-based virtual
-screening of chemical libraries is an established
-and widely used strategy for identifying novel ligands for G-protein-coupled
-receptors. An enhancement based on integrating protein–ligand
-interaction with docking has previously been proposed, but its actual
-impact on improving screening outcomes has remained unclear. Here,
-we present a comprehensive assessment based on systematic benchmarking
-using a diverse set of class A G-protein-coupled receptors and different
-approaches to represent protein–ligand, including dynamic patterns
-extracted from molecular dynamics simulations. Our results demonstrate
-that the combined approach overall improves the efficacy bias of selected
-ligands as compared to docking alone (ranking by scoring function).
-All tested variations prove broadly functional; however, the most
-sophisticated one─incorporating simulation and a learning model─emerges
-as the most robust alternative for a prospective setting. The analysis
-of two prospective cases, the design of both agonists and antagonists
-of CNR1 and the more challenging search for CXCR4 nonpeptidic agonist,
-reveals both great potential and inherent structural limitations,
-highlighting the need for an accurate and suitable three-dimensional
-structure.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Adaptive Topology-Semantic
-Fusion Contrastive Learning
-for Drug Repositioning</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01393/5398384/Adaptive-Topology-Semantic-Fusion-Contrastive</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01393</guid>
-<pubDate>Tue, 01 Sep 2026 17:01:06 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01393/5398384/Adaptive-Topology-Semantic-Fusion-Contrastive"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01393/1/m_ci6c01393_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug repositioning offers an efficient alternative to
-de novo drug
-development; however, accurately identifying potential drug–disease
-associations remains challenging. Existing methods do not fully exploit
-higher-order collaborative information at the drug–drug and
-disease–disease levels, and their feature fusion strategies
-are often static, lacking adaptability to node-specific differences.
-To address these limitations, we propose ATSFCL-DR, an adaptive topology–semantic
-fusion contrastive learning framework for drug repositioning. The
-method constructs a topology graph and a semantic graph, and introduces
-an adaptive fusion strategy to integrate node representations learned
-from these two views, thereby enabling more effective use of higher-order
-information. In addition, the framework designs a multiview fusion
-contrastive learning mechanism to enhance the consistency and discriminative
-ability of cross-view representations. To mitigate the noise introduced
-during higher-order neighborhood aggregation, the framework further
-incorporates a layer-level contrastive learning objective to improve
-the robustness of representation learning. Experiments using 10 repetitions
-of 10-fold cross-validation on three public benchmark data sets show
-that ATSFCL-DR outperforms representative baseline methods, achieving
-an average AUROC of 0.9093 and an average AUPR of 0.5362. Furthermore,
-by predicting previously unknown drug–disease associations
-on the Gdata set and validating them against authoritative databases,
-ATSFCL-DR identifies pramipexole as a promising candidate drug for
-Alzheimer’s disease. In summary, ATSFCL-DR provides an effective
-approach for drug–disease association prediction and candidate
-drug screening by adaptively integrating topological and semantic
-information within a contrastive learning framework.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
