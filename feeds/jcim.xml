@@ -5,6 +5,103 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>SAEKP: A Site Attention
+Enzyme Kinetics Prediction
+Method to Facilitate Enzyme Engineering</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01516/5446533/SAEKP-A-Site-Attention-Enzyme-Kinetics-Prediction</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01516</guid>
+<pubDate>Wed, 07 Oct 2026 17:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;While
+the determination of enzyme kinetic parameters traditionally
+relies on prolonged and costly experimental methods, machine learning
+models have recently demonstrated promise as predictive tools. These
+models still have limitations, such as limited training data and insufficient
+sensitivity to mutations at important sites. Here, we introduce SAEKP
+(Site Attention Enzyme Kinetics Prediction Method), which incorporates
+representations of enzyme sequence, substrate, and an additional weighted
+sequence representation that highlights functionally important sites.
+Trained on wild-type and mutant enzyme data from BRENDA and SABIO-RK,
+SAEKP outperforms existing models in predicting enzyme kinetic parameters,
+including turnover number (&lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt;), Michaelis
+constant (&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;m&lt;/sub&gt;), and inhibition constant
+(&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;i&lt;/sub&gt;). The selected multimodal protein
+and substrate representation framework provides strong overall performance,
+while the site attention module further improves performance in predicting
+mutations at or near important sites through prior-knowledge-guided
+residue reweighting. SAEKP offers a robust and practical tool for
+predicting enzyme kinetic parameters, facilitating enzyme engineering
+and subsequent industrial applications.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Unified Multitask
+Model for Aquatic Toxicity Prediction
+across Organism Groups and Effect End Points: A Comparison of Molecular
+Representations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02487/5446142/Unified-Multitask-Model-for-Aquatic-Toxicity</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02487</guid>
+<pubDate>Wed, 07 Oct 2026 14:00:30 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Computational prediction of aquatic toxicity provides
+a rapid and
+cost-efficient alternative to resource-intensive in vivo ecotoxicological
+testing. However, most existing models adopt a fragmented modeling
+strategy, developing separate models for each organism group and toxicity
+end point. Such task-specific models restrict knowledge transfer across
+related biological contexts and fail to account for the biological
+ordering between multiple effect concentrations (EC50/EC10). Here,
+we propose a unified multitask framework to simultaneously predict
+effect concentrations for three aquatic organism groups (fish, crustaceans,
+algae) and two end points (EC50/EC10) within a single model. This
+framework integrates a molecular encoder with a Multigate Mixture-of-Experts
+(MMoE) network, a soft end point-ordering term that encourages the
+biological relation EC50 ≥ EC10, and a heteroscedastic regression
+output that provides per-prediction uncertainty estimates. We evaluated
+a multirepresentation fusion encoder combining physicochemical descriptors,
+molecular fingerprints, and a 2D molecular graph neural network (GNN),
+together with 3D-pretrained Uni-Mol and TRIDENT baselines. Under a
+common global scaffold/acyclic-cluster 5-fold pooled out-of-fold (OOF)
+protocol, the multirepresentation fusion model demonstrated robust
+predictive performance across all six organism–end point tasks,
+with lower prediction errors than TRIDENT across all six tasks and
+Uni-Mol in four tasks. Attention-based interpretation further highlighted
+chemically meaningful atoms and substructures that were consistent
+with plausible toxicity-relevant structural motifs. Together, these
+findings demonstrate that integrating multitask learning, biologically
+informed end point constraints, and complementary molecular representations
+provides a promising foundation for broadly applicable and uncertainty-aware
+models of aquatic toxicity.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Causal-Chemprop:
+Causal Machine Learning for Molecular
+Property Prediction and Design</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01429/5445903/Causal-Chemprop-Causal-Machine-Learning-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01429</guid>
+<pubDate>Wed, 07 Oct 2026 11:00:30 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;A priori&lt;/span&gt; estimation of molecular properties
+has
+long been a topic of immense interest to the pharmaceutical sciences
+for molecular design. While neural network-based models have achieved
+high predictive accuracy, they have limited utility in molecular design,
+particularly in small and out-of-distribution data regimes. Current
+neural network-based models lack mechanisms to explicitly incorporate
+prior knowledge from existing data. Herein, we introduce a causal
+machine learning framework built on the Chemprop and DAGMA architectures
+for molecular property prediction called &lt;strong&gt;Causal-Chemprop&lt;/strong&gt;. Its capacity for counterfactual reasoning supports human-in-the-loop
+optimization of molecular structure, which we demonstrate by improving
+the rank-ordering of out-of-distribution kinase inhibitor &lt;span style="font-style:italic;"&gt;pIC&lt;/span&gt;&lt;sub&gt;50&lt;/sub&gt; values─most where standard encoders
+extrapolate poorly─both within and across scaffold series,
+in a lead-optimization setting in which the test scaffold is known.
+We further integrate &lt;strong&gt;Causal-Chemprop&lt;/strong&gt; with the molecular
+optimization algorithm EvoMol as a scoring function, where it tends
+to yield more synthesizable molecules that more closely resemble the
+sought-after active compound than Chemprop. To our knowledge, this
+is the first application bridging neural network-learned molecular
+representations with structural causal models for molecular property
+prediction and optimization via counterfactual reasoning, suggesting
+several promising new avenues for exploration in molecular property
+prediction and design.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Temporally Validated
 Models for Target “Tclin-likeness”</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03088/5445688/Temporally-Validated-Models-for-Target-Tclin</link>
@@ -4139,83 +4236,6 @@ validation under native virion conditions, may guide the rational
 design of antivirals and immunogens, underscoring the value of long-time
 scale molecular dynamics simulations as a hypothesis-generating tool
 in drug discovery.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Quantum-Chemically
-Informed Representation Learning
-for Molecular Crystal Property Prediction via Multimodal Graph Neural
-Networks</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01012/5421314/Quantum-Chemically-Informed-Representation</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01012</guid>
-<pubDate>Fri, 04 Sep 2026 17:00:39 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Machine-learning-based modeling of molecular crystals
-is limited
-by representations that encode geometric structure while overlooking
-the electronic features that often govern solid-state behavior. We
-introduce a multimodal learning framework that integrates crystal
-graphs with solid-state Quantum Theory of Atoms in Molecules (QTAIM)-informed
-molecular graphs for enhanced predictions of solid-state properties.
-Our architecture employs modality-specific graph neural network encoders
-and a bidirectional gated fusion mechanism to capture complementary
-information between the two representations. When applied to band
-gap prediction in organic molecular crystals, the fused model outperforms
-geometry-only and molecular-only baselines. Analysis of the learned
-representations reveals that QTAIM descriptors contribute interpretable
-signals associated with intermolecular interactions and density redistribution
-within the crystal, highlighting the value of quantum-informed learning
-for advancing data-driven solid-state modeling.&lt;/span&gt;</description>
-</item>
-<item>
-<title>FMM-AutoOpt: A
-Python Tool for Automated GROMACS FMM
-Parameter Optimization</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01211/5420786/FMM-AutoOpt-A-Python-Tool-for-Automated-GROMACS</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01211</guid>
-<pubDate>Fri, 04 Sep 2026 14:00:44 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The fast multipole method (FMM) for computing Coulombic
-forces
-in molecular dynamics (MD) simulations offers benefits for a variety
-of systems, including nonperiodic configurations such as molecules
-in vacuum and large-scale systems where many other approaches encounter
-limitations. Because FMM parameters govern both simulation accuracy
-and computational performance, and because the optimal solution is
-highly system-dependent, we have developed FMM-AutoOpt for the automated
-benchmarking of FMM parameters with GROMACS. Relying solely on standard
-Python libraries and GROMACS FMM (
-
-J. Chem. Theory Comput.
-2020, 16, 6938–6949.), the tool is versatile and flexible, facilitating
-rapid parameter screening to ensure optimal performance and high simulation
-accuracy.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Current–Voltage Characteristics of K+ Channels
-Estimated by MD Simulations and Markov State Models</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01258/5417688/Current-Voltage-Characteristics-of-K-Channels</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01258</guid>
-<pubDate>Fri, 04 Sep 2026 06:01:06 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular dynamics
-(MD) simulations have yielded important insights
-into ion conduction in potassium channels, but quantitative comparison
-with electrophysiological experiments remains challenging. Due to
-their high computational cost, MD simulations are typically performed
-at membrane potentials well above physiological values, and at only
-a limited number of voltages. Since current–voltage relationships
-are not necessarily linear, this limits direct comparison between
-simulations and experiments. Here, we introduce a method to estimate
-the current–voltage characteristics of ion channels from Markov
-state models (MSMs) constructed from MD simulations performed at only
-few
-membrane potentials. Time-discrete MSMs of ion conduction are converted
-into continuous-time rate matrices, whose voltage dependence is modeled
-using a rate theory formulation with free energy barriers depending
-on membrane potential. This approach enables the prediction of channel
-currents over a wide voltage range without additional simulations.
-We validated the method using MD simulations of the potassium channels
-KcsA and MthK. In both cases, the currents predicted at low membrane
-potentials are in good agreement with those obtained directly from
-MD simulations, demonstrating the robustness and efficiency of the
-approach.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

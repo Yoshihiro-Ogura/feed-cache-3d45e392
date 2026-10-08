@@ -5,6 +5,18 @@
 <link>http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1520-636X</link>
 <description>Chirality (mirrored feed)</description>
 <item>
+<title>Conformer‐Resolved Optical Rotation Prediction From Three‐Dimensional Quantum and Semiempirical Molecular Fields Using 3D Convolutional Neural Networks</title>
+<link>https://onlinelibrary.wiley.com/doi/10.1002/chir.70156?af=R</link>
+<guid>10.1002/chir.70156</guid>
+<pubDate>Wed, 07 Oct 2026 21:37:31 -0700</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://onlinelibrary.wiley.com/doi/10.1002/chir.70156?af=R"&gt;&lt;img src="https://onlinelibrary.wiley.com/cms/asset/c8ff13bd-57ae-4d22-9417-137015935e93/chir70156-toc-0001-m.png" alt="Representative article figure" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Representative article figure (not a graphical abstract)&lt;/em&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
+&lt;p&gt;Three-dimensional CNNs learned conformer-resolved sTD-DFT optical rotations from quantum and semiempirical molecular fields. In an independent 65-molecule, 705-conformation benchmark, inexpensive GFN2-xTB charge fields delivered the best Boltzmann-weighted molecular predictions, highlighting an efficient route to ensemble optical rotation prediction.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Optical rotation is highly sensitive to molecular conformation, making prediction expensive when conformational ensembles and electronic-response calculations are required. We evaluate three-dimensional convolutional neural networks trained on volumetric molecular descriptors for conformer-level optical rotation. A chemically structured set of substituted phenylethanol and phenylethylamine derivatives yielded 82,790 valid conformer-level sTD-DFT reference records. Three descriptors were compared on a common grid: HF/STO-3G electron density, B3LYP/cc-pVDZ electron density, and GFN2-xTB charge fields, each combined with atom-type channels. Performance was assessed using random conformer splits, structured chemical holdouts, and an independently generated CREST/GFN2-xTB conformer-ensemble benchmark for the same 65 compounds (705 conformers). Conformer-level predictions were Boltzmann-weighted and compared with sTD-DFT molecular rotations. The GFN2-xTB model gave the best deployment performance (MAE 15.3 deg dm&lt;sup&gt;−1&lt;/sup&gt; (g mL&lt;sup&gt;−1&lt;/sup&gt;)&lt;sup&gt;−1&lt;/sup&gt;, RMSE 22.2, &lt;i&gt;R&lt;/i&gt;
+&lt;sup&gt;2&lt;/sup&gt; = 0.768, Pearson &lt;i&gt;r&lt;/i&gt; = 0.901, 93.8% sign accuracy). Compound-specific GFN2-xTB models did not outperform the full-dataset model, indicating that shared chemical and conformational information improves transfer. These results show that inexpensive semiempirical charge fields can retain sufficient conformer-resolved chiroptical information for rapid ensemble optical rotation prediction within this chemical series.&lt;/p&gt;</description>
+</item>
+<item>
 <title>From Weak Chiral Bias to Homochirality: A Recombination‐Driven Mechanism in Prebiotic Aqueous Systems</title>
 <link>https://onlinelibrary.wiley.com/doi/10.1002/chir.70151?af=R</link>
 <guid>10.1002/chir.70151</guid>
