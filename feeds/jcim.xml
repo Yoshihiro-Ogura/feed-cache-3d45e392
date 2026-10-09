@@ -5,6 +5,111 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Nonadditive Conformational
+Effects of tRNA Core Modifications</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02045/5447451/Nonadditive-Conformational-Effects-of-tRNA-Core</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02045</guid>
+<pubDate>Fri, 09 Oct 2026 00:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Post-transcriptional modifications are known to regulate
+the structure
+and function of tRNA  molecules. Compared to modifications in the
+anticodon region, the mechanistic effects of modifications in the
+core region of tRNA remain poorly understood. Using all-atom molecular
+dynamics (MD) simulations on yeast tRNA&lt;sup&gt;Phe&lt;/sup&gt;, we investigated
+the conformational effects of incorporating chemical modifications
+in the core region (termed hereafter “core modifications”)
+of tRNA. Specifically, we focused on three core modifications, namely,
+7-methylguanosine (m&lt;sup&gt;7&lt;/sup&gt;G), 5-methylcytosine (m&lt;sup&gt;5&lt;/sup&gt;C), and 1-methyladenosine (m&lt;sup&gt;1&lt;/sup&gt;A). We discovered that individual
+modifications increased the structural stability of tRNA, but their
+combinations produced multimodal free energy landscapes with multiple
+distinct basins. We identified m&lt;sup&gt;1&lt;/sup&gt;A&lt;sub&gt;58&lt;/sub&gt; as a bifunctional
+regulator that locally disrupts structure while globally coordinating
+anticorrelated arm movement. The combination of m&lt;sup&gt;1&lt;/sup&gt;A&lt;sub&gt;58&lt;/sub&gt; and m&lt;sup&gt;5&lt;/sup&gt;C&lt;sub&gt;49&lt;/sub&gt; exhibited the lowest structural
+deviation from the crystal structure, while the triply modified variant
+incorporating all three modifications produced the most integrated
+residue community network, reflecting nonadditive allosteric coupling
+that cannot be predicted from any pairwise combination. Critically,
+core modifications established extensive allosteric pathways that
+prevent the consistent inward displacement of the anticodon stem loop
+otherwise observed in all simulations of chemically unmodified tRNA.
+Our results demonstrate that core modifications function as regulators
+of conformational ensembles rather than simple stabilizers.&lt;/span&gt;</description>
+</item>
+<item>
+<title>State-Constrained
+SHAP Distills Polymer Property Models
+into Transferable Structural Rules for Fixed-Interval Screening</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02120/5447316/State-Constrained-SHAP-Distills-Polymer-Property</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02120</guid>
+<pubDate>Thu, 08 Oct 2026 19:00:32 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Polymer informatics has accelerated data-driven prediction
+of polymer
+properties, yet accurate prediction does not directly enable discovery.
+Here, we introduce state-constrained SHAP (SC-SHAP), an attribution-to-rule
+distillation framework for fixed-interval polymer screening. Using
+XGBoost as the teacher, SC-SHAP reorganizes SHAP and SHAP-interaction
+attributions on chemically interpretable MACCS fingerprints into support-qualified
+structural states defined by required-present and required-absent
+substructures. These states provide auditable property ordering, executable
+structural conditions, and candidate-level rule traces, while the
+learned library is reused across target windows with interpolation-only
+boundary calibration. Evaluation on experimental PoLyInfo datasets
+for glass-transition temperature (&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;g&lt;/sub&gt;),
+tensile stress at break (TSS), and electrical conductivity (EC) yields
+Spearman correlations between state scores and mean measured properties
+of 0.908 ± 0.008, 0.817 ± 0.069, and 0.835 ± 0.025,
+respectively. Benchmarks include direct XGBoost, MACCS-GCN, MACCS-Transformer,
+and rule-based screening. In the fixed-interval screening benchmark,
+SC-SHAP achieves higher mean scores than direct XGBoost, MACCS-GCN,
+MACCS-Transformer, and WRAcc on the smaller TSS and EC datasets. Multiple
+seeds and alternative structural splits further assess transfer to
+structurally distinct polymers. By unifying nonlinear knowledge distillation,
+chemically explicit rules, and cross-window reuse, SC-SHAP provides
+an interpretable screening framework spanning thermal, mechanical,
+and electrical polymer properties.&lt;/span&gt;</description>
+</item>
+<item>
+<title>FragDockRL: A Reinforcement
+Learning Method for Fragment-Based
+Ligand Design via Building-Block Assembly and Tethered Docking</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02851/5446760/FragDockRL-A-Reinforcement-Learning-Method-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02851</guid>
+<pubDate>Thu, 08 Oct 2026 11:00:31 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Efficient
+exploration of combinatorial chemical space under synthetic
+constraints remains a central challenge in computational molecular
+design. Here, we present FragDock, a molecular design framework that
+combines building-block (BB)-based virtual synthesis with tethered
+docking guided by a predefined core structure. FragDock defines a
+structured search space by assembling molecules from synthetically
+accessible BBs through known chemical reactions and evaluating candidates
+using tethered docking with a restrained core-binding pose. Within
+this framework, we introduce FragDockRL, a reinforcement-learning-based
+search method that uses rewards derived from rDock-based tethered
+docking followed by SMINA scoring and a modified Deep Q-Network (DQN)
+to guide stepwise molecular growth. We evaluated FragDockRL on three
+therapeutically important protein targets─the receptor tyrosine
+kinases CSF1R and VEGFR2 and the coagulation protease FA10─selected
+to represent distinct biological functions and target classes. We
+assessed its performance using training-cycle analysis and benchmark
+comparisons with One-Step Reaction, Random Search, Beam Search, and
+Monte Carlo Tree Search. FragDockRL progressively enriched molecules
+with favorable docking scores during learning and generated more cutoff-passing
+unique molecules than Random Search across all three targets, supporting
+the benefit of learning-guided prioritization. However, the best-performing
+search strategy was target-dependent: One-Step Reaction, FragDockRL,
+and Beam Search each showed advantages in different cases. Representative
+molecular case studies showed that selected compounds retained reference-like
+binding poses while introducing structural variation into peripheral
+regions. The reaction schemes used commercially available BBs and
+well-established medicinal chemistry transformations, which supported
+the synthetic plausibility of the selected compounds. Overall, FragDock
+provides a flexible framework for synthetically constrained, structure-guided
+molecular exploration, and FragDockRL offers a learning-guided search
+mode for productive candidate prioritization under limited-generation
+budgets.&lt;/span&gt;</description>
+</item>
+<item>
 <title>SAEKP: A Site Attention
 Enzyme Kinetics Prediction
 Method to Facilitate Enzyme Engineering</title>
@@ -4129,113 +4234,6 @@ solvent systems to predict partition coefficients or solvation free
 energies can be readily extended to biological and environmental systems
 via LSER. Its performance is poised to improve further with advances
 in theoretical and machine-learning approaches.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Thermodynamics
-and Unbinding Kinetics of A22 at Multiple
-Actin-Binding Sites Revealed by Enhanced Sampling Simulations</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01530/5421819/Thermodynamics-and-Unbinding-Kinetics-of-A22-at</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01530</guid>
-<pubDate>Sat, 05 Sep 2026 01:00:41 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01530/5421819/Thermodynamics-and-Unbinding-Kinetics-of-A22-at"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01530/1/m_ci6c01530_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The cytoskeletal protein plays a major role in various
-cellular
-processes. Understanding the interactions of small molecules with
-cytoskeletal protein therefore might help in the development of therapeutics.
-Employing combined molecular docking, all-atom molecular dynamics
-(MD), and enhanced sampling technique, we studied bacterial inhibitor
-A22 and actin protein interaction. Five probable A22 binding sites
-(S1–S5) were observed in actin and unbiased MD simulations
-of 100 ns to 1000 ns showed structural stability at these sites. Interaction
-analyses showed A22 to form transient interactions except at sites
-S1, S3, and S5 where long-lived interactions were present. Enhanced
-sampling simulations quantitatively estimated ligand dissociation
-free energy (Δ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;&lt;sub&gt;b&lt;/sub&gt;) ∼ −1.3
-± 0.6 kcal/mol to −4.9 ± 1.5 kcal/mol for sites S1–S4
-with residence times ∼μs to ms. For site S5, we observed
-the highest binding affinity with dissociation free energy (Δ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;&lt;sub&gt;b&lt;/sub&gt;) ∼ −8.8 ± 3.8 kcal/mol
-with residence time ∼sec. Analyses of the dissociation trajectories
-predict multiple dissociation pathways for A22 and found key gatekeeper
-residues at specific-sites facilitating ligand dissociation. Comparison
-of A22 with other known inhibitors suggests that A22 binds actin with
-relatively lower affinity, however, exhibits site-specific unbinding
-kinetics. Thus, our study provides a detailed mechanistic overview
-of actin + A22 interaction, its various binding modes, binding affinities,
-and unbinding kinetics. It also shows the importance and usage of
-metadynamics and its variants in exploring rare events like ligand–protein
-interaction. Deeper insights gained from this study expands our understanding
-of cytoskeletal ligand dynamics. These knowledges will be paramount
-in designing drug targeting cytoskeletal protein actin.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Persistent Local
-Laplacian Prediction of Protein–Ligand
-Binding Affinities</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02460/5421797/Persistent-Local-Laplacian-Prediction-of-Protein</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02460</guid>
-<pubDate>Fri, 04 Sep 2026 21:00:40 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of protein–ligand binding
-affinity remains
-a central challenge in structure-based drug discovery. The effectiveness
-of machine learning models critically depends on the quality of molecular
-representations, for which advanced mathematical frameworks provide
-powerful tools. In this work, we employ a novel mathematical theory,
-termed the persistent local Laplacian (PLL), to construct molecular
-descriptors that capture localized geometric and topological features
-of biomolecular structures. The PLL framework addresses key limitations
-of traditional topological data analysis methods, such as persistent
-homology and the persistent Laplacian, which are often insensitive
-to local structural variations, while maintaining high computational
-efficiency. The resulting molecular descriptors are integrated with
-advanced machine learning algorithms to develop accurate predictive
-models for protein–ligand binding affinity. The proposed models
-are systematically evaluated on three well-established benchmark datasets,
-including PDBbind-v2007, PDBbind-v2013, and PDBbind-v2016, demonstrating
-consistently strong and competitive predictive performance. Computational
-results show that the PLL-based models outperform existing approaches,
-highlighting their potential as a powerful tool for drug discovery,
-protein engineering, and broader applications in science and engineering.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Synergistic Effects
-of pH and Temperature on Dengue
-Virus Envelope Dimers: Insights from Microsecond Molecular Dynamics
-Simulations</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01334/5421624/Synergistic-Effects-of-pH-and-Temperature-on</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01334</guid>
-<pubDate>Fri, 04 Sep 2026 19:00:43 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01334/5421624/Synergistic-Effects-of-pH-and-Temperature-on"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01334/1/m_ci6c01334_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Dengue pathogenesis depends on a conformational rearrangement
-of
-the envelope glycoprotein (pE) induced by low pH. However, how pH
-and temperature cooperate to destabilize the dimeric form of the pE,
-a fundamental step that enables the formation of the fusion-active
-trimer, remains unclear. Here, we investigate this synergy for Dengue
-serotypes of greatest medical relevance, DENV-2 and DENV-3. All–atom
-molecular dynamics simulations were performed on the microsecond scale,
-at 28 °C, 37 °C, and 40 °C under pH 5, 6, and 7 using
-CHARMM36m force fields and complemented by extended coarse-grained
-molecular dynamics simulations for the DENV-2 system at 37 °C
-and pH 5, and for the DENV-3 system at 28 °C and pH 5, and at
-37 °C and pH 7. Our simulations suggest that increasing the temperature
-from 28 to 37 °C tends to expand the conformational space at
-neutral pH, potentially weakening dimer integrity through modulation
-of the interfacial interaction network. Acidification appears to amplify
-this effect in a serotype–specific manner: in our simulations
-DENV-2 required pH 5, while DENV-3 responded at pH 6. Additionally,
-distance and principal component analyses revealed an asymmetric dissociation
-pathway, termed the “compensatory embrace”, observed
-in both all-atom and coarse-grained models. Structural analyses further
-highlighted the differences in histidine distribution between the
-serotypes. Moreover, interaction mapping at 37 °C identified
-candidate interfacial contacts that may act as pH-sensitive latches,
-maintaining stability at pH 7 but breaking upon acidification. Collectively,
-these results suggest a potential hierarchy of physicochemical triggers
-that may contribute to the conversion of dimer into fusion-competent
-monomers. These interfacial hotspots and the “compensatory
-embrace” constitute structurally informed targets that, pending
-validation under native virion conditions, may guide the rational
-design of antivirals and immunogens, underscoring the value of long-time
-scale molecular dynamics simulations as a hypothesis-generating tool
-in drug discovery.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

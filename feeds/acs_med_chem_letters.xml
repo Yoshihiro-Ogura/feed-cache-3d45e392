@@ -5,6 +5,75 @@
 <link>https://pubs.acs.org/rss/amclct/asap.xml</link>
 <description>ACS Medicinal Chemistry Letters (mirrored feed)</description>
 <item>
+<title>Can PBPK Modeling Improve Compound Optimization and
+Medicinal Chemistry Decision-Making in Complex Chemical Space?</title>
+<link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00425/5446776/Can-PBPK-Modeling-Improve-Compound-Optimization</link>
+<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00425</guid>
+<pubDate>Thu, 08 Oct 2026 11:00:31 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;As
+drug discovery increasingly explores beyond-rule-of-five compounds
+and challenging classical small molecules such as zwitterionic, highly
+lipophilic, and tissue-targeted drugs, pharmacokinetic behavior is
+more often governed by interactions with physicochemical and biological
+processes that limit the utility of purely empirical optimization
+approaches. In this Perspective, we discuss the role of physiologically
+based pharmacokinetic (PBPK) modeling as a mechanistic framework for
+understanding complex drug disposition and enabling model-informed
+decision-making during early stages of drug discovery by integrating
+early &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; data, literature-derived compounds,
+and sensitivity and uncertainty analysis.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Development
+of YO-01027-Derived Signal Peptide Peptidase
+Inhibitors with Reduced γ-Secretase Inhibition</title>
+<link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00374/5446731/Development-of-YO-01027-Derived-Signal-Peptide</link>
+<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00374</guid>
+<pubDate>Thu, 08 Oct 2026 10:00:33 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Signal peptide peptidase (SPP) is
+an endoplasmic-reticulum
+intramembrane
+aspartyl protease required for hepatitis C virus (HCV) core protein
+maturation, but many SPP inhibitors also inhibit γ-secretase.
+Here, we designed &lt;strong&gt;YO-01027&lt;/strong&gt;-derived dibenzazepinone analogs
+to retain SPP inhibition while reducing γ-secretase liability.
+An initial set of analogs was evaluated using an AcGFP–HCV
+core reporter assay and an APPsw/Aβ production assay. &lt;strong&gt;SPP5&lt;/strong&gt; suppressed HCV core processing while showing a reduced
+effect on Aβ production relative to &lt;strong&gt;YO-01027&lt;/strong&gt;. Among
+a subsequent structurally diverse set of analogs related to &lt;strong&gt;YO-01027&lt;/strong&gt; and &lt;strong&gt;SPP5&lt;/strong&gt;, &lt;strong&gt;SPP17&lt;/strong&gt; reduced
+SPP-dependent core maturation, HCV propagation, infectious virus production,
+and NS5A-positive foci in Huh7 cells, while showing attenuated γ-secretase
+inhibition and no apparent cytotoxicity under the tested conditions.
+These results demonstrate that γ-secretase inhibitor scaffolds
+can be tuned to generate SPP-directed antiviral chemical probes.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Accelerated Hit Identification and Optimization of
+a Novel Class of Cellularly Active QPCT/L Inhibitors</title>
+<link>https://pubs.acs.org/amclct/article/doi/10.1021/acsmedchemlett.6c00390/5446662/Accelerated-Hit-Identification-and-Optimization-of</link>
+<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00390</guid>
+<pubDate>Thu, 08 Oct 2026 05:00:42 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;QPCT and its Golgi-bound
+analogue QPCTL catalyze the conversion
+of N-terminal glutamines into pyroglutamates, a modification that
+influences diverse biological processes, including Aβ oligomerization,
+chemokine stabilization, and CD47-SIRPα signaling. Consequently,
+QPCT/L inhibitors have therapeutic potential in Alzheimer’s
+disease, cancer, and fibrosis. Here, we describe the identification
+of QPCT/L inhibitors using a virtual screening strategy in which less
+than 0.1% of our in-house compound library was selected based on similarity
+to the bioactive conformations of known QPCT/L inhibitors. This approach
+yielded previously unknown QPCT/L inhibitor chemotypes and substantially
+accelerated hit discovery. Structure-guided optimization of one quinazolidinone
+series afforded a potent cellular tool compound BI-3614 with improved
+activity over previously reported inhibitors, which is available free
+of charge on opnMe.com. The campaign provided valuable insights, revealing
+the critical impact of water networks on binding-mode prediction and
+the profound influence of subtle electronic changes on π-stacking
+interactions, emphasizing the importance of experimental validation
+of computational design hypotheses.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Vasopressin
 Receptor 2 Modulators for the Treatment
 of Related Disorders</title>
@@ -1699,27 +1768,6 @@ selectivity that exceeded the complex natural product fusicoccin A.&lt;/span&gt;
 <guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00298</guid>
 <pubDate>Mon, 08 Jun 2026 06:53:41 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/amclct/17/7/10.1021_acsmedchemlett.6c00298/1/m_ml6c00298_0004.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Medicinal Chemistry Letters&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsmedchemlett.6c00298&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Targeting Histone Acetyltransferases EP300/CBP by Novel Proline-Based PROTAC Degraders</title>
-<link>http://dx.doi.org/10.1021/acsmedchemlett.6c00153</link>
-<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00153</guid>
-<pubDate>Mon, 08 Jun 2026 06:31:39 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/amclct/17/7/10.1021_acsmedchemlett.6c00153/1/m_ml6c00153_0010.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Medicinal Chemistry Letters&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsmedchemlett.6c00153&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Novel Indolinyl Compounds as Helicase Primase Inhibitors for Treating Viral Infections, in particular, Herpesvirus Infections</title>
-<link>http://dx.doi.org/10.1021/acsmedchemlett.6c00288</link>
-<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00288</guid>
-<pubDate>Mon, 08 Jun 2026 06:29:57 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/amclct/17/7/10.1021_acsmedchemlett.6c00288/1/m_ml6c00288_0005.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Medicinal Chemistry Letters&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsmedchemlett.6c00288&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Novel Compounds as SARS-CoV-2 Main Protease Inhibitors for Treating Viral Infections, in particular, Coronavirus Infections</title>
-<link>http://dx.doi.org/10.1021/acsmedchemlett.6c00285</link>
-<guid>http://dx.doi.org/10.1021/acsmedchemlett.6c00285</guid>
-<pubDate>Mon, 08 Jun 2026 06:28:59 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/amclct/17/7/10.1021_acsmedchemlett.6c00285/1/m_ml6c00285_0004.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;ACS Medicinal Chemistry Letters&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acsmedchemlett.6c00285&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
