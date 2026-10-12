@@ -5,6 +5,128 @@
 <link>https://pubs.acs.org/rss/acsodf/asap.xml</link>
 <description>ACS Omega (mirrored feed)</description>
 <item>
+<title>Simulating Directed Evolution  In Silico  with an
+Iterative, Physics-Based Workflow</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08421/5448621/Simulating-Directed-Evolution-In-Silico-with-an</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c08421</guid>
+<pubDate>Sun, 11 Oct 2026 20:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Directed
+evolution consistently delivers engineered enzymes that
+facilitate diverse biocatalytic transformations. Despite advances
+in automation and high-throughput workflows, our ability to rapidly
+engineer novel enzymes is limited by our inability to thoroughly sample
+the vast protein design space. Generative artificial intelligence
+(AI) methods have alleviated this challenge to some degree, due to
+their ability to propose mutations based on learned patterns from
+complex protein data sets. However, the hidden logic of these AI-based
+methods can complicate our ability to reveal and exploit fundamental
+details of these enzymes. To complement these hidden-logic models,
+we present a structure- and physics-based workflow that mimics directed
+evolution &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt;. This Virtual Protein EngineeR
+(referred to as ViPER) aims to simulate directed evolution by leveraging
+computational modeling, molecular dynamics simulations, &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; mutagenesis, and structure-based property evaluation
+to iteratively engineer an enzyme toward a desired target. In this
+work, we present a retrospective analysis to demonstrate ViPER’s
+ability to efficiently navigate the complex protein–protein
+interfaces associated with the oligomerization of a ketoreductase
+(KRED) enzyme. In addition to successfully predicting &amp;gt;70% of sites
+that are crucial for toggling the oligomerization of this KRED enzyme
+(after only five rounds), this dynamics-based methodology identifies
+a distal mutation that was incorporated during experiment-based directed
+evolution. This work provides a novel foundation for computationally
+driven directed evolution efforts, opening the opportunity to simultaneously
+pursue and evaluate multiple evolutionary routes through a physics-based
+lens.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Preparation of
+Membrane Evaporators and Solar Interfacial
+Water Evaporation Performance Study</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c09501/5448618/Preparation-of-Membrane-Evaporators-and-Solar</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c09501</guid>
+<pubDate>Sun, 11 Oct 2026 19:00:39 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Membrane evaporators are widely used in solar interfacial
+water
+evaporation due to their low cost and convenient construction. However,
+they generally suffer from issues such as low evaporation rate, poor
+light absorption and temperature rise capacity, and weak salt resistance
+during evaporation in seawater. To address these issues, this study
+conducted ultrasonic treatment on membranes from medical absorbent
+cotton (AC) using ethanol as the medium for the evaporator. The membranes
+were coated with C and Fe elements using the impregnation metho and
+enriched with Ti elements using the in situ growth method. Then, the
+evaporators containing different elements were tested for photothermal
+water evaporation, surface temperature rise capacity under illumination,
+and salt resistance for seawater desalination. The results showed
+that different elements affect the weight loss curve, evaporation
+rate, and evaporation efficiency of the samples. The addition of Fe
+element on the basis of a C element coating can optimize the evaporation
+capacity of the sample, achieving an evaporation rate of 1.44 kg·m&lt;sup&gt;–2&lt;/sup&gt; under simulated 1 sun pure water conditions. The
+incorporation of Ti element effectively enhances the salt resistance
+of the membrane.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Allosteric Communication
+in the Tubulin Dimer Revealed
+through Molecular Dynamics and Network Analysis</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08528/5448614/Allosteric-Communication-in-the-Tubulin-Dimer</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c08528</guid>
+<pubDate>Sun, 11 Oct 2026 14:00:39 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Microtubules are
+dynamic polymers essential for intracellular
+organization,
+with basic constituents being αβ-tubulin dimers. Microtubule
+growth and shrinkage is tightly regulated by GTP hydrolysis in β-tubulin,
+yet how the information about the bound nucleotide propagates across
+the tubulin dimer, beyond its direct binding site, remains unclear.
+Here we combine extensive all-atom molecular dynamics simulations
+of αβ-tubulin dimers with GTP or GDP in the β-subunit
+to investigate longitudinal allosteric signaling. We featurize conformations
+using residue-wise minimum distances between the two subunits, apply
+EncoderMap dimensionality reduction and HDBSCAN clustering to identify
+conformational substates, and perform dynamic network analysis on
+these clusters. We find that the tubulin dimer relaxes from the straight
+starting structures into a broad ensemble of bent conformations, and
+that the bound nucleotide does not by itself separate this ensemble.
+The simulations retain a comparatively long-lived memory of their
+starting structure that makes the subtler nucleotide signal harder
+to detect. Network analysis identifies residues that are most important
+for information flow, as well as preferred communication routes across
+the longitudinal interface. Substate-specific analysis indicates that
+the transition from the GTP- to GDP-bound state is associated with
+changes in the preferred allosteric routes, enhancing our understanding
+of longitudinal communication in tubulin. Beyond tubulin, our approach
+illustrates how combining dimensionality reduction with substate-specific
+network analysis can uncover hidden allosteric signatures in protein
+assemblies.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Hollow Spherical
+Hydrotalcite-Based Catalyst for
+One-Step Ethoxylation of Butyl Acetate to Oligo-Ethylene Glycol Butyl
+Ether Acetates</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07628/5448592/A-Hollow-Spherical-Hydrotalcite-Based-Catalyst-for</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c07628</guid>
+<pubDate>Sun, 11 Oct 2026 13:00:42 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;A novel hollow spherical hydrotalcite-based catalyst
+was developed
+for the direct ethoxylation of butyl acetate (BAC) to synthesize oligo-ethylene
+glycol butyl ether acetates (oligo-EBACs). This catalyst, which retains
+the intrinsic structural characteristics of hydrotalcite, was prepared
+via a secondary crystallization method. In comparison with conventional
+layered double hydroxide (LDH) materials, the as-synthesized catalyst
+achieves a higher conversion of BAC and a superior catalytic activity
+toward ethylene oxide (EO), along with a narrow adduct distribution
+of ethylene glycol butyl ether acetate (EBAC). When Cat-H as the catalyst,
+reaction temperature of 170 °C, reaction pressure of 0.4 MPa,
+and a molar ratio of &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;(BAC)/&lt;span style="font-style:italic;"&gt;n&lt;/span&gt;(EO)
+= 4:1, the BAC conversion reached 26.2%, the EO catalytic activity
+was 0.248 g/(g·min), and the selectivities for 1-EBAC, 2-EBAC,
+and 3-EBAC were 44.39%, 26.14%, and 13.26%, respectively. After four
+consecutive recycling runs of the Cat-H, the conversion of BAC and
+the selectivities of other target products show a marginal decline.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Fabrication and
 Optimization of 3D-Printed TiO 2 /g-C 3 N 4  Scaffolds for Degradation
 of Organic Dye and Pharmaceutical Pollutant</title>
@@ -4795,146 +4917,6 @@ g/L of ethanol; however, metabolic interactions and catabolic repression
 may have occurred. These findings evidenced the NH&lt;sub&gt;4&lt;/sub&gt;OH pretreatment
 as a promising strategy for enhancing saccharification. In addition,
 the study highlighted the positive role of &lt;span style="font-style:italic;"&gt;S. passalidarum&lt;/span&gt; in the hexose (C6) and pentose (C5) cofermentation of PTCC hydrolysate.&lt;/span&gt;</description>
-</item>
-<item>
-<title>All-in-One Photocatalytic-Photothermal-SERS
-Nanoknives
-Platform for Solar-Driven Inactivation of Antibiotic-Resistant Superbugs
-and Selective Azoaromatic Synthesis</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08701/5444264/All-in-One-Photocatalytic-Photothermal-SERS</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c08701</guid>
-<pubDate>Sun, 04 Oct 2026 14:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08701/5444264/All-in-One-Photocatalytic-Photothermal-SERS"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c08701/1/m_ao6c08701_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Harnessing sunlight-driven renewable energy provides
-a sustainable
-strategy for the rapid eradication of antibiotic-resistant superbugs
-and selective organic synthesis. However, the development of highly
-efficient solar photocatalytic materials remains a significant challenge.
-Herein, we report the rational design of a plasmonic MXene-Ag@Au-nanostar
-based all-in-one photocatalytic-photothermal-SERS nanoknives platform
-that harnesses solar energy to simultaneously achieve highly efficient
-inactivation of antibiotic-resistant superbugs and selective azoaromatic
-synthesis. By synergistically integrating broad-spectrum solar harvesting
-(350–950 nm), high photothermal conversion efficiency (∼70%),
-intense SERS enhancement, and efficient hot-electron and reactive
-oxygen species (ROS) generation, the heterostructure delivers exceptional
-photocatalytic activity toward selective azoaromatic synthesis. Under
-solar irradiation, the multifunctional nanoplatform promotes the selective
-oxidation of 4-aminothiophenol (4-ATP) to 4,4′-dimercaptoazobenzene
-(4,4′-DMAB) with conversion yields exceeding 69%, while enabling
-the selective reduction of 4-nitrothiophenol (4-NTP) to 4,4′-DMAB
-with conversion efficiencies greater than 72%. Mechanistic investigations
-further demonstrated that ROS, photothermal heating, and hot-carrier
-transfer collectively contribute to the remarkably enhanced photocatalytic
-performance. Furthermore, the heterostructure achieved rapid solar-driven
-inactivation of carbapenem-resistant &lt;span style="font-style:italic;"&gt;E. coli&lt;/span&gt;, multidrug-resistant Salmonella &lt;span style="font-style:italic;"&gt;DT104&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;MRSA&lt;/span&gt; superbugs, within 15–25 min of irradiation.
-Mechanistic investigations revealed that the outstanding superbug
-inactivation activity originated from the synergistic interplay of
-MXene nanoknives that physically disrupted bacterial membranes, which
-facilitates the penetration of ROS into bacterial cells, resulting
-in severe oxidative stress and rapid cell death. Collectively, this
-work establishes a strategy for designing active-site-engineered “All-in-One”
-platforms for sustainable solar-driven chemical synthesis and rapid
-superbug inactivation.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Comparative Study
-of Hypoglycemic Activity of Cr-Gliclazide
-and Its β-Cyclodextrin Inclusion Complex</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c09131/5444252/Comparative-Study-of-Hypoglycemic-Activity-of-Cr</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c09131</guid>
-<pubDate>Sat, 03 Oct 2026 20:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c09131/5444252/Comparative-Study-of-Hypoglycemic-Activity-of-Cr"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c09131/2/m_ao6c09131_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This study investigated the synthesis and pharmacological
-properties
-of chromium metal complexes with sulfonylureas (hypoglycemic agents).
-In these complexes, the structural element (chromium) is held within
-the cavity of the β-cyclodextrin (βCD) molecule. Conditions
-were optimized for the inclusion complex: 1:1 host–guest ratio,
-pH = 12, and temperature: ∼25 °C. Cr(III)-Gliclazide (GCZ)
-and βCD under appropriate experimental conditions show circular
-dichroism (CD) bands in the visible region: positive Cotton bands
-at 24,691 cm&lt;sup&gt;–1&lt;/sup&gt; (Δε = 20.103 degree L
-mol&lt;sup&gt;–1&lt;/sup&gt; cm&lt;sup&gt;–1&lt;/sup&gt;) and 16,666 cm&lt;sup&gt;–1&lt;/sup&gt; (Δε = 26.6 × 10&lt;sup&gt;–3&lt;/sup&gt; degree L mol&lt;sup&gt;–1&lt;/sup&gt; cm&lt;sup&gt;–1&lt;/sup&gt;) and a strong
-negative Cotton band at 19,230 cm&lt;sup&gt;–1&lt;/sup&gt; (&lt;span style="font-style:italic;"&gt;A&lt;/span&gt;ε = 38.1 × 10&lt;sup&gt;–3&lt;/sup&gt; degree L mol&lt;sup&gt;–1&lt;/sup&gt; cm&lt;sup&gt;–1&lt;/sup&gt;). The synthesized complexes were assessed
-for their hypoglycemic activity in rabbits with alloxan-induced diabetes.
-Cr(III)-GCZ showed an early therapeutic response that persisted over
-an extended duration, while the Cr(III)-GCZ-βCD inclusion complex
-showed a delayed therapeutic response but maintained an extended duration
-of activity compared with the reference (parent) drug, gliclazide
-(GCZ). The synthesized complexes exhibited good therapeutic potential,
-and the toxicity of these complexes was found to be quite low (high
-LD&lt;sub&gt;50&lt;/sub&gt; values).&lt;/span&gt;</description>
-</item>
-<item>
-<title>Metamaterial-Inspired
-Dual-Band Flexible Textile Antenna
-Using Wool-Felt Substrate for Body-Centric Wireless Electronics</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06181/5444249/Metamaterial-Inspired-Dual-Band-Flexible-Textile</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c06181</guid>
-<pubDate>Sat, 03 Oct 2026 18:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06181/5444249/Metamaterial-Inspired-Dual-Band-Flexible-Textile"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c06181/1/m_ao6c06181_0022.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Flexible textile-based
-electronic systems are emerging
-as promising
-candidates for next-generation wearable technologies due to their
-mechanical compliance, lightweight nature, and seamless integration
-into garments. In this work, a metamaterial-inspired dual-band flexible
-textile antenna based on a wool-felt substrate is presented for body-centric
-wireless applications. The proposed device is designed as a flexible
-electronic structure integrating coplanar waveguide (CPW) feeding
-with symmetric square-ring resonators to enable compact size and dual-band
-electromagnetic functionality. The wool-felt substrate serves as a
-functional textile material offering low density, high flexibility,
-and stable dielectric behavior under mechanical deformation. The fabricated
-structure exhibits an overall dimension of 40 × 52 mm&lt;sup&gt;2&lt;/sup&gt;, making it suitable for garment-integrated electronic systems. Experimental
-results demonstrate two impedance bandwidths of 3.11–3.70 GHz
-and 5.52–6.89 GHz (|&lt;span style="font-style:italic;"&gt;S&lt;/span&gt;&lt;sub&gt;11&lt;/sub&gt;| &amp;lt; −10
-dB), covering sub-6 GHz 5G and ISM wireless communication bands. The
-proposed flexible electronic system achieves measured gains of 1.81
-dBi and 4.35 dBi at the lower and upper frequency bands, respectively,
-with good agreement between simulated and experimental results. Mechanical
-bending analysis confirms stable electromagnetic performance, with
-resonance shifts below 1%, indicating robust mechanical–electromagnetic
-coupling under deformation. Furthermore, specific absorption rate
-(SAR) analysis verifies compliance with international safety standards
-for on-body wireless operation. Owing to its combination of a functional
-textile substrate, compact architecture, and stable dual-band performance,
-the proposed wool-felt-based flexible antenna represents a promising
-candidate for wearable and body-centric electronic systems.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Tailoring Thermoplastic
-Whey Protein with Polyethylene
-Glycol and Calcium Stearate: A Systematic Design of Experiments Investigation
-of Structure, Thermal Behavior, and Rheology</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06950/5444226/Tailoring-Thermoplastic-Whey-Protein-with</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c06950</guid>
-<pubDate>Sat, 03 Oct 2026 16:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06950/5444226/Tailoring-Thermoplastic-Whey-Protein-with"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c06950/1/m_ao6c06950_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The growing environmental concern related to plastic
-materials
-has driven the search for sustainable alternatives. In this context,
-whey protein isolate (WPI) has emerged as a promising option due to
-its adequate oxygen barrier properties for food packaging. However,
-WPI lacks mechanical resistance, requiring plasticization to increase
-protein chain mobility, flexibility, and processability. WPI plasticized
-during its denaturation is called thermoplastic whey protein isolate
-(WPIT). This study evaluates the WPIT modification using a design
-of experiments (DoE) with two factors and a center point: calcium
-stearate, a largely commercially used lubricant, and the plasticizer
-poly(ethylene glycol) (PEG). To assess the occurrence of plasticization
-and the proposed stabilization, the structural, rheological, and thermal
-characteristics of the modified WPIT were investigated. Fourier-transform
-infrared spectroscopy (FTIR) showed no significant increase in the
-α helix secondary structure, suggesting incomplete plasticization.
-The parallel plate rheology revealed that the complex viscosity followed
-power law behavior, and there was no Newtonian plateau. WPIT samples
-with calcium stearate and without PEG, and the center point presented
-crossover of storage and loss moduli in the terminal zone. The sample
-with maximum calcium stearate and no PEG showed evidence of cross-linking.
-Differential scanning calorimetry (DSC) analysis did not allow for
-the identification of the glass transition temperature (&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;g&lt;/sub&gt;) for WPIT samples. Thermogravimetric analysis (TGA)
-results indicated decreased thermal stability in the presence of PEG,
-likely due to its plasticizing effect. The results suggested that
-the presence of calcium ions may have promoted possible cross-linking
-between the protein chains.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

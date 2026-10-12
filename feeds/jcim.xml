@@ -5,6 +5,34 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>CHARMM-GUI  Covalent Ligand Docker  as a Web-Based
+Molecular Docking
+Platform for Covalent Ligands</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02343/5448623/CHARMM-GUI-Covalent-Ligand-Docker-as-a-Web-Based</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02343</guid>
+<pubDate>Sun, 11 Oct 2026 20:00:36 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Covalent inhibitor
+research is an emerging topic in drug
+discovery
+because of its superior performance in specificity and inhibition
+effects. While molecular docking is a popular strategy in predicting
+and assessing ligand conformations or poses in receptor proteins,
+covalent ligand docking requires nontrivial preparation efforts as
+the ligand structure changes during the covalent complex formation.
+In order to facilitate molecular docking for covalent ligands, we
+have developed CHARMM-GUI &lt;span style="font-style:italic;"&gt;Covalent Ligand Docker&lt;/span&gt; (CGUI-CLD),
+a new module for covalent ligand docking supported by AutoDock4. CGUI-CLD
+automates ligand preparation, supports ligand modification, implements
+docking simulations, and presents results through an intuitive user
+interface. A knowledge-based library built in CGUI-CLD currently supports
+66 warheads and 8 amino acids, which can be used to automate the covalent
+ligand transformation from a prereaction to a postreaction adduct
+form seamlessly. Moreover,  CHARMM-GUI &lt;span style="font-style:italic;"&gt;High-Throughput Simulator&lt;/span&gt; is integrated for rapid generation of multiple molecular dynamics
+simulation systems. CGUI-CLD is expected to significantly reduce the
+ unnecessary workload of covalent ligand docking and advance covalent
+ligand research.&lt;/span&gt;</description>
+</item>
+<item>
 <title>[Graphical abstract added] Closed-Loop Multi-Objective
 Optimization for Receptor-Selective
 Cell-Penetrating Peptide Design</title>
@@ -4026,42 +4054,6 @@ representation-acquisition interactions in molecular discovery with
 representation fusion capabilities. Our study offers practical guidance
 for designing active learning pipelines that balance prediction accuracy
 with chemical space exploration.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Distinct Lipid
-Binding Dynamics and Sodium Ion Coordination
-in the TRAP Transporter  Hi SiaQM Revealed by Multiscale
-Molecular Dynamics Simulations</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01356/5426625/Distinct-Lipid-Binding-Dynamics-and-Sodium-Ion</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01356</guid>
-<pubDate>Tue, 08 Sep 2026 19:00:40 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01356/5426625/Distinct-Lipid-Binding-Dynamics-and-Sodium-Ion"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01356/1/m_ci6c01356_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Tripartite ATP-independent periplasmic (TRAP) transporters
-are
-substrate-binding protein dependent secondary transporters that leverage
-ion gradients to facilitate substrate translocation across bacterial
-and archaeal membranes. Although the structure of &lt;span style="font-style:italic;"&gt;Hi&lt;/span&gt;SiaQM─a membrane-embedded TRAP subunit from the human pathogen &lt;span style="font-style:italic;"&gt;Haemophilus influenzae&lt;/span&gt; ─has recently been
-determined, its transport mechanism is not fully understood. Given
-the likely importance of lipid interactions and ion coordination dynamics
-to the transport cycle, we applied multiscale molecular dynamics simulations
-to investigate these two complementary aspects of &lt;span style="font-style:italic;"&gt;Hi&lt;/span&gt;SiaQM function. Our simulations validated an experimentally identified
-lipid-binding site (BS1) and provided insight into its lipid-binding
-dynamics. BS1 is preferentially occupied by the anionic POPG, which
-is stabilized through persistent hydrogen bonds involving residues
-H100, R104, and R181. Additionally, our simulations revealed a novel,
-less stable lipid-binding site (BS2) that is selectively occupied
-by POPE. We suggest distinct lipid-binding behaviors for POPG and
-POPE, with POPG forming more persistent interactions at BS1 and POPE
-engaging more transiently at BS2; however, these remain to be tested
-experimentally. Analysis of sodium ion coordination at two known binding
-sites (Na1 and Na2) revealed contrasting dynamics: Na1 exhibited stable
-ion retention through backbone carbonyl coordination, while Na2 displayed
-lower stability due to involvement of the flexible side chain of T561.
-Geometric tunnel analysis identified possible sodium-exit pathways,
-supporting a working hypothesis that Na1 may act as a stable anchoring
-site and Na2 may function as a transient ion-exchange point during
-the transport cycle. Collectively, our findings provide mechanistic
-insights into how specific lipid interactions and sodium ion coordination
-could modulate &lt;span style="font-style:italic;"&gt;Hi&lt;/span&gt;SiaQM transporter function.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
