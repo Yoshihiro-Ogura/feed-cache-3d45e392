@@ -5,6 +5,43 @@
 <link>http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1860-7187</link>
 <description>ChemMedChem (mirrored feed)</description>
 <item>
+<title>Synthesis, Moleculer Modeling, and Carbonic Anhydrase Inhibitor Effects of Novel 1‐(1‐benzyl‐2‐oxoindolin‐3‐ylidene)‐4‐(3‐sulfamoylphenyl)thiosemicarbazides</title>
+<link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70467?af=R</link>
+<guid>10.1002/cmdc.70467</guid>
+<pubDate>Mon, 12 Oct 2026 00:21:05 -0700</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70467?af=R"&gt;&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/cc258867-9191-4a44-9177-ea2e5e2d086a/cmdc70467-blkfxd-0001-m.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
+&lt;p&gt;Novel 1-(1-benzyl-2-oxoindolin-3-ylidene)thiosemicarbazides (&lt;b&gt;6a–l&lt;/b&gt;) bearing a 3-sulfamoylphenyl moiety selectively inhibited the tumor-associated hCA IX and XII isoforms over hCA I and II isoforms at the nanomolar levels. Compounds &lt;b&gt;6k&lt;/b&gt; and &lt;b&gt;6f&lt;/b&gt; emerged as the most potent inhibitors of hCA IX and XII, respectively. Molecular modeling studies also supported the stable binding of compounds &lt;b&gt;6k&lt;/b&gt; and &lt;b&gt;6f&lt;/b&gt; to the active sites of the target enzymes.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;In this study, we describe the synthesis of new 1-(1-benzyl-2-oxoindolin-3-ylidene)-4-(3-sulfamoylphenyl)thiosemicarbazides and evaluate their inhibitory activity against hCAs (&lt;b&gt;6a–l&lt;/b&gt;). The inhibitory effects of compounds &lt;b&gt;6a–l&lt;/b&gt; were examined in vitro against hCA I, II, IX, and XII isoforms. Acetazolamide (AAZ) was employed as the standard reference compound in this study. The compounds &lt;b&gt;6a–l&lt;/b&gt; inhibited the tumor-associated hCA IX and XII isoenzymes at nanomolar levels, and showed weak inhibitory effects on the off-target hCA I and II isoenzymes. Selectivity index (SI) values of compounds &lt;b&gt;6a–l&lt;/b&gt; were determined to be significantly high for hCA IX and XII over hCA I and II compared to AAZ. Compound &lt;b&gt;6k&lt;/b&gt; (R&lt;sub&gt;1&lt;/sub&gt; = Cl, R&lt;sub&gt;2&lt;/sub&gt; = 3-Cl) showed the strongest inhibitory effect (&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;
+   &lt;i&gt;i&lt;/i&gt;
+&lt;/sub&gt; = 25.23 nM) and high selectivity (SI = 225, 185) against hCA IX over hCA I and II. Compound &lt;b&gt;6f&lt;/b&gt; (R&lt;sub&gt;1&lt;/sub&gt; = CH&lt;sub&gt;3&lt;/sub&gt;, R&lt;sub&gt;2&lt;/sub&gt; = 4-Cl) was found to have the highest inhibitory effect (&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;
+   &lt;i&gt;i&lt;/i&gt;
+&lt;/sub&gt; = 36.65 nM) and high selectivity (SI = 377 and 192, respectively) against hCA XII over hCA I and II. Molecular docking and dynamic simulation analyses were conducted to explore how compounds &lt;b&gt;6f&lt;/b&gt; and &lt;b&gt;6k&lt;/b&gt; interact with active sites of hCA XII and IX enzymes.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Limiting Trial‐and‐Error: Linker‐Based 2D Descriptor Analysis to Support Very Early Proteolysis‐Targeting Chimeras Design</title>
+<link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70532?af=R</link>
+<guid>10.1002/cmdc.70532</guid>
+<pubDate>Sun, 11 Oct 2026 23:30:36 -0700</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70532?af=R"&gt;&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/41a244a6-ecad-4944-a7ac-426e43d773a7/cmdc70532-blkfxd-0001-m.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
+&lt;p&gt;Can simple linker descriptors guide PROTAC design? Analysis of matched CRBN- and VHL-recruiting degraders shows that basic 2D linker properties may capture trends linked to degradation efficiency, in vitro ADME and physicochemical properties. A practical approach to reduce trial-and-error in early targeted protein degradation programs.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Targeted protein degradation has emerged as a clinically validated therapeutic strategy, culminating in the recent FDA approval of the first proteolysis-targeting chimeras (PROTAC) drug (VEPPANU). Within PROTACs, the linker plays a central role in modulating degradation efficiency as well as physicochemical and in vitro absorption, distribution, metabolism, and excretion properties, yet linker optimization still largely relies on empirical “linkerology” approaches. Here, we investigated whether simple 2D linker descriptors could provide informative insights for very early-stage PROTAC design. Four matched PROTAC series, including both cereblon- and von Hippel–Lindau-recruiting degraders, were retrospectively analyzed using a workflow combining the in-house Bellerophon-based linker extraction with principal component analysis. Selected descriptors captured linker hydrophobicity, polarity, flexibility, and topology and were correlated with experimental degradation, permeability, solubility, lipophilicity, protein binding, and metabolic stability data. In several datasets, linker-dependent trends associated with the molecular properties of degraders and their degradation efficiency were identified, particularly for von Hippel–Lindau-based PROTACs. Although the limited size of currently available datasets prevents broad generalization, this work highlights the potential of simple descriptor-based analyses to support early candidate prioritization and reduce unnecessary synthetic efforts.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Nanozymes in Action: Inbuilt Asymmetric Local Electric Field for Enhanced Ferroptosis‐Pyroptosis Therapy</title>
+<link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70500?af=R</link>
+<guid>10.1002/cmdc.70500</guid>
+<pubDate>Sun, 11 Oct 2026 23:27:36 -0700</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70500?af=R"&gt;&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/3e1ea2b8-72a2-4537-ae41-8f513a90f7fa/cmdc70500-blkfxd-0001-m.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
+&lt;p&gt;This article highlights a recently published work demonstrating a unique paradigm in the field of nanozymes. Introduction of an axial sulfur bridge between Mo and Cu catalytic sites with an asymmetric local electric field, demonstrating oxidase-, peroxidase-, and catalase-like activities, eventually resulting in the sequential activation of ferroptosis and pyroptosis pathways for anticancer action.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Conventional nanozymes are generally reported to have a symmetric coordination environment near the active centers that can hinder electron transfer and result in limited catalytic efficiency. In a recent article by Na Na and colleagues, an axial sulfur-bridged Mo–S–Cu (A-CuN&lt;sub&gt;3&lt;/sub&gt;S&lt;sub&gt;1&lt;/sub&gt;@MoS&lt;sub&gt;2−&lt;i&gt;x&lt;/i&gt;
+&lt;/sub&gt;) nanozyme is developed that functions by utilizing an expanded asymmetric local electric field (LEF). The innovative structure significantly ramps up multienzymatic activities, which include catalase-, peroxidase-, and oxidase-like functions, while concomitantly depleting glutathione. As this nanozyme specifically targets mitochondria in tumors, it initiates a cascade of reactive oxygen species (ROS), activating combined ferroptosis and gasdermin E (GSDME)-mediated pyroptosis. We highlight these findings on how the axial-bridging strategy offers a sophisticated design for nonapoptotic tumor therapy through the modalities of coordination chemistry and electronic structure modulation.&lt;/p&gt;</description>
+</item>
+<item>
 <title>Synthesis of Substituted Indazoles With Potential Kinase Inhibitory Activity</title>
 <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70522?af=R</link>
 <guid>10.1002/cmdc.70522</guid>

@@ -5,13 +5,22 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>[Graphical abstract added] MoaNet: Learning
+Protein–Ligand Mechanism of
+Action from Transcriptional Profiles and Sequence Information</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action?acs_ga=1</link>
+<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01275</guid>
+<pubDate>Mon, 12 Oct 2026 21:02:50 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01275/1/m_ci6c01275_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+</item>
+<item>
 <title>CHARMM-GUI  Covalent Ligand Docker  as a Web-Based
 Molecular Docking
 Platform for Covalent Ligands</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02343/5448623/CHARMM-GUI-Covalent-Ligand-Docker-as-a-Web-Based</link>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c02343</guid>
 <pubDate>Sun, 11 Oct 2026 20:00:36 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Covalent inhibitor
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02343/5448623/CHARMM-GUI-Covalent-Ligand-Docker-as-a-Web-Based"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02343/1/m_ci6c02343_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Covalent inhibitor
 research is an emerging topic in drug
 discovery
 because of its superior performance in specificity and inhibition
@@ -3583,7 +3592,7 @@ Action from Transcriptional Profiles and Sequence Information</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action</link>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c01275</guid>
 <pubDate>Mon, 14 Sep 2026 21:00:39 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding the functional interactions between molecules
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01275/1/m_ci6c01275_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding the functional interactions between molecules
 and
 their targets is critical in drug discovery. While current computational
 approaches achieve high accuracy in predicting drug–target
@@ -4012,48 +4021,6 @@ Experimental validation of selected candidates, including peptide
 surface matching for enriching membrane-active antibacterial peptides.
 This framework provides a mechanism-aware strategy for Gram-negative
 AMP discovery and optimization.&lt;/span&gt;</description>
-</item>
-<item>
-<title>ActiveFusion: Fused
-Representations Improve Active
-Learning for Molecular Property Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01708/5426751/ActiveFusion-Fused-Representations-Improve-Active</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01708</guid>
-<pubDate>Wed, 09 Sep 2026 08:00:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01708/5426751/ActiveFusion-Fused-Representations-Improve-Active"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01708/1/m_ci6c01708_0013.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Active learning provides an efficient strategy for molecular
-property
-prediction by iteratively prioritizing compounds for experimental
-evaluation. However, the effectiveness of active learning pipelines
-depends strongly on the choice of molecular representation, and systematic
-understanding of how representation families affect the active learning
-process in terms of uncertainty and predictive performance remains
-limited. In this work, we introduce ActiveFusion, a framework for
-integrating heterogeneous molecular representations within active
-learning workflows for molecular property prediction. The framework
-enables systematic evaluation of physicochemical descriptors, molecular
-fingerprints, learned graph neural network (GNN) representations,
-and pretrained Transformer-based representations, as well as feature-level
-fusion strategies that combine complementary chemical information
-sources. ActiveFusion evaluates models across four molecular property
-prediction regression tasks. Across datasets, we demonstrate that
-feature fusion between learned graph representations and physicochemical
-descriptors consistently improves prediction performance and discovery
-(average final iteration &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; of 0.71, 0.67,
-and 0.54 for our overall best representations Chemprop+RDKit, Chemprop,
-and RDKit, respectively). We show that exploration-driven acquisition
-strategies enhance scaffold coverage and promote sampling of structurally
-novel regions of chemical space, and that model-agnostic acquisition
-of new compounds based on diversity has strong performance. Notably,
-both pretrained and finetuned Transformer-based embeddings do not
-consistently outperform physicochemical features or GNN-learned representations
-in our setting, highlighting the continued relevance of chemically
-interpretable features and learned features from supervised, task-specific
-models for active learning applications in molecular property prediction.
-Overall, ActiveFusion provides a systematic framework for studying
-representation-acquisition interactions in molecular discovery with
-representation fusion capabilities. Our study offers practical guidance
-for designing active learning pipelines that balance prediction accuracy
-with chemical space exploration.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
