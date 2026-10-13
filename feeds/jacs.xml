@@ -79,6 +79,451 @@ Enables Logic-Controlled Signal Translocation</title>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c19185/5448542/Engineering-a-Reconfigurable-Transmembrane"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c19185/1/m_ja6c19185_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 <item>
+<title>Light Ignites Lattice
+Oxygen in an Asymmetric Motif</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14116/5449366/Light-Ignites-Lattice-Oxygen-in-an-Asymmetric</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c14116</guid>
+<pubDate>Mon, 12 Oct 2026 21:00:41 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14116/5449366/Light-Ignites-Lattice-Oxygen-in-an-Asymmetric"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c14116/1/m_ja6c14116_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Lattice-oxygen-mediated pathways
+bypass the energy-intensive
+steps
+that constrain adsorbate-mediated catalysis. Activating these pathways
+under mild conditions, however, means breaking metal–oxygen
+bonds that are, by design, strong. Asymmetric M1-O-M2 motifs, in which
+a bridging oxygen sits between two cations of different electronic
+character, decouple oxygen activation from oxygen release by distributing
+these functions across chemically distinct sites. Here, we show that
+a Cu-doped In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; system with a well-defined
+asymmetric Cu–O–In unit exhibits enhanced photoinduced
+lattice oxygen activity. Series (quasi) &lt;span style="font-style:italic;"&gt;in situ&lt;/span&gt; spectroscopy
+captures the activation, consumption, and replenishment of lattice
+oxygen under illumination in real time. Photogenerated carriers populate
+around the Cu–O site preferentially, weakening the Cu–O
+bond enough to extract lattice oxygen at room temperature. The optimized
+material, Cu&lt;sub&gt;i&lt;/sub&gt;-In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;, gives a response
+of 32.4 toward 5 ppm of H&lt;sub&gt;2&lt;/sub&gt;S under visible light. The results
+connect local coordination asymmetry directly to photoinduced oxygen
+functionality and suggest a route toward photodriven catalysts built
+around asymmetric oxygen sites.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Simulating
+Chemical Reaction Dynamics Using Sample-Based
+Quantum Diagonalization: A Quantum-Centric Supercomputing Approach</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12123/5449306/Simulating-Chemical-Reaction-Dynamics-Using-Sample</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c12123</guid>
+<pubDate>Mon, 12 Oct 2026 20:00:45 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12123/5449306/Simulating-Chemical-Reaction-Dynamics-Using-Sample"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12123/1/m_ja6c12123_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Quantum
+computers offer the potential to simulate chemical systems
+beyond the capabilities of classical computers. However, current quantum
+computing approaches to &lt;span style="font-style:italic;"&gt;ab initio&lt;/span&gt; molecular dynamics
+(AIMD) and vibrational analysis largely rely on the Variational Quantum
+Eigensolver (VQE), whose circuit depth, iterative optimization, and
+measurement overhead hinder the practical simulation of molecular
+systems. Here, we extend Sample-based Quantum Diagonalization (SQD),
+a quantum sampling-based electronic-structure method, to AIMD and
+vibrational analysis on noisy quantum hardware. The resulting framework
+enables nuclear forces and Hessians to be derived from quantum-computed
+electronic energies, facilitating molecular dynamics and characterization
+of potential energy surfaces. We demonstrate the approach using diverse
+molecular processes, including H&lt;sub&gt;2&lt;/sub&gt; bond vibration, the proton-exchange
+reaction (H&lt;sup&gt;+&lt;/sup&gt; + H&lt;sub&gt;2&lt;/sub&gt;), the bimolecular nucleophilic
+substitution (S&lt;sub&gt;N&lt;/sub&gt;2) reaction (Cl&lt;sup&gt;–&lt;/sup&gt; + CH&lt;sub&gt;3&lt;/sub&gt;Cl), and proton-transfer dynamics between two water molecules
+involving transient formation of the Zundel cation (H&lt;sub&gt;2&lt;/sub&gt;O···H&lt;sup&gt;+&lt;/sup&gt;···OH&lt;sub&gt;2&lt;/sub&gt;). Across these systems, SQD-AIMD
+trajectories and vibrational frequencies obtained with noisy quantum
+hardware/noise-models show excellent agreement with classical reference
+calculations and substantially improved accuracy relative to previously
+reported VQE-based simulations. Importantly, the SQD-based approach
+eliminates costly variational optimization and significantly reduces
+measurement requirements relative to VQE, enabling AIMD simulations
+spanning approximately 500 timesteps (∼200 fs), substantially
+longer than previously reported AIMD simulations on quantum hardware.
+These results establish SQD-AIMD and SQD-vibrational analysis as practical
+and scalable frameworks for simulating chemical reaction dynamics
+and elucidating reaction mechanisms on near-term quantum hardware,
+extending quantum computing applications beyond static electronic
+structure calculations.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Leveraging Cubenes
+to Access Highly Functionalized
+Fused Cubes</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15216/5449304/Leveraging-Cubenes-to-Access-Highly-Functionalized</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c15216</guid>
+<pubDate>Mon, 12 Oct 2026 20:00:45 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15216/5449304/Leveraging-Cubenes-to-Access-Highly-Functionalized"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c15216/1/m_ja6c15216_0013.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Since 1913, cubane has fascinated chemists owing to its
+remarkable
+structure. More recently, however, cubanes have emerged as attractive
+bioisosteres for aromatic rings. Although substituted derivatives
+are relatively common, ring-fused cubanes (a.k.a. “fused cubes”)
+are rare and can be difficult to access. Here, we report a strategy
+for the synthesis of fused cubes leveraging cubenes, unusual fleeting
+intermediates possessing hyperpyramidalized alkenes, in strain-promoted
+trapping reactions. Further, experimental and computational studies
+for the generation and reactivity of unsubstituted cubene and new
+substituted cubenes are disclosed. These studies not only push the
+limits of strained intermediate chemistry but also provide an entryway
+to highly functionalized fused cubes, including new three-dimensional
+hybrid structures and other unprecedented chemical space.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Structural Rigidity
+Enables Amplified Spontaneous
+Emission in 2D Alkylammonium Tin Perovskites</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14883/5449299/Structural-Rigidity-Enables-Amplified-Spontaneous</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c14883</guid>
+<pubDate>Mon, 12 Oct 2026 19:00:43 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14883/5449299/Structural-Rigidity-Enables-Amplified-Spontaneous"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c14883/1/m_ja6c14883_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Two-dimensional tin perovskites are attracting increasing
+attention
+for coherent light emission, yet the impact of organic cations on
+their properties remains poorly understood. Here, we compare the Ruddlesden–Popper
+(RP) butylammonium tin iodide (BA&lt;sub&gt;2&lt;/sub&gt;SnI&lt;sub&gt;4&lt;/sub&gt;) and
+Dion–Jacobson (DJ) 1,4-diammoniobutane tin iodide (DABSnI&lt;sub&gt;4&lt;/sub&gt;) perovskites to investigate the impact of the two structural
+types on their photophysical and optical gain properties. Combining
+X-ray diffraction and solid-state NMR spectroscopy, we reveal the
+different templating properties of the mono- and ditopic cations on
+the long-range structural order and local coordination environment,
+identifying an unreported phase transition for DABSnI&lt;sub&gt;4&lt;/sub&gt;.
+The constrained molecular motions in the DJ perovskite provide an
+increased structural rigidity that also suppresses vibrational modes
+of the inorganic sublattice. The consequent lower exciton–phonon
+coupling and exciton binding energy, reduced defectivity, and modulation
+of the exciton recombination dynamics create favorable conditions
+to stabilize the population inversion and achieve amplified spontaneous
+emission (ASE) in DABSnI&lt;sub&gt;4&lt;/sub&gt;, in net contrast with BA&lt;sub&gt;2&lt;/sub&gt;SnI&lt;sub&gt;4&lt;/sub&gt; where ASE could not be obtained. This work
+highlights that Dion–Jacobson perovskites can create more rigid
+structural environments with positive feedback on the photophysical
+properties, providing a simple but effective design strategy for the
+synthesis of improved materials for optoelectronic applications.&lt;/span&gt;</description>
+</item>
+<item>
+<title>An “Unachievable”
+Molecular Sieve with
+Sole Six-Membered Rings</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15934/5449284/An-Unachievable-Molecular-Sieve-with-Sole-Six</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c15934</guid>
+<pubDate>Mon, 12 Oct 2026 19:00:43 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15934/5449284/An-Unachievable-Molecular-Sieve-with-Sole-Six"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c15934/1/m_ja6c15934_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The frameworks of zeolite molecular sieves constructed
+from a sole
+type of ring, such as 6-membered rings (6MRs), are regarded as unachievable
+structures that would not even be found in hypothetical zeolite databases
+containing tens of millions of structures. Herein, we for the first
+time report a novel aluminophosphate ZJM-11 molecular sieve, with
+a fully 6-membered ring (6MR) framework, which was successfully obtained
+from topotactic transformation. The obtained structure, which possesses
+fully opened micropores, represents a rare case of a single-ring zeolite
+topology with an ultrahigh framework density, viewed from the perspective
+of conventional wisdom as an “unachievable” molecular
+sieve. Advanced characterizations unveil the dynamic framework reconstruction
+mediated by ZJM-9 and/or ZJM-10 intermediates, pinpointing this structural
+evolution as the essential step toward ZJM-11 formation. This work
+therefore delivers critical knowledge for the rational design of unconventional
+zeolite molecular sieves.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Multiscale Theoretical
+Framework of Piezocatalysis</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13478/5449232/A-Multiscale-Theoretical-Framework-of</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c13478</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:38 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13478/5449232/A-Multiscale-Theoretical-Framework-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c13478/1/m_ja6c13478_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Piezocatalysis, which converts mechanical stimuli into
+chemical
+energy, holds significant promise for noninvasive medical therapies.
+In this process, ultrasonic frequency plays a dual role: it governs
+both the reaction rate and the electromechanical coupling efficiency,
+thereby serving as a critical bridge between microscopic and macroscopic
+physical processes. However, conventional theoretical models lack
+a multiscale description of coupled physical processes and thus fail
+to reveal how frequency dictates catalytic activity. Here, we develop
+an integrated multiscale framework that links, for the first time,
+macroscopic bubble cavitation dynamics, mesoscopic piezoelectric constitutive
+relations, and microscopic chemical reaction rate─with ultrasonic
+frequency as the unifying thread. Our model uncovers the complete
+frequency-dependent activity profile and elucidates the physical origin
+of an optimal frequency, predicting a volcano-shaped activity-frequency
+relationship that agrees well with a range of experimental reports.
+By reinterpreting piezocatalysis from a multiscale physical field
+perspective, this work establishes a new theoretical paradigm for
+the rational design of piezocatalysts.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Benzaldehyde
+Is the Redox Mediator for Aerobic C–N
+Cleavage in Epoxy Composite Recycling</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12176/5449224/Benzaldehyde-Is-the-Redox-Mediator-for-Aerobic-C-N</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c12176</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:38 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12176/5449224/Benzaldehyde-Is-the-Redox-Mediator-for-Aerobic-C-N"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12176/1/m_ja6c12176_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chemical
+methods are promising avenues to recycle fiber-reinforced
+polymer waste. Here, we reintroduce tripotassium phosphate-mediated
+benzyl alcohol conditions for epoxy cleavage. While these conditions
+were developed in 2008 for anhydride-cured epoxy cleavage and have
+been applied to amine-linked epoxy cleavage, no account has been made
+of why these conditions &lt;span style="font-style:italic;"&gt;should&lt;/span&gt; work with the latter,
+or why air exposure appears critical for their success. We now show
+how benzaldehyde, formed &lt;span style="font-style:italic;"&gt;in situ&lt;/span&gt; from benzyl alcohol,
+plays the crucial redox role that enables selective C–N bond
+cleavage: tertiary amines are cleaved by a previously uncharacterized
+mechanism in which benzaldehyde facilitates iminium formation from
+the polymer’s C–N linkage. Subsequent hydrolysis and
+base-promoted elimination cleave the C═N and C–O bonds,
+respectively, enabling the recovery of bisphenol A and release of
+the linking diamines. Carbon fiber (CF) and even glass fiber (GF)
+fabrics are preserved, and recovered CF fabrics are remanufactured
+into second-generation composites with near-virgin quality and mechanical
+performance. These mechanistic insights may inform the future development
+of selective diamine recovery strategies from thermosets, which is
+a challenge when valorizing composites. Collectively, these results
+present promising recycling conditions with the potential to valorize
+matrices and fibers from a wide range of composites, spanning high-performance
+carbon fiber to widely used fiberglass.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Solvent-Dipole
+Deshielding of Hydrated Aluminum Lewis
+Acids for Enhanced 5-Hydroxymethylfurfural Production from
+Biomass</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17126/5448930/Solvent-Dipole-Deshielding-of-Hydrated-Aluminum</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c17126</guid>
+<pubDate>Mon, 12 Oct 2026 12:00:49 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17126/5448930/Solvent-Dipole-Deshielding-of-Hydrated-Aluminum"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c17126/1/m_ja6c17126_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;5-Hydroxymethylfurfural (HMF) is
+a key biomass-derived platform
+chemical for producing furan-based fuels, fine chemicals, and polymers.
+Its production from glucose in homogeneous catalytic systems, however,
+is often limited by the solvation of Lewis acid catalytic centers,
+where coordinating solvent molecules and anions can shield the active
+sites, restrict substrate access, and diminish HMF yield and selectivity.
+Here, we demonstrate that polar aprotic cosolvents can function as
+active components of the catalytic microenvironment rather than passive
+reaction media. In water-rich AlCl&lt;sub&gt;3&lt;/sub&gt; solutions, dimethyl
+sulfoxide (DMSO), &lt;span style="font-style:italic;"&gt;N,N&lt;/span&gt;-dimethylacetamide (DMA), and &lt;span style="font-style:italic;"&gt;N,N&lt;/span&gt;-dimethylformamide (DMF) exert dipole–dipole interactions
+with Al-coordinated water molecules through hydrogen bonding, distorting
+the [Al(H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;6&lt;/sub&gt;]&lt;sup&gt;3+&lt;/sup&gt; solvation shell
+and increasing access to the Lewis acidic Al center without directly
+coordinating to it. Spectroscopic measurements and electronic-structure
+calculations reveal that weakening of the Al–O(water) interaction
+increases in the order of DMF &amp;lt; DMA &amp;lt; DMSO. This solvation-shell
+deshielding decreases the apparent activation energy for glucose-to-fructose
+isomerization from 96 to 79 kJ·mol&lt;sup&gt;–1&lt;/sup&gt; and enables
+an HMF yield of 90% from glucose at 150 °C. Glucose streams derived
+from sugarcane bagasse, poplar sawdust, and palm trunk sawdust afford
+HMF yields exceeding 80%, while the integrated sugarcane-bagasse route
+achieves a 49 mol % HMF yield based on the cellulose originally present
+in the biomass. These results establish dipolar cosolvent control
+of hydrated metal centers as a molecular design principle for homogeneous
+biomass conversion.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Single-Water Microsolvation
+Promotes Proton Sharing
+in a Neutral Formic Acid–Ammonia Complex</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13418/5448920/Single-Water-Microsolvation-Promotes-Proton</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c13418</guid>
+<pubDate>Mon, 12 Oct 2026 11:00:42 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13418/5448920/Single-Water-Microsolvation-Promotes-Proton"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c13418/1/m_ja6c13418_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Can single-water microsolvation promote proton sharing
+in a neutral
+acid–base complex? We address this question for formic acid–ammonia
+by isolating its monohydrated complex with broadband rotational spectroscopy
+and interpreting the resolved &lt;sup&gt;14&lt;/sup&gt;N hyperfine structure with
+calibrated high-level quantum chemistry. The observed complex is a
+single dominant HCOOH–NH&lt;sub&gt;3&lt;/sub&gt;–H&lt;sub&gt;2&lt;/sub&gt;O
+isomer with effective &lt;span style="font-style:italic;"&gt;C&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;s&lt;/span&gt;&lt;/sub&gt; symmetry, in which NH&lt;sub&gt;3&lt;/sub&gt; remains the primary proton acceptor,
+while water closes a cooperative hydrogen-bond cycle by accepting
+from NH&lt;sub&gt;3&lt;/sub&gt; and donating to the carbonyl oxygen. Rather than
+simply stabilizing the binary acid–base contact, this water
+molecule measurably increases its proton-sharing character. A resolved
+A/E tunneling pattern from NH&lt;sub&gt;3&lt;/sub&gt; internal rotation supplies
+the missing orientation needed to rotate the experimental &lt;sup&gt;14&lt;/sup&gt;N quadrupole tensor into the local ammonia frame, yielding an experimental
+χ&lt;sub&gt;&lt;span style="font-style:italic;"&gt;zz&lt;/span&gt;&lt;/sub&gt; component and a quadrupole-derived
+Townes–Dailey ionicity of approximately 26%. High-level structures
+show the same directional response: O–H elongation, H···N
+contraction, and O···N contraction relative to HCOOH–NH&lt;sub&gt;3&lt;/sub&gt;. Together, these results show that one water molecule can
+promote proton sharing in a neutral formic acid–ammonia complex
+without producing a separated ion pair.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Tumor-Activatable
+DNA Nanoengager That Orchestrates
+NK Receptor Clustering and Immune Checkpoint Blockage to Enhance Antitumor
+Cytotoxicity</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15706/5448900/A-Tumor-Activatable-DNA-Nanoengager-That</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c15706</guid>
+<pubDate>Mon, 12 Oct 2026 09:00:49 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15706/5448900/A-Tumor-Activatable-DNA-Nanoengager-That"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c15706/1/m_ja6c15706_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Natural killer cell engagers (NKCEs) are promising immunotherapeutic
+agents for cancer treatment. However, their efficacy against solid
+tumors is severely limited by immune evasion mechanisms (mediated
+by the sialic acid–Siglec axis and PD-1/PD-L1 pathway), along
+with poor pharmacokinetics and off-target effects. Harnessing the
+precision and addressability of DNA origami, we engineered a tissue-specific,
+DNA origami-based, dual checkpoint-inhibiting NK synapse engager.
+This nanoplatform adopts a bilayered barrel architecture: the inner
+layer is functionalized with aNKp46, aPD-L1, and sialidase, while
+the outer layer is modified with the serum albumin-binding peptide
+ABD035 and a pH-sensitive i-motif switch. In the acidic tumor microenvironment,
+the DNA nanoengager undergoes specific dissociation of the outer protective
+layer, exposing the functional modules. These components concurrently
+bridge and activate NK cells, block the PD-L1 immune checkpoint, and
+specifically degrade tumor surface sialic acids, thereby reversing
+dual immunosuppression. This integrated DNA system enables synergistic
+integration of targeted activation, dual checkpoint blockade, and
+tumor microenvironment responsiveness, providing a novel smart nanoscale
+strategy to overcome multifaceted immune evasion in solid tumors and
+enhance the safety and efficacy of NK cell-based immunotherapy.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Stabilization and Transformation
+of MXenes into Flexible
+and Thermal Oxidation-Resistant Non-van der Waals solids via Vapor-Phase
+Chemical Intercalation</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17656/5448875/Stabilization-and-Transformation-of-MXenes-into</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c17656</guid>
+<pubDate>Mon, 12 Oct 2026 08:00:48 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17656/5448875/Stabilization-and-Transformation-of-MXenes-into"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c17656/1/m_ja6c17656_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Non-van der Waals (non-vdW) solids derived from MXenes
+exhibit
+attractive physical and chemical properties but are usually limited
+by the irreversible phase transformation of MXenes into rocksalt structures
+at high temperatures. Herein, we develop a vapor-phase chemical intercalation
+strategy mediated by high-vapor-pressure zinc (Zn) to efficiently
+stabilize the transition metals (Ti, Nb, and V) with unsaturated &lt;span style="font-style:italic;"&gt;d&lt;/span&gt;-orbitals in MXenes. This stabilization facilitates subsequent
+interlayer bonding via reaction with various metal vapors (Al, Ga,
+and In) at elevated temperatures, yielding a family of well-defined
+non-vdW solids with ultrathin layered structures. Moreover, this strategy
+is readily scalable, enabling the fabrication of a continuous non-vdW
+Al–Ti&lt;sub&gt;3&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt; film featuring a heterogeneous
+architecture with a reconstructed MAX-like bonded region and a locally
+unbonded MXene region. These structural features endow the non-vdW
+Al–Ti&lt;sub&gt;3&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt; film with exceptional mechanical
+flexibility, high-temperature oxidation resistance at 800 °C
+in air, and an electrical conductivity of ∼10 000 S
+cm&lt;sup&gt;–1&lt;/sup&gt;. Consequently, the film demonstrates an electromagnetic
+interference shielding effectiveness of up to 47.9 dB at a thickness
+of 5 μm, along with durable infrared stealth performance under
+prolonged exposure at 500 °C for 48 h.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Tailored ZnO/Cellulose
+Separator Reconfigures Solvation
+Chemistry for Durable Magnesium Metal Batteries</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15213/5448874/Tailored-ZnO-Cellulose-Separator-Reconfigures</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c15213</guid>
+<pubDate>Mon, 12 Oct 2026 08:00:48 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15213/5448874/Tailored-ZnO-Cellulose-Separator-Reconfigures"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c15213/1/m_ja6c15213_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Magnesium metal batteries represent
+highly promising
+candidates
+for sustainable energy storage owing to their extremely high volumetric
+capacity (3833 mAh cm&lt;sup&gt;–3&lt;/sup&gt;), abundant raw materials,
+and intrinsic safety. However, their practical viability is severely
+impeded by uneven Mg deposition, catastrophic interfacial side reactions,
+and continuous gassing behavior driven by uncontrolled electrolyte
+decomposition. Herein, we first report an inorganic inter-reinforced
+organic composite separator, fabricated by pairing cellulose with
+a zinc oxide (ZnO)-enhanced layer and designed to regulate the electrolyte
+solvation architecture by effectively anchoring solvent molecules.
+Spectroscopic and theoretical analyses reveal that the electron-deficient
+Zn sites on ZnO enhance the solvent-capture ability of the polar hydroxyl
+groups on cellulose via bidirectional charge transfer. This interaction
+reconfigures the Mg&lt;sup&gt;2+&lt;/sup&gt; solvation sheath into a unique single-cluster
+structure, steering the formation of a dense, ultrathin, inorganic-rich
+solid electrolyte interphase (SEI) that facilitates rapid Mg&lt;sup&gt;2+&lt;/sup&gt; desolvation while suppressing parasitic side reactions. Consequently,
+the as-assembled Mg||Mg symmetric cells deliver an exceptional cycling
+lifespan exceeding 2000 h with minimal overpotential and exhibit robust
+compatibility across diverse electrolyte systems. This inorganic inter-reinforced
+organic strategy for modulating solvation chemistry offers a generalizable
+avenue toward long-life and high-safety magnesium metal batteries.&lt;/span&gt;</description>
+</item>
+<item>
+<title>In Situ Ion-Exchange-Mediated
+Dynamic Nanointerface
+Reconfiguration for Polarity-Switchable Photoelectrochemical–Photothermal
+Biosensing</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c18273/5448651/In-Situ-Ion-Exchange-Mediated-Dynamic</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c18273</guid>
+<pubDate>Mon, 12 Oct 2026 05:00:57 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c18273/5448651/In-Situ-Ion-Exchange-Mediated-Dynamic"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c18273/1/m_ja6c18273_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Conventional photoelectrochemical
+(PEC) systems typically
+rely
+on static semiconductor interfaces that merely translate biomolecular
+recognition into amplitude modulation of the pre-existing photocurrent,
+thus limiting their analytical robustness and self-validation capabilities.
+Herein, we report in situ ion-exchange-mediated dynamic nanointerface
+engineering to fabricate an analyte-programmed reconfigurable PEC–photothermal
+(PT) dual-mode biosensor for the carcinoembryonic antigen (CEA) assay.
+The Z-scheme heterostructure of a plasmonic Au nanoparticle (NP) layer-supported
+BiOI/AgI/indium tin oxide glass (BiOI/AgI/Au NPs/ITO) is constructed
+as the initial photoelectrode. In the sensing process, a CEA recognition
+event directly reshapes the phase composition of BiOI/AgI, charge-transfer
+behavior, and photoresponse polarity. The synergistic integration
+of the BiOI/AgI heterostructure and the close-packed layer of plasmonic
+Au NPs substantially enhance the light absorption, charge separation,
+and interfacial charge transfer, making BiOI/AgI/Au NPs/ITO a highly
+suitable photoelectrode for the PEC mode of the PEC–PT biosensor.
+This analyte-driven phase evolution reconstructs the semiconductor
+composition, band alignment, and charge-transfer pathways to switch
+the photocurrent polarity from cathodic to anodic. In addition, a
+photothermal imaging mode of the PEC–PT biosensor is triggered
+by regulating the Bi&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; formation for intrinsic
+cross-validation. By integrating an artificial neural network (ANN)-assisted
+analysis, PEC–PT biosensors enable robust multimodal quantification
+and improved analytical reliability, achieving &amp;gt; 99.8% prediction
+accuracy in real-sample analysis. This is the first example of integrating
+a dynamic nanointerface-driven PEC–PT dual-mode biosensor with
+artificial intelligence (AI)-enhanced multimodal analysis for CEA
+detection and provides a dynamic nanointerface-driven strategy for
+intelligent multimode biosensing.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Three-Dimensional Covalent
+Organic Framework for the
+Capture of Nitrogen Dioxide</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13425/5448649/Three-Dimensional-Covalent-Organic-Framework-for</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c13425</guid>
+<pubDate>Mon, 12 Oct 2026 05:00:57 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13425/5448649/Three-Dimensional-Covalent-Organic-Framework-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c13425/1/m_ja6c13425_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We report the first adsorption isotherm of nitrogen dioxide
+(NO&lt;sub&gt;2&lt;/sub&gt;) in covalent organic frameworks (COFs). Leveraging
+the dihedral
+angle (43.6°) of the biphenyl unit in biphenyl-3,3′,5,5′-tetracarbaldehyde,
+upon reaction with &lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-phenylenediamine, a three-dimensional
+COF, PKU-800, has been synthesized. Powder X-ray diffraction, hyperpolarised
+solid-state nuclear magnetic resonance spectroscopy, and modeling
+collectively reveal that PKU-800 exhibits a triply interpenetrated &lt;span style="font-style:italic;"&gt;qtz&lt;/span&gt;-type framework structure, which incorporates
+missing-aldehyde defects (∼8%) and thus pendant amine termini
+(∼16%). At 298 K, PKU-800 shows remarkable adsorption of NO&lt;sub&gt;2&lt;/sub&gt; (4.8 and 18.8 mmol g&lt;sup&gt;–1&lt;/sup&gt; at 0.01 and 1.0
+bar, respectively), representing a new benchmark for NO&lt;sub&gt;2&lt;/sub&gt; sorbents. Dynamic breakthrough experiments confirm efficient capture
+of NO&lt;sub&gt;2&lt;/sub&gt; (from 2500 to &amp;lt; 0.1 ppm) by PKU-800 under both
+dry and wet conditions, with dynamic capacities of 4.97 and 5.27 mmol
+g&lt;sup&gt;–1&lt;/sup&gt;, respectively. &lt;span style="font-style:italic;"&gt;In situ&lt;/span&gt; spectroscopic
+and modeling studies reveal that PKU-800 combines a robust three-dimensional
+topology, fully accessible channels, and strong binding interactions
+at both the imine and amino sites to synergistically trap NO&lt;sub&gt;2&lt;/sub&gt;, which can be converted readily to nitric acid upon reaction with
+water in air.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Spin
+Polarization Enhanced Photocatalytic N 2  Reduction on Chiral
+Mesostructured Bi 2 WO 6</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13135/5449231/Spin-Polarization-Enhanced-Photocatalytic-N2</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c13135</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13135/5449231/Spin-Polarization-Enhanced-Photocatalytic-N2"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c13135/2/m_ja6c13135_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Harnessing the earth-abundant N&lt;sub&gt;2&lt;/sub&gt; via photocatalysis
+is a sustainable route to green NH&lt;sub&gt;3&lt;/sub&gt; synthesis. However,
+photocatalytic N&lt;sub&gt;2&lt;/sub&gt; reduction (PNR) remains constrained by
+the high energy barrier for N&lt;sub&gt;2&lt;/sub&gt; activation and reduction.
+In this work, we report that the spin-polarized chiral mesostructured
+Bi&lt;sub&gt;2&lt;/sub&gt;WO&lt;sub&gt;6&lt;/sub&gt; (CMB) can facilitate the formation of
+metastable triplet NOH (&lt;sup&gt;3&lt;/sup&gt;NOH) intermediates, while simultaneously
+promoting the separation and transport of photogenerated charge carriers,
+thereby enhancing PNR performance. The CMB was fabricated via a hydrothermal
+method using tartaric acid as a symmetry-breaking agent. Under sacrificial-agent-free
+conditions, the NH&lt;sub&gt;3&lt;/sub&gt; yield of 1325.5 μmol g&lt;sub&gt;cat&lt;/sub&gt;&lt;sup&gt;–1&lt;/sup&gt; h&lt;sup&gt;–1&lt;/sup&gt; was achieved, representing
+a 4.7-fold enhancement over the best values reported for Bi- and W-based
+catalysts. The pronounced accumulation of the *NOH intermediate, a
+key precursor to NH&lt;sub&gt;3&lt;/sub&gt;, is speculated to originate from the &lt;sup&gt;3&lt;/sup&gt;NOH intermediate, driven by the spin polarization of CMB.
+This work reveals the critical role of spin polarization in regulating
+triplet reaction intermediates and charge-carrier dynamics during
+N&lt;sub&gt;2&lt;/sub&gt; reduction, providing an effective strategy for the design
+of advanced photocatalysts for sustainable NH&lt;sub&gt;3&lt;/sub&gt; synthesis.&lt;/span&gt;</description>
+</item>
+<item>
 <title>An Atomic-Scale
 Chemical Switch for Oxide Ferroelectricity</title>
 <link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14373/5448602/An-Atomic-Scale-Chemical-Switch-for-Oxide</link>
@@ -3642,446 +4087,6 @@ analyze these coupled half-reactions and determine how &lt;span style="font-styl
 deepen the understanding of room-temperature defect chemistry and
 provide guidance for designing functional oxide devices based on controlled
 modulation of ionic defects.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Far-Red Turn-On Fluorogenic
-Probe for Versatile Detection
-of Inorganic Polyphosphates</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14037/5444162/Far-Red-Turn-On-Fluorogenic-Probe-for-Versatile</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c14037</guid>
-<pubDate>Sat, 03 Oct 2026 03:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c14037/5444162/Far-Red-Turn-On-Fluorogenic-Probe-for-Versatile"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c14037/1/m_ja6c14037_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Inorganic polyphosphate
-(polyP) is a ubiquitous phosphate
-biopolymer
-involved in diverse cellular processes. Despite its significance,
-selective detection of polyP remains challenging because of its simple
-and highly charged structure. Here, we report a far-red fluorogenic
-turn-on chemosensor for selective polyP detection and imaging, SiX-DPA-Zn.
-It integrates a silicon-xanthene fluorophore with a Zn(II)-coordinated
-2,2’-dipicolylamine recognition unit. Replacing the bridging
-oxygen in the xanthene scaffold with silicon shifts fluorescence into
-the far-red region and confers up to 100-fold selectivity for inorganic
-polyP over other phosphate-containing biomolecules, including nucleic
-acids and nucleoside di(tri)phosphates. SiX-DPA-Zn enables quantitative
-detection of polyP at micromolar concentrations in microplate assays
-and stains a broad range of polyP species, starting from tripolyphosphate,
-in polyacrylamide gels. In HEK293 cells expressing &lt;span style="font-style:italic;"&gt;Escherichia coli&lt;/span&gt; polyphosphate kinase 1, the probe
-visualizes intracellular polyP and enables quantitative analysis of
-its distribution relative to nuclear proteins─fibrillarin and
-nucleolin. Stimulated emission depletion (STED) microscopy further
-resolves subdiffraction-sized polyP granules within nuclear polyP
-aggregates. Together, these results establish SiX-DPA-Zn as a versatile
-chemical tool for quantitative polyP detection across biochemical
-assays and advanced fluorescence imaging.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Visible Light-Harvesting
-Dinuclear Chromium(III) Complex
-with Anthracene-Based Phosphorescence for Photon Upconversion and
-Photocatalysis</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13239/5444160/Visible-Light-Harvesting-Dinuclear-Chromium-III</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c13239</guid>
-<pubDate>Sat, 03 Oct 2026 00:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13239/5444160/Visible-Light-Harvesting-Dinuclear-Chromium-III"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c13239/1/m_ja6c13239_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Luminescent 3d&lt;sup&gt;3&lt;/sup&gt; chromium(III) complexes are
-emerging
-as highly attractive, earth-abundant alternatives to precious 4d or
-5d metal complexes in photophysical and photochemical applications.
-However, the Laporte-forbidden nature of their d–d transitions
-in the visible region severely hampers the light-harvesting efficiency
-of conventional photoactive Cr&lt;sup&gt;III&lt;/sup&gt; complexes. To overcome
-this fundamental bottleneck, we anchored two anthracene-based antennas
-to the polypyridine ligands in a dinuclear Cr&lt;sup&gt;III&lt;/sup&gt; complex,
-yielding the complex Cr&lt;sub&gt;2&lt;/sub&gt;-An. The resulting energetically
-low-lying π–π* transition in the anthracene antenna
-enhances visible light absorption at 450 nm by a factor of 30 relative
-to the anthracene-free reference complex, Cr&lt;sub&gt;2&lt;/sub&gt;-ref Both
-dimers exhibit ferromagnetic ground-state exchange interactions and
-display room temperature luminescence, albeit originating from different
-excited states. Specifically, Cr&lt;sub&gt;2&lt;/sub&gt;-An exhibits anthracene-based
-phosphorescence with a lifetime of ∼150 ns in solution at room
-temperature, which is likely accessible via two pathways: direct intersystem
-crossing from the singlet excited state of the anthracene fragment,
-or intramolecular doublet-triplet energy transfer from the spin-flip
-excited states of the Cr&lt;sup&gt;III&lt;/sup&gt; centers. These exceptional
-photophysical properties render Cr&lt;sub&gt;2&lt;/sub&gt;-An an attractive photosensitizer
-for triplet–triplet annihilation upconversion (TTA-UC) and
-singlet oxygen-mediated oxidation reactions, delivering photocatalytic
-performance that surpasses the benchmark [Ru(bpy)&lt;sub&gt;3&lt;/sub&gt;]Cl&lt;sub&gt;2&lt;/sub&gt; under visible-light irradiation. These findings offer a powerful
-molecular design strategy for bypassing the intrinsic optical limitations
-of first-row transition metals, opening new avenues for sustainable
-and efficient light energy conversion.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Selective B(4)–H
-Alkoxylation of  o -Carboranes with Alcohols
-via Heteroleptic Cu(I)-Photocatalyzed
-1,5-HAT-Enabled Boron Radical-Polar Crossover</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16285/5444095/Selective-B-4-H-Alkoxylation-of-o-Carboranes-with</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c16285</guid>
-<pubDate>Fri, 02 Oct 2026 18:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16285/5444095/Selective-B-4-H-Alkoxylation-of-o-Carboranes-with"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c16285/1/m_ja6c16285_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Carboranes are an important class of boron cluster compounds
-with
-broad applications in medicine, materials science, and catalysis.
-However, the site-selective functionalization of their B–H
-bonds remains a long-standing challenge owing to the nearly identical
-chemical environments and high bond dissociation energies (BDEs) of
-these bonds. Traditional approaches generally rely on precious metal
-catalysts, harsh reaction conditions, or substrate prefunctionalization,
-which significantly limit their synthetic utility. Herein, we report
-the first direct B–H/O–H cross-coupling of &lt;span style="font-style:italic;"&gt;o&lt;/span&gt;-carboranes with alcohols, enabled by heteroleptic Cu(I) complexes
-under mild photocatalytic conditions. This protocol achieves highly
-regioselective B(4)–H alkoxylation with a broad substrate scope
-and excellent functional group tolerance, providing a facile route
-to diverse carborane-based building blocks. Mechanistic studies reveal
-that the benzoyl directing group effectively amplifies the difference
-in BDEs between B(3)–H and B(4)–H, thereby enabling
-selective activation of the B(4)–H bond via 1,5-hydrogen atom
-transfer (HAT). Notably, for the first time, we demonstrate that a
-boron radical-polar crossover process mediated by the heteroleptic
-copper catalyst converts boron radicals into highly electrophilic
-boron cation intermediates, which can be directly trapped by weakly
-nucleophilic alcohols to form B–O bonds. This work establishes
-a new and general strategy for carborane B–H functionalization
-via radical pathways.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Adaptive
-Cinchona Alkaloid-Derived Organoboron Crystalline
-Sponges Enable Enantioseparation of Weakly Interacting Molecules</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09766/5444092/Adaptive-Cinchona-Alkaloid-Derived-Organoboron</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c09766</guid>
-<pubDate>Fri, 02 Oct 2026 18:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c09766/5444092/Adaptive-Cinchona-Alkaloid-Derived-Organoboron"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c09766/1/m_ja6c09766_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The enantioseparation
-of small, weakly interacting organic molecules
-remains a fundamental challenge, as they lack the functional groups
-required for efficient chiral recognition. Consequently, their enantiopure
-forms are typically accessed &lt;span style="font-style:italic;"&gt;via&lt;/span&gt; asymmetric synthesis
-rather than resolution. Herein, we demonstrate that adaptive supramolecular
-crystalline sponges assembled from air- and moisture-stable cinchona
-alkaloid-derived organoboron complexes enable efficient enantiodiscrimination
-of small ethers, lactones, and cyclic ketones through guest inclusion
-within porous crystalline frameworks. Structural analysis reveals
-that enantioselectivity arises from adaptive confinement within homochiral
-cavities, where subtle framework rearrangements and modulation of
-cavity volume amplify cooperative weak host–guest interactions.
-Systematic tuning of the molecular building blocks affords crystalline
-sponges capable of resolving challenging substrates such as the biobased
-green solvent 2-methyltetrahydrofuran, γ-valerolactone, and
-methylcyclohexanone isomers with enantiomeric excesses of up to 76%.
-These findings establish adaptive confinement in supramolecular crystalline
-sponges as a general mechanism for chiral discrimination in the solid
-state and provide a conceptual framework for enantioseparation beyond
-conventional crystallization-based approaches.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Multi-Field
-CEST NMR Reconstructs a Protein Folding
-Landscape</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16569/5443799/Multi-Field-CEST-NMR-Reconstructs-a-Protein</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c16569</guid>
-<pubDate>Fri, 02 Oct 2026 08:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c16569/5443799/Multi-Field-CEST-NMR-Reconstructs-a-Protein"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c16569/1/m_ja6c16569_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein dynamics
-are central to their folding and function, yet
-the sparsely populated conformational states that underpin these processes
-remain difficult to characterize at atomic resolution. Chemical exchange
-saturation transfer (CEST) NMR can detect such states and is particularly
-sensitive to rapid exchange between two minor conformations. This
-“minor-state exchange”, however, broadens and displaces
-the minor-state dip in CEST profiles, leading to parameter degeneracy
-that can preclude quantitative reconstruction of multistate exchange
-networks. Here, we show that, in the presence of rapid “minor-exchange”,
-the apparent minor-state chemical shift obtained from two-state fits
-varies systematically with the static magnetic field, &lt;span style="font-style:italic;"&gt;B&lt;/span&gt;&lt;sub&gt;0&lt;/sub&gt;. We exploit this field dependence to develop a nonperturbative,
-multi-field CEST strategy that distinguishes otherwise degenerate
-exchange models. Applying multi-field &lt;sup&gt;15&lt;/sup&gt;N-CEST to the model
-protein Im7 revealed a folding intermediate populated at ∼1%
-that exchanges with the folded state on a ∼2 ms time scale
-and with an unfolded state populated at ∼0.4% on a ∼200
-μs time scale. Although the unfolded state does not produce
-a separate CEST dip, its exchange is encoded in the line width and &lt;span style="font-style:italic;"&gt;B&lt;/span&gt;&lt;sub&gt;0&lt;/sub&gt;-dependent position of the intermediate-state
-dip. Analysis of the &lt;sup&gt;15&lt;/sup&gt;N-CEST data provides populations,
-microscopic exchange rates, and residue-specific &lt;sup&gt;15&lt;/sup&gt;N chemical
-shifts for all three states. The resulting Im7 free-energy landscape
-is sequential, with folding proceeding through the intermediate and
-no detectable direct exchange between the folded and unfolded states.
-Multi-field CEST provides a broadly applicable, perturbation-free
-approach for resolving biomolecular dynamics at equilibrium.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Demarcating the Effects
-of Aliphatic Ester Chain Lengths
-and Molecular Weight on Electrode–Electrolyte Interphase Formation
-for Wide-Temperature Operation of Lithium-Ion Batteries</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10537/5443700/Demarcating-the-Effects-of-Aliphatic-Ester-Chain</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c10537</guid>
-<pubDate>Fri, 02 Oct 2026 06:00:48 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10537/5443700/Demarcating-the-Effects-of-Aliphatic-Ester-Chain"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c10537/1/m_ja6c10537_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Conventional nonaqueous electrolytes for lithium-ion
-batteries
-(LIBs) employ carbonate cosolvents to dissociate the Li&lt;sup&gt;+&lt;/sup&gt; salt. Aliphatic esters can be substituted to lower the melting point
-of the electrolyte solution, improving low-temperature performance,
-but suffer from deleterious surface film formation. This work identifies
-the molecular origin of aliphatic ester alkyl and alkoxy chain length
-effects on electrolyte solvation, decomposition, and electrochemical
-performance of LIBs within a wide-temperature range of −60
-to +60 °C in Li&lt;sub&gt;1.02&lt;/sub&gt;Ni&lt;sub&gt;0.8&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; (NMC811) cathode and graphite anode
-full cells. Removal of the alkyl chain and lengthening of the alkoxy
-chain improves low-temperature conductivity at temperatures below
-−40 °C, enabling 110 mAh g&lt;sup&gt;–1&lt;/sup&gt; of C/10
-discharge capacity at −60 °C, and 122 mAh g&lt;sup&gt;–1&lt;/sup&gt; of reversible capacity when cycling at −40 °C. Long
-alkoxy esters are shown to exhibit greater reactivity with both electrodes,
-and their decomposition products were identified by nuclear magnetic
-resonance (NMR) spectroscopy and X-ray photoelectron spectroscopy
-(XPS). Ternary solvent blends were then developed to limit the reactivity
-of the esters and improve the +60 °C cycling performance at the
-expense of the −60 °C discharge capacity. This work establishes
-a structure–property framework, grounded in the intrinsic electronic
-structure of the ester chain lengths, for tuned ester-electrolyte
-design for wide-temperature LIB operation.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Stereoselective Glycosylation
-of Amides with Glycal
-Catalyzed by a Solid–Liquid Phase-Transfer and Proton-Transfer
-Dual-Functional Pyridinium Catalyst</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17350/5443696/Stereoselective-Glycosylation-of-Amides-with</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c17350</guid>
-<pubDate>Fri, 02 Oct 2026 06:00:48 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17350/5443696/Stereoselective-Glycosylation-of-Amides-with"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c17350/1/m_ja6c17350_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;2-Deoxyglycosylamides have great potential for biochemical
-applications,
-but their streamlined synthesis remains underexplored. Herein, 2-pentafluorophenylpyridinium
-tetrafluoroborate was designed for highly stereoselective glycosylation
-of amides with glycals. Besides the challenging substrates like glucals,
-the method also works well with previously unexplored 6-deoxy-sugars,
-including rhamnals, xylals, and arabinals, and is additionally suitable
-for glycosylation of complex bioactive peptides. Experiments have
-revealed this new catalyst’s unique phase-transfer and proton-transfer
-dual functionality by identifying reaction intermediates and products,
-as well as determining reaction kinetics and KIEs. The experimental
-evidence combined with DFT calculations led to the conclusion that
-glycals accept a proton from the catalyst to form oxocarbenium intermediates
-that are then nucleophilically attacked by amides from an equatorial
-direction, thereby explaining the high stereoselectivity that this
-method exhibits.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Engineering
-Metal Pyrazolate Coordination Polymers
-for Highly Selective Direct Air Capture via Metal–Ligand Cooperativity
-and Moisture-Gated Mechanism</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15929/5443691/Engineering-Metal-Pyrazolate-Coordination-Polymers</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c15929</guid>
-<pubDate>Fri, 02 Oct 2026 05:00:51 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15929/5443691/Engineering-Metal-Pyrazolate-Coordination-Polymers"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c15929/1/m_ja6c15929_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Direct air capture
-(DAC) of CO&lt;sub&gt;2&lt;/sub&gt; has emerged as an indispensable
-negative emission technology, yet current sorbents remain constrained
-by the persistent trade-off between intrinsic capture capacity and
-regeneration energy alongside the extrinsic challenge of atmospheric
-moisture inhibition. Herein, engineering of crystalline and thermally
-stable alkali metal pyrazolate coordination polymers (&lt;strong&gt;M&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/sup&gt;&lt;strong&gt;Pyr&lt;/strong&gt;) is established as a novel
-paradigm for the metal–ligand cooperative (MLC), moisture-gated,
-and highly selective capture of CO&lt;sub&gt;2&lt;/sub&gt; from ambient air streams.
-While inert in low-humidity air, activation of solid-state &lt;strong&gt;M&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/sup&gt;&lt;strong&gt;Pyr&lt;/strong&gt; by atmospheric moisture
-unlocks exceptional CO&lt;sub&gt;2&lt;/sub&gt;-capture capacities (7.4–9.2
-mmol/g) and realizes a substantial CO&lt;sub&gt;2&lt;/sub&gt;:pyrazolate stoichiometry
-(0.83–0.89) through formation of metal carbamate (&lt;strong&gt;M&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/sup&gt;&lt;strong&gt;Carbamate&lt;/strong&gt;). To elucidate the
-operative mechanism, crystallographic snapshots and &lt;span style="font-style:italic;"&gt;in&lt;/span&gt;/&lt;span style="font-style:italic;"&gt;ex situ&lt;/span&gt; spectroscopic analyses unveil that MLC
-hydration of &lt;strong&gt;K&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;Me&lt;/strong&gt;&lt;/sup&gt;&lt;strong&gt;Pyr&lt;/strong&gt; yielding &lt;strong&gt;K&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;Me&lt;/strong&gt;&lt;/sup&gt;&lt;strong&gt;Pyr&lt;/strong&gt;·&lt;strong&gt;H&lt;/strong&gt;&lt;sub&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/sub&gt;&lt;strong&gt;O&lt;/strong&gt; triggers
-a substantial structural rearrangement from a compact double-ladder
-chain into an expanded zig-zag architecture. This moisture-gated transformation
-relieves steric shielding and unleashes intrinsic nucleophilicity
-of pyrazolate ligands to initiate CO&lt;sub&gt;2&lt;/sub&gt; capture via a thermodynamically
-favored displacement of bound water. Finally, quantitative regeneration
-of &lt;strong&gt;M&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/sup&gt;&lt;strong&gt;Pyr&lt;/strong&gt; from CO&lt;sub&gt;2&lt;/sub&gt;-saturated &lt;strong&gt;M&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/sup&gt;&lt;strong&gt;Carbamate&lt;/strong&gt; adducts and demonstrated multiple-cycle recyclability under a temperature-vacuum
-swing adsorption process position the robust &lt;strong&gt;M&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/sup&gt;&lt;strong&gt;Pyr&lt;/strong&gt; platform as a paradigm-shifting class
-of sorbents for sustainable DAC applications.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Redox-Active Bipyridine–Iron
-Half-Sandwich
-Complexes for Catalytic Carbene Transfer</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12059/5443690/Redox-Active-Bipyridine-Iron-Half-Sandwich</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c12059</guid>
-<pubDate>Fri, 02 Oct 2026 04:00:31 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12059/5443690/Redox-Active-Bipyridine-Iron-Half-Sandwich"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12059/1/m_ja6c12059_0013.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Redox-active ligands are well established for enabling
-open-shell
-reactivity in first-row transition-metal catalysis. Despite the privileged
-role of 2,2′-bipyridine (bpy) ligands in homogeneous catalysis,
-bpy-supported half-sandwich organoiron complexes have remained essentially
-unexplored. Here we report the synthesis and characterization of a
-previously elusive family of half-sandwich iron complexes, (η&lt;sup&gt;5&lt;/sup&gt;-C&lt;sub&gt;5&lt;/sub&gt;Me&lt;sub&gt;5&lt;/sub&gt;)Fe(bpy)(X) (X = Cl, Br), and
-their application in catalytic carbene transfer. Single-electron reduction
-affords a low-valent 17-electron complex best described as having
-a predominantly Fe(II)/bpy&lt;sup&gt;•–&lt;/sup&gt; electronic structure.
-In contrast to classical (η&lt;sup&gt;5&lt;/sup&gt;-C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;5&lt;/sub&gt;)Fe(CO)&lt;sub&gt;2&lt;/sub&gt; (Fp)-type iron systems that mainly engage in
-two-electron reactivity, the redox-active bpy–(η&lt;sup&gt;5&lt;/sup&gt;-C&lt;sub&gt;5&lt;/sub&gt;Me&lt;sub&gt;5&lt;/sub&gt;)Fe platform undergoes homolytic
-bond activation, including halogen-atom transfer from benzylic &lt;span style="font-style:italic;"&gt;gem&lt;/span&gt;-dihalides. Leveraging this open-shell reactivity, catalytic
-cyclopropanation of styrenes and related alkenes was achieved using &lt;span style="font-style:italic;"&gt;gem&lt;/span&gt;-dihalides as carbene precursors and manganese as terminal
-reductant. These findings establish bpy-supported half-sandwich iron
-complexes as a structurally tunable, non-heme platform for catalytic
-carbene transfer reactivity.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Chirality-Induced
-One-Way Magnetoresistance in Gold
-Nanocrystals</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08887/5443665/Chirality-Induced-One-Way-Magnetoresistance-in</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c08887</guid>
-<pubDate>Fri, 02 Oct 2026 03:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08887/5443665/Chirality-Induced-One-Way-Magnetoresistance-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c08887/1/m_ja6c08887_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Magnetoresistance
-(MR), a cornerstone for quantum materials and
-quantum devices, is usually symmetric (sometimes antisymmetric) under
-magnetic field reversal. Here, we report a chirality-induced one-way
-magnetoresistance (ChiMR) in gold nanocrystals, where MR is strongly
-amplified, up to several tens of fold, under a small magnetic field
-(30 mT), but vanished under the opposite field, yielding a diode-like
-magnetic response at room temperature. The preferred direction of
-ChiMR is dictated by the nanocrystal handedness, which reverses for
-opposite enantiomers. We show that chirality and a magnetic field
-jointly reshape the nanocrystal surface potential, giving rise to
-ChiMR. This effect demonstrates that chirality can break the conventional
-symmetry of magnetotransport, introducing a new degree of freedom
-for controlling the magnetic response. Our findings establish ChiMR
-as a distinct magnetotransport phenomenon, identify chiral nanocrystals
-as a platform for directional quantum electronic functionalities,
-and open new opportunities for magnetic field-mediated control in
-chiral systems across electronics, catalysis, and biological processes.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Electrochemical
-Hydroformylation with a Homogeneous
-Rhodium Catalyst</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15582/5443656/Electrochemical-Hydroformylation-with-a</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c15582</guid>
-<pubDate>Fri, 02 Oct 2026 03:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15582/5443656/Electrochemical-Hydroformylation-with-a"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c15582/1/m_ja6c15582_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Electrochemical hydroformylation
-is an attractive pathway to synthesize
-aldehydes at ambient conditions using electrons sourced from renewable
-energy as a reductant instead of hydrogen gas sourced from energy-intensive
-steam methane reforming. However, previously reported electrochemical
-hydroformylation systems have shown limited rates and selectivities
-using heterogeneous catalysts, motivating continued development. In
-this work, we report a homogeneously catalyzed system that achieved
-a maximum partial current density of 1.1 ± 0.1 mA cm&lt;sup&gt;–2&lt;/sup&gt; and a Faradaic efficiency of 29 ± 1% toward the conversion
-of styrene to 2-phenylpropanal at 5 bar CO and 25 °C. Infrared
-and UV-visible spectroscopies suggested that the initial Rh&lt;sub&gt;2&lt;/sub&gt;Cl&lt;sub&gt;2&lt;/sub&gt;(CO)&lt;sub&gt;4&lt;/sub&gt; precatalyst undergoes pressure-dependent
-speciation to Rh(I)–CO species in the presence of CO. Kinetic
-experiments revealed a complex mechanism in which the rate-determining
-step likely shifts between electron transfer, substrate coordination,
-and Rh–H bond cleavage in different substrate concentration
-and overpotential regimes. Looking forward, the insight from this
-work informs future strategies to improve the rate and selectivity
-of electrochemical hydroformylation and other electrochemical C–C
-bond formation reactions.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Widespread Biosynthesis
-of Thiohistidine Dipeptides
-in Bacteria</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c03714/5443653/Widespread-Biosynthesis-of-Thiohistidine</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c03714</guid>
-<pubDate>Fri, 02 Oct 2026 02:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c03714/5443653/Widespread-Biosynthesis-of-Thiohistidine"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c03714/1/m_ja6c03714_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Natural products have been paramount in inspiring novel
-chemistry
-as well as providing therapeutic agents and chemical tools for biological
-applications. A recently emerging class of natural products, the thio/seleno-imidazoles
-(TSIs), contains C–S or C–Se bonds that are installed
-by nonheme iron sulfoxide and selenoxide synthases (NHISSs). These
-TSIs, which include ergothioneine, are ubiquitous, but little is known
-about the broader TSI chemical space or co-occurrence with other biosynthetic
-enzymes. Here, we use NHISSs as a bioinformatic hook to identify a
-widespread family of biosynthetic gene clusters that encode a combination
-of NHISS and ATP-grasp enzymes. This search strategy enabled the discovery
-of two 2-thiohistidine-containing dipeptide natural products, one
-of which we isolated from the original microbial host. Structural
-and biochemical analyses of the corresponding biosynthetic enzymes
-revealed a novel NHISS active site architecture and an ATP-grasp enzyme
-with unprecedented substrate selectivity for 2-thiohistidine. Together,
-these results expand the known enzymology and distribution of TSIs
-and establish 2-thiohistidine as a biosynthetically encoded building
-block, enabling future discovery and functional investigation into
-this new natural product family.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Enantio-
-and Regioselective Ni-Catalyzed Hydroarylation
-of Alkenes and Alkynes to Form C–N Axially Chiral Heterobiaryls</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13713/5443650/Enantio-and-Regioselective-Ni-Catalyzed</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c13713</guid>
-<pubDate>Fri, 02 Oct 2026 02:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c13713/5443650/Enantio-and-Regioselective-Ni-Catalyzed"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c13713/1/m_ja6c13713_0017.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;C–N
-axially chiral heterobiaryls are highly valuable yet
-synthetically challenging scaffolds. Atroposelective hydroarylation
-represents an ideal strategy for their construction, offering both
-high step- and atom-economy. Herein, we report an enantio- and regioselective
-Ni-catalyzed hydroarylation of unactivated alkenes for the efficient
-synthesis of C–N axially chiral heterobiaryls. The sterically
-demanding chiral &lt;span style="font-style:italic;"&gt;N&lt;/span&gt;-heterocyclic carbene (NHC) ligands
-enable excellent control over regioselectivity and enantioselectivity,
-affording a broad range of axially chiral products in good to excellent
-yields with up to 98% ee. The reaction exhibits broad substrate scope
-and high functional-group tolerance. Furthermore, the catalytic strategy
-could be extended to the atroposelective hydroarylation of alkynes,
-providing direct access to axially chiral alkenyl heterobiaryls with
-excellent chemo-, regio-, enantio- and &lt;span style="font-style:italic;"&gt;E/Z&lt;/span&gt;-selectivity.
-Notably, the use of MeONa proved crucial for precise control of alkene
-geometry. This study provides a robust platform to advance the development
-of atroposelective hydroarylation reactions, enabling the construction
-of a series of novel C–N axially chiral scaffolds.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Monofluoromethylphenylalanine:
-A Sensitive  19 F Probe for Protein Conformational Dynamics  In Vitro  and in Cells</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12448/5443648/Monofluoromethylphenylalanine-A-Sensitive-19F</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c12448</guid>
-<pubDate>Fri, 02 Oct 2026 02:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c12448/5443648/Monofluoromethylphenylalanine-A-Sensitive-19F"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c12448/1/m_ja6c12448_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The combination of site-specific incorporation of &lt;sup&gt;19&lt;/sup&gt;F-labeled unnatural amino acids (UAAs) and &lt;sup&gt;19&lt;/sup&gt;F
-nuclear
-magnetic resonance (NMR) spectroscopy is a powerful strategy for investigating
-protein structure, dynamics, and interactions. However, commonly used &lt;sup&gt;19&lt;/sup&gt;F-containing UAAs often suffer from narrow chemical shift
-dispersion and low sensitivity to environmental or protein conformational
-changes, especially in complex cellular conditions. Herein, we report
-a &lt;sup&gt;19&lt;/sup&gt;F-labeled unnatural amino acid, monofluoromethylphenylalanine
-(mfmF, CH&lt;sub&gt;2&lt;/sub&gt;F-Phe), which displays superior spectroscopic
-properties for both &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt; and in-cell &lt;sup&gt;19&lt;/sup&gt;F NMR studies. Using genetic code expansion, CH&lt;sub&gt;2&lt;/sub&gt;F-Phe
-was efficiently site-specifically incorporated into two model proteins
-light-oxygen-voltage sensing domain 2 (LOV2) and Calmodulin (CaM).
-Compared to trifluoromethylphenylalanine (CF&lt;sub&gt;3&lt;/sub&gt;-Phe), CH&lt;sub&gt;2&lt;/sub&gt;F-Phe exhibits broader &lt;sup&gt;19&lt;/sup&gt;F chemical shift dispersion
-and markedly enhanced sensitivity to environmental changes. Using
-this synthesized &lt;sup&gt;19&lt;/sup&gt;F NMR probe, we successfully achieved
-sensitive detection of the light-induced conformational transition
-of LOV2 &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt;. Furthermore, CH&lt;sub&gt;2&lt;/sub&gt;F-Phe-incorporated
-CaM displayed remarkably sensitive and substantially larger &lt;sup&gt;19&lt;/sup&gt;F chemical shift differences (&amp;gt;1.0–2.0 ppm) between the
-apo-
-and Ca&lt;sup&gt;2+&lt;/sup&gt;-bound states compared to CF&lt;sub&gt;3&lt;/sub&gt;-Phe-labeled
-CaM, enabling the detection of previously unresolved intermediate
-states during Ca&lt;sup&gt;2+&lt;/sup&gt;-dependent conformational transitions
-in living cells. Collectively, CH&lt;sub&gt;2&lt;/sub&gt;F-Phe serves as an invaluable
-probe to characterize protein dynamics and interactions.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Activity-Guided Identification
-of Pro-inflammatory
-Neutrophils with Dual Enzyme- and Metabolite-Activatable Fluorescent
-Probes</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17455/5443640/Activity-Guided-Identification-of-Pro-inflammatory</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c17455</guid>
-<pubDate>Fri, 02 Oct 2026 01:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17455/5443640/Activity-Guided-Identification-of-Pro-inflammatory"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c17455/1/m_ja6c17455_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Neutrophils are the most abundant circulating leukocytes
-in the
-innate immune system. Primary neutrophils comprise multiple distinct
-subtypes that regulate antimicrobial defense and inflammatory diseases.
-Current fluorescent probes for imaging neutrophils cannot distinguish
-between activation mechanisms. In this work, we present dual enzyme-
-and metabolite-activatable fluorogenic probes that are selective for
-activated neutrophils prone to inflammatory responses. Our probes
-integrate, within a single scaffold, two neutrophil-associated activation
-mechanisms, that is, cathepsin G–mediated cleavage of FRET
-substrates and fluorophore oxidation by hypochlorous acid. This chemical
-design allows the selective identification of activated neutrophils
-over other immune cells from peripheral blood of human donors. This
-strategy provides a unique approach for in situ analysis of neutrophil
-heterogeneity in multiple pathologies, including different inflammatory
-diseases.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
