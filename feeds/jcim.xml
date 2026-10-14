@@ -5,13 +5,185 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Latent Style-Based
+Quantum Wasserstein GAN for Drug
+Design</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01249/5450225/Latent-Style-Based-Quantum-Wasserstein-GAN-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01249</guid>
+<pubDate>Tue, 13 Oct 2026 17:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01249/1/m_ci6c01249_0012.png?Expires=2147483647&amp;amp;Signature=5D26TLARrJHENp9P31UhQpvG0aiFl-1SXBCgLOJNL-amS4qq1gMidootIDEHoD~y2dwLm8CQMtjnL~KLaYI7Pnuh1~WjpV7EpnuXKH~43OPsJYVPJ722QqKd-dRJua62Su78s8E8dsTNZIjQhGiooz2iK9vULRvIUA~AwwwXqw6qJxaMAC7pNoRjADb8DMWdgnGBx1nm1d34YTh7TfnX-GAYnWOh8mYxXwoCll4bUD-HeBmIdPIWFAwPn9MApBKKrNo3dNwrLfLq9j4RSSgE7skQznxVWkSfr1qdWtesEK~v5DxeY9CZoMKXg~~YVgZiCYw2QQMb16ZWbrCT8xdF4w__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Latent Style-Based
+Quantum Wasserstein GAN for Drug
+Design" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The development of new drugs is a tedious, time-consuming,
+and
+expensive process for which the average costs are estimated to be
+up to around $2.5 billion. The first step in this long process is
+the design of the new drug, for which de novo drug design, assisted
+by artificial intelligence, has blossomed in recent years and has
+revolutionized the field. In particular, generative artificial intelligence
+has delivered promising results in drug discovery and development,
+reducing costs and time to solution. However, classical generative
+models, such as generative adversarial networks (GANs), can be difficult
+to train and are prone to mode collapse. Quantum computing may be
+an avenue to overcome some of these issues, providing compact models
+with far fewer trainable parameters and thereby enhancing the generalizability
+of GANs. We propose a new latent style-based quantum Wasserstein GAN
+(QGAN) for drug design, combining a variational autoencoder that maps
+molecular structures into a latent space with a hybrid quantum GAN.
+Our pipeline is benchmarked against the classical models of the industry-relevant
+MOSES suite. Style-based noise reuploading at every rotational gate
+and a Wasserstein gradient penalty are used to improve trainability
+and to mitigate mode collapse. Training and large-scale sampling with
+circuits of up to 15 qubits are performed on noiseless quantum simulators
+to validate our architecture. We present an inference-only demonstration
+on a 156-qubit IBM Heron quantum computer using a five-qubit setup,
+sampling 2,500 new molecules, to investigate the effect of quantum
+noise. Our default QGAN, using 110 trainable generator parameters,
+reaches statistically comparable overall performance and statistically
+significant gains on selected drug-relevant metrics relative to both
+the MOSES classical latent GAN baseline, which contains about 700,000
+trainable parameters for the generator, and a classical latent GAN
+with matched generator capacity.&lt;/span&gt;</description>
+</item>
+<item>
+<title>RNADaemon: Reinforcement
+Learning-Guided Molecular
+Dynamics for RNA Tertiary Structure Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02247/5449784/RNADaemon-Reinforcement-Learning-Guided-Molecular</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02247</guid>
+<pubDate>Tue, 13 Oct 2026 13:00:42 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02247/1/m_ci6c02247_0007.svg?Expires=2147483647&amp;amp;Signature=pG57vOLtVWN2ZKQimprjO9CvkxzlAturisle301PI~V0YDxtQgVHp6A4K2HsvxQTDbyLY~NUiiIWlLRY~PirRIWy-cLNELCgE74T6Nx1tinPhqVyPXtHyZGw2V7hJsTZNPZ1yqPW8cQTG26SalJ3c36AOpCuJuiCJcP5cwzTX~yV4KmP4DAArZwuRltiaBvJkjqaTS-kCCSggs65L1PvKXJMgcxQUC6YHQUVpA3qtYUpekbifKqv6HHXWLwC-O0AZTrX7gnmqeiiUYDth4QvGhwg6zvZmNLCFqX1P7Nnqn~46HOkMA-E6MIeAQ4H-puJYALo4djmN95R4O7rxlf6Jw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="RNADaemon: Reinforcement
+Learning-Guided Molecular
+Dynamics for RNA Tertiary Structure Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of RNA tertiary structure remains
+a central
+challenge in structural biology, yet existing computational approaches
+face fundamental limitations arising from the ruggedness of the RNA
+free-energy landscape and the scarcity of experimentally resolved
+structures. Here we present RNADaemon, a framework that formulates
+RNA tertiary structure prediction as a Markov Decision Process and
+trains a Soft Actor-Critic agent to apply adaptive external force-field
+biases that steer all-atom molecular dynamics toward native-like conformations
+to minimize the eRMSD metric. Trained on 479 monomeric RNA structures
+and evaluated on 14 test cases from CASP16, RNA-Puzzles, and the PDB,
+the agent trains stably, approaches SimRNA and FARFAR2 in median RMSD,
+and recovers the global fold of most reference structures. However,
+performance remains markedly inferior to that of AlphaFold 3 and trRosettaRNA.
+We identify the scalar Bellman error as a fundamental information
+bottleneck that currently limits the performance of the agent. To
+our knowledge, this is the first application of continuous-action
+deep reinforcement learning (RL) with all-atom force fields to RNA
+tertiary structure prediction. This study establishes a benchmark
+for future comparisons and provides diagnostic insights for RL-guided
+RNA structure modeling.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Hashi : Bridging Statistical Model
+Derived 1D Microstate Encodings and Protein 3D Structural Ensembles</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01760/5449549/Hashi-Bridging-Statistical-Model-Derived-1D</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01760</guid>
+<pubDate>Tue, 13 Oct 2026 08:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01760/1/m_ci6c01760_0005.png?Expires=2147483647&amp;amp;Signature=3tEvDQzR~1OnF9HGvgu0ufbaCD7hVlHzzDRH19w3ddTnJDhRmGLoNTPRkNHfMRbXZ783hwKHUpteRjIBYKvA9-0yyuRtMz0W6A~gCb5ENTLoYgsEAMZ5iGUf0cTVLHalrdT~4GwuOdmozEAE5atO-iM~fxO~JWUJ2GNhMVL9uR4cWMBj24jzHHi9UjWxmh5meqPzHQOrJSAO~iBC7A5Ce1hRt~0EkLwROowVcYaZjaGiA3GduFaqH8e29H3A2n~dvf7QaPt1666oIGaJlxxt1zY20PK8KG6Nlp2B1scnt7wBYe8e354~qoWdaBB~xdPPwN~tI1C9uY5gg3cCG6eOgg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt=" Hashi : Bridging Statistical Model
+Derived 1D Microstate Encodings and Protein 3D Structural Ensembles" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The functioning of proteins is intimately linked to the
+conformational
+states they sample within the native ensemble. Generating ensembles
+from a single static structure is therefore a research domain receiving
+considerable attention. In this application note, we introduce &lt;span style="font-style:italic;"&gt;Hashi&lt;/span&gt;, a pipeline to rapidly generate realistic structural
+ensembles from the outputs of the structure-based Wako–Saitô–Muñoz–Eaton
+(WSME) statistical mechanical model of protein folding. This approach
+relies on integrating the block WSME model outputs─strings
+of zeros and ones describing the conformational status of every residue
+over thousands or millions of microstates, each assigned a statistical
+weight derived from physically grounded energy-entropy terms, and
+free energy profiles─with the RANCH module of the ensemble
+optimization method from the ATSAS software suite, providing three-dimensional
+views of the structural ensembles within the model framework. It is
+applicable to a variety of single-chain monomeric systems with lengths
+ranging from 30 to 500 residues, including globular and repeat proteins.
+Ensembles can be generated within seconds to minutes on a standard
+computer, without recourse to high-performance computational clusters.
+The generated structural ensembles can also be rank-ordered according
+to their free energies within a given macrostate or a range of reaction
+coordinate values. Since the statistical weights of the WSME model
+microstates can be reweighted or calibrated with experiments, the
+ensembles shed light on not just the folding mechanism but also on
+the structural excursions that determine function and opening of otherwise
+buried binding pockets.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Hiccup: A Resource-Efficient Automated Platform for
+High-Performance Global Neural Network Potentials Training</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02301/5449454/Hiccup-A-Resource-Efficient-Automated-Platform-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02301</guid>
+<pubDate>Tue, 13 Oct 2026 04:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02301/1/m_ci6c02301_0006.png?Expires=2147483647&amp;amp;Signature=BruH9nrci571tz4DR2XLuFNU6mmZpgQ95BysL8TlBWO7ZBGlYQnc0vLzsgNAWFJFkwYmZI6TEtBx1mxmdpGrwgEioNJsBvA10itSGjTI0mCYWx-wyXpYGmql-3iUO7nbPYqI~nZvaWd8m4jhbl~tRl--Dggl2oc-fAjoEzaFr8hgvQwOxym1GMRaozD2wWQYItU4VGs-SIGZmeX-7Ptz6FH2X0zV~dbwBGlPz7Do3~fFHbzUBnFVq-fet5utcqBlDqE5F5ABPFqLiiRpFwJUwVnwLnx9kDCiMR~YPWbKih5Cjh5~uypm6SbCOnCXoYY8oG2NrEgJAuo~HJZ2VRGwRQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Hiccup: A Resource-Efficient Automated Platform for
+High-Performance Global Neural Network Potentials Training" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Neural
+network potentials (NNPs) enable atomistic simulations with
+near-first-principles accuracy at greatly reduced cost, yet the construction
+of specialized high-accuracy NNPs for complex systems remains limited
+by expert-dependent workflows and the challenge of achieving high
+accuracy and robust generalization under limited computational budgets.
+Here we present Hiccup, a resource-efficient automated platform for
+training high-performance global NNPs. Hiccup leverages prior guidance
+from universal NNPs to overcome the cold-start bottleneck of active
+learning, and integrates this initialization with hierarchical genetic
+algorithm–molecular dynamics (GA–MD) sampling to enable
+both broad configurational exploration and targeted refinement of
+low-energy basins. Building on these algorithmic advances, the platform
+further implements an asynchronous submit-and-forget scheduling mechanism
+that minimizes resource idling by overlapping first-principles labeling
+with subsequent sampling, training, and evaluation on the GPU. We
+demonstrate the application and efficiency of Hiccup using the Cu–Y–O
+ternary system as a case study. The resulting system-specific NNP
+achieves near-first-principles accuracy in static predictions and
+exhibits robust long-time dynamical fidelity across a broad thermodynamic
+range. These results establish Hiccup as a practical and scalable
+infrastructure for automated construction of high-quality interatomic
+potentials for chemically complex systems.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Drug-Likeness,
+Druggability, and Molecular Developability
+via Chemometric Evaluation: A Review</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02860/5449434/Drug-Likeness-Druggability-and-Molecular</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02860</guid>
+<pubDate>Tue, 13 Oct 2026 03:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02860/1/m_ci6c02860_0009.png?Expires=2147483647&amp;amp;Signature=ABBoMgbUCh0ZbJdC16SG3pUDyBHhGmskvhZn2qgaXIhxYlbss83wc9jAKChSUdsN7QuXuFrg6eX34kZ9QbFBjOgCsZuiaqNRnxouLFS7qnvVWrlNx0uEEJBdl2hGcjVr8nNkzpeZ6qXV11aMcus5gQY3qii83kRF4v6wsbHPldj6sOlx7iadvGHhgi0Bp79f38j2WtuX-W1JB33qkZwgxPREAeLu9sJqdP7zb~OyV1b6oPj1yWdcDqnKmY27ZHG4RPy-S94Yo7fQknrkG3DpU-2xzLjgGHhph~ncfvzQnvq0KITy74bHpY9cwQSuU-jn4BwwJTJIkSV5q7TrsoxarA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Drug-Likeness,
+Druggability, and Molecular Developability
+via Chemometric Evaluation: A Review" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;High attrition rates constitute a major bottleneck in
+small-molecule
+drug discovery, largely arising from poor molecular developability
+rather than an insufficient pharmacological activity. Drug-likeness,
+druggability, and molecular developability represent complementary
+evaluation concepts that address different aspects of small-molecule
+drug discovery. Nevertheless, inconsistent terminology, fragmented
+evaluation frameworks, and inherent drawbacks of traditional empirical
+workflows impair the reliability and applicability of molecular property
+assessment. As powerful multivariate analytical tools, chemometric
+methods overcome these limitations and enable quantitative, systematic,
+and high-throughput molecular property evaluation. This Review clarifies
+the definitions and relationships among the three concepts and summarizes
+their classical evaluation approaches. Following the paradigm shift
+from empirical rules to chemometric modeling, multiobjective optimization,
+and large-model prediction, advanced computational pipelines are categorized
+into direct molecular similarity evaluation and predictive modeling
+of key molecular properties. We discuss the principles, progress,
+performance, strengths, and limitations of each technical strategy
+and highlight their synergistic values in lead discovery, structural
+modification, multiobjective optimization, and focused library design.
+Finally, challenges for standardized molecular-evaluation systems
+are analyzed, and future trends of chemometrics-assisted multiobjective
+optimization and large-model-driven intelligent molecular profiling
+are prospected.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Deciphering Cellular
 and Spatial Regulatory Identities
 from Sparse Chromatin Accessibility Landscapes</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02880/5449424/Deciphering-Cellular-and-Spatial-Regulatory</link>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c02880</guid>
 <pubDate>Tue, 13 Oct 2026 02:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02880/5449424/Deciphering-Cellular-and-Spatial-Regulatory"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02880/1/m_ci6c02880_0008.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chromatin
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02880/1/m_ci6c02880_0008.svg?Expires=2147483647&amp;amp;Signature=ezUTNrkrpOEL43UV-mlqCedbjomIEub8LIwOqq79JcmpAqfZfu4hRguHWaXIkt3B19Jx3lV6xFdpqGqgbUVei-3dMXf9945Oyumnkyw0QpnvMnag~z-Z2UHc4BMqqhihsTFCJ5XVctshbtH1qu-AQzOaLv4skyTyX0n14vbQA3s5P6FONYbIgsT~p4avtQzMriiCe8MTWkTVYqygNKH4U5zlsT13NX~O1Py0upi4JSSy-e5MRjm~KOwFlJ-ymjWhzEhjIbZB3C8ajvBh2ZUX2m0zfNZgrOzZDKcJhgEJXD9cvc70995UbBIWvzbVTCFuYDjuZjv7Zml2MQZVuSOS3A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Deciphering Cellular
+and Spatial Regulatory Identities
+from Sparse Chromatin Accessibility Landscapes" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chromatin
 accessibility profiling provides a powerful view of regulatory
 landscapes across heterogeneous biological systems, enabling the investigation
 of cell-state diversity and spatially organized regulatory programs.
@@ -50,7 +222,10 @@ Acceptors</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02209/5449418/A-Transferable-Descriptor-for-Accurate-Prediction</link>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c02209</guid>
 <pubDate>Tue, 13 Oct 2026 02:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02209/5449418/A-Transferable-Descriptor-for-Accurate-Prediction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02209/1/m_ci6c02209_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Exciton diffusion length (&lt;span style="font-style:italic;"&gt;L&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt;) is a
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02209/1/m_ci6c02209_0007.png?Expires=2147483647&amp;amp;Signature=KSTVPuQiw6J8mZC5n5cSvXjzpWRCEah2aCHDUo88dSgNYpbzi5BBlw98cxWpyZusA50oVcniiMIBAzhrvicqHXYJdFShq4P3PUy5NOKdxLtbosnTqQD4uum9ukBJU6wnd3j0LblAhpILvg7ok~eM4kmqUT0I2zwcXdVn-qB9Zvqe5d4GZJwy2jeoLoWfo-st9bbsZeBcYiw-GncxIUU3PVcWrqmAQZjMuRjqMPlquHPUZHJRWEYd2ewbQpZC3dMhnmUHR8uXB1kSHZVaaA1YWNlv7VuXDBwAJeZAixoUFJ8V~izmNAMFfFCjOwar8GBBRoSK5QdB-WkzB~1hqkcwkQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="A Transferable
+Descriptor for Accurate Prediction
+of Excitonic Couplings in A-D-A Organic Photovoltaic
+Acceptors" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Exciton diffusion length (&lt;span style="font-style:italic;"&gt;L&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt;) is a
 key parameter determining the power conversion efficiency of organic
 solar cells (OSCs), yet its fast and accurate calculation is computationally
 challenging due to thin-film structural disorder and the long-range
@@ -3848,150 +4023,6 @@ scaffolds. Our results demonstrate that our sparse selection approach
 using Boltz-2 is helpful for enhancing AI-driven drug discovery. Moreover,
 the findings highlight its potential applicability for translating
 AI-generated predictions into experimentally actionable hits.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Physics-Inspired
-Multi-Body Descriptors Enable Interpretable
-Density Prediction of Energetic Ionic Salts</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02052/5428223/Physics-Inspired-Multi-Body-Descriptors-Enable</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02052</guid>
-<pubDate>Fri, 11 Sep 2026 11:00:38 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02052/5428223/Physics-Inspired-Multi-Body-Descriptors-Enable"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02052/1/m_ci6c02052_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Machine learning has introduced a transformative paradigm
-for the
-rapid prediction of crystal properties, circumventing the need for
-explicit knowledge of crystal packing structures. However, when applied
-to high-density organic systems such as energetic ionic salts, conventional
-general-purpose molecular descriptors often exhibit limited prediction
-accuracy, generalization capability, and extrapolation capability.
-To address this challenge, we propose a physics-inspired multi-body
-descriptor (PIMBD). By decoupling the modeling of cations and anions
-and employing the co-evolutionary optimization of multi-body function
-hyperparameters, PIMBD effectively captures spatial arrangement features
-of atoms governed by strong Coulombic interactions. We established
-a benchmark dataset comprising more than 1200 energetic ionic crystals
-and conducted a systematic comparison of 6 representative descriptor
-frameworks and 29 machine learning algorithms. The results show that
-PIMBD achieves high predictive accuracy, with a mean absolute error
-(MAE) of 0.034 g/cm&lt;sup&gt;3&lt;/sup&gt;. Meanwhile, it achieves an MAE of
-0.0282 g/cm&lt;sup&gt;3&lt;/sup&gt; on an independent validation set composed
-of pentazolate-based ionic salts, shows pronounced advantages in the
-high-density region, and outperforms other descriptors in terms of
-generalization robustness and extrapolation capability. Furthermore,
-atomic-scale interpretability analyses were performed to elucidate
-the critical structural factors governing crystal density, leading
-to the distillation of three physically meaningful design principles.
-This work provides an efficient and interpretable descriptive methodology
-specifically tailored for ionic salts and may potentially accelerate
-the rational structure design of high-energy-density materials.&lt;/span&gt;</description>
-</item>
-<item>
-<title>UniMolRep: A Python
-Package for AI-Oriented Molecular
-Representation Modeling</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01681/5428071/UniMolRep-A-Python-Package-for-AI-Oriented</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01681</guid>
-<pubDate>Fri, 11 Sep 2026 04:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01681/5428071/UniMolRep-A-Python-Package-for-AI-Oriented"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01681/1/m_ci6c01681_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Molecular representation modeling
-is a crucial
-component in computational biology. However, existing tools often
-have limited coverage of molecular representation models. UniMolRep is a comprehensive Python toolkit for generating
-molecular representations in multiple dimensions for a variety of
-machine learning prediction tasks. In addition, it provides an efficient
-and user-friendly interface. &lt;strong&gt;Availability and implementation:&lt;/strong&gt;UniMolRep is available as a &lt;span style="font-style:italic;"&gt;GitHub&lt;/span&gt; repository https://github.com/wguo0209/MolRep_Toolkit. Detailed API references
-and full documentation are provided within the repository. &lt;strong&gt;Contact:&lt;/strong&gt; For further information, please contact at wguo@hkmu.edu.hk.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Closed-Loop Multi-Objective
-Optimization for Receptor-Selective
-Cell-Penetrating Peptide Design</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01267/5428007/Closed-Loop-Multi-Objective-Optimization-for</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01267</guid>
-<pubDate>Thu, 10 Sep 2026 20:00:39 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01267/5428007/Closed-Loop-Multi-Objective-Optimization-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01267/1/m_ci6c01267_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cell-penetrating
-peptides (CPPs) can deliver diverse cargoes into
-cells. However, designing CPPs with receptor-selective interaction
-profiles remains difficult because interactions with individual cell-surface
-components cannot be tuned independently. Here, we developed a closed-loop
-in silico framework for receptor-selective CPP design, in which receptor
-interactions are formulated as explicit objectives in a multi-objective
-optimization problem. We first constructed a CPP-like candidate library
-by using a sequence generative model fine-tuned on known CPPs. The
-framework then evaluated candidate peptides by receptor-wise docking,
-molecular dynamics simulations, and MM/GBSA to compute receptor-wise
-binding scores as computational proxies for receptor-associated interactions.
-These scores were used iteratively to propose subsequent candidates
-by multi-objective Bayesian optimization. Applied to a CXCR4/NRP1
-design setting, the framework identified candidates with more favorable
-predicted interaction profiles characterized by higher CXCR4 binding
-scores and lower NRP1 binding scores. We selected 10 peptides from
-the computationally identified candidates for cell-based imaging and
-found that 4 showed higher enrichment in CXCR4-positive regions than
-in NRP1-positive regions under the tested conditions. These results
-show that the proposed framework provides a practical in silico approach
-for designing CPPs with receptor-selective interaction profiles.&lt;/span&gt;</description>
-</item>
-<item>
-<title>A Task-Adaptive
-Multimodal Pretrained Framework for
-Antibiotic Virtual Screening with Joint Activity and Cytotoxicity
-Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02659/5427833/A-Task-Adaptive-Multimodal-Pretrained-Framework</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02659</guid>
-<pubDate>Thu, 10 Sep 2026 15:00:40 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02659/5427833/A-Task-Adaptive-Multimodal-Pretrained-Framework"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02659/1/m_ci6c02659_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antimicrobial resistance (AMR) poses a growing threat
-to global
-public health, particularly for priority pathogens such as &lt;span style="font-style:italic;"&gt;Staphylococcus aureus&lt;/span&gt; (SA) and Neisseria gonorrheae
-(NG), for which therapeutic options are increasingly limited. Although
-deep learning has accelerated antibiotic discovery, existing approaches
-are often constrained by single-modality molecular representations
-and a lack of joint modeling for antibacterial activity and host cell
-toxicity. Here, we present MAPViS, a task-adaptive multimodal pretrained
-framework for jointly predicting antibacterial activity against SA
-and NG together with cytotoxicity risk in three human cell lines (HepG2,
-HSkMC, and IMR-90). MAPViS integrates molecular graph representations,
-molecular fingerprints, and descriptor/3D geometric features through
-a gated fusion mechanism and combines large-scale self-supervised
-pretraining with supervised task-specific fine-tuning. The graph encoder
-is pretrained on approximately 10 million molecules using hierarchical
-pseudolabel classification and masked graph contrastive learning to
-improve representation quality and transferability. On benchmark datasets
-derived from experimentally screened compounds, MAPViS achieves competitive
-performance across antibacterial activity prediction tasks and shows
-advantages in early recognition metrics relevant to virtual screening,
-including AUPRC, Precision@30, and EF@1.0%. External validation further
-shows strong top-ranked enrichment on the SA task, where all Top-10
-candidates are experimentally active, whereas performance on NG is
-more modest, indicating task-dependent generalization. Overall, MAPViS
-provides a scalable multimodal framework for joint activity–toxicity
-modeling and offers a practical computational tool for antibiotic
-virtual screening and candidate prioritization.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Seamless QM/MM
-Simulations via a GROMACS-CP2K Interface</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02073/5427534/Seamless-QM-MM-Simulations-via-a-GROMACS-CP2K</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02073</guid>
-<pubDate>Thu, 10 Sep 2026 10:00:49 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02073/5427534/Seamless-QM-MM-Simulations-via-a-GROMACS-CP2K"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02073/1/m_ci6c02073_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding and controlling chemical reactivity in
-biological
-systems require atomic-level insight into processes that are often
-inaccessible to experiments. Hybrid quantum mechanics/molecular mechanics
-(QM/MM) simulations provide a powerful framework for describing chemical
-reactions in complex environments, but their practical application
-remains limited by fragmented software ecosystems, restricted accessibility,
-and methodological approximations that can compromise accuracy and
-reproducibility. In particular, many existing QM/MM implementations
-rely on ad hoc couplings, proprietary software, or truncated treatments
-of long-range electrostatic interactions. Here, we present a robust
-and fully periodic QM/MM interface between the open-source molecular
-dynamics engine GROMACS and the electronic structure theory code CP2K.
-The implementation enables efficient and reproducible QM/MM molecular
-dynamics and enhanced sampling simulations with a consistent treatment
-of long-range electrostatics under periodic boundary conditions. By
-combining the strengths of two widely used community codes, this interface
-provides a general and scalable platform for studying chemical reactivity
-in biological systems and establishes a transparent reference implementation
-for QM/MM simulations.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
