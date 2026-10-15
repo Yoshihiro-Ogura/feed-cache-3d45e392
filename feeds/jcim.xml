@@ -5,6 +5,198 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>scikit-fingerprints : A Python Library
+for Scikit-Learn-Compatible Molecular Fingerprints and Chemoinformatics</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02602/5451451/scikit-fingerprints-A-Python-Library-for-Scikit</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02602</guid>
+<pubDate>Wed, 14 Oct 2026 19:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02602/1/m_ci6c02602_0015.png?Expires=2147483647&amp;amp;Signature=YEBjaF6jrCNp2acElXvZFyInnErlJB5mmoaF9-N3A1UmP0gWBW~FhwXX75h3shM~pnpwLMwP3UXYnqu7x-k7wWUWXytYkZVxndaBhp9L4zlzbKqbawSBukHOS3ofWlYCXvtQrw5yE6YC-6THOJ6TdvaLj70QvMoM61XdM1cK0o9htR-oiKJzooXT-mpm2KEABM2oDBJpP8tKWFFvPEag1aWDQHneOKO3DWm0gBqiyFCV~k7dHjANK1hshNiZMmD1S-BvWfN6VLmmfZQdYwSMwC2q7UnDYGC8F~Ver6bdRuwiA6z5BzB21jQl-8GEDeQ0dnEsQe2aEBbU7eqLZTynFw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt=" scikit-fingerprints : A Python Library
+for Scikit-Learn-Compatible Molecular Fingerprints and Chemoinformatics" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We present &lt;span style="font-style:italic;"&gt;scikit-fingerprints&lt;/span&gt;, a comprehensive,
+fully scikit-learn-compatible library for molecular machine learning
+in Python, based on RDKit. Molecular fingerprints and related functionalities
+are workhorses of chemoinformatics, yet the widely used open-source
+frameworks are not compatible with the wider Python machine-learning
+ecosystem based on scikit-learn conventions. &lt;span style="font-style:italic;"&gt;scikit-fingerprints&lt;/span&gt; closes this gap, bringing molecular fingerprints, molecular filters,
+similarity and distance measures, applicability domain estimation,
+data-splitting strategies, and more under a single familiar interface.
+Scikit-learn compatibility means that an entire chemoinformatics workflow,
+from a raw SMILES string to a deployable model, can be assembled from
+composable building blocks and can reuse the mature tooling of the
+surrounding ecosystem. The underlying RDKit code makes the library
+familiar and extensible for custom chemoinformatics use cases. We
+put a strong focus on unified interfaces, ease of use, computational
+efficiency, customization, and extensibility. &lt;span style="font-style:italic;"&gt;scikit-fingerprints&lt;/span&gt; makes molecular machine learning faster to prototype, easier to
+reproduce, and simpler to deploy.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Bridging the Markush
+Gap in Optical Chemical Structure
+Recognition via a CLIP-Derived Visual Backbone and Synthetic Data
+Generation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00815/5451137/Bridging-the-Markush-Gap-in-Optical-Chemical</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00815</guid>
+<pubDate>Wed, 14 Oct 2026 15:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00815/1/m_ci6c00815_0013.png?Expires=2147483647&amp;amp;Signature=GC-2L0b6fqmMezJNL24K9yx-~xN8EBJS1d72GBEHwcXD1GcpLof6D4yxbl-SZgxgOH8WbaoEEKzpjxuGXQTsipVgcrYqmkvu~i6KxZr7IqsnfIaH2fFkgKtYFVhkdr4X762X0xM81THkX9G0KwTEzDTVAy91EU0AL3wcHH8cKNiY4X4hWPQBGEUzirP2RMITHgRRL3FsPqSfzba93RYm-7d9lt4Adnnb6sbY395~wBcMhYEal3Q4viCsLfXb-~s7MIvuOZ8Ae2MEgZ-IYxvkOUxA0qNf2bjkpoPK~Hq2LVsxCvBKH6DAL8VGzVUDoOqxND75ghI6dkh77a0Eu9oRkQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Bridging the Markush
+Gap in Optical Chemical Structure
+Recognition via a CLIP-Derived Visual Backbone and Synthetic Data
+Generation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The
+rapidly growing chemical literature contains invaluable information
+for pharmaceutical research and molecular biology, yet manual extraction
+on a large scale is increasingly impractical. Optical chemical structure
+recognition (OCSR), which converts molecular depictions into machine-readable
+representations, provides a key route toward automated chemical information
+extraction. However, existing OCSR methods remain limited in recognizing
+Markush structures, which are widely used in chemical documents, particularly
+pharmaceutical patents, because of their structural complexity and
+the scarcity of annotated data. Here, we introduce CLIP-OCSR, an encoder-decoder
+framework that integrates a domain-adaptively pretrained CLIP-RN50
+vision encoder with a transformer decoder for chemical structure recognition,
+with a focus on Markush representations. To address data scarcity,
+we developed a synthetic data generation strategy that produces diverse
+Markush images paired with pseudo-SMILES representations encoding
+substituent, frequency, and position variations. Benchmarking demonstrates
+that CLIP-OCSR achieves competitive performance on standard OCSR benchmarks
+and shows strong capability in recognizing Markush structures involving
+substituents and frequency variations. For structures with position
+variations, CLIP-OCSR generates pseudo-SMILES predictions that retain
+the corresponding positional information, enabling the downstream
+enumeration of possible positional isomers. Beyond image-only OCSR,
+we extend CLIP-OCSR toward multimodal Markush structure extraction
+by integrating graphical recognition with LLM-based textual variable-definition
+extraction, enabling downstream structure instantiation. Overall,
+this work advances automated recognition of complex chemical structures
+and provides a framework for the structured extraction of Markush
+information from chemical documents.&lt;/span&gt;</description>
+</item>
+<item>
+<title>PDI-Spot: A Robust Representation Learning Framework
+for Identifying Energetic Hotspots in Protein–DNA Complexes</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01579/5451126/PDI-Spot-A-Robust-Representation-Learning</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01579</guid>
+<pubDate>Wed, 14 Oct 2026 14:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01579/1/m_ci6c01579_0005.png?Expires=2147483647&amp;amp;Signature=upUTaLmuovTGPN4uc-VKGdmbUr-A5EXhTMQI5eV-o~G1yHKKno9zDmFMEvWCRgnaMs50jjZrAXbfCFKumhJr4J6pwXRhTMZ46Sw4vCOFaHL~NFP0UxQtgqHl5JqrTZwLzfylIQfZaMkWP0TYgzt6G5CrRubesagF4adgSXwlImjVga83uyOm-GVlxrv9OBdrgp421OgeUs6p0Y-oRo3n4N2YBW~DQkhNodLFxR~pQUAGNwf27h4jGEn7uufBg5ujVlKG29PLg8nqSKyvaUAUbpP4L5RcbgXhrwmILJBasY0cxIQ2ZzG08IGNPpgJwnZiGIe2wBm048pxfy-RRrRlXQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="PDI-Spot: A Robust Representation Learning Framework
+for Identifying Energetic Hotspots in Protein–DNA Complexes" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The binding affinity
+of protein–DNA complexes is concentrated
+within a subset of interface residues, called “hotspots”,
+which are critical for maintaining stable interactions. Therefore,
+identifying these energetic anchors is essential for elaborating on
+how mutations disrupt transcriptional regulation and for identifying
+druggable regions within disease-associated interfaces. In this study,
+we introduce our novel prediction model, PDI-Spot, that leverages
+representation learning to capture the complex features of protein–DNA
+interfaces. Unlike traditional methods that rely on limited, handcrafted
+descriptors, PDI-Spot extracts high-dimensional, structure- and sequence-driven
+representations to achieve better predictive performance. We trained
+the PDI-Spot model on a curated protein–DNA complex data set
+and rigorously validated its performance on an independent test set
+to ensure generalizability across different structural families. Following
+the extraction of residue-level embeddings, an optimal feature set
+was identified through a combined approach of minimum redundancy maximum
+relevance and multilayer perceptron architectures. By training a neural
+network on the optimal feature set, we developed a robust predictive
+framework for hotspot identification. On an independent test set,
+PDI-Spot achieved an AUROC of 0.809, an F1-score of 0.667, and a Matthews
+correlation coefficient of 0.625. We also verified via permutation
+tests that PDI-Spot captures biologically meaningful patterns beyond
+random chance. PDI-Spot consistently demonstrates competitive performance
+compared to state-of-the-art methods, providing a reliable model for
+mapping the energetic landscapes of protein–DNA interfaces.
+The source code and pretrained models are publicly available at https://github.com/ebsrn0/pdi-spot.git.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Evaluation of Physics-Based
+Pose Prediction and the
+Role of Receptor Flexibility in a Community Antiviral Blind Challenge</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02582/5450867/Evaluation-of-Physics-Based-Pose-Prediction-and</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02582</guid>
+<pubDate>Wed, 14 Oct 2026 12:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02582/1/m_ci6c02582_0011.png?Expires=2147483647&amp;amp;Signature=pcVjUUC0grMypD2CajtvUIyslbWhhJe8zm-0aC0fVh1NKra2b~SOoTMsz2GA563T0PnjccHlFPRhwp5wWuKXdpL69O8u2dC1Mf7Cj7UGRTAGHJ~V~MsrkfDaURz0c9je2nS~cht67l1NJHkv6S7s7Gs2Nmz7yxdC6ASxSj9w9CDa997vpvYrcEfkl0~MfxGyW72NznzbOL9szP6wXbdXCj2QGXmIpDaVHG9~vaeNBc7Zrxu3lnHM5D4eDzOmA-HN5sZlCd4j2Wh2h9v5QZVAJGvXAFmoPBKFTZBjPf~kCcwNAxss23V20mkBKOgl-pkIFEp5cypGG99qaEeiDN5k-A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Evaluation of Physics-Based
+Pose Prediction and the
+Role of Receptor Flexibility in a Community Antiviral Blind Challenge" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Prediction of protein–ligand binding modes is
+a key step
+in computer-aided drug design, since incorrect pose prediction inevitably
+limits the achievable accuracy of downstream physics-based affinity
+predictions. The ASAP-Polaris-OpenADMET antiviral competition was
+launched in 2025 as a means to prospectively test computational methods
+across a range of measurements that guide early prioritization during
+a drug discovery campaign including pose prediction. Here, we describe
+our two open-source, physics-based entries to the pose prediction
+challenge, which are based on templated molecular growth with hybrid
+machine learning/molecular mechanics interatomic potentials. We show
+that our approach was among the top-performing physics-based methods,
+and with a retrospective change to the workflow to make greater use
+of the training data as templates, we obtain a success rate of 74%
+across SARS-CoV-2 and MERS-CoV main protease target protein structures.
+Finally, we investigate the importance of receptor side-chain flexibility
+on retrospective performance. We find that building poses against
+an ensemble of feasible side-chain conformers is useful in generating
+improved binding poses but that the tested scoring functions are unable
+to successfully pick out native structures from the generated ensemble.&lt;/span&gt;</description>
+</item>
+<item>
+<title>TMC-LewisGen: Automated
+Generation of Lewis-like Structures
+for Transition–Metal Complexes</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02278/5450802/TMC-LewisGen-Automated-Generation-of-Lewis-like</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02278</guid>
+<pubDate>Wed, 14 Oct 2026 12:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02278/1/m_ci6c02278_0006.png?Expires=2147483647&amp;amp;Signature=Fn~TsgcmUrbjkTtbXCfHjww6zkEpq06H~M~ivr~ZxkeaDNIZa8zeym~SOlyKXNpPHwB-jstmVIYJIdPNsQOSnbFP7QM3HQODTB8NS5kFNu3M32h0UrSAU6b2A~svi5FSvnUIRmiinUchDZiWrYDln0kK8mY-BJzlqHQqF-Fs5oQRkN4m4IKYtpm2axYH~zr23cTHhXjPd8Fu8Jt6AOyN2fQD41db2hTnShfrN0rmIBNCvUM2h2PRRp1IwjvjQQOtPiptwzTO68tNrr9GMbrsvsXQUl04wql-pXUDxUeVWLp02y9EW77nRHJW0x3JkmjsGAJJTOuq5yf3vC0tx~3Q5A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="TMC-LewisGen: Automated
+Generation of Lewis-like Structures
+for Transition–Metal Complexes" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Lewis structures constitute a foundational language in
+chemical
+education, mechanistic reasoning, synthesis, and modern cheminformatics.
+With the accelerating shift toward data-driven and AI-assisted molecular
+science, the ability to rapidly generate Lewis-like representations,
+including RDKit-parsable SMILES, has become essential for large-scale
+analysis and predictive modeling. While mature tools exist for organic
+molecules, transition-metal complexes (TMCs) remain systematically
+underserved owing to their inherently diverse coordination patterns.
+To address this gap, we develop TMC-LewisGen, an automated tool for
+generating Lewis-like structures of TMCs directly from Cartesian coordinates.
+The task is formulated as a discrete variable optimization problem,
+where a comprehensive set of explicit chemical rules defines the feasible
+solution space and integer linear programming (ILP) identifies a globally
+optimal assignment of bond orders, lone pairs, and formal charges,
+followed by postprocessing corrections. The final outputs include
+Lewis-like structures, RDKit-parsable SMILES, and interpretive bonding
+reports framed within the covalent bond classification (CBC) formalism,
+in which ligands are categorized as L-, X-, or Z- type donors. Benchmarking
+on nearly 29,000 TMCs demonstrates robust performance, with valid
+SMILES generated for 100% of the structures and subsecond ILP solution
+times in most cases. Representative examples, including Werner-type
+complexes, η-coordinated π-ligands, and metal–carbene
+motifs, demonstrate broad applicability. The framework supports large-scale
+structural annotation, automated chemical interpretation, and data-driven
+modeling of TMCs. A freely accessible web server for 3D TMC analysis
+and visualization is available at https://tmc-lewis-structure.streamlit.app/.&lt;/span&gt;</description>
+</item>
+<item>
+<title>e  MolFrag 2
+and  e  Synth 2: Sound Fragment-Based
+Molecular Decomposition and Reconstruction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01714/5450559/eMolFrag2-and-eSynth2-Sound-Fragment-Based</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01714</guid>
+<pubDate>Wed, 14 Oct 2026 03:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01714/1/m_ci6c01714_0006.svg?Expires=2147483647&amp;amp;Signature=oa-jPEmYBUtjpuD3tvgVC4lF59de0PzNVImKY1K84kcwu-PEKmw7-cZCyXQAW2v5rD2q3SgFmmGpRJ5650~Q8tBmgLu3MKnro3uFl8h~NCNpBN7Tm6Gj6rqwzpBSn61FzDB3~FVr0Pd8wu7OCnsyIwozCzcO~6LCVa6nC2NAgKPoRnwAGRs2sUDRdazXf~QfUR29mmGt-2T5ntaqtxJRWJk4yHh1nXzkAxGT-bUcQGvuP--Ko1j5PcAu0WtuVQMz8vb3J7J0qutCsMKUjc9HXWVK1engz-MOUVrfWANf18IRkzahdsHe96N9XsQCE74o1dYkmOR9LHMC88-~sT4hrg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt=" e  MolFrag 2
+and  e  Synth 2: Sound Fragment-Based
+Molecular Decomposition and Reconstruction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We present &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;MolFrag2 and &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;Synth2, enhanced successors to &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;MolFrag and &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;Synth for fragment-based molecular decomposition and
+reconstruction. &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;MolFrag2
+is a complete reimplementation of &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;MolFrag in Python, using RDKit and graph-based molecular representations
+to preserve connectivity, identify free atoms, combine adjacent linkers,
+and avoid aromaticity ambiguities that impair downstream reconstruction. &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;Synth2 generalizes fragment recombination
+by removing hard-coded molecular-property filters, supporting multiple
+bonds to a single brick atom, and adding a targeted reconstruction
+mode for soundness validation. Across 36,534 nonredundant DUD-E active
+compounds, the &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;MolFrag2 → &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;Synth2 workflow reconstructed every
+input molecule exactly (Tanimoto coefficient, &lt;span style="font-style:italic;"&gt;TC&lt;/span&gt; =
+1.0), whereas the original &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;MolFrag→ &lt;span style="font-style:italic;"&gt;e&lt;/span&gt;Synth workflow
+reconstructed 51 of the 100 molecules in a benchmark subset. The upgraded
+workflow also produced broader recombinant chemical spaces, including
+higher entropy in a four-molecule diversity analysis (2.78 versus
+2.70). Both tools are open-source, platform-agnostic, and available
+for academic and commercial use.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Latent Style-Based
 Quantum Wasserstein GAN for Drug
 Design</title>
@@ -3836,193 +4028,6 @@ as the most promising CASP4 inhibitors. Overall, this workflow provides
 an efficient and robust strategy for prioritizing repositioned DrugBank
 compounds as potential CASP4 inhibitors against Alzheimer’s
 disease.&lt;/span&gt;</description>
-</item>
-<item>
-<title>An AI-Driven Chemogenomics
-Knowledgebase for Human-Transmissible
-Pathogens: A Platform for Antimicrobial Drug Discovery</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02102/5429808/An-AI-Driven-Chemogenomics-Knowledgebase-for-Human</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02102</guid>
-<pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02102/5429808/An-AI-Driven-Chemogenomics-Knowledgebase-for-Human"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02102/1/m_ci6c02102_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Emerging
-infectious diseases (EIDs) pose a critical threat to global
-biosecurity. Integrating bio/chemical information and artificial intelligence
-would bring new strategies for antimicrobial drug discovery. Herein,
-the Human Pathogenic Microorganisms Chemogenomics Knowledgebase (HPM-CKB)
-is presented as the largest domain-specific resource, consolidating
-chemical, genetic, and proteomic data on human-transmissible pathogens,
-together with multiple computational functional modules. The current
-release covers 7876 pathogenic proteins from 267 microorganisms (including
-13,914 protein 3D structures) and 234,287 associated with bioactive
-molecules. HPM-CKB enables large-scale virtual screening, target identification,
-and drug repurposing, and integrates a large language model (LLM)
-for interactive queries. The computational prediction performance
-of HPM-CKB is corroborated by known inhibitors targeting SARS-CoV-2
-replicase polyprotein 1ab. In wet-lab validations, four approved drugs
-(cefixime, ceftazidime, saquinavir, and rilapladib) identified via
-virtual screening show binding activity to SARS-CoV-2 nucleoprotein
-in affinity assays and inhibit SARS-CoV-2 replication in Vero E6 cells,
-demonstrating HPM-CKB’s potential in drug repurposing. Meanwhile,
-two anti-&lt;span style="font-style:italic;"&gt;Staphylococcus aureus&lt;/span&gt; lead
-compounds with novel scaffolds (CYC-HXL-9124 and CYC-HXL-9126) are
-identified via deep learning, and the potential target protein, cell
-division protein FtsZ, is subsequently prioritized using HPM-CKB (http://cgai.asia/g/pathogenDB) and experimentally validated by affinity assays. Collectively,
-these findings establish HPM-CKB as both a chemogenomic knowledgebase
-and a systematic drug development platform against EIDs.&lt;/span&gt;</description>
-</item>
-<item>
-<title>MoaNet: Learning
-Protein–Ligand Mechanism of
-Action from Transcriptional Profiles and Sequence Information</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01275</guid>
-<pubDate>Mon, 14 Sep 2026 21:00:39 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01275/1/m_ci6c01275_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding the functional interactions between molecules
-and
-their targets is critical in drug discovery. While current computational
-approaches achieve high accuracy in predicting drug–target
-interactions, they often fail to capture the functional consequences
-of these interactions, such as agonistic or antagonistic effects.
-Here, we present an end-to-end framework for predicting protein–ligand
-mechanism of action with transcriptional signature and molecular structural
-information (MoaNet). Computational evaluations demonstrate that MoaNet
-outperforms several representative molecular representation architectures
-adapted for MoA classification on our benchmark data set under scaffold-split
-evaluation. In a targeted experimental screen for estrogen receptor
-alpha (ERα) modulators, MoaNet successfully identified both
-ERα agonists and antagonists, highlighting its practical utility
-in functional drug discovery.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Assay-Level Modeling
-and External Validation of Antibody
-Developability Using Physicochemical Descriptors and Sequence Embeddings</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02385/5429617/Assay-Level-Modeling-and-External-Validation-of</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02385</guid>
-<pubDate>Mon, 14 Sep 2026 16:00:43 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02385/5429617/Assay-Level-Modeling-and-External-Validation-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02385/1/m_ci6c02385_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antibody
-developability is inherently multidimensional,
-involving
-thermal stability, aggregation and hydrophobicity, nonspecific interactions,
-and expression-related manufacturability. Instead of treating developability
-as a single composite label, we investigated assay-level modeling
-using GDPa1 as a benchmark data set. We developed a two-branch framework
-combining interpretable developability descriptors and data-driven
-calibration. One branch fits assay-specific descriptor models to derive
-end point-specific physicochemical weights, while the other integrates
-frozen pretrained VH/VL sequence embeddings with computed descriptors
-in a multitask regression architecture. Internal validation across
-eight GDPa1 assays showed assay-dependent predictability, with hydrophobicity-
-and aggregation-related readouts generally showing stronger signals
-than expression-related and some thermal stability end points. Descriptor
-coefficient analysis revealed distinct physicochemical patterns across
-assays, supporting the view that antibody developability cannot be
-represented by a single universal descriptor weighting scheme. External
-held-out validation on GDPa3 revealed limited cross-data set transferability.
-Across seven directly matched assays, mean Spearman correlations were
-0.126 for the full descriptor model, 0.139 for the sequence-only descriptor
-model, and 0.125 for the hybrid sequence–descriptor model.
-HIC retention time was the most transferable end point, whereas SEC
-monomer percentage and several thermal stability end points showed
-weak external correlations. The hybrid model did not consistently
-outperform descriptor-only baselines, indicating that pretrained sequence
-embeddings provided limited and assay-dependent incremental value
-in this small-data setting. GDPa1 sequence-cluster analysis showed
-that internal validation estimates depended on clustering threshold
-and fold construction, whereas GDPa3 provided a more direct external
-assessment of cross-data set transferability. These results support
-a cautious assay-level framework for antibody developability modeling.
-Descriptor-based representations remain strong and interpretable baselines,
-while sequence embeddings require end point-specific and external
-validation. The proposed workflow can convert assay-level predictions
-into domain-level profiles for computational triage, but prospective
-candidate prioritization requires binding assessment and experimental
-validation.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Evolutionary Weighted Hodge Laplacian Descriptors
-for rs-fMRI Brain Networks</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02573/5428999/Evolutionary-Weighted-Hodge-Laplacian-Descriptors</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02573</guid>
-<pubDate>Sun, 13 Sep 2026 18:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02573/5428999/Evolutionary-Weighted-Hodge-Laplacian-Descriptors"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02573/1/m_ci6c02573_0009.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Complex
-biological networks often exhibit multiscale organization
-that is not fully characterized by pairwise edge weights or fixed
-graph summaries, motivating compact descriptors that retain both topological
-and spectral information. Here, we present an evolutionary weighted
-Hodge Laplacian (EWHL) framework for resting-state functional magnetic
-resonance imaging (rs-fMRI) connectivity, in which the functional
-connectivity matrix of each subject is represented as a weighted Vietoris–Rips
-filtration and 0-dimensional and 1-dimensional weighted Hodge Laplacian
-spectral descriptors are extracted across 13 positive connectivity
-thresholds. In an autism spectrum disorder (ASD) classification task
-using 884 participants from the Autism Brain Imaging Data Exchange
-I (ABIDE I) cohort, EWHL reduced the original 6670-dimensional functional
-connectivity vector to 130 features and, with eXtreme Gradient Boosting
-(XGBoost), yielded 87.7% accuracy and an area under the receiver operating
-characteristic curve (AUC) of 0.946 under 20 repetitions of 10-fold
-cross validation. Under the same internal protocol, EWHL outperformed
-a rerun raw functional connectivity baseline and a single threshold
-ablation, suggesting that multiscale weighted Hodge spectra provide
-informative descriptors for functional brain networks derived from
-rs-fMRI, although confound control within each fold and external validation
-remain necessary before clinical interpretation.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Geometric–Chemical
-Distance between Protein
-Surfaces</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02785/5428849/Geometric-Chemical-Distance-between-Protein</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02785</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02785/5428849/Geometric-Chemical-Distance-between-Protein"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02785/1/m_ci6c02785_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Proteins
-recognize, bind, and catalyze through molecular surfaces,
-where geometry and chemical patterning determine interaction. Comparing
-these surfaces requires both a geometric–chemical distance
-and a correspondence that relates one complete surface to another.
-Here, we introduce IFACE (Intrinsic Field–Aligned Coupled Embedding).
-IFACE derives a symmetric geometric–chemical distance by optimizing
-a probabilistic coupling over intrinsic geometry, mean curvature,
-electrostatics, hydrophobicity, and hydrogen-bond propensity. The
-same coupling provides an explicit surface map. For molecular-dynamics
-conformers, IFACE distinguishes the same protein from distinct proteins
-more accurately than TM-distance and a Laplace–Beltrami spectral
-distance. A Jensen–Shannon distribution distance performs best
-in this binary identity test because aggregate surface-feature distributions
-already identify each protein. A distance must also satisfy a global
-requirement: Its pairwise values must place many distinct protein
-surfaces consistently in one space. We therefore tested IFACE across
-six protein families. It produces the strongest family classification
-and clustering among the distributional, spectral, MaSIF, and SurfaceID
-comparisons. The inferred maps preserve geodesic neighborhoods and
-transfer heme-centered pocket regions across cytochrome P450 proteins.
-IFACE therefore provides, from one construction, both a distance between
-complete protein surfaces and the local map that explains that distance.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Efficient Discovery
-of Potent AKR1B10 Inhibitors Using
-Co-folding Model Boltz-2</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00874/5428848/Efficient-Discovery-of-Potent-AKR1B10-Inhibitors</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00874</guid>
-<pubDate>Sat, 12 Sep 2026 14:00:38 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00874/5428848/Efficient-Discovery-of-Potent-AKR1B10-Inhibitors"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00874/1/m_ci6c00874_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Although affinity prediction of protein–ligand
-binding remains
-an important challenge, cofolding models are expected to make virtual
-screening more effective for drug discovery and development. To verify
-the effectiveness of selecting a tractable number of candidates from
-a compound library using cofolding models, we strove to identify a
-novel inhibitory active compound using Boltz-2, a representative cofolding
-model, for aldo-keto reductase 1B10 (AKR1B10), which is highly expressed
-in various cancers. Consequently, of the 40 candidate compounds obtained
-after narrowing-down 867 candidates from a chemically diverse library
-based on prediction results by Boltz-2 and candidate selection with
-sufficient diversity, 70% (28 of 40 tested) compounds at IC&lt;sub&gt;50&lt;/sub&gt; &amp;lt; 10 μM were found to have inhibitory activity and to provide
-identification of multiple submicromolar inhibitors exhibiting novel
-scaffolds. Our results demonstrate that our sparse selection approach
-using Boltz-2 is helpful for enhancing AI-driven drug discovery. Moreover,
-the findings highlight its potential applicability for translating
-AI-generated predictions into experimentally actionable hits.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
