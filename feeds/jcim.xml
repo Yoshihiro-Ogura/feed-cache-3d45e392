@@ -5,6 +5,136 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>CASyM: Chemotype
+Annotation through Synthesis Mapping</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00645/5452291/CASyM-Chemotype-Annotation-through-Synthesis</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00645</guid>
+<pubDate>Fri, 16 Oct 2026 02:00:49 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00645/1/m_ci6c00645_0005.png?Expires=2147483647&amp;amp;Signature=z8BWJWtGWF7ouxP9fRGVdV-1Qzwat8BDxJKcnUjNp3JsDkwuFmgUeFHSHHinSRZPYSe-h884Ax1cv5h93sl0GZruTam1lgmiB-cqpv7gQzeYZi0YfYRznvpNadekFg7s1guoex9eEzGEURLPwjbkkChKcwOICigUoarVPc3DAXgpzniTS65~55ttODlMUAo8SyjQEk9NEQtOPnrdHN1ppOSFQ-jC060OuwebYZMEjd07F6068z7sIGUgSEB4bvdKkHD2Gi9RHNLFRPy5t1fvnVDVSVh86siTKPQV5aJ5LJI065GD-jLsyDeg66Gv1CTJZC~3Q8TqF7Vl2D40Kk7uBg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="CASyM: Chemotype
+Annotation through Synthesis Mapping" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The identification and annotation of chemotypes is central
+to structure–activity
+relationship studies and property optimization in drug discovery.
+Current computational approaches rely on predefined fragmentation
+rules or structural similarity to identify these molecular scaffolds,
+often overlooking the rich information available in reaction data.
+Here, we introduce CASyM (Chemotype Annotation through Synthesis Mapping),
+a novel approach that leverages hierarchical reaction data to systematically
+identify chemotypes within compound libraries. CASyM constructs synthesis
+graphs from curated reaction data sets, detects major common intermediates,
+and builds chemotype graphs that capture the hierarchical and interconnected
+nature of chemical synthesis. SMARTS patterns are extracted to define
+chemotypes, enabling robust assignment of target molecules, including
+those absent from the original reaction data. We demonstrate the approach
+across three case studies using public patent data, proprietary electronic
+laboratory notebook data from drug discovery projects, and simulated
+multistep synthesis data for compounds lacking experimental synthesis
+records. CASyM achieves high coverage of target molecules (85–99%),
+reveals chemotype-property relationships, and enables chemotype assignment
+in the absence of experimental data. This reaction-centric approach
+provides a powerful framework for chemotype annotation, facilitating
+series exploration and optimization in medicinal chemistry.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Subpocket-Aware
+Fragment-Based Docking Pipeline for
+Kinase Ligand Design: Methodology and a PKA Case Study</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01373/5452192/Subpocket-Aware-Fragment-Based-Docking-Pipeline</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01373</guid>
+<pubDate>Thu, 15 Oct 2026 18:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01373/1/m_ci6c01373_0009.png?Expires=2147483647&amp;amp;Signature=0nTWTLRTRYNx1tAuBJJpd12lbv5RcA3Sm48IlhNVSuqZjtTwnhu9gcYqcxBMWZYnCVEP7n3fyLBIZ9XibVbsc3zBSPCT~Jh7DD0Sd~q2NzE1myrTms3VsanP24tYroRMrEuDTus5P~BweBFzu5z0nG1atHpe2i4A1DbU6rRDOgZvtB4fFSHC4VRQfv4MNRVsTh2eVAz6M5J1zLVjcLWV-C54uHSliWkivsLApjP226XDrxpfEX47mlJQxiC3z-XgAoQS9hhhzTyAoCCYrIVqPYfZbVjmZzhIBbw18-EZdQyelF-Z-W-pgAwTym4luvjPZ2gTdZTLV6tL39bh7sL6pw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Subpocket-Aware
+Fragment-Based Docking Pipeline for
+Kinase Ligand Design: Methodology and a PKA Case Study" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein kinases regulate signal transduction through
+phosphorylation,
+and their dysregulation drives diseases like cancer, autoimmune disorders,
+and Alzheimer’s, making them key drug targets. Fragment-based
+drug design offers a powerful route to kinase inhibitors but often
+neglects kinase-specific structural insights. While KinFragLib, a
+library consisting of 7486 fragments derived from kinase-ligand complexes,
+provides a rich resource, exhaustive recombination of its fragments
+is computationally demanding. Here, we present an efficient exploration
+strategy that integrates subpocket-guided fragment growing with template
+docking to navigate this vast chemical space. Our automated pipeline
+prioritizes kinase-specific structural information, enabling targeted
+generation of chemically diverse ligands. Applied to the PKA kinase,
+the approach produced 33758 candidate molecules with promising docking
+scores, of which 15 were synthesized. Seven molecules reduced kinase
+activity by more than 50% at an inhibitor concentration of 100 μM,
+and five of these compounds also showed promising efficacy at a concentration
+of 10 μM. The IC&lt;sub&gt;50&lt;/sub&gt; determination ultimately revealed
+that five of the molecules were effective in the two- to three-digit
+nanomolar range. Crystallographic validation confirmed the predicted
+binding mode of the most potent compound. This methodology demonstrates
+how structure-informed guidance can transform fragment-based design
+into a scalable route for discovering novel kinase inhibitors.&lt;/span&gt;</description>
+</item>
+<item>
+<title>UCEC: A Knowledge
+Graph-Assisted Machine Learning
+for Molecular-Mechanism-Interpretable Natural Product-Disease Association
+Prioritization</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02502/5451945/UCEC-A-Knowledge-Graph-Assisted-Machine-Learning</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02502</guid>
+<pubDate>Thu, 15 Oct 2026 15:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02502/1/m_ci6c02502_0008.png?Expires=2147483647&amp;amp;Signature=N2ekaJfSf~0-gJHlhsRMp-63U3kdN9UcBnFPlhxEQuxN3Y3cgqyyz59cM4DNBC9VZVR~HabxBAp8Gxdikh9iaFCDEndxIRCqwunM99pOgLEuaEiCGBgOZhK1sqhE4hy5RhAgw94ThdLHc52SBkgRkcFwlF5oblBR8XyhYd4DpRf20ETHgAGWe0pUWUso44tjRJtrsxSSuq6eq6HNyz214F1769g8Vfm9Q8XYaJGi7YqVdxXn6oIO6fC0WBMl3MWoEhce8sKn3aV5kw~K722vYHqtBix3XfLau0SZ40WWvOSuhTAys4xRE1SzNwJBixzKfQMllWsDuLKPk16CDuU3Zg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="UCEC: A Knowledge
+Graph-Assisted Machine Learning
+for Molecular-Mechanism-Interpretable Natural Product-Disease Association
+Prioritization" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Natural products (NPs) have been considered a critical
+source of
+therapeutic drugs, but prioritizing NP-disease associations remain
+challenging because supporting evidence is distributed across multiple
+ingredients, targets, protein interactions, and pathways. Herein,
+we propose a knowledge graph-assisted machine learning model: Uncertainty-Calibrated
+Evidence-Chains (UCEC) for prioritizing NP-disease associations. UCEC
+separates predicted association strength from the evidence-conditioned
+stability of local mechanistic support. On a proxy benchmark designed
+to recover graph-supported indirect associations, evidence-chain integration
+increased Hits@50 from 0.392 to 0.509, with 68.8% of NPs indicating
+improved per-NP AUPRC. Source-separated validation using HERB 2.0
+clinical trial records further supported candidate prioritization.
+Thus, UCEC provides a reliability-aware approach for prioritizing
+graph-supported NP-disease candidates and generating traceable mechanistic
+hypotheses for subsequent validation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Integrating Gaussian
+Accelerated Molecular Dynamics,
+β-Variational Autoencoders, and Markov State Models Reveals
+the Activation Landscape of FGFR3 Kinase</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02262/5451586/Integrating-Gaussian-Accelerated-Molecular</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02262</guid>
+<pubDate>Thu, 15 Oct 2026 03:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02262/1/m_ci6c02262_0011.png?Expires=2147483647&amp;amp;Signature=VdOkrrJ2jMb42w7skFQE0C1TSk1Idi5Ia-N90xcxiI3pG4ZPuq7SFxLSICBbfh8iSJrGtE5caux-zq5ut8wOfno4odCBxyu3-JDZKnhyyZ4yRQ~LGudSLv16RgZgoBWLyb8IjMeLmpKeXj4zLr7FABaePOk96OUHWKHu42qiS5I58GHOfMJFv3rv5855PESieXM5anr-4-nm7-AD~A5q8xIqhPAkaQZd39oNyDF1QhY~KQVVjsTVqRBbahnWbYYHaD-7~xLBhg31sgFd0ZTP4ZOjQtaAQV80h9-CiUXCFz~6LRVs~Ecr3zPVRxeVg9PY1cJ6qd0aK4a~iUXQsKJjnw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Integrating Gaussian
+Accelerated Molecular Dynamics,
+β-Variational Autoencoders, and Markov State Models Reveals
+the Activation Landscape of FGFR3 Kinase" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Fibroblast growth factor receptor 3 (FGFR3) kinase plays
+a crucial
+role in cellular differentiation, proliferation, and skeletal development.
+Activation of the kinase domain through phosphorylation regulates
+the downstream signaling cascades, and its dysregulation leads to
+human dwarfism, skeletal dysplasia, and multiple cancers. However,
+the mechanistic basis of FGFR3 regulation by phosphorylation and ligand
+binding remains unclear. Here, we introduce an integrated GaMD-βVAE-MSM
+pipeline, a hybrid physics-ML framework for studying kinase activation.
+Gaussian-accelerated molecular dynamics (GaMD) enhances simulations
+by reducing the energy barrier. The variational autoencoder with tunable
+regularization was used for nonlinear dimension reduction and identifying
+slow collective variables. The Markov state model (MSM) was used for
+identifying metastable states spanning active-inactive conformations.
+Our results show that phosphorylation drives pronounced domain rearrangement
+and activation-loop dynamics. The coordinated movement of the molecular
+brake and regulatory spine governs the kinase activation. Ligand interaction
+stabilizes the active phosphorylated state with a free energy of −19
+kcal/mol. Protein structure network analysis uncovers the long-range
+allosteric pathways. The potential regulatory sites involving αCβ4,
+β34, and β45 loops can be further exploited for allosteric
+intervention. Overall, this study highlights that phosphorylation
+and ligand binding dual regulate FGFR3 kinase through allosteric communication
+networks. The integrated GaMD−βVAE–MSM pipeline
+provides mechanistic insights into FGFR3 activation and may help the
+rational design of next-generation FGFR3-targeted therapeutics resistant
+to gatekeeper mutants.&lt;/span&gt;</description>
+</item>
+<item>
 <title>scikit-fingerprints : A Python Library
 for Scikit-Learn-Compatible Molecular Fingerprints and Chemoinformatics</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02602/5451451/scikit-fingerprints-A-Python-Library-for-Scikit</link>
@@ -3906,128 +4036,6 @@ elements, the analysis also identifies functional transitions associated
 with one new motif─the kink in transmembrane helix 2─and
 discovers a coupled “piston-like” motion of TM2 and
 TM3 that elaborates a previously reported motion of TM3.&lt;/span&gt;</description>
-</item>
-<item>
-<title>VizChemoton: Visualization
-of Quantum Chemical Reaction
-Networks and Their Cheminformatics Features</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02689/5430483/VizChemoton-Visualization-of-Quantum-Chemical</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02689</guid>
-<pubDate>Tue, 15 Sep 2026 15:00:39 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02689/5430483/VizChemoton-Visualization-of-Quantum-Chemical"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02689/1/m_ci6c02689_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Automated explorations
-of chemical reaction networks (CRNs) guided
-by quantum chemistry (QC) calculations are undergoing rapid development
-that enables numerous applications. However, CRNs are accessible primarily
-through specialized quantum chemistry software without interface for
-cheminformatic exploitation of the generated data. Here, we present &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;VizChemoton&lt;/span&gt;, an open-source module within the reaction exploration
-framework &lt;span style="font-style:italic;"&gt;Software for Chemical Interaction Networks&lt;/span&gt; (SCINE). &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;VizChemoton&lt;/span&gt; enables visualization of CRNs and
-serves as an interface for cheminformatics applications based on conversion
-of molecular structures that accounts for radicals, zwitterions, and
-molecular complexes into string-based representations via RDKit mol
-objects. The conversion performance exceeded 90% of QC-generated compounds
-based on the evaluation of four CRNs constructed with density functional
-theory and extended tight-binding methods. We find that compounds
-absent from public structural databases correspond primarily to molecular
-complexes and unstable reaction intermediates. All essential QC and
-associated cheminformatics data are distributed in interoperable CSV
-and JSON formats to support downstream machine learning applications
-whereas reaction networks are readily visualized through a browser-based
-standalone HTML interface.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Decoding Molecular
-Binding Equilibria through Uncertainty-Aware
-Memory Retrieval</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01177/5430414/Decoding-Molecular-Binding-Equilibria-through</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01177</guid>
-<pubDate>Tue, 15 Sep 2026 15:00:39 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01177/5430414/Decoding-Molecular-Binding-Equilibria-through"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01177/1/m_ci6c01177_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;While accurate drug-target affinity prediction accelerates
-drug
-discovery, prevailing deep learning approaches are often bottlenecked
-by poor generalization and an inability to quantify prediction confidence.
-Here, we introduce CogNet-DTA, a novel memory-augmented framework
-that synergizes historical binding priors with biophysical constraints.
-Our approach introduces a Chemical Graph Memory Network that facilitates
-reasoning by analogy through retrieving canonical binding motifs from
-historical data. To capture precise structural contexts, we leverage
-ESM-based evolutionary embeddings combined with Contact-Weighted Attention,
-which injects ESM-derived residue–residue contact probabilities
-as spatial biases to refine protein-intrinsic structural context.
-Distinctively, CogNet-DTA utilizes a Chemo-Geometric Routing Module
-to organize multimodal inputs into positive and negative predictive
-pathways under a shared memory prior, providing a conceptual, data-driven
-decomposition of molecular binding affinity. By integrating Monte
-Carlo Dropout, our model systematically quantifies uncertainty, providing
-a critical mechanism to filter out low-confidence, high-risk predictions
-during virtual screening. Extensive evaluations across diverse benchmark
-datasets demonstrate that CogNet-DTA achieves highly competitive performance
-in DTA prediction. Notably, it exhibits robust generalization to novel
-drugs and targets under strict cold-start and homology-based split
-settings, successfully mitigating sequence similarity bias.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Binding of Anthracyclines
-Within DNA–Topoisomerase
-ΙΙ Cleavage Complexes: Thermodynamics and Interactions</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01823/5429822/Binding-of-Anthracyclines-Within-DNA-Topoisomerase</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01823</guid>
-<pubDate>Tue, 15 Sep 2026 10:00:48 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01823/5429822/Binding-of-Anthracyclines-Within-DNA-Topoisomerase"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01823/1/m_ci6c01823_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;All-atom molecular dynamics simulations of anthracycline–DNA–topoisomerase
-II (TOPII) cleavage complexes are undertaken in an aqueous environment,
-with particular emphasis on their thermodynamic description, using
-the double-decoupling method. Both the TOPIIα and TOPIIβ
-isoforms are considered herein, with doxorubicin and berubicin, two
-TOPII poisons, as the anthracyclines of interest. From a thermodynamic
-point of view, we find that all complexes investigated exhibit more
-negative standard binding Gibbs energies than berubicin–DNA
-intercalation complexes, showing that the presence of TOPIIα
-or TOPIIβ further stabilizes the complexes. The berubicin–DNA–TOPIIα
-complex exhibits the most negative standard binding Gibbs energy.
-Therefore, berubicin shows a preference for TOPIIα over TOPIIβ;
-the former is highly expressed in proliferating cells, including cancer
-cells, whereas the latter is expressed ubiquitously. From a nanoscopic
-point of view, our rigorous &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; approach sheds
-light on the interactions of the two anthracyclines with both DNA
-and TOPII and on how they contribute to the hindering of religation.
-Moreover, this study provides a detailed comparison between doxorubicin
-and berubicin in terms of relevant properties, such as contact numbers,
-hydrogen bonds, selected distances, and solvent-accessible surface
-areas.&lt;/span&gt;</description>
-</item>
-<item>
-<title>AI Accelerated
-Chemical Screening Integrates ChemBERTa
-to Identify Repositionable CASP4 Inhibitors via MD Simulations and
-MM/PBSA Analysis</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02284/5429706/AI-Accelerated-Chemical-Screening-Integrates</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02284</guid>
-<pubDate>Tue, 15 Sep 2026 02:00:37 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02284/5429706/AI-Accelerated-Chemical-Screening-Integrates"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02284/1/m_ci6c02284_0028.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This study employed an integrated ligand-based virtual
-screening
-pipeline to identify potential CASP4 inhibitors from the DrugBank
-database, leveraging docking-score prioritization, SMILES-derived
-ChemBERTa embeddings, and key physicochemical descriptors. Building
-on this foundation, the workflow incorporated virtual screening, cheminformatics
-modeling, PK–PD evaluation, molecular docking, molecular dynamics
-simulations, and MM/PBSA free-energy analysis to systematically prioritize
-repurposed DrugBank compounds for CASP4-targeted Alzheimer’s
-disease therapy. A Random Forest classifier trained on the hybrid
-ChemBERTa physicochemical feature set distinguished active from inactive
-compounds with ∼95% accuracy (ROC–AUC = 0.73) and achieved
-a ∼3.5-fold enrichment of active compounds among the top-ranked
-hits, while a companion Random Forest regressor, trained on the experimental
-pIC&lt;sub&gt;50&lt;/sub&gt; values of active compounds, ranked candidates by
-predicted potency. In addition, integrated cheminformatics modeling,
-PK–PD analysis, and molecular docking further narrowed the
-selection to the top five candidate compounds: DB00519, DB01068, DB06202,
-DB08882, and DB05316. Finally, MD simulations and MM/PBSA calculations
-established clear thermodynamic support for DB05316 and DB00519, whose
-binding free energies (−21.4 and −20.9 kcal/mol, respectively)
-exceeded even the reference compound donepezil, highlighting them
-as the most promising CASP4 inhibitors. Overall, this workflow provides
-an efficient and robust strategy for prioritizing repositioned DrugBank
-compounds as potential CASP4 inhibitors against Alzheimer’s
-disease.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

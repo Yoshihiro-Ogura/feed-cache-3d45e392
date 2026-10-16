@@ -5,6 +5,104 @@
 <link>https://pubs.acs.org/rss/oprdfk/asap.xml</link>
 <description>OPR&amp;D (mirrored feed)</description>
 <item>
+<title>Machine-Learning-Enabled
+Design of Lab-Scale Continuous
+Distillation Systems for Pharmaceutical Process Development</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00279/5451932/Machine-Learning-Enabled-Design-of-Lab-Scale</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00279</guid>
+<pubDate>Thu, 15 Oct 2026 15:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00279/1/m_op6c00279_0008.png?Expires=2147483647&amp;amp;Signature=I9mF1q8ROT0~ZdgfdRdWggP0yXK6zBeYW4nBU7YSuubwSGQgq9G8M1lzK2du03Tn4ULWLOi7VGJkwgJV-CKYtBzFs538SFQU8rgKgJdGf545GABW~hB46cGYK4yYlT3wumgrfRuNIJ8yWgJykfPNA~zfvtamNuYeuE6UKHTJHtDHGXV3oEnbNoEXAYiblmylnAZiJ4i2SXOokNu7VgrO0FAzW7e-IT07BsmGBmNU4JUFQ7PXbwk5Ah6qNs1-w9kKQ2zP2lXehfU~KRLMBdxpXTTxx26Axy~zypCiIv7IiJMcoNcG07Cf0S5RpswjUSIJVIzqxu~876F7xMMTatM0Ew__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Machine-Learning-Enabled
+Design of Lab-Scale Continuous
+Distillation Systems for Pharmaceutical Process Development" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predictive tools for continuous distillation
+design lag behind
+upstream pharmaceutical synthesis─including AI-enabled digital
+tooling for retrosynthetic route design─leaving column specification
+dependent on computationally expensive simulation or extensive experimentation.
+This work presents a machine-learning surrogate framework trained
+entirely on first-principles mechanistic simulations, requiring no
+experimental distillation data, and eliminating the need for commercial
+tools such as ChemCad or AspenPlus. Three surrogate models for binary &lt;span style="font-style:italic;"&gt;tert&lt;/span&gt;-butylamine/alcohol systems (methanol, ethanol, isopropanol)
+predict distillate and bottoms compositions with mean absolute errors
+below 0.005 mol/mol and &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; &amp;gt; 0.999,
+completing
+a single prediction in under 1 ms─a 24-fold speedup. A coupled
+Pareto optimizer returns capital-versus-operating-cost trade-off curves
+in under 10 s, with over 93% of designs verified within ±0.010
+mol/mol. Applied to a pharmaceutical case study, the framework correctly
+identifies isopropanol as the optimal solvent without prior thermodynamic
+knowledge. The system-agnostic architecture could readily integrate
+with open-source large language model platforms to further lower the
+barrier to implementation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Recent Advances
+in the Synthesis of Therapeutic Peptides
+and Oligonucleotides</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00322/5451644/Recent-Advances-in-the-Synthesis-of-Therapeutic</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00322</guid>
+<pubDate>Thu, 15 Oct 2026 08:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00322/1/m_op6c00322_0007.svg?Expires=2147483647&amp;amp;Signature=0r1Vky0KOBxEEyGwPQsR0R2nMZFHsPzJGNxNEtdH8Nx~nqgaTqXSRV2n4Mr9ltzrq20yPYfj0uCSK8di2jAi-sEMtegJ5XR5GyjVLOB2izZ-2vYLjtBQAEdf94YWrJ~CPl4fm0ESE~IYCOzjCLIyBoK9h2d-8rtEsbQk5Q97yeJX3oaiRsiStK92INaEL9IXDwZiolXYKm-NVGfpDiddmU0zgY1jXvLnJ56AIwzIhvTadDENTVl39orOWSaiesKSUO2Kxo0pruzeKRao9u1Qdua~HnFicOC48EFAh2bK98W8newYfsEAmCG~Sx7EA68hIiehY-sdoVgnANM0VjVdUQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Recent Advances
+in the Synthesis of Therapeutic Peptides
+and Oligonucleotides" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Peptide
+and oligonucleotide synthesis is an emerging indispensable
+molecular platform in modern medicine due to their inherent property
+of exceptional target specificity and broad therapeutic potential.
+However, their synthetic complexity, inefficiency in production, and
+issues related to sequence length and structural diversity have restricted
+their large-scale manufacture. This review presents a broad survey
+of recent developments in synthetic methodologies that have revolutionized
+the synthesis of these biomacromolecules, with special emphasis on
+process-oriented innovations that bridge laboratory synthesis and
+industrial manufacture. This review discusses the recent development
+of solid-phase methodologies, improvements in ligation chemistry,
+orthogonal protecting-group strategies, and chemo-selective conjugation
+methods that enable the efficient assembly of structurally complex
+peptide and oligonucleotide architectures, along with emerging technologies,
+including continuous-flow processing, microwave-assisted synthesis,
+and atom-economical reaction platforms, which are highlighted for
+their ability to improve reaction kinetics, reduce solvent consumption,
+and enhance reproducibility. Furthermore, the growing integration
+of enzymatic and chemoenzymatic methodologies, including engineered
+polymerases and template-independent nucleic acid synthesis systems,
+is redefining the preparation of next-generation oligonucleotides.
+Particular attention is given to sustainability-driven synthetic innovations
+that address longstanding limitations related to scalability, purification,
+stereochemical control, and environmental impact. By comparing the
+strengths and limitations of conventional synthetic platforms, this
+review establishes a unified perspective on the evolving manufacturing
+landscape for peptide and oligonucleotide production, as well as the
+therapeutic applications of versatile peptide and oligonucleotide
+substrates. Collectively, these advances provide a foundation for
+the accelerated development of increasingly sophisticated biomolecular
+constructs and offer practical insights for translating synthetic
+innovations into clinically and industrially relevant applications.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Toward Organosolv
+Biorefineries Based on γ-Valerolactone
+Recycling via Salting-Out Extraction</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00063/5451624/Toward-Organosolv-Biorefineries-Based-on</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00063</guid>
+<pubDate>Thu, 15 Oct 2026 07:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00063/1/m_op6c00063_0004.svg?Expires=2147483647&amp;amp;Signature=Rv4AJmD5EPI6uDu-ajo8NNrmgY1y~aWNxdbq1WtLX2TRxNaD7uy-zSgW7y0l1yXv-TfopyND-sJLtGJlcSyZyCORFO51UfSq4eGxEZzxZgDupfdYfqU1e-d6RHY3Iz-YiuJogg-gAqrWMKAqbap9hPe9CR-69gd9OxqnmkxeFVc5yGTI5hsk5DE9gFlW4wj1EdxPRhHywS0Wadx3HdU8XaRy4otWPM-ENgGBdhHcVBi8x3btH32WgwKfW3fWR8n~E3FysOnlZqoZQM6JFS6kPMXRZw1egG-CfWXHnndQa327SLPFrHQ8NQZGdmmc2SZu~JHT2ZcTtHHVTU8I1mwhkw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Toward Organosolv
+Biorefineries Based on γ-Valerolactone
+Recycling via Salting-Out Extraction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This study presents an alternative approach for solvent
+regeneration
+in γ-valerolactone (GVL) based organosolv fractionation of lignocellulosic
+biomass through a two-stage salting-out assisted liquid–liquid
+extraction (SALLE) mediated by Na&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;. &lt;span style="font-style:italic;"&gt;Cynara cardunculus L. altilis&lt;/span&gt; (cardoon) stems were treated
+via microwave-assisted GVL/water extraction, followed by sequential
+washing and SALLE steps to separate and quantify cellulose, lignin,
+and hemicellulose fractions while regenerating GVL and Na&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;. The regenerated GVL was reused over six consecutive
+cycles, and its performance was assessed through pulp composition
+and solvent purity analyses. Results show that SALLE enables consistent
+GVL regeneration (82%), high-purity cellulose pulps (&amp;gt;90 wt % cellulose),
+and lignin recovery (about 78%) without significant solvent degradation
+or undesired solute accumulation. The findings demonstrate that SALLE
+provides an efficient and reproducible method for GVL recovery, which
+could be implemented in a GVL-based biorefinery.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Maximizing Pd/C
 Hydrogenation Performance with Continuous
 Flow CSTR Cascades at Ambient Pressure</title>
@@ -1936,27 +2034,6 @@ peptide production.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.oprd.6c00022</guid>
 <pubDate>Fri, 12 Jun 2026 01:08:29 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00022/1/m_op6c00022_0017.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00022&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] A Concise Enantioselective Formal Synthesis of the Second-Generation Oral Contraceptive Levonorgestrel</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00087</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00087</guid>
-<pubDate>Thu, 11 Jun 2026 07:13:34 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00087/1/m_op6c00087_0013.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00087&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Applications of Raman Spectroscopy in Early Phase Chemical Development</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.5c00376</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.5c00376</guid>
-<pubDate>Mon, 08 Jun 2026 12:00:00 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.5c00376/1/m_op5c00376_0011.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.5c00376&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Development of a Four-Step Scalable Synthesis for the Alkyl-lysophospholipids (S)- and (R)-Edelfosine</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.5c00523</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.5c00523</guid>
-<pubDate>Wed, 03 Jun 2026 02:36:13 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/9/10.1021_acs.oprd.5c00523/1/m_op5c00523_0006.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.5c00523&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
