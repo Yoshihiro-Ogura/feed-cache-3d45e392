@@ -5,6 +5,221 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>An Integrated Computational-Experimental
+Workflow
+for Fungal Peroxygenase Discovery and Enzyme–Substrate Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01050/5453138/An-Integrated-Computational-Experimental-Workflow</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01050</guid>
+<pubDate>Fri, 16 Oct 2026 19:00:52 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01050/1/m_ci6c01050_0006.png?Expires=2147483647&amp;amp;Signature=rUQ7i9ZZTG-H8aKl5Uoc1qlYNfR8eRcWPgCP8ne7pFEl7NRAvkyDuZmX9MZM2OegEmZzURT6yNRvwPg~yl5d9Ygb3AEFp2zsKrcU5ax7mXZwhZ2sKr3R6g5NH1tYPjt0yt6q93ahpi-PF3eZEJ-1~UacrEglzHOmfUM0wkmSYuSLgtJD1NRobm1E4pKPBOrwNEJ9zqI9~NmMFL3XcZSdTPHAoDA5k1SJgUJnajCO6w5b341UyHUYQVQc4ihv7Bm4b7GlYITIOodX~6c6ub9WTU98Baz~eBMZhn46UxqRF4VaimxeSQ-QHPfmbYvHQMwwBK-j6dtgUWQ~3cvq32LDDQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="An Integrated Computational-Experimental
+Workflow
+for Fungal Peroxygenase Discovery and Enzyme–Substrate Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Recent advances in enzyme informatics have produced increasingly
+powerful general models for the prediction of protein function prediction.
+However, their performance remains limited for underexplored enzyme
+families where experimental data are scarce and heterologous expression
+remains challenging. Here, we present a computational-experimental
+workflow for prioritizing, characterizing, and modeling fungal unspecific
+peroxygenases (UPOs) as a case study in enzyme discovery under data-limited
+conditions. The workflow integrates large-scale sequence mining, expression-aware
+candidate prioritization, systematic experimental screening, and machine-learning-based
+prediction of enzyme–substrate activity. From more than 3000
+mined candidate sequences, 59 putative UPOs were shortlisted, expressed
+in &lt;span style="font-style:italic;"&gt;Escherichia coli&lt;/span&gt; across two batches, and tested
+against colorimetric substrates, yielding 27 UPOs with consistent
+expression and activity. A subset of 15 novel UPOs and 4 well-characterized
+reference enzyme sequences was then screened against a chemically
+diverse panel of 27 substrates to generate an enzyme–substrate
+activity data set. Using this data set, we developed two complementary
+machine learning protocols based on gradient boosting: (i) a structure-informed
+model incorporating homology modeling, docking, and interaction-derived
+features (modeling-docking-ML) and (ii) a latent-representation model
+utilizing joint protein/chemical language model embeddings (protein/chemical-language-model-ML).
+In retrospective validation, the models achieved performance with
+a Matthews correlation coefficient (MCC) of up to 55% and accuracy
+up to 78%. In selected prospective testing on previously unseen batch
+2 enzymes, the models achieved an MCC of up to 48% and accuracy up
+to 70%. Taken together, these results demonstrate that targeted experimental
+data generation, combined with complementary structure-informed and
+embedding-based models, can support prioritization and activity prediction
+within poorly characterized enzyme families while highlighting the
+continued challenge of generalizing to broader chemical substrate
+space.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Kinase Inhibitors
+can Change Protonation or Tautomeric
+State upon Binding</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02792/5453133/Kinase-Inhibitors-can-Change-Protonation-or</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02792</guid>
+<pubDate>Fri, 16 Oct 2026 19:00:52 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02792/1/m_ci6c02792_0006.svg?Expires=2147483647&amp;amp;Signature=pzjk8crOdS-OlxjyyuBNZ6BkpURdESKVzVfmCfFMh1GaZ-2WwTkjITvUfRCG2vExeys~Up6mYdIDJFEvjxpOpO~qHYTZyxopQL6ezTZZN0WCajgRXrodoIzVyZ-r72DuBDOI0TSD-FMNGa5jze2PkgLbXvKyzO0sUVtkqna2w~bjMq7Elzahp1Dlg~7tUA-sl0XG22NEVqtvZ-4VyPVhuEelthKP~pAVjXomemMDMfjkRB6joDjX-e967pnY0gY8aNtX5q6hxSsUPIuLvuBGC5r0Wj1OaIBKs57J6rMucEBkzLX4adDS5hGVSunDujNldPQ9gt57vaRNMuf-PJjFlg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Kinase Inhibitors
+can Change Protonation or Tautomeric
+State upon Binding" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The binding affinity of a ligand to a protein is influenced
+by
+the protonation and tautomeric states of both partners. However, this
+relationship remains under-investigated due to the limited availability
+of computational tools capable of treating charge and tautomer states
+together in a scalable manner to study clinically relevant systems.
+Here, we use multi-conformation continuum electrostatics (MCCE) to
+calculate the protonation and tautomer distributions of nine kinase
+domains bound to 18 FDA-approved inhibitors across 37 cocrystal structures,
+while considering their Boltzmann-ensemble. The full pipeline was
+repeated in triplicate, so that every reported value carries a measured
+run-to-run uncertainty. Our simulations show that protein net charge
+and proton distribution remain largely stable even upon binding charged
+inhibitors. Our results find that individual inhibitor charges are
+dynamic, frequently increasing or decreasing upon binding a specific
+protein target. We observe that kinase-inhibitor binding shifts the
+relative probabilities of low-energy states (Δ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt; &amp;lt; 2.8 kcal/mol), but does not increase the probability of higher-energy
+states in the bound form. By considering all low-energy charge states
+and tautomers, we identify when two solution-state tautomers of nearly
+equal population resolve upon binding into a single state, creating
+free energy differences of up to 3.5 kcal/mol between tautomers, and
+in some complexes differences beyond the resolution of the sampling.
+In turn, we find that minority species can become the dominant component
+in the bound state, emphasizing the necessity of considering ensemble-wide
+protonation and tautomer states to accurately predict protein–ligand
+binding energetics.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Ga 3+  Replacing of Fe 3+  as a
+“Trojan Horse” Antimicrobial Strategy: Modeling the
+Process within Bacterial Catalase–Peroxidase KatG</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02504/5452485/Ga3-Replacing-of-Fe3-as-a-Trojan-Horse</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02504</guid>
+<pubDate>Fri, 16 Oct 2026 09:00:54 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02504/1/m_ci6c02504_0008.png?Expires=2147483647&amp;amp;Signature=MtUU4YgKQS4Or~Rx3aIloDyOUk7nelqQ9b9nBhWgphv8KdaUQk2EnN3aNZKRhuPPI~43TgovF4ALps-4M2BNLS2~y-gVfwgl9oF7fPENyZMWRt4ihx0Jns665mhLPRuuq2LDO4mUDQ5Pql8JoRW~WcJhja6NFjR4DUQBOYVkOsbGxa3LTpnxK6SjABx2AWtgOCsxbPpaxTrdIWW~McqMQ4oF0J72JY4udlcX4bAJ53lNd4vAOKo6KGtYlRvikrVsNpoebmJYmRRIlQjpljpPX2vtNcr4uOIu6Qx0b-xMqDpMniYon-qn7IQlAFHSBLXHCzDYVrXfRkhfKCchev1ePw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Ga 3+  Replacing of Fe 3+  as a
+“Trojan Horse” Antimicrobial Strategy: Modeling the
+Process within Bacterial Catalase–Peroxidase KatG" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Replacement of Fe&lt;sup&gt;3+&lt;/sup&gt; by Ga&lt;sup&gt;3+&lt;/sup&gt; has
+emerged as
+a promising “Trojan horse” antimicrobial strategy in
+response to the growing threat of antibiotic-resistant bacteria. Because
+many bacterial proteins hijack host iron to sustain essential redox
+processes, substitution with redox inactive Ga&lt;sup&gt;3+&lt;/sup&gt;, which
+closely resembles Fe&lt;sup&gt;3+&lt;/sup&gt; in ionic radius but possesses only
+one oxidation state, can disrupt their activity. Among potential targets,
+bacterial catalase-peroxidase shows particular sensitivity to Fe&lt;sup&gt;3+&lt;/sup&gt;/Ga&lt;sup&gt;3+&lt;/sup&gt; exchange. However, the structural determinants
+and thermodynamic driving forces governing this substitution remain
+poorly understood. Here we combine &lt;span style="font-style:italic;"&gt;ad hoc&lt;/span&gt; force field
+development, molecular dynamics simulations, alchemical free energy
+calculations, and QM/MM methods to elucidate the molecular basis of
+Fe&lt;sup&gt;3+&lt;/sup&gt;/Ga&lt;sup&gt;3+&lt;/sup&gt; exchange in the bacterial catalase-peroxidase
+KatG. Our simulations show that the axial coordination environment
+of the heme B cofactor is largely preserved upon metal substitution,
+while the distal ligand dynamically alternates between histidine and
+a coordinated water molecule. Energy decomposition analysis reveals
+residue specific differences in electrostatic and van der Waals interactions
+following metal exchange. Free energy calculations indicate that substitution
+of iron by gallium in the KatG active site is thermodynamically favorable.
+The presence of a coordinated water molecule emerges as a key structural
+feature in both metalated states, while distinct binding patterns
+contribute differently to the overall thermodynamic driving force.
+These results provide an atomistic description of gallium mediated
+metal substitution in KatG and offer mechanistic insight into gallium-based
+antimicrobial strategies, supporting the rational design of new iron-mimetic
+antibacterial agents.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Interpretive Limits of Cross-Split AUPRC Differences
+in Deep Learning-Based Antibiotic Screening</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03208/5452357/Interpretive-Limits-of-Cross-Split-AUPRC</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03208</guid>
+<pubDate>Fri, 16 Oct 2026 04:00:42 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03208/1/m_ci6c03208_0002.png?Expires=2147483647&amp;amp;Signature=NdPvaSXJ3VAaU0KFRO4ttyLqKEG5b-hb7-g51B5h9SetSHWxoI9AM~Dm0EVUZaSVDWxCtdChhpl0APVgccCWMKLTh~4BaGhYUpTz4C0suDRXv9kqLB5XYDOU1y6KvKwI-NWJwrB7nf9N7CX45ksP3XUYhpN~MtFpuh82lD5~jfU-WU3ls2mSjdYXAxEuxOHPL5g5nDsGDStJB-ctNr5vkJ7p4sxvYo4WT1SWLZy881rYDcarJh7CaY2-HV5RwWwmJhxfvBHN2GRudRHYS2gi~KT4DZ7aBOmNPZCZf4FiUr0PApCT84IA6biBEVBHedt4nwFrYZ~T093Bwx4kr9cIyw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Interpretive Limits of Cross-Split AUPRC Differences
+in Deep Learning-Based Antibiotic Screening" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Deep
+learning expands the chemical space accessible to antibiotic
+discovery, making interpretation of evaluation results increasingly
+important when only a few compounds can be prioritized from vast candidate
+libraries. AUPRC depends on test-set prevalence, while molecular splitting
+can alter training-to-test structural relatedness and test-set class
+composition, so when prevalence differs across splits, a cross-split
+AUPRC difference alone cannot quantify how much of the performance
+change is attributable to structural differences. Cross-split comparisons
+should therefore report test-set size, positive count, prevalence,
+splitting method, and the precision-recall summary metric, while direct
+model comparisons should use the same fixed independent test set whenever
+possible. Claims about practical screening utility should also consider
+top-k performance, early enrichment metrics, or prospective experimental
+hit rates under a prespecified budget, so that evidence remains aligned
+with the scientific claims it is intended to support.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Building a Physically
+Interpretable Compressed Chemical
+Space via Grid-Based Optimization</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01542/5452349/Building-a-Physically-Interpretable-Compressed</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01542</guid>
+<pubDate>Fri, 16 Oct 2026 03:00:50 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01542/1/m_ci6c01542_0015.png?Expires=2147483647&amp;amp;Signature=ivwHgkHx1yU~CrwdOGBBEWhiGWEBtiPu1ayUWsSmKATpyH8v~L~1WGWCRVdOsUR65L--gkfIu9p2JZi5u9u3~03C9jVm61w329y4CbKDlEIQxz1iNlrVeBJy2~bNe2~OhV3J22ClVq6nEKfl18axsAVTXQpFqsMVrL3SVWp~jy~wxWQ18eYa2CU~n4PGuz6lIzoRqNVeM6qhJN~43YKF47-cG8GxcWDap~YbCZ700spkxILCJIP989cjZ0oygH1ROmqDOPZ1fdHetPBg4dYs86Wt8gYZxKcQaq3YNVMyOaMCjJvRfWnsWHWjzk9PNEblZWTcBmjDAQeLXEKNOBX3lA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Building a Physically
+Interpretable Compressed Chemical
+Space via Grid-Based Optimization" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In recent years,
+deep generative models have been increasingly
+adopted for molecular optimization and design. In many such models,
+molecules are encoded into latent spaces that provide compact representations
+of their features. However, these latent spaces remain difficult to
+interpret in physical terms, and it is unclear how much structural
+and molecular information is retained under compression. This limitation
+becomes especially important when molecular behavior depends on specific
+three-dimensional arrangements embedded in an environmental context.
+Here, we introduce COMPRESS (Compression Of Molecular Physical fields
+into Reduced Spatial Sites), an optimization framework that represents
+a small molecule using a fixed number of physically parametrized spatial
+sites. Each site is defined by three spatial coordinates and three
+interaction parameters, yielding a fixed-size representation that
+remains directly interpretable in physical terms. To preserve molecular
+information, COMPRESS representations are optimized to reproduce the
+density, electrostatic, and van der Waals fields of the corresponding
+all-atom molecule on discretized three-dimensional grids. We systematically
+evaluate how molecular information is retained as the number of sites, &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;, is reduced. Our analysis covers benzene, 20 chemically
+diverse chemical scaffolds, benzene dimers, protein–ligand
+complexes, and 10,000 molecules chosen from the GEOM-Drugs data set.
+Across systems, field agreement deteriorates slowly at high resolution
+and then undergoes a rapid, pronounced transition at lower resolution.
+We further find that &lt;span style="font-style:italic;"&gt;K&lt;/span&gt; = 25 conformers capture about
+97% of the molecules from GEOM-Drugs under a loss threshold of 0.05,
+which we use as an indicator of fidelity. These results show that
+COMPRESS can provide a fixed-size, physically interpretable molecular
+representation, enabling compression to be evaluated directly using
+molecular interaction fields and resulting physical quantities. We
+also introduce a decoder that reconstructs all-atom structures directly
+from a COMPRESS representation, showing that the representation can
+support molecular generation in addition to field-preservation analysis.
+Finally, rationally modified COMPRESS representations through changes
+to site charge and size or the addition or removal of sites are shown
+to generate realistic chemical compounds upon decoding.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Cross-Modal Semantic
+Alignment for Cold-Start Drug–Target
+Interaction Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01975/5452313/Cross-Modal-Semantic-Alignment-for-Cold-Start-Drug</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01975</guid>
+<pubDate>Fri, 16 Oct 2026 03:00:50 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01975/1/m_ci6c01975_0012.png?Expires=2147483647&amp;amp;Signature=HkXjl4HK7P05JDxyZ-ji-chqET65RJ9mvACeGyMaci429LihiiXjrpID3zCReQri-czE5-n0~32CxzXSelp4YLW2v4FPjUp8T~24ySorZIZNFoHfCIJ7VUnqBpWFXSqXJvYQVpyw9fJnJGdPv0vQx82-1cj1UQyizcbHzewGe5bGtxtVw9ZBGqnAg0oUTAC258aRPYZBoZrxfrWffi2gXUBULJ6iyl1A9jTCpKS4KItSu7JXKvc1ie8N3y4Rv7o8PUhLITZMOKIhBUQzVEcrQunN2OF7dasbY2CPYRGVrw-NCNouEkwq~MMlHIAMGKLC44RCubdNH47yoKXKuy5kEw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Cross-Modal Semantic
+Alignment for Cold-Start Drug–Target
+Interaction Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug–target interaction (DTI) prediction is essential
+for
+drug discovery, yet existing models often suffer from limited generalization
+when drugs or targets are unseen during training. This challenge is
+particularly severe in cold-start settings, where interaction records
+are unavailable for novel entities and effective semantic transfer
+between chemical and biological spaces is required. To address this
+problem, we propose CMA-DTI, a cross-modal semantic alignment framework
+for cold-start drug–target interaction prediction. CMA-DTI
+first extracts drug and protein representations from pretrained sequence
+models, and then it uses a dual-channel encoder to capture local functional
+patterns and global contextual dependencies. A bidirectional cross-modal
+alignment module is further introduced to model interactions between
+drug functional groups and protein binding regions, enabling fine-grained
+semantic transfer across heterogeneous modalities. Experiments on
+four benchmark data sets show that CMA-DTI achieves competitive performance
+in warm-start settings and improves generalization in challenging
+target cold-start and blind-start scenarios. Ablation studies and
+structural visualizations further support the contribution of the
+proposed modules and suggest residue-level interpretability for protein–ligand
+binding analysis.&lt;/span&gt;</description>
+</item>
+<item>
 <title>CASyM: Chemotype
 Annotation through Synthesis Mapping</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00645/5452291/CASyM-Chemotype-Annotation-through-Synthesis</link>
@@ -3847,195 +4062,6 @@ set can provide meaningful diversity for screening in a broad drug
 discovery portfolio. The Scope principles have demonstrated value
 in hit-finding campaigns and have changed practices for compound acquisition,
 hit-list triaging, and screening.&lt;/span&gt;</description>
-</item>
-<item>
-<title>HelixDTA: Dual-Branch
-Sequence–Structure Learning
-with Complete Target Structures for Robust and Interpretable Drug–Target
-Affinity Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01759/5431446/HelixDTA-Dual-Branch-Sequence-Structure-Learning</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01759</guid>
-<pubDate>Wed, 16 Sep 2026 15:00:41 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01759/5431446/HelixDTA-Dual-Branch-Sequence-Structure-Learning"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01759/1/m_ci6c01759_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of drug–target affinity (DTA)
-is crucial
-for accelerating the discovery of drug candidates. Despite recent
-advances in machine learning methods, existing models often rely solely
-on either sequence information or protein pocket structures. This
-limitation prevents these models from fully capturing the critical
-three-dimensional (3D) physical information that governs molecular
-recognition, thus failing to meet the high-precision demands of drug
-discovery. To address this, we introduce HelixDTA, a deep learning
-framework featuring a parallel dual-branch architecture that independently
-learns representations from two distinct but complementary modalities:
-sequence context and complete target structures. By integrating sequence-derived
-features with structure-derived features at the prediction layer,
-this architecture preserves modality-specific insights while characterizing
-drug–target interactions more comprehensively. HelixDTA achieved
-strong and competitive performance on the Davis and KIBA benchmarks
-and maintained clear advantages across most similarity-based cold-start
-settings, demonstrating robust generalization to compounds with unseen
-scaffolds and novel protein targets. Furthermore, its built-in attention
-mechanism enhances interpretability by highlighting molecular regions
-that contribute to affinity prediction. Finally, a WRN case study
-demonstrates the potential use of HelixDTA for structure-aware allosteric
-candidate prioritization by integrating complete target-level structural
-context with docking-based pose inspection. In conclusion, HelixDTA
-offers a highly accurate, interpretable, and robust solution for DTA
-prediction. It highlights the value of integrating structural context
-with sequence-derived information and demonstrates significant potential
-to empower precision drug design and accelerate the drug discovery
-pipeline.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Measuring AI Progress
-in Drug Discovery: A Reproducible
-Leaderboard for the Tox21 Challenge</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01148/5431168/Measuring-AI-Progress-in-Drug-Discovery-A</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01148</guid>
-<pubDate>Wed, 16 Sep 2026 12:00:44 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01148/5431168/Measuring-AI-Progress-in-Drug-Discovery-A"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01148/1/m_ci6c01148_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Deep learning has fundamentally transformed fields such
-as computer
-vision and natural language processing since the early 2010s and has
-strongly influenced biomedical research. For drug discovery specifically,
-a key inflection point─akin to vision’s “ImageNet
-moment”─arrived in 2015, when deep neural networks surpassed
-traditional approaches in the Tox21 Data Challenge. This milestone
-accelerated the adoption of deep learning methods across the pharmaceutical
-industry, and today, most major companies have integrated these approaches
-into their research pipelines. Following the conclusion of the Tox21
-Challenge, its data set was incorporated into several established
-benchmarks, including MoleculeNet and the Open Graph Benchmark. However,
-during these integrations, the data set was altered, and labels were
-imputed or manufactured, resulting in a loss of comparability across
-studies. Consequently, the extent to which bioactivity and toxicity
-prediction methods have improved over the past decade remains unclear.
-To this end, we introduce a reproducible leaderboard, hosted on Hugging
-Face with the original Tox21 Challenge data set, together with a set
-of baseline and representative methods. The current version of the
-leaderboard indicates that the original Tox21 winner from 2015─the
-ensemble-based DeepTox method─and the descriptor-based self-normalizing
-neural networks introduced in 2017 continue to perform competitively
-and rank among the top methods for toxicity prediction, raising questions
-about the extent of progress achieved over the past decade. As part
-of this work, we provide public access to all baselines and evaluated
-models for inference via standardized API end points on Hugging Face
-Spaces.&lt;/span&gt;</description>
-</item>
-<item>
-<title>STELLAR: A Fragment-Based
-Docking Workflow for Highly
-Flexible Long-Chain Biopolymers</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00987/5431053/STELLAR-A-Fragment-Based-Docking-Workflow-for</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00987</guid>
-<pubDate>Wed, 16 Sep 2026 09:00:44 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00987/5431053/STELLAR-A-Fragment-Based-Docking-Workflow-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00987/1/m_ci6c00987_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Docking methods have improved significantly through optimization
-using generative approaches and systematic exploration of parameter
-configurations within docking software. However, docking large molecules
-such as peptides remains challenging, while the docking of large non-peptidic
-biopolymers is still insufficiently explored. Existing tools often
-exhibit limitations in both accuracy and computational efficiency
-when applied to longer peptides or other polymers. Moreover, although
-generative deep learning and machine learning approaches have shown
-promise, they still frequently lack robust ranking metrics, resulting
-in suboptimal performance. To address these limitations, we developed
-STELLAR (Score-Tuning for Efficient Ranking of Large Ligands using
-an Accurate and Refined Docking Configuration), a workflow designed
-to enable efficient and accurate docking of highly flexible long-chain
-biopolymers exceeding 10 subunits. STELLAR implements a fragment-based
-strategy, decomposing the biopolymer into smaller units for individual
-docking, followed by recomposition into full-length structures. It
-also includes optimized algorithms for handling long-chain biopolymers.
-The pipeline integrates structural optimization steps using tools
-such as GNINA, RDKit, and GROMACS, ensuring physically realistic poses.
-STELLAR achieved RMSD values below 5 Å in validation experiments
-using benchmark complexes from Propedia and the Protein Data Bank
-(PDB). It offers a faster and more efficient alternative to several
-state-of-the-art tools across a range of peptide lengths. Additionally,
-it scales linearly in computational time, runs primarily on CPUs with
-minimal GPU usage, avoids reliance on generative approximations, provides
-an accurate metric for ligand ranking, and reduces computational cost
-compared to similar tools. Its design also supports high-throughput
-screening of linear polymer–protein interactions by efficiently
-reducing the complexity associated with high conformational flexibility.&lt;/span&gt;</description>
-</item>
-<item>
-<title>The Synthesizability
-Gap Has Moved: Route Existence
-Is Not Chemistry</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02895/5430950/The-Synthesizability-Gap-Has-Moved-Route-Existence</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02895</guid>
-<pubDate>Wed, 16 Sep 2026 07:00:48 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02895/5430950/The-Synthesizability-Gap-Has-Moved-Route-Existence"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02895/1/m_ci6c02895_0002.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Synthesis-constrained generative models now guarantee
-that every
-proposed molecule carries a route to purchasable building blocks,
-and recent campaigns have carried such designs to synthesized, biologically
-active compounds. I argue that this genuine success has relocated
-the synthesizability gap rather than closed it: a route a planner
-certifies is not yet chemistry a bench reproduces. Three deficits
-persist─stereochemical settability, chemoselectivity and functional-group
-tolerance, and a novelty tax that returns constrained generators to
-flat, amide- and biaryl-rich space─and none is a search problem.
-I propose that molecular design needs for synthesis what PoseBusters
-supplied for docking: a cheap, standardized chemistry-validity layer
-that scores routes rather than molecules and reports executed make-rate
-as the headline result.&lt;/span&gt;</description>
-</item>
-<item>
-<title>KRstereo: Predicting
-β-Hydroxy Stereochemistry
-in Polyketides Using Protein Language Models</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02706/5430900/KRstereo-Predicting-Hydroxy-Stereochemistry-in</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02706</guid>
-<pubDate>Wed, 16 Sep 2026 05:01:06 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02706/5430900/KRstereo-Predicting-Hydroxy-Stereochemistry-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02706/1/m_ci6c02706_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Polyketides are a major class of bioactive natural products
-whose
-activities are often determined by the stereochemistry of β-hydroxyl
-groups. In type I polyketide synthases (PKSs), ketoreductase (KR)
-domains establish these stereocenters, making accurate prediction
-of KR stereochemistry important for natural product discovery and
-PKS engineering. Existing rule-based methods rely on a limited set
-of sequence motifs and often perform poorly across phylogenetically
-diverse taxa. Here, we present KRstereo, a machine learning framework
-that predicts KR stereochemistry directly from sequence. Analysis
-of β-modular KR domains from MIBiG 3.1 identified informative
-sequence features beyond canonical motifs, motivating the use of protein
-language model embeddings. KRstereo achieved accuracies of up to 95.7%
-across taxa and 93.0% for non-&lt;span style="font-style:italic;"&gt;Streptomyces&lt;/span&gt; KRs, consistently outperforming existing rule-based approaches.
-Validation using newly characterized KR domains from MIBiG 4.0 confirmed
-strong generalizability, including cases misclassified by current
-methods. Application of KRstereo to 20,840 β-modular KR domains
-from antiSMASH enabled large-scale stereochemical annotation of previously
-uncharacterized PKS systems. By linking sequence to stereochemical
-function, KRstereo improves reconstruction of polyketide structures
-from biosynthetic gene clusters and facilitates stereochemistry-aware
-genome mining and engineering of PKS assembly lines.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Semi-Automated
-Discovery of Structural Elements Controlling
-GPCR Function</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01584/5430486/Semi-Automated-Discovery-of-Structural-Elements</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01584</guid>
-<pubDate>Tue, 15 Sep 2026 15:00:39 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01584/5430486/Semi-Automated-Discovery-of-Structural-Elements"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01584/1/m_ci6c01584_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular simulations of G-protein-coupled receptors
-have become
-an important part of the structural biology toolkit, revealing structure-function
-mechanisms that are unobservable from experimental structures alone.
-With the advance of hardware and software, it has become routine to
-obtain trajectories that are tens of microseconds in duration, opening
-new opportunities for yet more rigorous and reproducible observations
-on mechanism. Toward this end, we presented a semi-automated analysis
-pipeline which operates on featurized simulation data, performs unsupervised
-clustering, and then identifies which input features are most discriminatory
-of cluster identity. Application of this pipeline to a large set of
-G-protein-coupled receptor simulation data shows that it identifies
-several well-known microswitches. Inspection of these structural elements
-reveals changes in conformation that are known to accompany functional
-transitions of the receptor. In addition to these known structural
-elements, the analysis also identifies functional transitions associated
-with one new motif─the kink in transmembrane helix 2─and
-discovers a coupled “piston-like” motion of TM2 and
-TM3 that elaborates a previously reported motion of TM3.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
