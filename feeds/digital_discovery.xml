@@ -5,6 +5,27 @@
 <link>https://pubs.rsc.org/dd/latest-articles</link>
 <description>Digital Discovery (mirrored feed)</description>
 <item>
+<title>RxnMol: Synthesis-Aware Molecular Generation via Reaction-Driven Global Chemical Space Search</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00325g</link>
+<guid>urn:rsc-latest:d6dd00325g</guid>
+<pubDate>Mon, 19 Oct 2026 13:23:23 +0000</pubDate>
+<description>Authors: Islambek Ashyrmamatov, Umit Volkan Ucak, Juyong Lee&lt;br/&gt;DOI: 10.1039/d6dd00325g</description>
+</item>
+<item>
+<title>Benchmarking machine learning for therapeutic deep eutectic solvent screening: dataset construction, cross-source generalization failure, and applicability-boundary analysis</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00521g</link>
+<guid>urn:rsc-latest:d6dd00521g</guid>
+<pubDate>Mon, 19 Oct 2026 08:32:07 +0000</pubDate>
+<description>Authors: Junxiao Zhu, Shiyi Wang, Ziming Liang, Liang Qin, Chengxiao Wang, Deyun Ma, Lin Chen&lt;br/&gt;DOI: 10.1039/d6dd00521g</description>
+</item>
+<item>
+<title>SCOPE: A Chemically-Aware Workflow Automation Software for Molecules and Molecular Crystals</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00236f</link>
+<guid>urn:rsc-latest:d6dd00236f</guid>
+<pubDate>Mon, 19 Oct 2026 07:02:57 +0000</pubDate>
+<description>Authors: Sergi Vela, Manel Serrano&lt;br/&gt;DOI: 10.1039/d6dd00236f</description>
+</item>
+<item>
 <title>UniDTI: A Multi-modal and Multi-scale Unified Framework for Predicting Drug-Target Interactions</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00271d</link>
 <guid>urn:rsc-latest:d6dd00271d</guid>
@@ -103,7 +124,7 @@
 <description>Authors: Gwang-Noh Ahn, Amirezza Motafegh, Seunghun Jang, Gyoung S. Na&lt;br/&gt;DOI: 10.1039/d6dd00538a</description>
 </item>
 <item>
-<title>RXNMapperv2: updated validation and evaluation on expanded chemical space</title>
+<title>RXNMapper-v2: updated validation and evaluation on expanded chemical space</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00425c</link>
 <guid>urn:rsc-latest:d6dd00425c</guid>
 <pubDate>Tue, 13 Oct 2026 11:30:52 +0000</pubDate>
@@ -1032,27 +1053,6 @@
 <guid>urn:rsc-latest:d6dd00273k</guid>
 <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00273k/1288793/CatGo-Bridging-CLI-coding-agents-with-interactive"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00273k/1/d6dd00273k-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Paper&lt;/strong&gt; — 29 July 2026&lt;/p&gt;&lt;p&gt;Guangsheng Liu; Xiao Ma; Leshen Zhang; Jenedith Pascasio; Jonathan Yang; Yuxiang Chen; Wan-Lu Li&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1039/D6DD00273K"&gt;DOI: 10.1039/D6DD00273K&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>Facility-scale workflows for data acquisition, standardization, machine learning analysis, and reproducible science</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00263c/1288503/Facility-scale-workflows-for-data-acquisition</link>
-<guid>urn:rsc-latest:d6dd00263c</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00263c/1288503/Facility-scale-workflows-for-data-acquisition"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00263c/1/d6dd00263c-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Paper&lt;/strong&gt; — 29 July 2026&lt;/p&gt;&lt;p&gt;Sita Sirisha Madugula; Spenser R. Brown; Amber N. Bible; Ruben Millan-Solsona; Martí Checa; Lynnicia Massenburg; Alexis N. Williams; Liam Collins; Sumner B. Harris; Jennifer L. Morrell-Falvey; Scott Retterer; Rama K. Vasudevan&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1039/D6DD00263C"&gt;DOI: 10.1039/D6DD00263C&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>Data-driven insights to accelerate advanced biomanufacturing</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00170j/1284540/Data-driven-insights-to-accelerate-advanced</link>
-<guid>urn:rsc-latest:d6dd00170j</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00170j/1284540/Data-driven-insights-to-accelerate-advanced"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00170j/1/d6dd00170j-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Paper&lt;/strong&gt; — 29 July 2026&lt;/p&gt;&lt;p&gt;Jessica N. Lalonde; Sara L. Pacheco; Anjana Talapatra; C. Raul Gonzalez Esquer; Babetta L. Marrone&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1039/D6DD00170J"&gt;DOI: 10.1039/D6DD00170J&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>Predictive autoencoder-transformer model of Cu oxidation state from EELS and XAS spectra</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00036c/1284287/Predictive-autoencoder-transformer-model-of-Cu</link>
-<guid>urn:rsc-latest:d6dd00036c</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00036c/1284287/Predictive-autoencoder-transformer-model-of-Cu"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00036c/1/d6dd00036c-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Paper&lt;/strong&gt; — 29 July 2026&lt;/p&gt;&lt;p&gt;Brian Lee; Linna Qiao; Samuel Gleason; Guangwen Zhou; Xiaohui Qu; Judith Yang; Jim Ciston; Deyu Lu&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1039/D6DD00036C"&gt;DOI: 10.1039/D6DD00036C&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
