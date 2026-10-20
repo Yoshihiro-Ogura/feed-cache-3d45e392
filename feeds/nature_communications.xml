@@ -5,6 +5,20 @@
 <link>http://feeds.nature.com/ncomms/rss/current</link>
 <description>Nature Communications (mirrored feed)</description>
 <item>
+<title>Direct observation of the Lindhard continuum using resonant inelastic X-ray scattering</title>
+<link>https://www.nature.com/articles/s41467-026-78503-y</link>
+<guid>10.1038/s41467-026-78503-y</guid>
+<pubDate>2026-10-20</pubDate>
+<description>&lt;p&gt;Nature Communications, Published online: 20 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78503-y"&gt;doi:10.1038/s41467-026-78503-y&lt;/a&gt;&lt;/p&gt;In metals, the continuum of electron-hole excitations is described by the Lindhard function. Here, the authors directly observe the corresponding Lindhard continuum in the weakly correlated metal MgB2 using ultra-soft resonant inelastic X-ray scattering.</description>
+</item>
+<item>
+<title>Three-photon population imaging of subcortical brain regions</title>
+<link>https://www.nature.com/articles/s41467-026-78585-8</link>
+<guid>10.1038/s41467-026-78585-8</guid>
+<pubDate>2026-10-20</pubDate>
+<description>&lt;p&gt;Nature Communications, Published online: 20 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78585-8"&gt;doi:10.1038/s41467-026-78585-8&lt;/a&gt;&lt;/p&gt;Imaging large cell populations below the cortex in the intact brain is key for understanding brain function. LIFT, a multiscale three-photon microscope, tracks activity in over 1,500 cells across the hippocampus and adjacent regions in behaving mice.</description>
+</item>
+<item>
 <title>Passive abortive infection mechanisms targeting phage long tail fiber proteins</title>
 <link>https://www.nature.com/articles/s41467-026-78794-1</link>
 <guid>10.1038/s41467-026-78794-1</guid>
@@ -1039,20 +1053,6 @@
 <guid>10.1038/s41467-026-77973-4</guid>
 <pubDate>2026-10-03</pubDate>
 <description>&lt;p&gt;Nature Communications, Published online: 03 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-77973-4"&gt;doi:10.1038/s41467-026-77973-4&lt;/a&gt;&lt;/p&gt;‘Crystallization-driven self-assembly is a useful tool for the synthesis of polymer nanostructures with precise dimensions, but the melting behavior of polymer crystals grown in solution has remained largely unexplored. Here, the authors show that melting temperature is a structurally sensitive descriptor and an active design parameter for 2D platelets.’</description>
-</item>
-<item>
-<title>Monolithic three-dimensionally integrated memristor-thin-film transistor for electrically programmable multimode reservoir computing</title>
-<link>https://www.nature.com/articles/s41467-026-78364-5</link>
-<guid>10.1038/s41467-026-78364-5</guid>
-<pubDate>2026-10-03</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 03 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78364-5"&gt;doi:10.1038/s41467-026-78364-5&lt;/a&gt;&lt;/p&gt;Current reservoir computing hardware is efficient but limited by fixed dynamics. Shim et al. report a monolithically integrated memristor-transistor reservoir with electrically programmable temporal dynamics, supporting multiple temporal processing modes for motion recognition and biomedical signal classification.</description>
-</item>
-<item>
-<title>Top-down semantic predictions align phonetic neuronal dynamics in human superior temporal gyrus</title>
-<link>https://www.nature.com/articles/s41467-026-77942-x</link>
-<guid>10.1038/s41467-026-77942-x</guid>
-<pubDate>2026-10-03</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 03 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-77942-x"&gt;doi:10.1038/s41467-026-77942-x&lt;/a&gt;&lt;/p&gt;How semantic information influences phonetic processing during speech perception remains unclear. Here, the authors show that semantic predictions reshape phonetic representations in human temporal cortex at the level of neuronal population activity.</description>
 </item>
 </channel>
 </rss>
