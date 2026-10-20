@@ -5,6 +5,111 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Reducing Data Requirements
+for Sequence–Property
+Prediction in Copolymer Compatibilizers via Deep Neural Network Tuning</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00178/5454023/Reducing-Data-Requirements-for-Sequence-Property</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00178</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00178/1/m_ci6c00178_0010.png?Expires=2147483647&amp;amp;Signature=Sfy5eqjZGfZc50fJhbaIjvwbK7juvp1rGz7cpUZw5PjzXufa6-1Fc~FKORerlkW5aXg0PkL2QpNUQIXoR~UxJbGpawDWE~3vTzgHPaxEHGeJGWUrofBH0Zvzw0ct6IDlZjmHhBg1X4G0nCNDDD30XPW7h5YAdi0KxStAmrXMv7vH8nU-OYFMjWUKNOm3qL5Wo6zog6UvgGYRvvfFtoquOWK2sZXmb2h6jnOUa05ZFEcoPGM3o6s-dtk9Ob8MXkX5KmSNuGrcL7bvd~pZKrDVkVshygNSyIkgQmtw0sz4upfBpER0~p3fg66uk~v5jwfeLgsbDMUJLwzbL7fI6XZGmQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Reducing Data Requirements
+for Sequence–Property
+Prediction in Copolymer Compatibilizers via Deep Neural Network Tuning" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Synthetic sequence-controlled polymers promise to transform
+polymer
+science by combining the chemical versatility of synthetic polymers
+with the precise sequence-mediated functionality of biological proteins.
+However, design of these materials has proven extraordinarily challenging,
+because they lack the massive data sets of closely related evolved
+molecules that accelerate design of proteins. Here, we report on an
+Artificial Intelligence strategy to reduce the amount of data necessary
+to accelerate the design of these materials. We focus on data connecting
+the repeat-unit-sequence of a model compatibilizer molecule to its
+ability to reduce the interfacial tension between distinct polymer
+domains. The optimal sequence of these molecules, which are essential
+for applications such as mixed-waste polymer recycling, depends strongly
+on variables such as concentration and chemical details of the polymer.
+We show that a deep neural network trained on low-fidelity data for
+sequence/interfacial tension relations at one set of conditions can
+be rapidly tuned to make higher-fidelity predictions at a distinct
+set of conditions, requiring far less data than would ordinarily be
+needed within the data sets we have tested. This priming using a pretrained
+model and then tuning it on unseen data from a different data set
+approach could allow a single low-fidelity parent data set to accelerate
+prediction and design in a larger set of related systems.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Multimodal Geometric
+Learning Framework for Interpretable
+Peptide Toxicity Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02423/5453814/A-Multimodal-Geometric-Learning-Framework-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02423</guid>
+<pubDate>Mon, 19 Oct 2026 15:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02423/1/m_ci6c02423_0012.png?Expires=2147483647&amp;amp;Signature=4JhQ5JSaIhDQob9GqIiQ13VRoITzilKguXYvMcOJoydFQ8Xk2cY5a3BzDlO39RJFBaK7ti8YAKZ4344h84BgQbwby0jrlqJZezqVM9iLX7gpjuncENxuuh4JXN8fPKUpS7kGNHAvnAY51oFyHN1dhe9a6BwxCCvMeDO8zOMWdfoHcKCoz732R2DY2FgOZHTjv8lx9-PE1oIkxDKpv-dKGShxAtr~vIN9pU-27RLZODsikqG6lExkEH8gMibAo1GbyGB9DMQXraOcccmnMwTHC9N9UTjExjPPkmW9AVzzn85pD-J5S~Be-wI9m4QR9n3JmZ9p5DsEnOJZRC4BTI3NhA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="A Multimodal Geometric
+Learning Framework for Interpretable
+Peptide Toxicity Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Peptide therapeutics are promising drug candidates because
+of their
+high activity and specificity. However, their potential toxicity poses
+a major hurdle, making accurate computational toxicity predictions
+urgently necessary for early safety screening. Existing methods largely
+rely on sequence data or simple graph representations, thereby limiting
+their ability to capture higher-order physicochemical interactions.
+To address this, we propose MBFGNK, an interpretable multimodal geometric
+learning framework, for peptide toxicity prediction. It integrates
+sequence representations from pretrained protein language models,
+3D structural features via an equivariant graph neural network (EGNN),
+and physicochemical hypergraph representations capturing global, local,
+and biologically synergistic residue interactions. A modality attention
+gate adaptively fuses these heterogeneous data types, while a Chebyshev
+polynomial-based Kolmogorov–Arnold network (ChebyKAN) models
+complex nonlinear toxicity patterns. We evaluated MBFGNK using 5-fold
+cross-validation and an independent test set. The experimental results
+show that the ensemble achieved an AUC of 0.9687, an MCC of 0.8449,
+an Acc of 0.9221, and an F1 of 0.9205 on the independent test set,
+suggesting improved performance relative to previously reported baseline
+results on the same benchmark. Integrated gradients and modality-level
+analyses further identified prediction-informative motifs, residues,
+and spatial regions, providing interpretable evidence consistent with
+known characteristics of toxic peptides. These results suggest that
+MBFGNK is an effective and interpretable framework for peptide toxicity
+prediction and may assist in downstream safety-oriented peptide screening.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Synergy-Guided
+Molecular Redesign of Predicted P-Glycoprotein
+Substrates toward Synthetically Feasible Non-Substrates</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01938/5453777/Synergy-Guided-Molecular-Redesign-of-Predicted-P</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01938</guid>
+<pubDate>Mon, 19 Oct 2026 13:00:40 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01938/1/m_ci6c01938_0011.png?Expires=2147483647&amp;amp;Signature=XuCcOovhZEWGi8U~G0vL4797o8hj-3oQYrmjQeYJpKgsFZgBWtTns4rZc9pCZj1Wl4Ig2E1OreX59rLPQQoLa2dxfd9~jOgiGKMC9BkMZIGlAQeBfm5y~82eMsCIaozLcUgLaSwUX5xz3hivo6ohHDEIkKp~7bIUxjlLbkONNK~tKgyLSKuNyC3xlkuU1wdh5EWss6V5s6ljtw7JRkPnX95uotLo93L1KjNgP7yZoY0WOdJevYDohW56M9D~csgru2o0~QwtWaHLf8ggSb1~hA0Qrm~~o8uRa~6pzMwII2jKSi7yTzUX8eVqlH9DUBugUnOEWc3YhOBRxfUoOxAXOw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Synergy-Guided
+Molecular Redesign of Predicted P-Glycoprotein
+Substrates toward Synthetically Feasible Non-Substrates" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug efflux mediated by P-glycoprotein (P-gp) remains
+a major barrier
+to effective small-molecule therapeutics, limiting both bioavailability
+and central nervous system exposure. While machine learning models
+can predict P-gp substrates, translating these predictions into actionable
+molecular design remains largely unexplored, particularly in enabling
+the rational conversion of substrates into nonsubstrates to mitigate
+efflux liability. Here, we introduce the synergy-guided fragment genetic
+algorithm (SF-GA), a computational framework that transforms predictive
+insight into an interpretable molecular design strategy. By integrating
+fragment synergy analysis into the mutation stage of a genetic algorithm,
+SF-GA biases fragment replacement toward co-occurring substructures
+associated with nonsubstrate classification, enabling interpretability
+at the chemical structure level and property-directed molecular optimization.
+Compared with genetic-algorithm and reinforcement-learning baselines
+under a fixed function-evaluation budget, SF-GA achieves competitive
+optimization performance while producing molecules with the highest
+retrosynthetic accessibility among all methods tested. Unlike the
+baselines, every accepted mutation is reported together with the discarded
+and inserted fragments and their synergy scores, providing a fragment-level
+rationale for each structural change; ablation against an unguided
+and an importance-only control isolates the contribution of bit co-occurrence.
+The method enables scaffold-preserving and similarity-constrained
+editing that converts P-gp substrates into predicted nonsubstrates.
+Docking against two human P-gp structures reveals weaker predicted
+binding for molecules with higher predicted nonsubstrate probability,
+motivating future experimental evaluation of P-gp transport.&lt;/span&gt;</description>
+</item>
+<item>
 <title>An Integrated Computational-Experimental
 Workflow
 for Fungal Peroxygenase Discovery and Enzyme–Substrate Prediction</title>
@@ -3955,113 +4060,6 @@ not only achieves state-of-the-art classification performance but
 also bridges black-box modeling and biochemical understanding, offering
 a generalizable, hypothesis-generating platform for rational peptide
 design and discovery that is important in human health.&lt;/span&gt;</description>
-</item>
-<item>
-<title>APDB: A Large-Scale
-Repository of Predicted 2D and
-3D Aptamer Structures</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02031/5431814/APDB-A-Large-Scale-Repository-of-Predicted-2D-and</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02031</guid>
-<pubDate>Thu, 17 Sep 2026 07:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02031/5431814/APDB-A-Large-Scale-Repository-of-Predicted-2D-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02031/1/m_ci6c02031_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;RNA aptamers are short, single-stranded oligonucleotides
-capable
-of folding into specific three-dimensional structures to bind diverse
-molecular targets with high affinity and specificity. In this study,
-we present a comprehensive computational analysis of a curated data
-set of over 150,000 RNA aptamers annotated with sequences, predicted
-secondary structures, molecular features, and minimum free energy
-(MFE) values. A total of 161 molecular descriptors were extracted,
-including pairing ratios, stem density, sequence complexity, and motif
-composition. Dimensionality reduction using Principal Component Analysis
-(PCA) and t-distributed Stochastic Neighbor Embedding (t-SNE) revealed
-distinct clustering patterns driven by MFE, GC/AU pairing composition,
-and secondary structure complexity. PCA indicated that aptamers with
-high AU content tend to occupy distinct structural space, while t-SNE
-highlighted concentrated regions of high GC pairing and stem density.
-A 3D surface plot of GC pairing, AU pairing, and MFE further demonstrated
-a nonlinear landscape, with folding stability changing in a bumpy,
-hill-like pattern as pairing ratios varied. These findings provide
-insights into how base-pairing composition influences aptamer folding
-stability and offer a framework for rational design. The resulting
-Aptamer Database (APDB) integrates these analyses into an interactive,
-scalable platform to support research in biosensing, therapeutics,
-and computational aptamer design (https://boron.ru.ac.za/database).&lt;/span&gt;</description>
-</item>
-<item>
-<title>25 Years of Cardiac
-Ion Channel QSAR: From hERG Dominance
-to Multi-Channel Modeling</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03072/5431755/25-Years-of-Cardiac-Ion-Channel-QSAR-From-hERG</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c03072</guid>
-<pubDate>Thu, 17 Sep 2026 04:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03072/5431755/25-Years-of-Cardiac-Ion-Channel-QSAR-From-hERG"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03072/1/m_ci6c03072_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In 2013 the Comprehensive &lt;span style="font-style:italic;"&gt;In Vitro&lt;/span&gt; Proarrhythmia
-Assay (CiPA) initiative proposed multi-channel assessment for proarrhythmic
-risk evaluation, yet ligand-based predictive modeling has remained
-largely single-channel. To quantify and explain this mismatch, we
-survey 155 ligand-based modeling studies on cardiac ion channels (including
-conventional QSAR, machine learning, and pharmacophore- and other
-3D ligand-based approaches) published between 2001 and mid-2026. Across
-this period, 88.4% of studies target &lt;span style="font-style:italic;"&gt;hERG&lt;/span&gt; as their
-sole ion channel endpoint, a proportion that reflects data availability,
-regulatory incentives, and research inertia rather than scientific
-necessity. Although public data for &lt;span style="font-style:italic;"&gt;Na&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;1.5&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Ca&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;1.2&lt;/span&gt; were sufficient for
-modeling years earlier, both channels received only isolated studies
-until 2022. Since then, multi-channel modeling has expanded substantially,
-with multiple groups now addressing the primary channels (&lt;span style="font-style:italic;"&gt;hERG&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;Na&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;1.5&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;Ca&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;1.2&lt;/span&gt;) jointly. In contrast, the secondary channels
-(&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;7.1&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;4.3&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;Kir2.1&lt;/span&gt;) remain largely understudied: &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;4.3&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Kir2.1&lt;/span&gt; are entirely unmodeled in the surveyed literature,
-and models for &lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;v&lt;/span&gt;&lt;/sub&gt;&lt;span style="font-style:italic;"&gt;7.1&lt;/span&gt; remain scarce, likely due to the sparsity and heterogeneity
-of public data. A retrospective analysis of the reported model performance
-found no discernible improvements attributable to methodological advances.
-Reliability-related aspects, such as applicability domain and uncertainty
-quantification, were also rarely addressed. The field should treat
-joint modeling of the primary channels as the expected standard rather
-than a novel contribution. Other important aspects include the development
-of standardized benchmarks for multi-channel evaluation, integration
-with physiological models, and greater emphasis on prediction reliability.
-For the secondary channels, progress would additionally require coordinated
-data release or federated learning, methods suited to data-scarce
-targets, and community coordination, none of which individual research
-groups can establish alone.&lt;/span&gt;</description>
-</item>
-<item>
-<title>The Scope Concept:
-Defined Chemical Space for Identifying
-Ligand-Efficient, Tractable Hits Applied to Drug Discovery Targets
-Trypanosomal CLK1, 14–3–3/Estrogen Receptor-α,
-and SARS-CoV-2 Mpro</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01654/5431587/The-Scope-Concept-Defined-Chemical-Space-for</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01654</guid>
-<pubDate>Wed, 16 Sep 2026 18:00:43 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01654/5431587/The-Scope-Concept-Defined-Chemical-Space-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01654/1/m_ci6c01654_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Scope is a hit-finding concept that explores a chemical
-space in
-between fragments and fully elaborated molecules from traditional
-low molecular weight (LMW) libraries. It emphasizes high medicinal
-chemistry tractability through a focus on compound quality, ligand
-efficiency, and selected physical-chemical property ranges. The Scope
-chemical space definition seeks to strike a balance between the ability
-to cover chemical space with a 10k–50k compound set for medium-throughput
-screening and obtaining hits with sufficient functionality to yield
-low- to mid-micromolar potency. Scope chemical space is distinct from
-other rule-based chemical spaces, and we introduce the concept of
-Scope ring systems (ring-X-ring) as both a foundation for intentional
-functionalization targeting sufficient potency and as an organizing
-principle for characterizing and enhancing compound libraries. A Scope
-screening set has been designed from the Scope chemical space for
-hit finding with SPR, native mass spectrometry, DSF, and biochemical
-methods. This Scope set maintains comparable primary hit rates to
-general diversity sets even when screening at higher concentrations,
-which allows for efficient hit validation. The Scope set outperforms
-diversity sets when considering ligand efficiency and hit rates after
-counter-screening, which makes it a preferred set. Case studies include
-the trypanosomal CLK1 kinase target, a molecular glue project with
-14–3–3 and estrogen receptor-α, and the SARS-CoV-2
-main protease. These studies exemplify how the 10k Scope set delivers
-diverse and ligand-efficient hits with tractable potency across diverse
-binding sites and support the idea that a carefully designed 10k Scope
-set can provide meaningful diversity for screening in a broad drug
-discovery portfolio. The Scope principles have demonstrated value
-in hit-finding campaigns and have changed practices for compound acquisition,
-hit-list triaging, and screening.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

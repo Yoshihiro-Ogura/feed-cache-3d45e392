@@ -5,6 +5,20 @@
 <link>https://pubs.rsc.org/dd/latest-articles</link>
 <description>Digital Discovery (mirrored feed)</description>
 <item>
+<title>LM2KM: Feature extraction from pretrained protein and molecular language models combining with quantum mechanics (QM) features for KM predictions</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00139d</link>
+<guid>urn:rsc-latest:d6dd00139d</guid>
+<pubDate>Tue, 20 Oct 2026 12:03:14 +0000</pubDate>
+<description>Authors: Jingchen Zhai, Lianjin Cai, Taoyu Niu, Lei Xie, Junmei Wang&lt;br/&gt;DOI: 10.1039/d6dd00139d</description>
+</item>
+<item>
+<title>NIMO: A Software Platform for Closed-Loop Materials Exploration with Diverse AI Algorithms</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00371k</link>
+<guid>urn:rsc-latest:d6dd00371k</guid>
+<pubDate>Mon, 19 Oct 2026 22:03:13 +0000</pubDate>
+<description>Authors: Ryo Tamura, Naruki Yoshikawa, Koji Tsuda, Shoichi Matsuda&lt;br/&gt;DOI: 10.1039/d6dd00371k</description>
+</item>
+<item>
 <title>RxnMol: Synthesis-Aware Molecular Generation via Reaction-Driven Global Chemical Space Search</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00325g</link>
 <guid>urn:rsc-latest:d6dd00325g</guid>
@@ -117,11 +131,11 @@
 <description>Authors: Matthew Ball, Felix Andreas Faber, Cassie Pratley, Thierry Kogej, Dragos Horvath, Alexandre Varnek, Giulia Bergonzini, Christof Martin Jäger, Mikhail Kabeshov&lt;br/&gt;DOI: 10.1039/d6dd00286b</description>
 </item>
 <item>
-<title>Diffusion-based Active Learning for Inverse Design: A Modular Framework Unifying Single-/Multi-objective and Serial/Batch Optimization</title>
+<title>Diffusion-based active learning for inverse design: a modular framework unifying single-/multi-objective and serial/batch optimization</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00538a</link>
 <guid>urn:rsc-latest:d6dd00538a</guid>
 <pubDate>Tue, 13 Oct 2026 12:03:18 +0000</pubDate>
-<description>Authors: Gwang-Noh Ahn, Amirezza Motafegh, Seunghun Jang, Gyoung S. Na&lt;br/&gt;DOI: 10.1039/d6dd00538a</description>
+<description>Authors: Gwang-Noh Ahn, Amirreza Mottafegh, Seunghun Jang, Gyoung S. Na&lt;br/&gt;DOI: 10.1039/d6dd00538a</description>
 </item>
 <item>
 <title>RXNMapper-v2: updated validation and evaluation on expanded chemical space</title>
@@ -1039,20 +1053,6 @@
 <guid>urn:rsc-latest:d6dd90039a</guid>
 <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
 <description>&lt;p&gt;&lt;strong&gt;Correction&lt;/strong&gt; — 31 July 2026&lt;/p&gt;&lt;p&gt;Hongchen Wang; Owen A. Melville; Harrison A. Mills; Monique Ngan; Jay R. Werber; Nipun Kumar Gupta&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1039/D6DD90039A"&gt;DOI: 10.1039/D6DD90039A&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>Metallurgy-informed Bayesian optimization: rethinking alloy discovery and design</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00251j/1290072/Metallurgy-informed-Bayesian-optimization</link>
-<guid>urn:rsc-latest:d6dd00251j</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00251j/1290072/Metallurgy-informed-Bayesian-optimization"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00251j/1/d6dd00251j-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Review Article&lt;/strong&gt; — 30 July 2026&lt;/p&gt;&lt;p&gt;Raymundo Arróyave&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1039/D6DD00251J"&gt;DOI: 10.1039/D6DD00251J&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>CatGo: Bridging CLI coding agents with interactive structure and workflow management for computational chemistry</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00273k/1288793/CatGo-Bridging-CLI-coding-agents-with-interactive</link>
-<guid>urn:rsc-latest:d6dd00273k</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00273k/1288793/CatGo-Bridging-CLI-coding-agents-with-interactive"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00273k/1/d6dd00273k-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Paper&lt;/strong&gt; — 29 July 2026&lt;/p&gt;&lt;p&gt;Guangsheng Liu; Xiao Ma; Leshen Zhang; Jenedith Pascasio; Jonathan Yang; Yuxiang Chen; Wan-Lu Li&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1039/D6DD00273K"&gt;DOI: 10.1039/D6DD00273K&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
