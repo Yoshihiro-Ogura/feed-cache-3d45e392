@@ -5,6 +5,106 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Structure Prototype
+Learning for Federated Molecular
+Property Prediction under Scaffold Heterogeneity</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02297/5454778/Structure-Prototype-Learning-for-Federated</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02297</guid>
+<pubDate>Tue, 20 Oct 2026 18:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02297/1/m_ci6c02297_0009.png?Expires=2147483647&amp;amp;Signature=l0xUgQX6vJ0IZmJtM8~y5O05WPzDVcMW-7QVuYgg-Zy7-2AXzEzrttKrmJmmYp6ABRrFVDKbuKzLRcPkwUekROGcndSdNasxe3BH-rSsQtFDnaTi44hr6pcvdf4lXBQBMxaVdoARHSOO3GL1vHYZdFxfURMis3Gowdt-JDaXp-ZY0GWztbop7kVOeZSArR6SQHe1OEcFPHtsxYw481BYs~MlbRojLjRFKl5n0buEMb~UfxFJ2KjiRlYgdyoTGsy8rJhlWuwS5bgEzdUzLmZKj~bhUCRNZK9Ks7Bn22uvtwmF9zSUU3qav1dwmRnsavjOyiqVFAZQsY0vn5sCjZRvlw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Structure Prototype
+Learning for Federated Molecular
+Property Prediction under Scaffold Heterogeneity" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Federated molecular property prediction
+enables collaboration
+across
+private chemical libraries, but parameter averaging does not explicitly
+account for scaffold heterogeneity. FedSPL groups molecules using
+fixed descriptors and exchanges embedding prototypes alongside model
+parameters, enabling label-independent prototype matching while retaining
+supervised property prediction. Across five classification benchmarks
+and three heterogeneity levels, matched three-seed evaluation using
+masked, held-out server-model ROC-AUC showed higher mean final AUC
+than FedAvg in seven of 15 settings. Consistently positive differences
+on SIDER and mixed outcomes elsewhere indicate data set-dependent
+benefits, motivating validation-guided use of structural information
+in federated prototype learning.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Benchmarking Protein–Ligand
+Cofolding Models:
+Correct Ligand Placement Is Decoupled From Accurate Protein Conformation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02169/5454660/Benchmarking-Protein-Ligand-Cofolding-Models</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02169</guid>
+<pubDate>Tue, 20 Oct 2026 15:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02169/1/m_ci6c02169_0007.png?Expires=2147483647&amp;amp;Signature=qsyQNtVtjLIJ8iDo~lU0cpg6Uy81FVmcYWI64QaTZT1VkG-kNZxAGEh1wqkMMlXuGIeMpldSZBLwBGLPeD01D7xLvAqhnfBN6O4WCwpeCnpIEyctJPl6cn-mAoi8UTURYdJ8Jw3ugD1BUlulkVIoFEyh9zEYekcNGl7ZlXYDPqr-xPOCcu4W0p8eIVZyLqWfMQteach67oJiGxQUza6KqgX9PbY5xKW9VwEfOddlmNnkl7OmMgoY-F9rBXvFLU~bc~r~wdn-pY2cqaomKxUD9pQBG0lUF~kZlKUtqD1VkM2C4Br79k6rcROetii0JvQahK-BAIcnHi6qwioWtGF2kg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Benchmarking Protein–Ligand
+Cofolding Models:
+Correct Ligand Placement Is Decoupled From Accurate Protein Conformation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;AI-driven cofolding models have become central tools
+for predicting
+protein–ligand complexes, yet it remains unclear whether the
+resulting structures recover the correct protein conformation or merely
+place the ligand plausibly within an otherwise mispredicted fold.
+Here, we benchmark four state-of-the-art cofolding models, AlphaFold3,
+RoseTTAFold3, Boltz-2, and Chai-1, and show that correct ligand placement
+is systematically decoupled from accurate prediction of the surrounding
+protein conformation. As test systems, we use kinases and Class A
+G protein-coupled receptors (GPCRs), families whose pharmacology depends
+on well-defined conformational states. To enable a prospective assessment,
+we evaluate complexes released after the training cutoffs of all tested
+models, together with one earlier nucleotide-bound structure as a
+control. We find that state-defining structural features, including
+kinase activation-loop, DFG/DYG geometries, and GPCR intracellular
+conformations such as ICL3, are frequently mispredicted even when
+ligand root-mean-square deviation (RMSD) is low. Cofolding adaptively
+remodels the orthosteric pocket around the bound ligand, but this
+local adaptation rarely propagates to the correct global conformation.
+Incorporating state-annotated templates and filtered multiple sequence
+alignments (MSAs) improves conformational recovery in some cases but
+has little effect in others, and model confidence metrics correlate
+with small-molecule placement but cannot report whether the local
+pocket geometry was recovered. Furthermore, while orthosteric ligand
+placement is generally reliable, the single allosteric complex in
+our set is misplaced by all models, even under explicit guidance.
+These results identify conformational decoupling as a fundamental
+limitation of current cofolding approaches across the systems evaluated,
+with direct implications for state-selective and structure-based drug
+design.&lt;/span&gt;</description>
+</item>
+<item>
+<title>GLH 2 Syn: Global–Local Dual-View
+Heterogeneous Hypergraph Learning for Drug Synergy Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02413/5454108/GLH2Syn-Global-Local-Dual-View-Heterogeneous</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02413</guid>
+<pubDate>Tue, 20 Oct 2026 09:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02413/1/m_ci6c02413_0007.png?Expires=2147483647&amp;amp;Signature=evCVay2804y~HrTsYOjk2sJFP3igA-NzDnCPoikrAFLrOiiwLYg5aPY1POli~nnL3EYYBI~JnatdlkcyZpt3v7~WWnntJZeoiGF8hpiSZcICgH0W3ySyxfIpr6VJ14mMUknjZD0V79WvhqjxiF0oZ1uZflqHqo4J8i0lDJMyghsozV84GMsQoc2uj0kMFd1YsrPAM2AWh6hkS0a0-Evl1aHtmjd3EWFgUr1IRC5L~AydEPwJ2X9vsp7oJ~sma5nLfpyQlLjqf7BGKM1MsoQiapB7m949If507PucZBj5C7IqlX8FnP4SBQqGJd9ogBkmAEbPJMZrST1CAA3Opwa5uw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="GLH 2 Syn: Global–Local Dual-View
+Heterogeneous Hypergraph Learning for Drug Synergy Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug
+combination therapy has emerged as a promising strategy for
+improving therapeutic efficacy. While hypergraphs have demonstrated
+substantial potential for high-order drug synergy modeling, existing
+approaches still suffer from two critical limitations: (1) reliance
+on locally determined aggregation limits the utilization of multihop
+topological context and broader structural information across the
+hypergraph; (2) homogeneous message passing overlooks the structural
+heterogeneity of drugs and cell lines within hyperedges. To address
+these issues, we propose GLH&lt;sup&gt;2&lt;/sup&gt;Syn, a global–local
+dual-view heterogeneous hypergraph learning framework for drug synergy
+prediction. Specifically, GLH&lt;sup&gt;2&lt;/sup&gt;Syn operates on a heterogeneous
+hypergraph in which each drug–drug–cell line triplet
+forms a hyperedge, incorporating two complementary views: a global
+diffusion view and a local topology view. The global diffusion view
+performs diffusion over the node–hyperedge topology to derive
+globally informed incidence weights, thereby incorporating structural
+context into local aggregation. The local topology view captures fine-grained
+structural heterogeneity within hyperedges through structure-aware
+node-hyperedge propagation, distinguishing the heterogeneous roles
+of drugs and cell lines in high-order interactions. Furthermore, we
+design a joint optimization objective integrating drug synergy prediction
+with similarity reconstruction to preserve both predictive accuracy
+and biological consistency. Extensive experiments on two public data
+sets demonstrate that GLH&lt;sup&gt;2&lt;/sup&gt;Syn consistently outperforms
+11 competitive baselines on both classification and regression tasks
+across three test scenarios. Case studies further validate its potential
+in discovering novel synergistic drug combinations.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Reducing Data Requirements
 for Sequence–Property
 Prediction in Copolymer Compatibilizers via Deep Neural Network Tuning</title>
@@ -3949,117 +4049,6 @@ on the legacy benchmarks and show that blinding exposes conflicts
 between pretrained knowledge and in-context information. This work
 provides a principled framework for evaluating molecular property
 prediction under controlled information access.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Diff-SelfA-PepGSI:
-A Diffusion-Based Framework for  De Novo  Generation,
-Screening, and Morphological Identification
-of Self-Assembled Peptide Sequences</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02911/5432095/Diff-SelfA-PepGSI-A-Diffusion-Based-Framework-for</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02911</guid>
-<pubDate>Thu, 17 Sep 2026 15:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02911/5432095/Diff-SelfA-PepGSI-A-Diffusion-Based-Framework-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02911/1/m_ci6c02911_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Peptide self-assembly is a ubiquitous molecular phenomenon
-in which
-short amino acid sequences spontaneously organize into diverse nanostructures.
-These assemblies exhibit distinct morphologies closely linked to their
-biological functions and potential applications, making them attractive
-candidates for biomaterials in drug delivery, regenerative medicine,
-and diagnostics. However, designing and predicting peptide sequences
-with specific self-assembled morphologies remains highly challenging
-due to the complex interplay of noncovalent interactions, including
-hydrogen bonding, hydrophobic effects, and π–π
-stacking. Although deep learning has enabled accurate prediction of
-peptide self-assembly propensity, rational &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; design of peptides with targeted assembly behavior remains largely
-unexplored. In this study, we propose Diff-SelfA-PepGSI, a novel pipeline
-for the morphology-specific design of self-assembling peptides. This
-three-stage framework comprises: (i) generation, in which a diffusion-based
-generative model produces candidate self-assembling peptide sequences;
-(ii) screening, in which pretrained protein language models extract
-deep semantic features and a deep discriminative network performs
-sequence optimization and property screening; and (iii) identification,
-in which a dual-branch structure extracts features and a dedicated
-classifier identifies the specific nanostructures formed. By integrating
-sequence generation, predictive screening, and morphology identification,
-this workflow establishes a proof-of-concept &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; design pipeline that links peptide sequences directly to their target
-morphologies. Diff-SelfA-PepGSI demonstrates superior performance
-compared to state-of-the-art models in both screening and identification
-tasks. Experimental validation preliminarily demonstrates the feasibility
-of the &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; design pipeline, successfully generating
-self-assembling peptides such as LAPFLA. Under the reported experimental
-conditions, 4 of 11 generated candidates (36.4%) exhibited the target
-morphology predicted by the model. Within the challenging context
-of &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; morphology-specific peptide design, this
-success rate supports the potential of Diff-SelfA-PepGSI as an early
-stage self-assembling peptide generation platform.&lt;/span&gt;</description>
-</item>
-<item>
-<title>CDGA: A Host-Based
-Alignment and Descriptor Analysis
-Tool for Cyclodextrin Inclusion Complexes</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02866/5431955/CDGA-A-Host-Based-Alignment-and-Descriptor</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02866</guid>
-<pubDate>Thu, 17 Sep 2026 13:00:49 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02866/5431955/CDGA-A-Host-Based-Alignment-and-Descriptor"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02866/1/m_ci6c02866_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Computational studies of cyclodextrin inclusion complexes
-are widespread;
-however, quantitative comparison of host–guest geometries remains
-difficult because native cyclodextrins are cyclic and pseudosymmetric,
-with chemically equivalent glucose units and no unique structural
-anchor for conventional atom-to-atom mapping. Consequently, RMSD values,
-guest orientations, and pose comparisons may depend on arbitrary atom
-numbering, molecular file representation, or software-specific alignment
-procedures rather than on genuine structural differences. To address
-this limitation, we developed CDGA, the Cyclodextrin Guest Analysis
-tool, an open-source KNIME-based tool for quantitative analysis of
-cyclodextrin host–guest complexes comprising CDGA Align for
-host-based alignment and CDGA NoAlign for analysis directly from their
-original coordinates; both workflows identify host and guest fragments,
-perform chemically meaningful atom mapping, and calculate standardized
-descriptors including guest depth, guest orientation, guest principal-axis
-angle, and heavy-atom RMSD, while an additional host module characterizes
-host geometry. CDGA was validated using controlled geometrical and
-chemical modifications and cross-docked and redocked poses generated
-for conformationally diverse native cyclodextrins, demonstrating robust
-and reproducible descriptor calculation despite differences in atom
-ordering, bond representation, host orientation, and molecular file
-generation, thereby enabling standardized comparison of cyclodextrin
-inclusion geometries, transparent reporting, benchmarking, and large-scale
-analysis of computational host–guest studies.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Explainable Artificial
-Intelligence to Unveil Patterns
-of Antioxidant Peptides for Free Radical Regulation</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01872/5431954/Explainable-Artificial-Intelligence-to-Unveil</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01872</guid>
-<pubDate>Thu, 17 Sep 2026 13:00:49 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01872/5431954/Explainable-Artificial-Intelligence-to-Unveil"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01872/1/m_ci6c01872_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antioxidant peptides
-are emerging as promising therapeutic
-and
-nutraceutical agents because of their capacity to neutralize free
-radicals, modulate oxidative stress, and contribute to disease prevention
-in fields ranging from oncology to dermatology and food science. However,
-traditional computational approaches often fail to capture the biochemical
-semantics and evolutionary context of peptide sequences, limiting
-the predictive accuracy and mechanistic interpretability. Here, we
-present an explainable deep learning framework integrating evolutionary
-scale modeling (ESM) embeddings with a temporal convolutional network
-(TCN) and long short-term memory (LSTM) architecture to classify antioxidant
-peptides and uncover key sequence determinants of activity. ESM embeddings
-provide rich evolutionary and structural priors, enabling the model
-to capture both local &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;-mer motifs and global sequence
-dependencies. To ensure transparency, we employed a multimethod interpretability
-strategy using Anchor, LIME, and SHAP, which identified robust, potentially
-biologically meaningful hypotheses containing residues rich in cysteine
-(C), arginine (R), lysine (K), histidine (H), aspartic acid (D), glutamic
-acid (E), threonine (T), glutamine (Q), proline (P), methionine (M),
-tyrosine (Y), and tryptophan (W) as central to antioxidant activity.
-Anchor offered deterministic, high-precision motif rules, while LIME
-and SHAP highlighted redundant and context-dependent contributions,
-together forming a layered interpretability framework. This study
-not only achieves state-of-the-art classification performance but
-also bridges black-box modeling and biochemical understanding, offering
-a generalizable, hypothesis-generating platform for rational peptide
-design and discovery that is important in human health.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

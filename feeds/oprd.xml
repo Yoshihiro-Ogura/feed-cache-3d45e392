@@ -5,6 +5,35 @@
 <link>https://pubs.acs.org/rss/oprdfk/asap.xml</link>
 <description>OPR&amp;D (mirrored feed)</description>
 <item>
+<title>Bioinformatics-Guided
+Immobilization of a Peptiligase
+Variant for Continuous-Flow Chemoenzymatic Synthesis of Semaglutide</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00249/5454154/Bioinformatics-Guided-Immobilization-of-a</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00249</guid>
+<pubDate>Tue, 20 Oct 2026 11:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00249/1/m_op6c00249_0007.png?Expires=2147483647&amp;amp;Signature=KlBdXDmoDU8A0OT3hTt7t5AABlGrKRGZxGxOeNi4P5Y-whQR~0VIzqRcfv1p5ZRu41fEhIx~tqTGQ-S90PQ3cLfSQt8a81q~PJ0G95XONtpBTLBYz81Mp25E6h0QEob2Y488GoK4k7kA6jKO9KegCG0n4kAe8WfWRm6H~1JUq7sGGRFcd7Yo8gtaO8jZz8jDSzon8horhIKmcFpaS~rqvATzX-P8w67zm-Uy18ky98G5wG417sc0GKxz~yeMQtjVT3Ft0nAkCVg~xcYN9m3BflEtU1~EhTb8jOYKcvbK9Vm6vPcE8pYMSTR~Dvt19R5WbN4evv20PKpEh5~X~moivg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Bioinformatics-Guided
+Immobilization of a Peptiligase
+Variant for Continuous-Flow Chemoenzymatic Synthesis of Semaglutide" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chemoenzymatic peptide synthesis offers a sustainable
+alternative
+to traditional solid-phase peptide synthesis for manufacturing therapeutic
+peptides such as semaglutide. However, cost-efficient industrial implementation
+requires enzyme immobilization to enable the catalyst recovery and
+continuous processing. This work presents the first demonstration
+of a bioinformatics-guided immobilization strategy for a peptiligase
+variant, successfully applied in a continuous-flow packed-bed reactor
+for semaglutide fragment ligation. Using computational tools, we predicted
+optimal immobilization sites and systematically screened covalent
+and noncovalent methods. EP400/SS-aldehyde emerged as the superior
+support, maintaining &amp;gt;85% of the immobilized activity after 10
+reuse
+cycles. Translation to continuous flow revealed substrate hydrolysis
+as a competing side reaction at high enzyme loads. Optimization of
+the protein loading, to 2.5 mg/g, suppressed this unwanted reaction,
+achieving 95% conversion with 30 min of residence time, matching solution-phase
+performance. This establishes a robust framework for immobilizing
+peptiligases in industrial bioprocesses.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Machine-Learning-Enabled
 Design of Lab-Scale Continuous
 Distillation Systems for Pharmaceutical Process Development</title>
@@ -2027,13 +2056,6 @@ peptide production.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.oprd.6c00166</guid>
 <pubDate>Fri, 12 Jun 2026 04:27:36 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00166/1/m_op6c00166_0007.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00166&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Optimized Kilogram-Scale Synthesis and Impurity Identification of Clascoterone</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00022</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00022</guid>
-<pubDate>Fri, 12 Jun 2026 01:08:29 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00022/1/m_op6c00022_0017.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00022&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
