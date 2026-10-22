@@ -5,6 +5,40 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Efficient and Accurate
+Ligand Strain Calculations
+in Solution with the AIMNet2 Neural Network Potential</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02468/5454993/Efficient-and-Accurate-Ligand-Strain-Calculations</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02468</guid>
+<pubDate>Wed, 21 Oct 2026 08:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02468/1/m_ci6c02468_0007.png?Expires=2147483647&amp;amp;Signature=MOajc81D-Y60-n2dnyKmVDDF1OMG7zhgSTfT9LERvD6On4tFQ8c9SedQJIlH1j~wjx4qgs2gjQDacTIv7sSOiuRztpUefQZNmB6N-qdqoILe8aj675-rBMeWtl3RSh8t2vVu6Ar2rJDqbgZ65B6eqcneAEU8AjkZ9Wh0rItk4DGZQfWOXjktMt0u38i54k2R3cGvFJ5IaMehtvr7RHmeC12CxrMIyJnWYVHyE3Y8RXIubfeSR9xBMW2kXlcX2wANMA3dxDj~qd9hGg6lz9mGV4LS6QvGpTsc8qhKT2mbqKwQDQEHo8yzqZaOf3Y8CZLodIPDcFAyVOx3IIBUuNGZlw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Efficient and Accurate
+Ligand Strain Calculations
+in Solution with the AIMNet2 Neural Network Potential" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Conformational strain, the energy a ligand pays to adopt
+its bound
+conformation, contributes to binding affinity but is routinely misestimated.
+The standard estimate references a single gas-phase energy minimum.
+This ignores solvent and mishandles charged ligands: in vacuo their
+intramolecular electrostatics collapse them into compact minima that
+deflate the unbound reference and inflate the apparent strain. We
+introduce AIMNet2-CPCM, a neural network potential trained to B97-3c
+energies and forces in a conductor-like continuum solvent (CPCM).
+It treats neutral and charged species on the same footing, and its
+batched GPU inference makes a solvated global-minimum search practical
+across an entire screening library. Across ∼8K PDB ligands
+the solvated strain has a median of 4.0 kcal/mol and rises with net
+charge. The trend is well determined through a net charge of −2.
+The −3 and −4 polyanions dominate the high-strain tail,
+where continuum solvation is least reliable, and their values are
+reported as upper bounds. Gas-phase force fields reproduce the neutral
+strains but overstate the charged ones, because they collapse the
+unbound minimum that solvent screening keeps open. Adding a continuum
+solvent to the force field removes most of this error and confirms
+the mechanism. Profiling at this scale further shows that the same
+ligand strains very differently across the targets that bind it: ligand
+strain is a property of the bound pose, not a transferable molecular
+descriptor.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Structure Prototype
 Learning for Federated Molecular
 Property Prediction under Scaffold Heterogeneity</title>
@@ -4017,38 +4051,6 @@ propose a mechanism in which charge-dependent activation through ligand
 exchange enhances fibril recognition and promotes disruptive binding
 modes, demonstrating the potential of charge-tunable diruthenium complexes
 as therapeutic modulators of Aβ&lt;sub&gt;42&lt;/sub&gt; fibril stability.&lt;/span&gt;</description>
-</item>
-<item>
-<title>In-Context Molecular
-Property Prediction with LLMs:
-A Blinding Study on Memorization and Knowledge Conflicts</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00961/5432107/In-Context-Molecular-Property-Prediction-with-LLMs</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00961</guid>
-<pubDate>Thu, 17 Sep 2026 15:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00961/5432107/In-Context-Molecular-Property-Prediction-with-LLMs"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00961/1/m_ci6c00961_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The capabilities of large language models (LLMs) have
-expanded
-beyond natural language processing to scientific prediction tasks,
-including molecular property prediction. However, their effectiveness
-in in-context learning remains ambiguous, particularly given the potential
-for training data contamination in widely used benchmarks. This paper
-investigates whether LLMs perform genuine in-context regression on
-molecular properties or instead rely on verbatim retrieval of memorized
-target values. Furthermore, we analyze the interplay between pretrained
-knowledge and in-context information through a series of progressively
-blinded experiments. We evaluate nine LLM variants across three families
-(GPT-4.1, GPT-5, Gemini 2.5) on three MoleculeNet data sets (Delaney
-solubility, Lipophilicity, QM7 atomization energy) using a systematic
-blinding approach that iteratively reduces available information,
-complemented by 0-, 60-, and 1000-shot in-context sample sizes as
-an additional control for information access. To validate the memorization
-analysis and the blinding experiments, we add a positive and a negative
-control for the memorization experiments and structural reference
-baselines for the multishot experiments, as well as bootstrap confidence
-intervals for all results. We find no evidence of verbatim retrieval
-on the legacy benchmarks and show that blinding exposes conflicts
-between pretrained knowledge and in-context information. This work
-provides a principled framework for evaluating molecular property
-prediction under controlled information access.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
