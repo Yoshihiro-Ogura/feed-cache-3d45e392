@@ -5,6 +5,70 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Drugging Pockets
+at the Surface of c-MYC Oncoproteins
+Revealed by Well-Tempered Metadynamics</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02197/5456059/Drugging-Pockets-at-the-Surface-of-c-MYC</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02197</guid>
+<pubDate>Thu, 22 Oct 2026 11:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02197/1/m_ci6c02197_0008.png?Expires=2147483647&amp;amp;Signature=FqzuO3V1KzW4lXARS~XMk07FOyqrWcID27No~38K4b5Ayob9QH~LB8goBV13NOsrhVSUAn~ZTNi6VTzHFwjiBnKuEz4s1uetPTpjMkf7DbZ0QyJIRDkP8OiBGHCnfYR6YpnBO3TxGKqXTPSpc1i9vw8Pn~w3fh-dNduJckhAfylGDvg0bNh7FOEvzZDzHdirUmoXk02Az7sIHauOc~3JMkfGw5a~GAp8wynxaV77F6KSsJcPUoikhSoA41JQ-2P5PQEl-cBBnzzPy8qc1QvFH22tj0sXQgxtu501bcRB8gTI40Rx2dc9GEabvp9NeYMfB9K4FLCewns37gAeRZDw7A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Drugging Pockets
+at the Surface of c-MYC Oncoproteins
+Revealed by Well-Tempered Metadynamics" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The MYC oncogene encodes a master transcription factor
+essential
+for regulating cellular homeostasis, growth, and metabolism. However,
+its deregulation is involved in up to 70% of human cancers, where
+it drives uncontrolled cellular proliferation. Structurally, MYC is
+characterized by an N-terminal transactivation domain and a C-terminal
+bHLHLZ domain critical for DNA binding and dimerization with MAX.
+Despite its clinical significance, MYC has remained historically “undruggable”
+due to its intrinsically disordered structure and the absence of traditional
+binding pockets. In this study, we combined all-atom Molecular Dynamics
+and well-tempered metadynamics simulations to map the conformational
+landscape of a MYC motif in aqueous ionic solution. The selected energy-minimized
+structures exhibit stable conformations and drugging pockets, providing
+structural foundations for targetting c-MYC. Furthermore, both the
+electrostatic potential and docking results for the obtained structure
+and the MYC inhibitor’s 10074-G5 demonstrated excellent fit,
+highlighting its potential as a drug target. This inhibitor, introduced
+in several previously unpublished drugging pockets, maintained a steady
+binding to MYC over unbiased trajectories lasting 1 μs. These
+findings provide a previously uncharacterized structural foundation
+for the design of innovative therapeutic interventions, such as small-molecule
+inhibitors or peptides aimed at disrupting oncogenic MYC activity.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AlphaFold3 Pseudo-Ensembles
+Capture β-Sheet
+Organization and Structural Diversity of Short Amyloidogenic Peptides</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02489/5455897/AlphaFold3-Pseudo-Ensembles-Capture-Sheet</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02489</guid>
+<pubDate>Thu, 22 Oct 2026 07:00:43 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02489/1/m_ci6c02489_0008.png?Expires=2147483647&amp;amp;Signature=cm6YFY-UvwsVv1FubODikU-AQI142zRxCvbnxF1eNuGhCbWblkRkH6lOf0wZYQtEhJN6Du4tnaFe~QSVVvGc-dOZ1wsxaptWJof7vwVsAa6h73A2ilRCYmTyBl41i3-DPdmeMKkOl28vv4Ho28Mej8XuzkjrppPQz5DgdwhGuNBoIGd2bY93BwNiSKbqyHS7XJIb7ANuk3c6k-5mhVken7UoW11Z4MCm0HZ9SeuwVN51u68Av2uGDmeMq7jBD0dS2dsIW4QHz4hlQwqE-wHd0ncMDlhvx211KmxvU-MKrCYnNe22OG4Xkc3iUsOAFM-EIrArXeJIW2e766m4K0-pvA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="AlphaFold3 Pseudo-Ensembles
+Capture β-Sheet
+Organization and Structural Diversity of Short Amyloidogenic Peptides" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Beyond predicting unique native globular protein structures,
+AlphaFold
+has been used to sample conformational diversity in globular proteins.
+Here, we asked whether this capacity can be transferred to amyloid
+fibrils formed by short peptides, despite the fundamental difficulties
+posed by their polymorphism, sensitivity to environmental variables
+such as pH and cofactors, limited evolutionary constraints, and underrepresentation
+of amyloids in structural databases. Using a comprehensive set of
+short amyloidogenic peptides, we show that sets of AlphaFold3 (AF3)
+models (pseudo-ensembles) are accurate predictors of parallel versus
+antiparallel β-sheet organization, correctly assigning 112 of
+the 117 peptides for which a clear preference is predicted. Moreover,
+the simultaneous sampling of both organizations provides a signature
+of structural diversity, as shown for the polymorphic peptides MVGGVVIA
+and LYIQWL. Modeling of the precise steric-zipper architecture is
+less reliable and biased toward compact arrangements, while prediction
+in the presence of cosolvents and metal ions does not reproduce solvent-mediated
+interfaces or noncanonical coordination geometries. Thus, although
+AF3 does not fully capture the physicochemical complexity of amyloid
+assemblies, its pseudo-ensembles provide a rapid and useful approach
+for predicting β-sheet organization and identifying amyloidogenic
+sequences with potential structural diversity.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Efficient and Accurate
 Ligand Strain Calculations
 in Solution with the AIMNet2 Neural Network Potential</title>
@@ -3994,63 +4058,6 @@ radial distribution functions. These results establish CoTAR as a
 practical route from topology-free uMLIP trajectories to chemically
 complete molecular representations within the present scope of nonreactive,
 topology-preserving systems.&lt;/span&gt;</description>
-</item>
-<item>
-<title>CUE: A Chemical
-Uncertainty-Aware Embedding Framework
-for Multimodal Drug Selectivity Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01761/5432292/CUE-A-Chemical-Uncertainty-Aware-Embedding</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01761</guid>
-<pubDate>Thu, 17 Sep 2026 20:00:30 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01761/5432292/CUE-A-Chemical-Uncertainty-Aware-Embedding"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01761/1/m_ci6c01761_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of drug selectivity is critical for
-prioritizing
-candidate compounds with reduced off-target effects in AI-based drug
-discovery. Although selectivity can be inferred indirectly from drug–target
-affinity (DTA) prediction, cumulative errors from affinity predictions
-across multiple targets can reduce reliability, motivating the development
-of methods that directly predict compound-level selectivity. We propose
-a Chemical Uncertainty-aware Embedding (CUE) framework that integrates
-molecular fingerprints and 2D molecular structure image embeddings.
-The two modalities are combined via Loss Trajectory Analysis for Uncertainty
-(LTAU)-based weighted fusion, which adaptively reweights features
-according to their predictive reliability. Across eight benchmark
-data sets, CUE achieved RMSE values ranging from 0.163 to 1.691 and
-outperformed affinity-based and quantitative structure–activity
-relationship (QSAR) baseline models. Furthermore, a virtual screening
-case study for EGFR(T790M/C797S) inhibitors further demonstrated its
-utility for identifying selective hits. The source code is available
-at https://github.com/jjjabcd/CUE.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Charge-Driven Fibril
-Recognition and Covalent Disruption
-of Aβ 42  by Paddlewheel Diruthenium Complexes</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02388/5432215/Charge-Driven-Fibril-Recognition-and-Covalent</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02388</guid>
-<pubDate>Thu, 17 Sep 2026 19:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02388/5432215/Charge-Driven-Fibril-Recognition-and-Covalent"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02388/1/m_ci6c02388_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The inhibition of Aβ&lt;sub&gt;42&lt;/sub&gt; (β-amyloid)
-fibril
-formation is a key therapeutic strategy in Alzheimer’s disease
-research. Paddlewheel diruthenium complexes have shown promising activity
-against Aβ&lt;sub&gt;42&lt;/sub&gt; aggregation and preformed fibril disaggregation,
-yet their molecular mode of action remains poorly understood. In this
-work, we perform atomistic simulations to explore how charge modulation
-influences the interactions of three analogous paddlewheel diruthenium
-complexes, the parent neutral complex [Ru&lt;sub&gt;2&lt;/sub&gt;Cl(D-&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-FPhF)(O&lt;sub&gt;2&lt;/sub&gt;CCH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;], and
-its anionic [Ru&lt;sub&gt;2&lt;/sub&gt;Cl&lt;sub&gt;2&lt;/sub&gt;(D-&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-FPhF)(O&lt;sub&gt;2&lt;/sub&gt;CCH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;]&lt;sup&gt;−&lt;/sup&gt; and cationic
-[Ru&lt;sub&gt;2&lt;/sub&gt;(D-&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-FPhF)(O&lt;sub&gt;2&lt;/sub&gt;CCH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;]&lt;sup&gt;+&lt;/sup&gt; counterparts (D-&lt;span style="font-style:italic;"&gt;p&lt;/span&gt;-FPhF&lt;sup&gt;–&lt;/sup&gt; is the &lt;span style="font-style:italic;"&gt;N&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;N&lt;/span&gt;′-bis(4-fluorophenyl)formamidinato
-ligand) with Aβ&lt;sub&gt;42&lt;/sub&gt;. Our results indicate that electrostatic
-tuning governs binding affinity and the extent of interaction across
-the Aβ&lt;sub&gt;42&lt;/sub&gt; fibril surface. As the complexes’
-charge changes from −1 to +1, the interaction pattern shifts
-from localized contacts to widespread, multi-site engagement encompassing
-key charged, aromatic, and hydrophobic regions of Aβ&lt;sub&gt;42&lt;/sub&gt;. This enhanced binding correlates with longer-lived, thermodynamically
-stable interactions at the fibril interface, which effectively lower
-the free energy penalty for fibril disassembly. Overall, our findings
-propose a mechanism in which charge-dependent activation through ligand
-exchange enhances fibril recognition and promotes disruptive binding
-modes, demonstrating the potential of charge-tunable diruthenium complexes
-as therapeutic modulators of Aβ&lt;sub&gt;42&lt;/sub&gt; fibril stability.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
