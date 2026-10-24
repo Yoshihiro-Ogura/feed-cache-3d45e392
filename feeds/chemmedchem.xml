@@ -5,6 +5,17 @@
 <link>http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1860-7187</link>
 <description>ChemMedChem (mirrored feed)</description>
 <item>
+<title>Bilingua‐DPP‐IV: A Bimodal Fusion Convolutional Neural Network Model for Prediction of Dipeptidyl Peptidase IV Inhibitory Peptides</title>
+<link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70551?af=R</link>
+<guid>10.1002/cmdc.70551</guid>
+<pubDate>Fri, 23 Oct 2026 20:57:51 -0700</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70551?af=R"&gt;&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/27adedd1-9176-493d-a8bd-b96408e6eaad/cmdc70551-blkfxd-0001-m.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
+&lt;p&gt;Bilingua-DPP-IV combines peptide sequence and chemical representations through gated fusion to prioritize potential dipeptidyl peptidase IV inhibitors. Built on an expanded dataset, the model achieves a test AUC of 0.963 and 0.898 accuracy on an external validation set. A freely accessible web server supports computational peptide screening for early drug discovery.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;Motivation:&lt;/b&gt; Dipeptidyl peptidase IV (DPP-IV) is a key therapeutic target for type 2 diabetes, and its inhibitory peptides are a promising class of therapeutic agents. However, the discovery of these promising drugs has been restricted, as many existing computational predictors are based on datasets that have remained static for several years.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Results:&lt;/b&gt; Here, we first presented a newly curated and expanded benchmark dataset, then introduced Bilingua-DPP-IV, a bimodal deep learning framework that integrates features from both amino acid sequences and molecular structures. Our approach leveraged embeddings from the large-scale pretrained models ESM C and Uni-Mol2, processed through a convolutional neural network with an optimized gated fusion mechanism. On an independent test set, the Bilingua-DPP-IV ensemble model achieved a Matthews correlation coefficient of 0.764 and an area under the receiver operating characteristic curve of 0.963. On an external validation set, the model also demonstrated an accuracy of 0.898, exceeding the performance of existing state-of-the-art predictors, such as StructuralDPPIV.&lt;/p&gt;</description>
+</item>
+<item>
 <title>A KATing Edge Perspective on KAT6A Inhibitors as Anticancer Agents</title>
 <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70534?af=R</link>
 <guid>10.1002/cmdc.70534</guid>
