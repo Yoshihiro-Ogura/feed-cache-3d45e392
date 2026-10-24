@@ -5,6 +5,106 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>From Random Splits
+to Unseen Solvents: Quantum-Chemistry-Derived
+Surface Descriptors Improve Solubility Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01879/5457690/From-Random-Splits-to-Unseen-Solvents-Quantum</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01879</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:44 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01879/1/m_ci6c01879_0008.svg?Expires=2147483647&amp;amp;Signature=mgSzoMM4N4ZWbVq6kAo2qYns8igQ6NQLNw0M5h8ZGJtx4lvMwvs1PBoJfIRV0e~BzCscrEzF5DXX3GzsvvWcD51GitEAcxzBfnGY5TjwgC~TDk3lrsKYfBkTGV2GBjrU4lQsbXDEJV9UHGRvqLCNni7PyiYgKki6OZWqQyxG1~Ga0wzytfdNWmPNCOG9gLFt17RW--bjTaelpdKg6SlY9IjzURAF7dZGGcrTpu4oLlIj~2mEADrfjC92pU1FFVCkGDNlOkQ-iBuQi~R-HO6Cd2C9FiNtG6~DRyhFo8RSd2uZtJjSsJPwaV~D56siMPat~2q6PYPHSTShh4k8O5nVpA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="From Random Splits
+to Unseen Solvents: Quantum-Chemistry-Derived
+Surface Descriptors Improve Solubility Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Solvent
+screening often requires predictions for solvents
+that
+are absent from the training data. Using 103,262 aligned BigSolDB
+v2.1 records, we constructed a fixed solvent-level OOD benchmark in
+which five solvent identities were excluded from model training, validation,
+early stopping, SHAP ranking, and feature selection. A compact RDKit
+two-dimensional baseline reaches an IID &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.954 ± 0.001 under random splitting but falls to an OOD &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.541 ± 0.019 on the held-out solvents.
+Under the same benchmark, adding Gasteiger charge proxies and monomer-level
+GFN2-xTB/COSMO σ-moment surface descriptors raises the OOD &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; to 0.756 ± 0.007. A validation-selected
+47-feature representation that also includes deterministic solute–solvent
+compatibility features reaches an OOD &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.788 ± 0.008, an MAE = 0.413, and an RMSE = 0.574 log&lt;sub&gt;10&lt;/sub&gt; &lt;span style="font-style:italic;"&gt;S&lt;/span&gt; unit under the 20-seed protocol.
+The improvement depends on solvent identity: DMSO, NMP, and cyclohexane
+show the largest error reductions, ethylene glycol changes little,
+and &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;-propyl acetate is slightly worse than the electrostatic
+baseline. Learner controls and pair-xTB calculations are used as supporting
+checks; optimized 1:1 dimers and small 1:2/2:1 clusters do not improve
+the fixed-OOD result. MICA v0.2 distributes the frozen 20-seed ensemble
+for prepared-descriptor inference with ensemble-disagreement summaries,
+applicability-domain flags, and solvent-ranking reports.&lt;/span&gt;</description>
+</item>
+<item>
+<title>AI-Driven Discovery
+Pipeline Identifies Carvedilol
+as a Novel Partial Agonist of THRβ</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02366/5457622/AI-Driven-Discovery-Pipeline-Identifies-Carvedilol</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02366</guid>
+<pubDate>Fri, 23 Oct 2026 18:00:40 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02366/1/m_ci6c02366_0011.png?Expires=2147483647&amp;amp;Signature=rDRYUhSFZ~ei5C4apk3Iudyy0Pu-PzkTGxLeAoeHpzZ3lrz5A2Pyj42Jv6gCpBxcigL8jqtfyaUqlmf~Rvi8KFNnHDjuyiId6-fHSkVPXt636IGOviKqxL43A3ZWyrF5Ot~wOOEM8N7alLmS~6gfVDVEqulhlaLVJc36FPL3-nsMvkt~I0DzS9LD5yFdh3VylatIYA7rroTlQ49pMRyJ3MYRoP2cXzkCqrKlOLWNVAtMlEbMHU-IvTBDSU3J9jhkv2xu6~1ZDJXq5m74lQnstSQRVr3F06H~PoXlhahK6CEneW-Z6enYKxKhZO93UZbpiVPN3hHNxaOI0Ig9LvDjng__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="AI-Driven Discovery
+Pipeline Identifies Carvedilol
+as a Novel Partial Agonist of THRβ" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Thyroid hormone receptor beta (THRβ) is a key therapeutic
+target for metabolic dysfunction-associated steatotic liver disease
+and dyslipidemia, yet the discovery of structurally diverse agonists
+remains challenging. Here, we developed an AI-driven hierarchical
+drug discovery framework integrating graph neural network (GNN)-based
+virtual screening, structure-based modeling, and multilevel biological
+validation to accelerate THRβ agonist identification. The optimized
+GNN model outperformed conventional machine-learning approaches and
+enabled efficient prioritization of active compounds from an in-house
+library. Subsequent molecular docking and MM/GBSA rescoring identified &lt;strong&gt;Carvedilol&lt;/strong&gt; as a high-confidence candidate. TR-FRET assays
+confirmed that &lt;strong&gt;Carvedilol&lt;/strong&gt; acts as a partial THRβ
+agonist with preferential SRC2-2 coactivator recruitment, comparable
+to &lt;strong&gt;Resmetirom&lt;/strong&gt;. Cellular assays further demonstrated that &lt;strong&gt;Carvedilol&lt;/strong&gt; significantly reduced lipid accumulation and triglyceride
+levels and upregulated key metabolic regulators, including &lt;span style="font-style:italic;"&gt;DIO1&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;ME1&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;LDLR&lt;/span&gt;. Molecular
+dynamics and dcTMD analyses elucidated that &lt;strong&gt;Carvedilol&lt;/strong&gt; is stabilized within the ligand-binding pocket through dominant
+hydrophobic interactions and specific hydrogen bonds with Thr273 and
+His435. Overall, this study repurposes &lt;strong&gt;Carvedilol&lt;/strong&gt; as
+a structurally distinct THRβ agonist and validates an effective
+AI-guided strategy for nuclear receptor-targeted drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>HEIWA: Hybrid Explicit–Implicit
+Water Attention
+Affects Force Field Accuracy in Structure-Based Protein Language Model
+ESM3</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01844/5457352/HEIWA-Hybrid-Explicit-Implicit-Water-Attention</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01844</guid>
+<pubDate>Fri, 23 Oct 2026 13:00:40 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01844/1/m_ci6c01844_0009.png?Expires=2147483647&amp;amp;Signature=fMbuAWnBWiNsm~A4LMpgKLNoS5mLHWyHtlZ5YJLzIxLZIyj-bPnoifQA4tHL413Z4-zwUQQGwaY6SI1JtcyyN2YrNAdoAbN839nr~RS03pw~CafjsPkaZAg097fUn72l3q3Z1eaiGIyCbfUMedxqQpsthjBYkSvJeumOzqMYKlRulsTJZq~jAaqn4fU9-LXOeZec2IW2o4lYYqc~hvAyPAUl6Vyv1GkDO-LtMNJ40bId8VUklEDnE4ALboo3r15-S~07W1mDvD3Vx6Ap4K32qyRcTXjbzWk13BbkDfco6000aWNtxVOgbMDSL7Qu6TL2uCWayr3slexygWjq12knwQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="HEIWA: Hybrid Explicit–Implicit
+Water Attention
+Affects Force Field Accuracy in Structure-Based Protein Language Model
+ESM3" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein language models have achieved remarkable success
+in structure
+prediction and &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; design. However, their understanding
+of physical interactions remains limited. For structure-based models,
+we hypothesize that this limitation stems from the absence of explicit
+solvent modeling: water mediates hydrogen bonding, hydrophobic burial,
+and electrostatic interactions that govern protein thermodynamics
+and kinetics, yet current structure-based models treat proteins as
+if they exist in a vacuum. Using thermophilic protein classification
+as a proxy task for force-field awareness, per-residue logit mis-correlated
+with H-bonds as a destabilizing attribute and exhibits significant
+solvent-accessible surface area (SASA)-dependent error, despite high
+overall classification accuracy. These artifacts point to the water–protein
+interface as a source of systematic bias. To address this, we propose
+HEIWA (HybridExplicit-Implicit Water Attention), a novel attention
+module that injects solvent-mediated force-field information into
+static ESM3 residue embeddings via an all-query-to-all-key water–residue
+attention. Biophysics-guided model selection identifies configurations
+whose residue-level outputs are more consistent with the RMSF benchmark
+and selected biophysical attributes, while classification performance
+remains broadly comparable to the baseline. By forcing the model to
+predict the protein thermophilicity from the contributions of individual
+residues, HEIWA learns biophysical patterns that can be extended to
+SUPFAM absent from the training data set. HEIWA also largely preserves
+the embedding structure of ESM3. Molecular dynamics simulations show
+improved kinetic stability under thermophilic conditions, suggesting
+the potential to generate structures with greater kinetic stability.
+To our knowledge, this is the first study to incorporate explicit
+solvent encoding into a residue-resolution protein language model.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Drugging Pockets
 at the Surface of c-MYC Oncoproteins
 Revealed by Well-Tempered Metadynamics</title>
@@ -3971,93 +4071,6 @@ and bacteria shared a common feature with higher leucine, lysine,
 and arginine similar to those of man-made synthetic peptides. This
 stunning finding underscores the need of the right data set for improving
 future AI prediction of genomic antimicrobial peptides.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Pose Reproduction,
-Cross Docking, Database Enrichment,
-and Reverse Docking Benchmarks for DOCK6, Vina, and AutoDock 4 with
-Emphasis on Approved Drugs</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01375/5432575/Pose-Reproduction-Cross-Docking-Database</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01375</guid>
-<pubDate>Fri, 18 Sep 2026 10:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01375/5432575/Pose-Reproduction-Cross-Docking-Database"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01375/1/m_ci6c01375_0015.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;High-quality test sets to evaluate docking software help
-the community
-understand strengths and weaknesses of different methods and programs.
-In this work, we introduce SB2025, a calculation-ready set of 1,244
-protein-ligand complexes derived from the PDB, curated using literature-based
-ligand protonation states, and freely available in DOCK6, AutoDock
-Vina, and AutoDock 4 (AD4) formats. SB2025 includes 322 unique proteins,
-17 major protein classes, and ligands with a wide range of properties
-and flexibilities, making it a broad and challenging test set. FARMA2025,
-a specific subset of SB2025, contains 165 approved drugs bound to
-their pharmacological targets and closely mirrors the distribution
-of FDA drug target classes for small molecules through 2023 (&lt;span style="font-style:italic;"&gt;r&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.72). Comprehensive benchmarking was subsequently
-performed to evaluate pose reproduction (PR), cross-docking (CD),
-database enrichment (DE), and reverse docking (RD) under standardized
-conditions. Averaged PR success rate across triplicate runs for DOCK6
-was slightly improved compared to Vina (followed by AD4) using both
-the large SB2025 test set and the more drug-focused FARMA2025 test
-set. Conversely, CD matrix success rates for AD4 were more favorable
-than DOCK6 or Vina across 11 protein families. The programs all yielded
-substantial early DE; however, the number of active ligands in common
-between the programs within the top 1% of the database, with one exception,
-was surprisingly low. Challenging RD tests using FARMA2025, which
-gauge the ability to correctly rank the cognate structure best, indicate
-that generating the correct ligand pose is necessary but not sufficient.
-SB2025, FARMA2025, and example scripts and protocols for benchmarking
-are available at ringo.ams.stonybrook.edu (downloads) and github.com/rizzolab.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Public Database
-Leakage Distorts Model Rankings in
-Real-Spectra NMR Structure Elucidation</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02552/5432510/Public-Database-Leakage-Distorts-Model-Rankings-in</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02552</guid>
-<pubDate>Fri, 18 Sep 2026 08:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02552/5432510/Public-Database-Leakage-Distorts-Model-Rankings-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02552/1/m_ci6c02552_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Sequence models that translate NMR spectra into molecular
-structures
-report up to 96% top-1 accuracy, but they are pretrained on simulated
-spectra and tested on public databases that can overlap those corpora.
-We build a leakage-controlled benchmark on nmrshiftdb2 and find that
-26.9% of public molecules are exact training-corpus matches under
-a stated identity rule, with substantial training-set proximity remaining
-after exact-match removal. On the wider exact-match-removed real-spectrum
-cohort, released-model top-1 accuracy is 24.4% (95% CI 23.3–25.6%).
-A training-free rerank using molecular formula and &lt;sup&gt;13&lt;/sup&gt;C-peak
-count consistency raises it to 31.1% (29.9–32.4%), supporting
-leakage-controlled evaluation and decode-time consistency checks before
-claims of experimental generalization for simulation-pretrained inverse
-models.&lt;/span&gt;</description>
-</item>
-<item>
-<title>CoTAR: Topology
-and Atomic State Reconstruction in
-Condensed Phases</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02184/5432390/CoTAR-Topology-and-Atomic-State-Reconstruction-in</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02184</guid>
-<pubDate>Fri, 18 Sep 2026 06:00:49 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02184/5432390/CoTAR-Topology-and-Atomic-State-Reconstruction-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02184/1/m_ci6c02184_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Universal machine learning interatomic potentials (uMLIPs)
-enable
-performing condensed-phase molecular dynamics (MD) simulations with
-accuracy approaching that of first-principles; however, their lack
-of explicit molecular topology limits bond-aware analysis and reconnection
-to classical force fields. This study presents CoTAR, a hybrid graph
-neural network (GNN)–hidden Markov model (HMM) framework that
-reconstructs bond connectivity and order, formal charges, and unpaired
-electrons from atomic species and coordinates by combining learned
-local environments, chemical constraints, and temporal smoothing.
-After joint fine-tuning with 20 labeled snapshots per benchmark system,
-CoTAR achieved category-macro bond and conditional bond-order F1 scores
-of 0.992 and 0.998 and chemically valid snapshots of 82.1% across
-128 uMLIP systems. Zero-shot tests were successful for all tested
-nonionic systems but revealed persistent formal-charge errors in ionic
-mixtures. For successfully reconnected systems, the reconstructed-topology
-simulation results showed close agreement with the reference-topology
-results for the density, element-resolved diffusion, and intermolecular
-radial distribution functions. These results establish CoTAR as a
-practical route from topology-free uMLIP trajectories to chemically
-complete molecular representations within the present scope of nonreactive,
-topology-preserving systems.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
