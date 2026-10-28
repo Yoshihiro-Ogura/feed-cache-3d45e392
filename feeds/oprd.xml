@@ -5,6 +5,66 @@
 <link>https://pubs.acs.org/rss/oprdfk/asap.xml</link>
 <description>OPR&amp;D (mirrored feed)</description>
 <item>
+<title>Development of a Continuous Trickle-Flow Hydrogenation
+Process for Cbz Deprotection in Dipeptide Synthesis</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00369/5459495/Development-of-a-Continuous-Trickle-Flow</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00369</guid>
+<pubDate>Tue, 27 Oct 2026 20:01:03 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00369/1/m_op6c00369_0014.png?Expires=2147483647&amp;amp;Signature=Rm4s2LvZQ1FP8OdeXT5bnpNPkcUnvOZSikOdrrZPz8uSA-bCeMKk3YEl6MmdE4JFN3U3wlkytVhTzF~N3ij8aw6~kwPmbGl~a5LO9qkF9vW-r0jzJ-3yc1Nli-9rhqXFeVqJxuKdmM98tMI3mJN-PkzctzC~pdtSIuidnEsprmG7aeziHr6smK~n-fBpUXh~5wJ6qpV23vrIy0cxiIbF26~pOgOV1POjrUwl0069HFY0xGtK5mhxvbDQpPGhOYCG-sU3ShuSsuWqRdiC0Az2rAebd1KUPO7dUYUC9o6duffKoTgDVw72I8uB1hBLmckZuJkrjHUFFv-dJRIaHh1~qw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Development of a Continuous Trickle-Flow Hydrogenation
+Process for Cbz Deprotection in Dipeptide Synthesis" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The
+synthesis of enlicitide decanoate (MK-0616), a first-in-class
+oral PCSK9 inhibitor, requires efficient Cbz deprotection of a proline–threonine
+dipeptide intermediate, presenting safety and economic challenges
+for traditional batch hydrogenation. Here, we report the development
+of a continuous trickle-bed flow reactor with customized components
+that addresses these manufacturing constraints through systematic
+process optimization. This paper reports the development of a laboratory-scale
+trickle-bed flow reactor with customized components on a commercially
+available system along with catalyst characterization and continuous
+temperature mapping. The optimized process achieved complete conversion
+with 3.8% catalyst loading (24% reduction versus batch processing)
+and maintained a robust performance over extended operations. This
+comprehensive development establishes a scalable, safer alternative
+to batch hydrogenation while reducing precious-metal usage, providing
+a template for pharmaceutical flow chemistry applications requiring
+heterogeneous catalysis.&lt;/span&gt;</description>
+</item>
+<item>
+<title>High-Throughput
+Experimentation in Practice: Hidden
+Bottlenecks and Digital Gaps</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00266/5458718/High-Throughput-Experimentation-in-Practice-Hidden</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00266</guid>
+<pubDate>Tue, 27 Oct 2026 06:01:10 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00266/1/m_op6c00266_0015.png?Expires=2147483647&amp;amp;Signature=NgfQYtw0nPrXhNc9pnPhzsBfOtD1zx4hvuT-Ad9nOG4LRRmOhWP29HpEprcdU~zShIhT0zwo7GMKVdSGZt9mQgHme7YebWxmtDdsF7PsIEZGmX3m0MnC3RI8OGCu908hx43EOzukQfsHj5qldYN2ayRX6BZcOa9PG4VnWNk~F6qCVISm5fvkGoHmnoRe9mo-18up-iyvvj8SZOnMfFyoG2v-VIlcU5uevDtb3xiQZuBiYUJvY4LOjMnknsKPgF1CD3TpSEu66BHchKpDbqtSRqVYiRR7eZXbN06uBLhygYfohC-v2vnQoJvbGPGUpi51h~bmmwh2YU6r4FKWwAIaXg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="High-Throughput
+Experimentation in Practice: Hidden
+Bottlenecks and Digital Gaps" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;High-throughput experimentation
+(HTE) has become an increasingly
+important approach for reaction discovery, optimization, and AI-ready
+data generation in synthetic chemistry. However, despite rapid adoption,
+many practical limitations associated with implementing HTE workflows
+remain underreported, particularly outside industrial settings. In
+practice, experimental reliability is frequently constrained by factors
+such as solvent compatibility, evaporation, sealing performance, plate
+geometry, liquid handling limitations, and the physical constraints
+introduced through miniaturization. These effects can strongly influence
+reproducibility and data quality, yet are often treated as secondary
+implementation details rather than core considerations. Alongside
+these operational challenges, digital HTE workflows remain fragmented,
+with limited interoperability between software, hardware, analytical
+systems, and data structures. In this perspective, we discuss a range
+of practical and digital bottlenecks encountered during plate-based
+HTE, drawing on direct experimental experience, supporting experimental
+data, and recent developments across the field. In particular, we
+present new observations relating to solvent evaporation and sealing
+performance in common HTE formats, highlighting how seemingly minor
+physical effects can substantially influence experimental reliability
+and downstream interpretation. By making these practical considerations
+more explicit, we aim to support the development of more reproducible,
+interoperable, and scalable HTE workflows across academic and industrial
+chemistry.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Process Development
 of a Key Chiral Intermediate toward
 the Synthesis of ABBV-576</title>
@@ -2110,20 +2170,6 @@ peptide production.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.oprd.6c00167</guid>
 <pubDate>Thu, 18 Jun 2026 01:13:48 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00167/1/m_op6c00167_0015.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00167&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Scalable Diboron-Catalyzed Amidation for the Synthesis of Amide-Based APIs</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.5c00516</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.5c00516</guid>
-<pubDate>Wed, 17 Jun 2026 02:18:53 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.5c00516/1/m_op5c00516_0010.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.5c00516&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Development of Kilogram-Scale Electrochemical Ni-Catalyzed Cross Electrophile Coupling in Flow</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00110</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00110</guid>
-<pubDate>Tue, 16 Jun 2026 12:19:45 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00110/1/m_op6c00110_0011.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00110&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

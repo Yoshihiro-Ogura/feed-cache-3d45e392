@@ -5,6 +5,319 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Antimicrobial Peptide Databases and Prediction Tools:
+Toward a Standard Evaluation Framework</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02141/5459546/Antimicrobial-Peptide-Databases-and-Prediction</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02141</guid>
+<pubDate>Wed, 28 Oct 2026 02:01:24 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02141/1/m_ci6c02141_0008.png?Expires=2147483647&amp;amp;Signature=gRA3pNIVGH2Xm-TBe0APKI-5f8dhGGu8uVkwrOiWiyevSpNJWztqs5JJJJOgfoJwV~syq6AFHvIaJcleacHXbMpyqIjkuP~3IOtITUWAqnD1btEhyYtN1uQ6agvoBWvDarEqQav80lrkKXGeFjJrX2lUe83OSuMlm9kOS382QHp8Da-uDAnIUPu7w7RElhVaKkfO0w6I5JfPUK4w5nxotw7GR1VgXYKvbP5DWDXdnyJVmkhzWmcjrH7myD6d~Gq7XNeQdml8KIgYAjwsuX-4zm2Xug~ZDhZkL4W3rl7u~8TLWJ8I3xGvSGyznyKmFXlXYtzbid9CQNBywdUtsrmQcg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Antimicrobial Peptide Databases and Prediction Tools:
+Toward a Standard Evaluation Framework" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antimicrobial resistance
+(AMR) has a profound impact on animal
+and human health and is associated with substantial morbidity, mortality,
+and public health costs. There is a clear need to develop novel, effective
+antibiotic agents, which can overcome the current AMR crisis. Antimicrobial
+peptides (AMPs) may offer such a solution and have attracted growing
+attention for their potential to combat AMR. In parallel, the growing
+availability of peptide sequences in public databases has stimulated
+the development of numerous machine learning and deep learning tools
+to predict antimicrobial activity computationally. However, it remains
+unclear how reliably these tools can be compared, as existing studies
+often rely on heterogeneous data sets and inconsistent evaluation
+protocols that may lead to data leakage and inflated performance estimates.
+This raises a central question: what evaluation criteria and benchmark
+resources are needed to enable fair, reproducible, and biologically
+meaningful assessment of AMP prediction tools? We address this question
+by focusing specifically on antibacterial peptides (ABPs). We first
+provide an overview of AMP databases relevant to antibacterial activity
+and compare their content, redundancy, and experimental metadata.
+We then critically assess existing computational tools for ABP prediction,
+highlighting key limitations related to data set construction, affinity
+to certain sequences, data leakage, and inconsistent performance reporting.
+Based on these limitations, we propose a reference evaluation framework
+designed to improve comparability, reproducibility, and practical
+utility in ABP prediction. Finally, we provide targeted recommendations
+for AMP databases and future tool development to support more robust
+progress in the computational discovery of ABPs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>LESS-PseU: A Language
+Model-Enhanced Semistacking
+Framework for RNA Pseudouridine Site Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02817/5459538/LESS-PseU-A-Language-Model-Enhanced-Semistacking</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02817</guid>
+<pubDate>Wed, 28 Oct 2026 01:01:31 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02817/1/m_ci6c02817_0008.svg?Expires=2147483647&amp;amp;Signature=3KZk7OJOJ7Z7N8aB8f7SO9h80sk2mCJP02OqUXx4EPpbpTdUGzm7oobf1H6d2QY8sBDVwZTrzeRXdZi5TsZIsqWuU2jq07HhXS8hEdmcV3ITS1NhsGTUZz~rGDosg6vmxtGuVQAtJ9WdPVYG8PJDyeHPPgca2fBdm58zmvDN~XYActTyMZW7Kfma-YOzaKn6UOCP9ENJs6VBJyeVnvId0SerKQlI9vGJ5AdXUby2XHaWw~7qV-HGUtLnG6RR3QSCkSo~X1N4KpSNAUb2I5hIpbDUTw~9A-wha1iIpmXqTxonHWKWnM3Ubma9LFSuQBbFVODZyFZ1MX2EaNYvCSUy2A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="LESS-PseU: A Language
+Model-Enhanced Semistacking
+Framework for RNA Pseudouridine Site Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of RNA pseudouridine (Ψ) sites
+remains
+challenging because existing models often struggle to integrate interpretable
+handcrafted features with high-dimensional contextual representations
+from pretrained genomic language models. To address this issue, we
+propose LESS-PseU, a language model-enhanced semistacking framework
+that fuses the predicted probability features of primary learners
+with DNABERT2 embeddings for multiple species Ψ site prediction.
+Specifically, we first built three primary learners based on three
+kinds of hand-crafted features, including one-hot, k-mer, and nucleotide
+chemical property features. Instead of training a primary learner
+based on the embeddings extracted from DNABERT2, the embeddings were
+directly concatenated with the predicted probabilities of the three
+primary learners as the input features for a Logistic Regression meta-learner
+for final prediction. Under a leakage-aware cross-validation setting,
+our model was validated on the training sets of three species. Furthermore,
+on independent test sets from human, mouse, and yeast, LESS-PseU achieved
+AUC values of 0.9069, 0.8833, and 0.8820, respectively, which were
+higher than those of the compared models. A Friedman test indicated
+an overall difference (&lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.029). Paired DeLong
+tests further showed that the AUC improvements over Meta-PseU were
+significant for the human and mouse data sets, while those over PseU-ST
+were significant for all three species. Ablation analysis, fusion-strategy
+comparison, and pretrained language-model comparison further demonstrate
+the effectiveness of the proposed framework. Additional evaluations
+on m5C and m7G benchmarks provided preliminary evidence that the framework
+may be applicable to other RNA modification prediction tasks.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Sustainable Design of Deep Eutectic Solvent Viscosity:
+A Structure–Property Machine Learning Framework with Structure-Disjoint
+Validation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01153/5459467/Sustainable-Design-of-Deep-Eutectic-Solvent</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01153</guid>
+<pubDate>Tue, 27 Oct 2026 19:01:07 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01153/1/m_ci6c01153_0016.png?Expires=2147483647&amp;amp;Signature=Cwh9FEPISohoRnin8dHhOdnMf-xd5739G-kM9Y8XTMI5P3RvEIwtVlC3T8l-LrTJOJqLHlrHXv0Zn-vF2aGRikBLmJgq4rdWm2xrsRQGRPK0VKKbuX5vDIHfS5T5qvlsPjGkZFhbCiFkEkwXNTX5~9wb7edZ4182AtMjwahZh~GLcLiVq3QpufSzdJjvbGT7oJHqpxGtqJN~GLjLpnF7KKWVM79XBSnc9hPQ5hShmOCs3cZQCGCRQ~CT7dK6Oun-~Zdy~8exzZxUfv3F3fImy9klB-DYAnOtjBTulb9ozyrXM58bSUHeFpHHByf8z2NdASLpio0m5Xz7B7ipYVnkpg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Sustainable Design of Deep Eutectic Solvent Viscosity:
+A Structure–Property Machine Learning Framework with Structure-Disjoint
+Validation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Deep eutectic solvents
+(DES) have emerged as sustainable alternatives
+to conventional organic solvents, yet their industrial adoption remains
+hindered by limited predictive capability for transport properties,
+particularly viscosity. This work reports a machine learning framework
+for DES viscosity prediction built on 3440 experimental measurements
+spanning 237 systems (85 hydrogen bond acceptors, 86 hydrogen bond
+donors), with viscosities from 1.3 to 85,000 mPa·s over 278–378
+K, in which component identity is defined by canonical isomeric SMILES
+rather than by name and structural assignments have been audited and
+corrected. A hierarchical feature engineering strategy generated 236
+candidate descriptors, reduced to 128 modeling features by removing
+noncomputable, monotonically redundant and collinear terms, with no
+imputation of missing values at any stage. Ten algorithms spanning
+linear, kernel, neural and tree-ensemble families were benchmarked
+under identical tuning and evaluation; support vector regression achieved
+the lowest cross-validated error (R&lt;sup&gt;2&lt;/sup&gt; = 0.974, AARD = 12.2%)
+against 42% for linear models, establishing that nonlinearity accounts
+for two-thirds of the achievable error reduction. The central result
+is a quantified separation between interpolation and extrapolation
+obtained on identical data and a single model: AARD is 13% on a random
+hold-out, 75% for an unseen acceptor under structure-disjoint leave-one-HBA-out
+validation, 129% for an unseen donor, and 145% for an unseen chemical
+family. This 10-fold spread demonstrates that a single reported accuracy
+figure is uninterpretable for DES property models unless the splitting
+protocol is stated. Global SHAP attribution on the final model assigns
+31.4% of total contribution to composition-weighted mixing descriptors
+and 23.7% to asymmetry descriptors quantifying HBA–HBD dissimilarity,
+establishing both families as substantial and nonredundant. The framework
+integrates gradient-free inverse design on a smooth surrogate, application-oriented
+clustering by viscosity and Arrhenius activation energy, and manufacturing
+robustness assessment, providing actionable tools for rational DES
+formulation together with explicit and empirically measured boundaries
+on their use.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Geometry-Aware
+Molecular Representation Learning for
+Approximating NORMAN-Predicted Retention Time Indices in Nontargeted
+Screening</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02699/5459257/Geometry-Aware-Molecular-Representation-Learning</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02699</guid>
+<pubDate>Tue, 27 Oct 2026 14:01:12 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02699/1/m_ci6c02699_0007.png?Expires=2147483647&amp;amp;Signature=4yf51XFgUgF-taMIqHdU6eCkvmlq5~j5VouEpanRfWH9sFaAdiculvIF60wFGWG7MCrUam2AYDCS89P9sqpczOP1aaO7oAHM8YKltOgG6j4CfzeRJCEobSSBZobvmhDqwyvHOjikHiTAnzWrv0JTE23Y51uo3xm40x-sbAZPFG3zfveCAVdJpUHY3LGzRk179FaQdxy9STIXgODgIKswcJNZNdsvY0iiD6J1YV~Wjcg9qwNmk3s8LHRCAB0gHWKcjv0VS2S4NuPU-7IMc9P03dbhNq8kE5j8PP3KYTUA5uXDVG0jiVYjgcG9cGpa1i7U34MutJsMnc-4DIxhyOiG-A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Geometry-Aware
+Molecular Representation Learning for
+Approximating NORMAN-Predicted Retention Time Indices in Nontargeted
+Screening" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Retention information provides chromatographic evidence
+complementary
+to mass spectrometric data in LC-HRMS nontargeted screening (NTS),
+yet many existing models rely mainly on 1D SMILES or 2D molecular
+graphs and make limited use of three-dimensional structure. Here,
+we developed ViSRTI (Vector-Interaction-Spatial Retention Time Index),
+a ViSNet-based geometry-aware framework that integrates 3D molecular
+representations with multimodal descriptors to model the precomputed
+positive- and negative-mode RTI labels in NORMAN SusDat. On fixed
+held-out test sets, ViSRTI-G outperformed all three baselines. Relative
+to the best-performing baseline for each metric, R&lt;sup&gt;2&lt;/sup&gt; increased
+by 0.022 (vs GNN-RT) and 0.025 (vs SMILES-BiLSTM), while MAE decreased
+by 5.39 and 6.56 RTI units (both vs SMILES-BiLSTM) in positive and
+negative modes, respectively. Incremental feature integration and
+SHAP-guided retraining identified ViSRTI-GP with K&lt;sub&gt;OC&lt;/sub&gt; and
+LogP masked for positive mode and ViSRTI-GPT for negative mode, achieving
+R&lt;sup&gt;2&lt;/sup&gt; values of 0.9433 and 0.9258 and MAEs of 40.42 and 40.76
+RTI units, respectively. Under Bemis–Murcko scaffold-disjoint
+5-fold cross-validation, R&lt;sup&gt;2&lt;/sup&gt; remained at 0.9114 ± 0.0126
+and 0.8937 ± 0.0117, indicating substantial agreement for unseen
+scaffold groups. Laboratory-specific RT-RTI calibration using 21 standards
+yielded R&lt;sup&gt;2&lt;/sup&gt; values of 0.8575 and 0.9525 in positive and
+negative modes. In a benzo[a]pyrene/benzo[e]pyrene case study, calibration-derived
+expected RTs differed from measured values by only 0.28 and 0.11 min,
+respectively, and reproduced the observed elution order. Overall,
+ViSRTI provides a geometry-aware surrogate for NORMAN-predicted RTI
+and enables laboratory-specific conversion of predicted RTI into complementary
+retention-time constraints for candidate evaluation in NTS.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Modulating Transthyretin
+Fibril Stability with D-Retro-Inverso
+Peptides</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02525/5458888/Modulating-Transthyretin-Fibril-Stability-with-D</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02525</guid>
+<pubDate>Tue, 27 Oct 2026 13:01:14 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02525/1/m_ci6c02525_0006.png?Expires=2147483647&amp;amp;Signature=fXV6EzsuUX14onGcMRghpu1UHo~Y3E2HlDkFtdAiG9MCNgINKolsiueOhLcuywjPQczDdxEi3ZESH7lLVz6vChu3PsfqLpKtE7CoJwlxAM6-M6yTo8kSv5F8vVNerqGOVWm7-Dewqnhd4mLKxWO6N26Dzl2kBBBW7B~l6xNnM7Rxa~-pZ4nqTkt1-2UnUeOjBaRnNOYd6DP55~KDr5dYJjdq7rrEhWUaHa3E9-gMtc~scDzrj2HqP8aGrUzE4kCrT3P6Seu1vG~JPcMCooCB2~B0lo-t~qB6qHrjP6uZrnYp8bWYQW3qv3OW8KZNXdJ8K6R0h5-Y-cyVYx0eNWqWDQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Modulating Transthyretin
+Fibril Stability with D-Retro-Inverso
+Peptides" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;A major cause of
+heart failure in elderly patients is
+the deposition
+of transthyretin (TTR) fibrils. Using molecular dynamics simulations,
+we explore how the stability of TTR fibrils can be modulated by D-retro-inverso
+(DRI) peptides, built from D-amino acids with the sequence of the
+parent peptide switched. We screened a library of peptide candidates
+generated from aggregation-prone regions in the TTR sequence, including
+peptides from WALTZ-DB 2.0 database of amyloid peptides, and selected
+three peptides based on their potential to disrupt interactions in
+a structurally flexible region of the fibril. Peptides were docked
+to the surface of the TTR fibril using HADDOCK 2.4, followed by all-atom
+molecular dynamics simulations to evaluate peptide–fibril interactions
+and their effects on fibril structure. We finally describe a potential
+mechanism by which one of these peptides, DRI-K6V, perturbs the structural
+integrity of TTR fibrils, and identify the segment K80-S100 as a potential
+target for modulating TTR fibril stability. Our results may open the
+way to the design of peptide drugs targeting established TTR amyloidosis.&lt;/span&gt;</description>
+</item>
+<item>
+<title>DBNAMP: A Chemically
+Curated Database of Noncanonical
+Antimicrobial Peptides with Standardized Molecular Representations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02717/5458781/DBNAMP-A-Chemically-Curated-Database-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02717</guid>
+<pubDate>Tue, 27 Oct 2026 11:01:06 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02717/1/m_ci6c02717_0005.png?Expires=2147483647&amp;amp;Signature=JwbZ1dB64m44KGjBXH0Fu0AME4qI~A20xrLZ5Xl1oW4aUew1B72O7m0nUErrnUEaTLLiTUK97TkOMoGOUQrlg3qMS1Y2v4fdllevJAO5W4HojlZxCXHou~i4E170Vjouh668yACWW5rKH00IP-9FGNPyKPUhNl233mDZMhfAJ1J8NGL6U8HZ0fRgJP0A75JypCy-I0sBjBOnfXG7rFRWUV-w7B8cHPddTHdBEffNdhW6uXTFcAcoKA9oxIDtBvUfKT2HgBe8R~HusF0J2Upj3nDLmFXlCMAyKiyVKAiuw4FrnuS6WeRfn7prDL5cBq1NdwObyUdCu-M0HZPQ-92IQg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="DBNAMP: A Chemically
+Curated Database of Noncanonical
+Antimicrobial Peptides with Standardized Molecular Representations" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antimicrobial peptides (AMPs) are promising anti-infective
+agents,
+yet conventional sequence-centered resources often inadequately represent
+noncanonical residues, stereochemical variations, terminal modifications,
+cyclization, lipidation, stapling, and peptidomimetic scaffolds, limiting
+chemically meaningful annotation, comparison, and structure–activity
+relationship analysis. Here, we present DBNAMP, a manually curated
+and chemically explicit database of AMP-like entities containing residue-level
+noncanonical features, molecular-level covalent modifications, or
+both; it currently comprises 1,859 curated entries, including 1,421
+entries with computed representative three-dimensional conformers
+and 129 standardized controlled-vocabulary records for noncanonical
+residues and peptide modifications. Among 537 source-level ambiguity-audit
+records, 84 remained unresolved after review, of which 82 retained
+at least one uppercase X character. Only one such record was included
+in the final release. Each DBNAMP entry integrates sequence, chemical
+annotation, antimicrobial activity, target organisms, physicochemical
+descriptors, molecular representations, structural information, and
+literature or patent provenance. In addition to browsing, filtering,
+and data download, DBNAMP enables chemically informed exploration
+of related peptide entities through standardized molecular representations
+and incorporates a lightweight SMILES-based prioritization module
+for preliminary ranking of candidate molecules. By bridging sequence-level
+peptide annotation and chemically explicit molecular representation,
+DBNAMP supports chemoinformatics analysis, structure–activity
+relationship studies, virtual screening, and computer-aided design
+of chemically diverse AMP candidates and is freely accessible at https://dbnamp.cn/.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Design Trade-Offs
+between Target Binding and Self-Association
+Revealed by  De Novo  SARS-CoV-2 Binders</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02394/5458779/Design-Trade-Offs-between-Target-Binding-and-Self</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02394</guid>
+<pubDate>Tue, 27 Oct 2026 11:01:06 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02394/1/m_ci6c02394_0005.png?Expires=2147483647&amp;amp;Signature=vQpro2cgeukMH6Ip24Hn-zIXPBLzkwPo9UdXLBNj12H92d2bwKX~IJt0Yx0mrjh~tADqsZ0SfTDRqR~XNWQqU-yPdRQg9Em19Z8fnv~KClRVEQuYvsG~p8Eeaa2aVAK5nlxBQ97wmBFBKVa963s4v4U1iAKpa7fcrzvix6MqMXBkCh9Ws~Rc4SJbcYwNjg8k-Jc15A7sqdzXMNEnSpsl6FJ8wgXdbuMeuvK5yjLIC~IiGLm7Pa9j27VkRx6aN3It6rm2IAQUufBp1~Cq~E75tnrTK8zgBXEbKWoTpCADQgDsLjRIM-DrbAuGOUMlX2xKr~oyPzhU7bvaX4cRcoz8tA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Design Trade-Offs
+between Target Binding and Self-Association
+Revealed by  De Novo  SARS-CoV-2 Binders" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;De novo&lt;/span&gt; protein binders have emerged
+as a powerful
+platform for molecular recognition, yet achieving high affinity while
+maintaining favorable biophysical properties remains a major challenge.
+Here, using the SARS-CoV-2 receptor-binding domain (RBD) as a model
+target, we generated two &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; protein binder design
+campaigns that deliberately imposed different trade-offs between binding
+and monomeric behavior, and benchmarked them against a set of experimentally
+validated binders. Through integrated experimental and computational
+analyses, we show that binder design is constrained by two distinct
+failure modes that require different optimization strategies. None
+of the 22 original designs showed measurable binding to the RBD, with
+one class remaining monomeric but failing to achieve sufficient target
+binding, while the other had more competent binding interfaces but
+exhibited excessive surface hydrophobicity that promoted self-association.
+By integrating AlphaFold-based predictions, molecular dynamics simulations,
+docking analyses, and surface aggregation propensity (SAP) calculations,
+we establish complementary computational signatures that distinguish
+these failure modes and reveal their underlying structural determinants.
+Guided by these insights, we prospectively redesigned a representative
+failed binder by reducing noninterface hydrophobicity while preserving
+folding and binding interface quality. Experimental characterization
+by SEC-MALS, surface plasmon resonance, and circular dichroism confirmed
+that the redesigned variants were stable monomers and acquired low
+μM binding affinities. Together, our results define the mechanistic
+trade-offs between binding and self-association in &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; protein binder design and provide a framework for diagnosing and
+rationally overcoming common design failure modes.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Pharmacophore-Conditioned
+Diffusion Model for Ligand-Based  De Novo  Drug Design</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01046/5458642/Pharmacophore-Conditioned-Diffusion-Model-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01046</guid>
+<pubDate>Tue, 27 Oct 2026 03:00:59 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01046/1/m_ci6c01046_0007.png?Expires=2147483647&amp;amp;Signature=yk4ib-vZkfi33-c0NexXC-B7dHgYddrekZgvMko4PT6WnTeF6AuE9Mx7Fi87-EFoaoV6JQ8uwHg8Fq9~AQ~8scvi1rIl--JbBME-fpm4nOhqkg6ccZP0xhb-XO4xAMC65CNxNXP3LholEeAcfKeCid0oZ8vwOMesC0w9p5jNEyWkXHVwOauX3EeiNKjMWy2-J7a3T5FnHx-hu0qjECRggW0AeQ42xoeoS8etGnVlbIHdEcYZ7cASyFDGAKLJE06KPDBEjD3zWk1rjBtg~rMIqwgwhU5U0wTYlilEUSjz6Wn3J~JcZywfTow6nuNVUxz8370w8zTiIvD-484TTSkYaA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Pharmacophore-Conditioned
+Diffusion Model for Ligand-Based  De Novo  Drug Design" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Developing bioactive molecules remains a central, time-
+and cost-heavy
+challenge in drug discovery, particularly for novel targets lacking
+structural or functional data. Pharmacophore modeling presents an
+alternative for capturing the key features required for molecular
+bioactivity against a biological target. In this work, we present
+PharmaDiff, a pharmacophore-conditioned diffusion model for 3D molecular
+generation. PharmaDiff employs a transformer-based architecture to
+integrate an atom-based representation of the 3D pharmacophore into
+the generative process, enabling the precise generation of 3D molecular
+graphs that align with predefined pharmacophore hypotheses. Through
+comprehensive testing, PharmaDiff demonstrates superior performance
+in matching 3D pharmacophore constraints compared to ligand-based
+drug design methods. Additionally, it achieves higher docking scores
+across a range of proteins in structure-based drug design, without
+the need for target protein structures. By integrating pharmacophore
+modeling with 3D generative techniques, PharmaDiff offers a powerful
+and flexible framework for rational drug design.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Evaluating Drug–Drug
+Interactions by Constructing
+Advanced Machine Learning Models of ABC Transporter Inhibitors</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02847/5458641/Evaluating-Drug-Drug-Interactions-by-Constructing</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02847</guid>
+<pubDate>Tue, 27 Oct 2026 03:00:59 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02847/1/m_ci6c02847_0007.png?Expires=2147483647&amp;amp;Signature=SXoNJXsNwQ1XRoDnu8dV2ZQL6h~yfHkkcGQUlMiSocDROiiA9DiruthgA2DbzDTYV4u0NsDpVERQvb4jRSfeTDG7WXyBGBDKY6TL9PCCIIve6Q3mi9ibzH6ZIQ48aqPrxqoR~aUh8GkMINJejdukUqwDQ9L62-61bnBS-8CUME0h9fxXWq0V4FwMwnyvbrTQBOUf5r9x4xZgJFxzoYyLaPJ-KVzJaQTHIwPLaHyjTP4QWsXRXM61i7xIWlrxyHQiz8m4zy12Rx0prfvGGJxPj7YXXgiNrgw8V5Ng3sPdKci565FvI9skok3i8x-xt7XHxJZ05HF3mc35RfI0nAi8YQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Evaluating Drug–Drug
+Interactions by Constructing
+Advanced Machine Learning Models of ABC Transporter Inhibitors" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;ATP-binding cassette
+(ABC) transporters play a critical role in
+transmembrane transport, and the inhibition of ABC transporter-mediated
+efflux can lead to unintended drug–drug interactions (DDIs).
+The identification of new drug candidates as perpetrators of transporter-mediated
+DDIs requires synthesis of significant drug products and costly experimental
+evaluation. Alternatively, computational approaches can rapidly and
+accurately screen the DDI liability of new drug candidates &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt;. Here, we developed a novel DDI risk assessment
+protocol incorporating classic and graph-based quantitative structure–activity
+relationship (QSAR) models. These models were trained on publicly
+available, large-scale, structurally diverse &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt; chemical inhibition data for P-gp, BCRP, and MRP1. The resultant
+models yielded promising R&lt;sup&gt;2&lt;/sup&gt; scores (0.58 to 0.82). External
+predictions successfully identified inhibitors, verified by experimental
+validation or literature review, and detected drugs with the potential
+to perpetrate clinically relevant DDIs. In summary, we developed a
+large, diverse database of ABC transporter inhibitors and present
+an applicable alternative protocol that incorporates model predictions
+to evaluate transporter-mediated DDIs for new drug candidates to prevent
+potentially harmful clinical outcomes.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Small-Molecule  1 H and  13 C NMR:
 From Chemical-Shift Prediction to Automated Structure Elucidation</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02915/5458533/Small-Molecule-1H-and-13C-NMR-From-Chemical-Shift</link>
@@ -3846,296 +4159,6 @@ for CO&lt;sub&gt;2&lt;/sub&gt;/CH&lt;sub&gt;4&lt;/sub&gt; separation. This work 
 a route for goal-directed zeolite design, showing how AI agents can
 be adapted to periodic porous materials governed by constrained pore
 topology.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Hierarchical Phase
-Transitions in Bayesian Flow Networks
-Enable Training-Free Molecular Design</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01538/5435455/Hierarchical-Phase-Transitions-in-Bayesian-Flow</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01538</guid>
-<pubDate>Tue, 22 Sep 2026 14:00:48 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01538/5435455/Hierarchical-Phase-Transitions-in-Bayesian-Flow"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01538/1/m_ci6c01538_0004.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Bayesian flow networks (BFNs) jointly model atomic coordinates
-and atom types for structure-based drug design, but their generative
-dynamics remain poorly understood. We show that the two channels resolve
-on different terms: atom types pass through a sharp commitment transition
-at &lt;span style="font-style:italic;"&gt;t&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;c&lt;/span&gt;1&lt;/sub&gt;, whereas coordinate
-precision improves smoothly with no critical point of its own, reaching
-sub-Ångstrom resolution only at a stated threshold &lt;span style="font-style:italic;"&gt;t&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;c&lt;/span&gt;2&lt;/sub&gt;. Extreme-value theory predicts the
-type channel’s posterior half-maximum in closed form, and the
-predicted 1/β1 scaling holds across seven β&lt;sub&gt;1&lt;/sub&gt; values (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.996) and over
-13 points spanning three BFN architectures and two domains, though
-measured times run 11%–20% below the predicted absolute values.
-Exploiting that structure, phase-aware iterative refinement aligns
-three rounds to these boundaries and trains no auxiliary regressor,
-reward function, or property predictor. On 100 CrossDocked2020 test
-pockets at &lt;span style="font-style:italic;"&gt;K&lt;/span&gt; = 200, it reaches a mean Vina Dock of
-−8.72 kcal/mol. Gradient-guided methods that need such training
-stay ahead by a small margin: over the 100-pocket intersection, the
-paired gap to MolJO (−8.98) is 0.25 kcal/mol (95% CI [−0.13,
-+0.60], paired Wilcoxon &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.022); equivalence testing
-at a preregistered ±0.5 kcal/mol margin does not establish equivalence
-within it. CByG (−9.16) leads by 0.44 kcal/mol on unpaired
-means. Phase-aware iteration improves the Round-1 to Round-3 mean
-by 1.34 kcal/mol (paired Wilcoxon &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 4.80 ×
-10&lt;sup&gt;–18&lt;/sup&gt;, Cohen’s &lt;span style="font-style:italic;"&gt;d&lt;/span&gt;&lt;sub&gt;&lt;span style="font-style:italic;"&gt;z&lt;/span&gt;&lt;/sub&gt; = −1.59) and shifts the median by −1.44
-kcal/mol, a shift Best-of-&lt;span style="font-style:italic;"&gt;K&lt;/span&gt; resampling cannot produce.
-Paired on the pocket, an audited rerun passes every PoseBusters check
-4.7 percentage points more often than MolJO.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Surfactant-Mediated
-Enantioselective Extraction: Interfacial
-Behavior Investigation from a Microscopic Perspective</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01740/5435109/Surfactant-Mediated-Enantioselective-Extraction</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01740</guid>
-<pubDate>Tue, 22 Sep 2026 12:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01740/5435109/Surfactant-Mediated-Enantioselective-Extraction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01740/1/m_ci6c01740_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Enantioselective liquid–liquid extraction (ELLE)
-based on
-cyclodextrin host–guest recognition is a promising green strategy
-for chiral resolution. However, its industrial application is often
-hindered by restricted chiral recognition efficiency and ill-defined
-interfacial mass transfer mechanisms. In this work, a multiscale approach─integrating
-macro-equilibrium experiments, molecular dynamics simulations, and
-quantum chemical calculations─was employed to decode the interfacial
-molecular interactions and their decisive roles in the ELLE of ibuprofen.
-The interface was regulated and reconstructed through the introduction
-of surfactants. The anionic surfactant SDS shortened extraction equilibrium
-time by approximately 30%, while the facial amphiphilic NaDC extended
-equilibration but improved the enantiomeric excess. MD simulations
-revealed that the addition of SDS and NaDC increased the interfacial
-thickness from 0.41 nm by 1.23 and 1.51 times, respectively. Via umbrella
-sampling, the chiral migration process exhibited characteristic free-energy
-changes of approximately −11.48 kJ·mol&lt;sup&gt;–1&lt;/sup&gt; and +35.58 kJ·mol&lt;sup&gt;–1&lt;/sup&gt; when transferring from
-the organic and aqueous phases to the interface, respectively. Furthermore,
-quantum chemical analysis quantified the interaction energy differences,
-demonstrating that steric hindrance and hydrogen-bonding intensity
-variations drove the observed changes in equilibrium parameters. These
-findings establish a conceptual microscopic model for interface-mediated
-chiral partitioning, providing a robust theoretical framework for
-optimizing separation efficiency and process intensification in ELLE
-systems.&lt;/span&gt;</description>
-</item>
-<item>
-<title>ML-RKIM: Physics-Informed
-Machine Learning for Reaction
-Kinetics Identification and Modeling</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01936/5434850/ML-RKIM-Physics-Informed-Machine-Learning-for</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01936</guid>
-<pubDate>Tue, 22 Sep 2026 06:00:47 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01936/5434850/ML-RKIM-Physics-Informed-Machine-Learning-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01936/1/m_ci6c01936_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Kinetic processes
-play a central role in structural transformations
-across natural, engineered, and biological systems, ultimately determining
-their final properties. Traditional kinetic characterization methods
-are often time-consuming and resource-intensive, and require prior
-assumptions about the reaction mechanism. In this work, we present
-a physics-informed machine learning framework to extract closed-form
-kinetic representations from time-series data without preselecting
-a single reaction mechanism. The framework combines neural networks,
-physics-informed features, and sparse regularization. The framework
-was applied to a range of processes, including thermally driven reactions
-such as polymer curing and crystallization, and nonthermal processes
-such as enzymatic browning. The method identified sparse, closed-form
-kinetic representations while reducing reliance on a single predefined
-kinetic model. R&lt;sup&gt;2&lt;/sup&gt; values exceeded 98% for the synthetic
-cases and ranged from 76% to 92% for the experimental cases. In addition,
-a systematic ablation study evaluated robustness to noise, data availability,
-sampling density, incomplete measurements, and candidate function
-library variation, and an experimental case study was included to
-assess the performance under realistic conditions. These results demonstrate
-the potential of this approach to accelerate kinetic characterization
-across polymer, food, and biomolecular processing applications, where
-accurate kinetic models are essential.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Unraveling the
-PFAS Helix: A Statistical Approach</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01874/5434804/Unraveling-the-PFAS-Helix-A-Statistical-Approach</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01874</guid>
-<pubDate>Tue, 22 Sep 2026 03:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01874/5434804/Unraveling-the-PFAS-Helix-A-Statistical-Approach"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01874/1/m_ci6c01874_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The extreme persistence of per- and
-polyfluoroalkyl substances
-(PFAS) in the environment is rooted in their three-dimensional molecular
-conformation. The helical twist adopted by perfluoroalkyl chains due
-to hyperconjugation involving their recalcitrant C–F bonds
-governs their resistance to degradation, yet a quantitative, continuous
-metric for helicity has remained absent. Here we introduce a data-driven
-framework that quantifies backbone helicity using three statistical
-descriptors: void-state (binary occupancy) spatial autocorrelations,
-local backbone principal component analysis, and persistent homology.
-We further validate each statistical descriptor against geometric
-dihedral benchmarks and DFT-calculated Vibrational Circular Dichroism
-(VCD) spectra. The framework is initially established on a homologous
-series of perfluorocarboxylic acids (&lt;sup&gt;F&lt;/sup&gt;C&lt;sub&gt;2&lt;/sub&gt; through &lt;sup&gt;F&lt;/sup&gt;C&lt;sub&gt;16&lt;/sub&gt;) and their hydrogenated analogues, then extended
-across perfluorosulfonic acids, fluorotelomer alcohols, polyfluoroalkyl
-hexanoic acid analogues, and longer-chain PFOA and PFOS analogues.
-Agreement between statistical, geometric, and spectroscopic definitions
-of helicity is established for PFCAs and extended to structurally
-distinct subfamilies, including PFOA analogues of varying fluorine
-content and perfluorosulfonic acids, demonstrating that the descriptors
-are robust to changes in headgroup chemistry and fluorine substitution
-pattern. The framework provides a chemistry-agnostic toolset for incorporating
-backbone conformation into predictive models of PFAS environmental
-fate and degradation reactivity.&lt;/span&gt;</description>
-</item>
-<item>
-<title>SwinTransRNA: A Swin Transformer-Based Framework for
-Accurate Prediction of RNA Subcellular Localization</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02004/5434788/SwinTransRNA-A-Swin-Transformer-Based-Framework</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02004</guid>
-<pubDate>Tue, 22 Sep 2026 01:00:38 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02004/5434788/SwinTransRNA-A-Swin-Transformer-Based-Framework"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02004/1/m_ci6c02004_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;RNA
-subcellular localization determines the regulatory context
-in which microRNAs (miRNAs), circular RNAs (circRNAs), and long noncoding
-RNAs (lncRNAs) exert their functions, yet these RNA classes differ
-greatly in sequence length and circularity, making fixed-length raw-sequence
-representations inconvenient for cross-RNA comparison. Here, we present
-SwinTransRNA, a unified framework that encodes each RNA as a length-normalized
-64 × 64 frequency chaos game representation (FCGR) of 6-mer composition,
-where every cell carries a fixed 6-mer identity and the matrix entries
-sum to one, enabling direct comparison across sequence lengths. A
-hierarchical window-attention network captures localized interactions
-among neighboring composition regions and enlarges the receptive field
-through shifted windows and patch merging. On audited benchmark data
-sets for nuclear/cytoplasmic lncRNA, nuclear/cytoplasmic circRNA,
-and intracellular/extracellular miRNA classification, SwinTransRNA
-achieves the highest accuracy and F1 among the compared methods on
-all three tasks (0.748/0.723, 0.914/0.908, and 0.819/0.823 for lncRNA,
-miRNA, and circRNA, respectively), surpassing RNALight and RNALoc-LM.
-Ablations show consistent gains over one-hot Transformer baselines
-and classical FCGR-based classifiers, while feature-space and curve-level
-analyses characterize the complementary contributions of the FCGR
-representation and the window-attention backbone. The main novelty
-lies in combining an order-traceable FCGR with hierarchical window
-attention under a reproducible protocol: five-seed repeats, confidence
-intervals, and paired tests quantify comparison uncertainty, and patch-embedding
-heatmaps with candidate motif screens expose the patterns prioritized
-by the model. The unified implementation, traceable sequence processing,
-and compact 4.25-million-parameter model provide a fixed-dimensional,
-auditable basis for RNA localization prediction and pattern prioritization.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Multiparadigm Benchmark
-of Molecular Docking: From
-Physics to Co-Folding and Hybrid Models</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01293/5434364/Multiparadigm-Benchmark-of-Molecular-Docking-From</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01293</guid>
-<pubDate>Mon, 21 Sep 2026 13:00:36 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01293/5434364/Multiparadigm-Benchmark-of-Molecular-Docking-From"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01293/1/m_ci6c01293_0005.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Generalizability of molecular docking predictions across
-novel
-protein targets and distinct small-molecule chemotypes is key to the
-successful application of deep learning co-folding approaches in drug
-discovery, as highlighted by recent benchmarks, including Runs-n-Poses
-[
-
-Nat. Struct. Mol. Biol.
-2026, 33, 782–794.]. To compare
-generalizability across physics-based, hybrid rescoring models, and
-co-folding approaches, we systematically benchmarked several molecular
-docking tools representing these paradigms. Our results support previous
-observations that co-folding approaches show superior performance
-on targets resembling their training datasets. However, they deteriorate
-sharply to unacceptably low 20–40% success rates on novel dissimilar
-systems, consistent with memorization. In contrast, physics-based
-and hybrid methods exhibit greater out-of-distribution robustness,
-maintaining more than 60% success rates for docking protein–ligand
-complexes with minimal similarity to previously known complexes. Our
-results highlight the complementarity of AI-based approaches and methods
-based on physical sampling in all-atom models, in terms of their applicability
-range, and argue for the benefits of tighter integration.&lt;/span&gt;</description>
-</item>
-<item>
-<title>A Systematic Evaluation of Molecule Generation Models
-for  De Novo  Drug Design: From Benchmarks to Practical
-Insights</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02405/5433695/A-Systematic-Evaluation-of-Molecule-Generation</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02405</guid>
-<pubDate>Mon, 21 Sep 2026 09:00:39 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02405/5433695/A-Systematic-Evaluation-of-Molecule-Generation"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02405/1/m_ci6c02405_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecule
-generation has emerged as a powerful computational tool
-for &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; drug design, enabling the exploration
-of the chemical space beyond the limits of conventional virtual screening.
-The field has progressed rapidly, driven by advances in molecular
-representations, generative architectures, and target-aware modeling
-strategies. However, existing reviews typically address specific model
-families or application scenarios in isolation rather than offering
-an integrated perspective on how these components collectively form
-a coherent generation workflow. In this review, we present a comprehensive
-evaluation of molecule generation models for &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; drug design, covering 82 methods across five deep generative frameworks,
-including recurrent neural network (RNN)- and transformer-based models,
-variational autoencoders (VAEs), generative adversarial networks (GANs),
-flow-based models, and diffusion models. We first summarize widely
-used benchmarks and molecular representations and then examine the
-methodological principles underlying both general and pocket-conditioned
-generation. A central contribution of this work is a systematic synthesis
-and comparative analysis of the reported performance across commonly
-used benchmarks and evaluation metrics. We also summarize representative
-experimentally validated cases. Looking ahead, we discuss future directions
-in standardized 3D data, interaction-aware generation, receptor flexibility,
-and multiobjective molecular design, with the aim of improving the
-reliability and experimental relevance of molecule generation. All
-collected benchmark resources, evaluation metrics, and model references
-are provided in a publicly accessible repository at https://github.com/JacklinGroup/molecule-generation-review.&lt;/span&gt;</description>
-</item>
-<item>
-<title>HDACiAP: A Curated
-Database and Analytical Platform
-for Histone Deacetylase Inhibitors</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00572/5433648/HDACiAP-A-Curated-Database-and-Analytical-Platform</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00572</guid>
-<pubDate>Mon, 21 Sep 2026 06:00:53 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00572/5433648/HDACiAP-A-Curated-Database-and-Analytical-Platform"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00572/1/m_ci6c00572_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Histone deacetylases (HDACs) are pivotal epigenetic regulators
-that are aberrantly expressed in various cancers, making them prominent
-targets for anticancer drug development. Herein, we present HDACiAP
-(https://hdac.kangsgo.cn), a meticulously curated, comprehensive database and analytical
-platform dedicated to HDAC inhibitors. HDACiAP currently encompasses
-32,721 compounds with 123,154 bioactivity records, integrating multidimensional
-data such as physicochemical properties, biological activities, toxicity
-predictions, compound selectivity annotations, computationally generated
-docking poses, and protein–ligand interaction profiles. The
-platform incorporates built-in molecular docking and integrated machine
-learning and deep learning-based prediction modules, enabling users
-to evaluate the potency of novel compounds. Additionally, HDACiAP
-offers an intuitive visualization interface, multimodal search capabilities,
-and programmatic access via RESTful APIs. In summary, by providing
-a curated bioactivity resource together with computational docking
-annotations and predictive models, HDACiAP offers a practical platform
-for exploring HDAC inhibitor chemical space, supporting preliminary
-virtual screening, and facilitating AI-assisted discovery of HDAC-targeted
-compounds.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Multiscale Interpretable
-Deep-Learning Framework for
-the Identification and Visualization of Deformation Stages in Molecular
-Dynamics Trajectory</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01426/5433640/Multiscale-Interpretable-Deep-Learning-Framework</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01426</guid>
-<pubDate>Mon, 21 Sep 2026 06:00:53 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01426/5433640/Multiscale-Interpretable-Deep-Learning-Framework"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01426/1/m_ci6c01426_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Microscopic deformation stage recognition
-from molecular
-dynamics
-(MD) trajectories is crucial for understanding the evolution of material
-damage; however, traditional empirical analysis and black-box single
-deep-learning models lack both high-throughput spatiotemporal modeling
-and transparent physical interpretability. This work develops a multiscale
-interpretable deep-learning framework to automatically classify elastic,
-plastic, and fracture stages from uniaxial tensile MD trajectories
-and physically decode model decision logic. First, a 3D atomic trajectory
-is converted to 2D gray-scale image sequences; a CNN-LSTM hybrid architecture
-is built to jointly extract spatial atomic textures and long-time
-deformation dynamics, reaching 98.8% test accuracy and far surpassing
-spatial-only CNN baselines in both supervised classification and unsupervised
-clustering. More importantly, a hierarchical multiscale interpretability
-toolkit, including multilayer feature heatmaps, smoothed gradient
-saliency maps, gradient-weighted class activation maps, and regularized
-SHAP attribution, is integrated to quantify positive/negative feature
-contributions and localize model focus regions. The visualized attention
-zones perfectly match core physical fields (von Mises strain, atomic
-displacement, and nonaffine deformation), resolving the explainability
-gap of conventional MD data mining pipelines. This work establishes
-a generalizable, trustworthy AI paradigm that connects data-driven
-prediction to intrinsic microscale mechanical mechanisms for computational
-material research.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
