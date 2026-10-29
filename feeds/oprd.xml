@@ -5,6 +5,59 @@
 <link>https://pubs.acs.org/rss/oprdfk/asap.xml</link>
 <description>OPR&amp;D (mirrored feed)</description>
 <item>
+<title>Data-Guided Descriptor
+Rebalancing for Monophosphine
+Ligand Training Set Development</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00355/5459655/Data-Guided-Descriptor-Rebalancing-for</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00355</guid>
+<pubDate>Wed, 28 Oct 2026 07:01:23 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00355/1/m_op6c00355_0009.png?Expires=2147483647&amp;amp;Signature=pk3pQzKWYk7wksqRuoIUDe65mjQdsKoESc1pt7u9atoUiBBtnqr4hXXEqpdfEOd9X0NK~tQNZ3J8tB91PBYDXDIfh-1a-MYc4zowWJStN5K4p6EGXmzPxf-fQFl1TQsnYlLZOrPHt5IoCF99uU4fAZSXgg-MxzMQYFikMqccvsCcEC36Vojy58b-ysJT3Rk4jOSX2bB2e9fd7qHBMaV7Rl0WJDxLYfo2Jzc-bw5XPC7905KwViLXkX7XLFcASKFEhsrj5pRgVw8D8rtobw5pSNbSFfwE57o1h~aspr~ioAd2RYduKoc-2GXAfJZRNakA6ST0jpnfiJET7aBRnd8LfA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Data-Guided Descriptor
+Rebalancing for Monophosphine
+Ligand Training Set Development" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Data-guided optimization strategies increasingly rely
+on well-designed
+training sets and meaningful chemical space representations, yet identifying
+appropriate descriptors and ensuring domain applicability remain persistent
+challenges. Here, we present an iterative workflow for refining monodentate
+phosphine-based training sets by coupling experimental reaction data
+with systematic feature evaluation. Using a pharmaceutically relevant
+cross-coupling reaction as a case study, we demonstrate how imbalances
+in steric and electronic descriptors of monodentate phosphines derived
+from the &lt;span style="font-style:italic;"&gt;kraken&lt;/span&gt; database, along with limited feature
+overlap between training and validation sets, can challenge classification
+models and virtual screening performance. By rebalancing descriptor
+types, we generated a more chemically intuitive representation that
+improved predictive performance in a classification model. This approach
+enables the development of a redesigned monophosphine ligand screening
+set with an enhanced coverage of key structural and electronic dimensions.
+The resulting workflow provides a generalizable template for constructing
+more robust, diverse, and application-ready training sets for catalyst
+screening and reaction optimization within process chemistry.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Process Development
+and Scale-Up of BIIB129, a Covalent,
+Selective and Brain Penetrant BTK Inhibitor for the Treatment of Multiple
+Sclerosis</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00250/5459600/Process-Development-and-Scale-Up-of-BIIB129-a</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00250</guid>
+<pubDate>Wed, 28 Oct 2026 06:01:31 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00250/1/m_op6c00250_0010.png?Expires=2147483647&amp;amp;Signature=GqKh3txgWOhrCjJjcXzc~NTFs1jtQSVw~-ewF9n74v4LVlWndDIv0DsLRNipoDseJhQUZuOqt98AuDeTdyJxeerY-watiaDfh-g3u~-URiOA9oBWlcPq5InF5UCxKVfMfX4wK7BkB2SV7T5zso5FzDDxl8tgUHIG25i6B5K4LRMZ1BFEFOYhua7e3gVfCJ9R1IQKr5VCGradrei7Dnb5YGVLt4DOPeYsEWWBhQKOvA5~DPjto6RMs92DMe1P96QfSiPNH5yBpGAUPvncJIGet254jz~nrYEQAHPZqUNfccA7PPlxuzn~qW~SZuvxmfpwqH9STG9qGY0EjZhZtoWRjA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Process Development
+and Scale-Up of BIIB129, a Covalent,
+Selective and Brain Penetrant BTK Inhibitor for the Treatment of Multiple
+Sclerosis" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Optimization of the original discovery
+synthesis of the
+cnsBTK
+inhibitor BIIB129 from gram to multikilogram scale in support of early
+phase clinical trials and formulation studies is presented. Highlighted
+process improvements include (1) a 20% increase in overall yield after
+process optimization; (2) an 85% decrease in PMI (process mass intensity)
+for the entire synthetic process including starting materials; (3)
+a 70% reduction in API cost, and (4) improved API impurity controls.
+These improvements resulted in the successful preparation of 12 kg
+of crystalline BIIB129 drug substance to support phase I clinical
+trials.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Development of a Continuous Trickle-Flow Hydrogenation
 Process for Cbz Deprotection in Dipeptide Synthesis</title>
 <link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00369/5459495/Development-of-a-Continuous-Trickle-Flow</link>
@@ -2156,20 +2209,6 @@ peptide production.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.oprd.6c00045</guid>
 <pubDate>Tue, 23 Jun 2026 05:58:53 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00045/1/m_op6c00045_0006.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00045&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Hydroxyapatite as an Enzyme Carrier in Continuous-Flow Biocatalysis: An Improved Synthesis of γ-Glutamyl Derivatives</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00083</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00083</guid>
-<pubDate>Fri, 19 Jun 2026 01:15:36 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00083/1/m_op6c00083_0006.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00083&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Enabling Process Development of Tetracyclic Quinolines for Brain-Penetrating KRAS G12C Inhibitors</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00167</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00167</guid>
-<pubDate>Thu, 18 Jun 2026 01:13:48 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00167/1/m_op6c00167_0015.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00167&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
