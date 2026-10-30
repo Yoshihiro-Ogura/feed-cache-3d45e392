@@ -61,6 +61,27 @@
 <description>&lt;p&gt;Nature Communications, Published online: 30 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-79161-w"&gt;doi:10.1038/s41467-026-79161-w&lt;/a&gt;&lt;/p&gt;Seasonal events in temperate deciduous trees, from leaf-out to leaf fall, follow a fixed annual sequence. This study shows that the timing of consecutive events is statistically associated in European trees, but that the association between fruiting and leaf coloration has weakened in some species as the interval between these phases has increased.</description>
 </item>
 <item>
+<title>Genomic heterogeneity inflates the performance of variant pathogenicity predictions</title>
+<link>https://www.nature.com/articles/s41467-026-78623-5</link>
+<guid>10.1038/s41467-026-78623-5</guid>
+<pubDate>2026-10-30</pubDate>
+<description>&lt;p&gt;Nature Communications, Published online: 30 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78623-5"&gt;doi:10.1038/s41467-026-78623-5&lt;/a&gt;&lt;/p&gt;Evaluations of AI models predicting disease-causing single nucleotide variants reveal that the performance of genome-wide predictions is inflated by mixing variant types, e.g. canonical splice and 5’ UTR variants. The authors introduce a stratified benchmark to accurately identify the most robust models.</description>
+</item>
+<item>
+<title>IDPForge: deep learning of proteins with global and local regions of disorder</title>
+<link>https://www.nature.com/articles/s41467-026-79191-4</link>
+<guid>10.1038/s41467-026-79191-4</guid>
+<pubDate>2026-10-30</pubDate>
+<description>&lt;p&gt;Nature Communications, Published online: 30 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-79191-4"&gt;doi:10.1038/s41467-026-79191-4&lt;/a&gt;&lt;/p&gt;Intrinsically disordered proteins and regions (IDPs/IDRs) are defined by diverse structural ensembles. We present IDPForge that exploits a transformer protein language diffusion model to create all-atom IDP and IDR ensembles that maintain folded domains with options to conform to experimental data.</description>
+</item>
+<item>
+<title>Intruding delta waves during REM sleep are associated with tau, amyloid, and forgetting in aging</title>
+<link>https://www.nature.com/articles/s41467-026-78425-9</link>
+<guid>10.1038/s41467-026-78425-9</guid>
+<pubDate>2026-10-30</pubDate>
+<description>&lt;p&gt;Nature Communications, Published online: 30 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78425-9"&gt;doi:10.1038/s41467-026-78425-9&lt;/a&gt;&lt;/p&gt;Desel et al. report that memory loss in aging is associated with a shift from fast sawtooth to slow delta waves during REM sleep. This shift correlates with amyloid and tau burden, marking a REM sleep signature of impaired memory consolidation.</description>
+</item>
+<item>
 <title>Framework desymmetrization enables partial pore space partition in metal-organic frameworks</title>
 <link>https://www.nature.com/articles/s41467-026-79214-0</link>
 <guid>10.1038/s41467-026-79214-0</guid>
@@ -1032,27 +1053,6 @@
 <guid>10.1038/s41467-026-78411-1</guid>
 <pubDate>2026-10-15</pubDate>
 <description>&lt;p&gt;Nature Communications, Published online: 15 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78411-1"&gt;doi:10.1038/s41467-026-78411-1&lt;/a&gt;&lt;/p&gt;Aging is a complex process often characterised by increased vulnerability to disease, and this affects T cell function. Here, the authors characterise migration, deformability, and sensing in aged and young T cells and find impaired cellular sensing in aged T cells. This impairment can be rescued after priming in elevated fluid viscosity. This effect was most prominent in aged memory CD4+ T cells.</description>
-</item>
-<item>
-<title>High fiber diet mitigates exposure risk of nanoplastics in male mice</title>
-<link>https://www.nature.com/articles/s41467-026-78675-7</link>
-<guid>10.1038/s41467-026-78675-7</guid>
-<pubDate>2026-10-15</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 15 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78675-7"&gt;doi:10.1038/s41467-026-78675-7&lt;/a&gt;&lt;/p&gt;Dietary exposure to nanoplastics is an emerging health concern. Here, the authors show that high-fiber diet reduces nanoplastic gastrointestinal retention, alleviates intestinal injury, and limits organ translocation in male mice.</description>
-</item>
-<item>
-<title>Designing nonlinear perturbative metamaterials that compute</title>
-<link>https://www.nature.com/articles/s41467-026-78595-6</link>
-<guid>10.1038/s41467-026-78595-6</guid>
-<pubDate>2026-10-15</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 15 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78595-6"&gt;doi:10.1038/s41467-026-78595-6&lt;/a&gt;&lt;/p&gt;Elastic metamaterials provide opportunities for implementing computation tasks, yet generality provides a major challenge with respect to the design of metamaterial geometry. Here, the authors introduce a two-step metamaterial design strategy embedding first the computation functionality in a tight-binding model and subsequently tailoring a metamaterial geometry.</description>
-</item>
-<item>
-<title>Photoreversible defect complexation dynamically modulates guest adsorption in metal-organic frameworks</title>
-<link>https://www.nature.com/articles/s41467-026-78352-9</link>
-<guid>10.1038/s41467-026-78352-9</guid>
-<pubDate>2026-10-15</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 15 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78352-9"&gt;doi:10.1038/s41467-026-78352-9&lt;/a&gt;&lt;/p&gt;Here the authors describe a metal-organic framework in which UV light blocks metal binding sites and visible light reopens them, raising usable carbon dioxide capacity by 83 % and enabling gas capture driven by light rather than heat or pressure.</description>
 </item>
 </channel>
 </rss>
