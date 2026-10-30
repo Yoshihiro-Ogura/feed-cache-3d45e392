@@ -5,6 +5,129 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Rule-Defined Multitopology
+PEG Ligand Library for
+Virtual Screening</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02712/5460952/Rule-Defined-Multitopology-PEG-Ligand-Library-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02712</guid>
+<pubDate>Thu, 29 Oct 2026 14:01:13 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02712/1/m_ci6c02712_0009.png?Expires=2147483647&amp;amp;Signature=RlWIywzG~Ak-Rv8~NzPULW-GBCDjQrKfBGawB2COjipIo2Tllnzcou16pz3uGUVg1u0TKSMK-9oeQCLSg7Mq6~mtddqvxY8nfNBctdtfoXTtEnq0hBfDA~qJfMojxbAI0q2AwZ2vIG1kS4GstYF-hoYB3D-pcB0qyDksloCzerOpJXbkalsZJPCYfE5exxSORKhYHBRUsrKQvm1KqxOyi0f7ITM5LWaG2V4Ze9m-Zah93p50eqWg4ckUjoi7ft9kTTlCnieMA405kGfCz4itc2ThIXlj4zFJhXAaPSq8EYmXL1609Q-o7qUnERxJfW1lkJnp07xxFHtjE-PHx~pfZA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Rule-Defined Multitopology
+PEG Ligand Library for
+Virtual Screening" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Poly(ethylene glycol) (PEG) is widely
+used in drug delivery,
+primarily
+as a passive protective component, whereas active targeting typically
+relies on additional, structurally complex ligands. Developing PEG
+as a ligand with targeting potential could simplify the architecture
+of targeted nanomedicines; realizing this concept first requires treating
+PEG topology as a ligand-scaffold design variable and establishing
+a unified multitopology structural resource. Using a shared local
+assembly grammar and topology-specific rules, we constructed a rule-defined
+PEG ligand 2D master library spanning seven topology classes; the
+generated view contains approximately 123 million unique structures,
+and the default-retained view contains approximately 50 million unique
+structures. The library extends the represented PEG ligand space beyond
+linear chains to include branched, multiarm, ring-constrained, and
+multicyclic regions, thereby providing a traceable 2D structural basis
+for downstream virtual screening.&lt;/span&gt;</description>
+</item>
+<item>
+<title>The Delta-ML IR Spectroscopist: Structured Delta-Learning
+between Harmonic DFT Infrared Spectra</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02679/5460597/The-Delta-ML-IR-Spectroscopist-Structured-Delta</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02679</guid>
+<pubDate>Thu, 29 Oct 2026 08:01:09 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02679/1/m_ci6c02679_0009.png?Expires=2147483647&amp;amp;Signature=LiVYv7MHxdHbefNeu6vKZR6dti3vHOqO~YFS~-Nh0iuu6LAhkgZHEjxWC6YbDPNqGikyF04HydxgvV5bfkvMqlPfWP9VdWtjLBslhbyENQVagaLJ2ssNWNMsoc7ES2U6jqnLq7gl2yRUA7-bFAPevsLEw89sfIfhvHdq90d2an~iTC8IkKGhHI9QJ3fkx6YXpQ4MgaZdF9-ZpKRtluFEVXfh-0qjbjHpB5Q5jRJRxNEMt58DgEe~504vbmlx3OQNyVXUV5KNXPa7KdHKlsWepmpx~Pts4yWuDqBFscrpo0eIR5CfyhsAx-wTuEWpholBk340dNYUYEBDh5hJEXSOOA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="The Delta-ML IR Spectroscopist: Structured Delta-Learning
+between Harmonic DFT Infrared Spectra" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate
+theoretical infrared spectra support molecular identification
+and high-throughput screening, but higher-level harmonic density functional
+theory (DFT) calculations are costly at scale; we therefore test whether
+a low-cost PBEh-3c harmonic spectrum can serve as a physical prior
+for predicting an ωB97X-D3/def2-TZVPD target using a bounded
+frequency-axis warp, broad-intensity adjustment, and local peak refinement.
+On 494 held-out test molecules, Delta-ML reaches a mean Spectral Information
+Similarity (SIS; 1 for identical spectra) of 0.7800 against the target,
+up from 0.3290 for the uncorrected PBEh-3c spectrum; a direct model
+given the same structure and PBEh-3c spectrum reaches 0.5759, indicating
+that most of the gain comes from the structured correction rather
+than from access to the PBEh-3c spectrum. In a learning-curve experiment,
+3,000 training molecules (22% of the training set) reach a mean SIS
+of 0.7301, 94% of the value obtained with all 13,338 molecules, with
+a corresponding 10th-percentile SIS of 0.4736 compared with 0.5473
+for the full-data controlled benchmark; at this training size, the
+estimated number of new molecules that must be screened before Delta-ML
+recovers the cost of generating its training data falls from about
+19,400 to 5,100. The model reproduces a harmonic computational target,
+not experimental or anharmonic spectra.&lt;/span&gt;</description>
+</item>
+<item>
+<title>An Informatics
+Approach to Recommender Systems for
+PFAS Molecule Replacement</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02203/5460565/An-Informatics-Approach-to-Recommender-Systems-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02203</guid>
+<pubDate>Thu, 29 Oct 2026 06:01:15 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02203/1/m_ci6c02203_0009.png?Expires=2147483647&amp;amp;Signature=ZOtCsIg~aM~Zvp9bE2ph7SrSBQ71Y~u1MWpsSFnYcSwdeD72X30F-SRJmQ3EnRBZh1vdTL~G3zrFa1Q2h0u0ZH3kyy3uoY4UzrxcvF2jvAXaUakyg7PUNYYVrKGI2x9vs8HEw5xbEZ-~hw8iYCyzNY4Ey346Ovxs0Zq6qS8UqhusWa34q0k6hysxInDyDQ0muzYla8HLSQrnamhGY6Y~ynO-Y1IBsiM5abL4P3D16tmsiddkzDD47no1-xMX5EG7Om1Fj1dyMRwxbSToKYxdH5R6p7Ir0Xzfgbj9VUztH-qgs4K90uMZBhyRkEpMq7dyh4hI4Ei5E7Nq2-42l5Be5g__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="An Informatics
+Approach to Recommender Systems for
+PFAS Molecule Replacement" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Per- and polyfluoroalkyl substances (PFAS) are persistent
+environmental
+contaminants used across an enormous range of industrial and consumer
+applications, and identifying safe, nonfluorinated replacements remains
+a slow, largely trial-and-error process. In this work, we construct
+a recommender engine for suggesting PFAS alternative chemistries based
+on past replacements. We present a data-driven recommender framework
+that learns molecular substitution relationships from experimentally
+documented PFAS-to-non-PFAS pairings, and we demonstrate its viability
+through two case studies. In the first, a recommender approach grounded
+in known substitution chemistry and validated by first-principles
+physics is shown to accelerate the identification of over 500 potential
+nonregrettable PFAS alternatives across diverse application domains.
+In the second, we consider substitutions with silicone molecules,
+performing ab initio calculations on 95 unique PFAS molecules that
+have been replaced by silicones and 12 unique silicone molecules that
+have served as replacements, and we then use our recommender engine
+to identify chemistries that are prime candidates for replacement.
+Together, these results demonstrate that a data-driven recommender
+approach can meaningfully navigate the vast space of possible PFAS
+replacements and surface chemically plausible, synthesizable candidates
+for experimental evaluation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Machine Learning
+Predictions of Experimental Mössbauer
+Properties of Fe-Containing Molecular Complexes and Protein Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02183/5460523/Machine-Learning-Predictions-of-Experimental-Mo</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02183</guid>
+<pubDate>Thu, 29 Oct 2026 03:00:58 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02183/1/m_ci6c02183_0007.png?Expires=2147483647&amp;amp;Signature=AiFBdLWKWImZO1yrCpXcgtEAlZM~OVKzAWOItgs81b0UsBHcFV0fYfw40cHu5Mlt7O8J4Mnyu4TYCX333nf3nau3yTmTE5TXm5SKjRd21rTb7XEyFpg29147Or6r5WUeFfz8u4gltlGrJ7kDxqYtzAlNBam2kQv1zNboR-iid0hCKNqDML7UCaA8k4Tvgd0kWUW9J1dlhOgOvZ1FUsVHsogw7vSRdl9CGVwok2gu5qaKZJNxRLVln4~xxJEzphsSC2chWyPY~cpuY-KVAHnQ35ONPD~khD9QtIe7RjC2OlCTS~vtXJHwYML2Z2HjZAKgqFJnFfkU3-Vr05kaPjHE~w__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Machine Learning
+Predictions of Experimental Mössbauer
+Properties of Fe-Containing Molecular Complexes and Protein Models" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Mössbauer spectroscopy is among the best techniques
+for
+probing molecular structures of iron complexes and proteins. Extracting
+structural insights from experimental spectra often necessitates accurate
+DFT predictions of isomer shift (IS) and quadrupole splitting (QS)
+parameters. However, substantial computational cost and sensitivity
+to the choice of functional and basis set limit their utility for
+high-throughput structural screening. To address this gap, various
+traditional machine learning (ML) and deep learning (DL) models were
+investigated, using a curated experimental data set of 522 diverse
+compounds. After engineering models and descriptors, the DL model
+Chemprop has the highest coefficient of determination (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt;) for the test data set (0.92 for IS; 0.73 for QS), with &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.98/0.91 for IS/QS in the overall data
+set. Validation of this model corroborates its high, close-to-DFT
+accuracy for IS predictions, and also shows a significant improvement
+room for QS predictions. Its predictions of several iron sites in
+both heme and nonheme proteins and both first- and second-coordination
+sphere models with challenging and/or unique novel structural features
+replicated previous DFT structural predictions that are in excellent
+agreement with experiment, which is a significant application given
+that no protein data was used to train the ML model. This approach
+achieved a 218-fold reduction in computational time compared to DFT
+calculations with same geometries. Results from this first ML work
+on Mössbauer data of molecular iron complexes will facilitate
+rapid structural screening previously impractical for large sets of
+iron complexes and iron-protein binding site structures.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Benchmarking and
 Experimental Validation of Machine
 Learning Strategies for Enzyme Engineering</title>
@@ -4067,102 +4190,6 @@ and identifies compound &lt;strong&gt;16&lt;/strong&gt; as a promising next-gene
 lead with a superior drug-like profile for targeting STAT3-dependent
 cancers. All in all, these findings provide a foundation for advancing
 selective STAT3 DBD inhibitors toward clinical translation.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Correction to “PoseidonQ:
-A Free Machine Learning
-Platform for the Development, Analysis, and Validation of Efficient
-and Portable QSAR Models for Drug Discovery”</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03051/5437341/Correction-to-PoseidonQ-A-Free-Machine-Learning</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c03051</guid>
-<pubDate>Thu, 24 Sep 2026 07:00:51 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;Ministero dell'Universit? e della Ricerca10.13039/501100021856P2022KCW3L&lt;/span&gt;</description>
-</item>
-<item>
-<title>CAPRICHO: Interpretable
-Quality Flagging and Flexible
-ChEMBL Bioactivity Curation for QSAR Modeling</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00802/5436330/CAPRICHO-Interpretable-Quality-Flagging-and</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00802</guid>
-<pubDate>Wed, 23 Sep 2026 12:00:36 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00802/5436330/CAPRICHO-Interpretable-Quality-Flagging-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00802/1/m_ci6c00802_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Preparing ChEMBL bioactivity data for quantitative structure–activity
-relationship (QSAR) modeling requires navigating curation decisions
-that often lack documentation and are hard to reproduce. We present
-CAPRICHO (ChEMBL Aggregation Package with Robust Inspection and Curation
-Handling Options), a Python command-line tool addressing two gaps
-in current workflows: transparency and flexibility. Unlike approaches
-that remove problematic data, CAPRICHO flags quality issues while
-preserving all data for inspection, letting users assess how each
-curation decision affects cross-assay comparability. Aggregation is
-configured via customizable grouping columns, supporting both traditional
-QSAR and emerging assay-aware modeling paradigms, with all parameters
-recorded in recipe files for reproducibility. Three case studies demonstrate
-the tool: (i) programmatic support of ChEMBL max-curation standards,
-(ii) CYP inhibition multitask curation, and (iii) Caco-2 permeability
-with unit standardization. Together, these show that preserving rather
-than removing flagged data lets practitioners identify which quality
-issues most affect comparability and balance data quality with availability
-for QSAR modeling. CAPRICHO is freely available at https://github.com/CDDLeiden/Capricho&lt;/span&gt;</description>
-</item>
-<item>
-<title>Cholesterol Hot
-Spot Automated Mapping Protocol (CHAMP):
-Identifying Cholesterol-Binding Hot Spots in Membrane Proteins</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01419/5436273/Cholesterol-Hot-Spot-Automated-Mapping-Protocol</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01419</guid>
-<pubDate>Wed, 23 Sep 2026 11:00:36 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01419/5436273/Cholesterol-Hot-Spot-Automated-Mapping-Protocol"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01419/1/m_ci6c01419_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Biological membranes are dynamic and heterogeneous environments
-that actively influence protein structure and function. Cholesterol,
-in particular, has been widely reported to modulate membrane proteins
-through binding to specific interaction sites. However, the identification
-of these sites remains challenging due to the intrinsic complexity
-and dynamics of lipid bilayers, especially when multiple systems and
-membrane environments are considered. Here, we present CHAMP (Cholesterol
-hot spot automated mapping protocol), an automated Python-based workflow
-that combines coarse-grained molecular dynamics simulations with a
-dual analysis based on contact persistence and spatial density to
-identify cholesterol-binding hot spots at protein–membrane
-interfaces. The protocol requires limited user intervention and is
-designed to enable consistent and reproducible analyses across different
-targets. We validated CHAMP on the serotonin transporter and the cannabinoid
-receptor 1 (CB&lt;sub&gt;1&lt;/sub&gt;), where it recovers known cholesterol-binding
-regions reported in experimental and computational studies. In the
-CB&lt;sub&gt;1&lt;/sub&gt; system, the method also identifies a potential additional
-interaction site. To assess the generality of the approach, we applied
-the protocol to the CB&lt;sub&gt;1&lt;/sub&gt; negative allosteric modulator Org27569,
-showing that it can capture relevant interaction hot spots beyond
-sterol molecules. Overall, CHAMP provides a practical framework for
-mapping interaction hot spots at protein–membrane interfaces
-and may support large-scale and comparative studies of membrane proteins.
-Limitations of the current implementation and possible extensions
-are discussed.&lt;/span&gt;</description>
-</item>
-<item>
-<title>From Closed to
-Mighty: How GTP-Induced Allosteric
-Dynamics, Dimerization, and Membrane Binding Transform a Bacterial
-Dynamin-like Protein</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01952/5436118/From-Closed-to-Mighty-How-GTP-Induced-Allosteric</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01952</guid>
-<pubDate>Wed, 23 Sep 2026 07:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01952/5436118/From-Closed-to-Mighty-How-GTP-Induced-Allosteric"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01952/1/m_ci6c01952_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Dynamins, crucial GTPases involved in membrane remodeling,
-play
-key roles in processes like endocytosis and membrane fission. While
-their importance is well-established, the precise dynamics of their
-conformational changes remain unclear. This study investigates the
-bacterial dynamin-like protein (BDLP) from &lt;span style="font-style:italic;"&gt;Nostoc punctiforme&lt;/span&gt;, which undergoes a dramatic closed-to-open transition upon GTP binding.
-Using standard and enhanced all-atom molecular dynamics simulations,
-we map this transition, revealing a complex energetic landscape. The
-initial barrier arises from disruption of salt bridges formed by the
-GTPase domain with the trunk and paddle, setting off the main hinge
-motion. Subsequent conformational changes involve further hinge motions
-and lateral shearing to minimize electrostatic forces. Notably, GTP
-binding accelerates the transition by 5 orders of magnitude through
-an allosteric mechanism. Our multiscale simulations of 37.1 μs
-accumulated simulation time show that BDLP dimerization and membrane
-binding are necessary to initiate the stabilization of the open conformation.
-These findings provide crucial insights into BDLP’s membrane
-remodeling mechanism, advancing our understanding of dynamin dynamics.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
