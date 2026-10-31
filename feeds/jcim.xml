@@ -5,6 +5,290 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Spatially Resolved
+Transcriptomic Correlation Improves
+the Prediction of Anticancer Drug Candidates</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02416/5461771/Spatially-Resolved-Transcriptomic-Correlation</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02416</guid>
+<pubDate>Fri, 30 Oct 2026 22:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02416/1/ci6c02416_0006.png?Expires=2147483647&amp;amp;Signature=Q2vMFX71venm3rJfjR9pvss7DDotzX~36RpXA-SCOVL6E7oLUDc5osLgUKxO-X-b8f7dMCndF-7oA9mJtbuOG943VIkkLCe8SzEXGXj9B~tjaorvDH~OipquRikw4n7FE09npKndnd5BttM4CPgzcoWFFlBJkRQRRMUamgil8LqmaClNSgCY-~Bv1SAR~~dKMjtw9bgKYAvuDypazKEzf~r1Lx~Lsnkbpd0FBrnEgqZl8Ax8TE-l-dFvnEnEizVyCd7BuQTcAmsL7rHhkTx2NfiP6Dxt89OgNHvuJLhhSb9Q7s6KPJPypDuLyQo1ocCJMoj6oeOxj95M8uQPVKqa2g__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Spatially Resolved
+Transcriptomic Correlation Improves
+the Prediction of Anticancer Drug Candidates" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predicting the anticancer effects of compounds is critical
+for
+computational drug evaluation. However, traditional transcriptomics-based
+virtual screening relies on bulk RNA profiling, causing intratumoral
+spatial heterogeneity to be averaged across the entire tissue and
+thereby limiting predictive accuracy. This limitation is particularly
+consequential for triple-negative breast cancer, which lacks receptor-guided
+treatment options and exhibits pronounced spatial heterogeneity that
+can obscure region-specific therapeutic vulnerabilities when assessed
+by bulk analysis alone. To address this limitation, we developed a
+spatially resolved computational framework that integrates spatial
+transcriptomics to improve the prediction of anticancer drugs. Using
+a data set of 1291 diverse compounds, we compared the predictive performance
+of conventional disease-specific bulk signatures with that of localized
+spatial gene expression signatures. Whereas bulk signatures yielded
+insufficient predictive performance, incorporating spatial information
+improved prediction accuracy. Analysis of the predicted drug rankings
+further demonstrated that the spatial layer substantially improved
+the prioritization of known anticancer drugs while also identifying
+unclassified and nononcology compounds with potential anticancer effects.
+These findings indicate that the predicted therapeutic relevance of
+a compound depends on localized transcriptomic states rather than
+representing a static property across an entire heterogeneous tumor
+section. Ultimately, the proposed method provides a robust, region-aware
+computational framework for accurately characterizing the anticancer
+properties of compounds and offers a more nuanced paradigm for transcriptomics-based
+drug evaluation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Large Language
+Model-Driven Knowledge Graph Construction
+for Photoresist Materials</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02548/5461742/Large-Language-Model-Driven-Knowledge-Graph</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02548</guid>
+<pubDate>Fri, 30 Oct 2026 20:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02548/1/ci6c02548_0007.png?Expires=2147483647&amp;amp;Signature=Qc-xwKUagumrcEp1i5QO0aiRJ1SMFZpviA3es8LaKPMIj4~6KJFi~RagqHGR28ecrtcdXkyjVLU-SePVSurlvE4BO2MEM3YMYMgILTChWolBIZRxkNk4Lhr5Cznw3Vd61dqC~jgbex8cuQ3miwXCY0~jaN0c-Cb8wyOZcf1Q2yEVMXunDs43DKVj~Y9w2nbB2krkPhQ9kElYHIqvpCN4WW4N0~XFZ~V-Nxa0GV-cRMJUtUhzNOs6azw1nG-prbbd2v3gis7Tm44R59Eym7a0u5qgu1vI8TstPl1TidF-k5OhU92fWClIysZe7AjVWCZWPbQpz3JFpL8voKQk8Qqr1w__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Large Language
+Model-Driven Knowledge Graph Construction
+for Photoresist Materials" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Vast knowledge dispersed across the unstructured literature
+remains
+an indispensable complement to photoresist development. However, the
+intricate relationships among formulation, processing, and performance
+are not only scattered throughout publications but also complicated
+by semantic heterogeneity and contextual ambiguity, hindering knowledge
+management that extends beyond simple retrieval. To address these
+issues, we employed large language models (LLMs) to construct a photoresist
+material knowledge graph (KG) covering synthesis, properties, and
+applications. From nearly 12,000 full-text documents, we extracted
+320,000 entities, 178,000 relationships, and 1,172,000 attribute entries.
+By integrating this KG with an LLM via a dual-path retrieval-augmented
+generation (RAG) strategy, we achieved 95.33% accuracy on a domain-specific
+question-answering task, substantially outperforming the standalone
+LLM (76.67%). This work offers a reference framework for knowledge
+management and intelligent reasoning in the photoresist field.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Enabling Computational
+Exploration of an Expanding
+Academic Chemistry Space</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02522/5461673/Enabling-Computational-Exploration-of-an-Expanding</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02522</guid>
+<pubDate>Fri, 30 Oct 2026 16:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02522/1/ci6c02522_0006.png?Expires=2147483647&amp;amp;Signature=GCTZuRl77ED6zjRrnSYkhmwu1kVqskXAFx1U~Ip3Kol4io8B0qmJV2p7VVBVuoVvgRWXAdpQZelsMYAuAohHP2OUc9khqj9v9JL41vM3cLk3jc-RDIeriFgnMqhwresIQc7JqwYyWll~Wnc~vVu~9gryJUKzvBCYxaX~umz4sMv25df3-et91rvOcyNisksLAjOx-~mVaEtecOA5szOqcF~YY9CAc2vFUOqMBI4tCdCJ97NzL8mJ-bj70h2FZroA7k-5SgdNVptgDtW7VHlt6WsbUNToxLNUIBX3WlrNC4TQ6-TW-1D6LF5KEwLBm48sV89Dj0gpRMpC34A7MUu0Ig__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Enabling Computational
+Exploration of an Expanding
+Academic Chemistry Space" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ultralarge
+virtual libraries have become a cornerstone
+of modern
+early stage drug discovery, enabling the rapid exploration of billions
+of compounds. The chemical space accessible to most screening campaigns,
+however, remains constrained not by the availability of building blocks,
+which are broadly shared across vendor catalogs, but by the narrow
+set of well-established reaction chemistries used to combine them.
+To address this limitation, we present the continued development of
+the Pan-Canadian Chemical Library (PCCL), a community-driven effort
+to expand the accessible chemical space beyond commercial libraries
+by incorporating synthetic reactions developed across academic laboratories
+in Canada. The current release of the PCCL is contributed by seven
+Canadian academic groups. Using broadly available commercial building
+blocks, the resulting reaction space spans on the order of 10&lt;sup&gt;17&lt;/sup&gt; theoretically reachable drug-like compounds. Moreover, using
+cheap building blocks from ChemSpace (≤\$100/100 mg), an explicitly
+enumerated and experimentally actionable sublibrary of approximately
+77 M compounds suitable for high-throughput virtual screening was
+generated. Comparison with the Enamine REAL library reveals that PCCL
+occupies a largely orthogonal chemical space, with fewer than 0.1%
+Bemis–Murcko scaffolds shared between the two libraries. Rather
+than explicitly enumerating the full 10&lt;sup&gt;17&lt;/sup&gt; compound space,
+we introduce a PostgreSQL/RDKit-backed hit-expansion framework that
+enables targeted enumeration and analog retrieval directly within
+the reaction space. The expanded PCCL demonstrates how a community-sourced
+initiative can provide a scalable mechanism to access novel chemical
+space and support early stage drug discovery against challenging and
+underexplored biological targets.&lt;/span&gt;</description>
+</item>
+<item>
+<title>DeepMolVir: Learning Virtual Virus Representations
+for Sequence-Aware Virus–Inhibitor Activity Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02144/5461665/DeepMolVir-Learning-Virtual-Virus-Representations</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02144</guid>
+<pubDate>Fri, 30 Oct 2026 16:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02144/1/ci6c02144_0006.png?Expires=2147483647&amp;amp;Signature=OiN9UYF2ENrIVxTIw48V0lomMu9vSxYA2dDwuWSg9JD0J9IFJyyt5Ro361BZJwkwJ5PzQVEBNbVf8rA39k3jVeBZF5-BblGNJE86zFaAIpCt9mK-vj77ri8-9RalV16cy6uYossyMPmql70IUKYM8mjQ1EKci173FTE~sQPDw2Or-1SDEGHt7Zh~O4FgT-s9mcU8tpImkBFZHn475xnadC8zM0CqyhFTLaUeBJKWqc4LlCAscMDkWW6ph~4AcIgJo5DiS6xN0GCtb-d-VNFZjz1tsEn7kbTOPqo4Gj5tO6zOeMUg8s55pQ7BIrVq38xJSTOrD7p9LVYWQNVrG2aX2Q__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="DeepMolVir: Learning Virtual Virus Representations
+for Sequence-Aware Virus–Inhibitor Activity Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The
+growing threat of emerging and drug-resistant viruses demands
+efficient approaches for predicting virus–inhibitor interactions.
+However, most existing computational models treat viruses as categorical
+identifiers and fail to capture sequence-level biological information.
+Here, we assembled a data set of 50,711 compound–virus activity
+pairs spanning 178 viral species and explored protein language models
+as a strategy for viral representation learning. Using embeddings
+generated by ESMC-600M, we introduce a virtual virus representation
+in which viruses are encoded as sequence-derived biological entities
+rather than as taxonomic labels. These viral representations are integrated
+with molecular features to model compound–virus interactions.
+In extensive 5-fold cross-validation, DeepMolVir demonstrated strong
+predictive performance, achieving an AUC of 0.8653 and an RMSE of
+0.9480. Notably, virtual virus representations consistently outperformed
+conventional taxonomy-based encodings, while ablation studies highlighted
+viral sequence information as a key contributor to the model performance.
+Case studies on Nipah virus and hantaviruses further demonstrated
+the ability of DeepMolVir to identify candidate antiviral scaffolds
+and support cross-family drug repurposing. Collectively, our findings
+establish protein-language-model-based viral representation learning
+as an effective strategy for sequence-aware antiviral activity prediction
+and provide a foundation for computational antiviral discovery. Code
+and data are available at GitHub: https://github.com/Sunny-RPX/DeepMolVir.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Predicting CYP450
+Induction and PXR Activation with
+Machine Learning Approaches: Challenges and Opportunities</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03598/5461649/Predicting-CYP450-Induction-and-PXR-Activation</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03598</guid>
+<pubDate>Fri, 30 Oct 2026 15:00:40 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03598/1/ci6c03598_0004.png?Expires=2147483647&amp;amp;Signature=pDsz~6xVW3ON5VVXBDMrRoxt2Omp7xXzS1RIO9OCUXKrYuEWUgAMXLcjTRaboRSXXJA6Z496yzi4ZTa9csCEgItId8m25JGgTq3HQiHCUnN~DFNM8Y~Bp7bTQy572c9kAPbeDxYr74v9uC6oppUX96D0RyY3QtpZshgK5KyqcJrkwPwVwCQVZg64VUDhHyfSKCVS8yDwWPJPcOWHiqVQKZsvVYrYHpWlSBkmFT8CGQqdnzFuIDwrziIxCWVJNhOFha71IE4rK30q7gml13qJvTEcsGDYRaN4WoH-4V8UfQ13GIGVjVBs5OrjSIs2tGA0kbo-k-1nWzczEh~XuR7LJQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Predicting CYP450
+Induction and PXR Activation with
+Machine Learning Approaches: Challenges and Opportunities" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Many drugs increase the activity of cytochrome P450 (CYP450)
+enzymes,
+an effect known as induction, which is a major cause of harmful drug–drug
+interactions (DDIs). Predicting induction from chemical structure
+would help identify DDI risks early in compound development. Yet,
+unlike many other drug properties, CYP450 induction is rarely modeled,
+because the data needed to train models are scarce and expensive to
+produce. Using an industry-scale data set covering induction of three
+CYP450 enzymes (CYP3A4, CYP2B6, CYP1A2) and PXR activation, we benchmark
+four machine learning models across six molecular representations
+and compare performance against models trained on a curated public
+data set. On the internal data, the best models separated inducers
+from noninducers moderately well (MCC 0.35–0.46) but could
+not predict the magnitude of induction. Almost no model or representation
+performed significantly better than the others, pointing to the data
+rather than the method as the limiting factor. The same pattern was
+observed for public data, where a large public PXR set reached this
+range, whereas a small, heterogeneous public CYP3A4 set failed where
+the data are scarcer and noisier. We then show that the shared biology
+of these end points carries a usable signal. A model trained on one
+end point partly predicted the others, and this transfer followed
+the known regulatory relationships between PXR and the CYP450 enzymes.
+Hence, these biological links can serve as useful inductive biases
+for future models. Finally, we found that the models we trained are
+already reasonably well calibrated, which, combined with their classification
+performance, makes them useful for prioritizing compounds that are
+within the applicability domain of the models.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Reinforcement Learning
+for Aligning Structure-Based
+Molecular Generation toward Make-on-Demand Chemical Spaces</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02532/5461572/Reinforcement-Learning-for-Aligning-Structure</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02532</guid>
+<pubDate>Fri, 30 Oct 2026 13:00:43 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02532/1/ci6c02532_0004.png?Expires=2147483647&amp;amp;Signature=JWpxhq~P5NKQP4jA-xG73JYkO-sI5-Tq~GuBnFZutgoTEc2gzH9ztxMzwdjjno3fd~xTSehhxvOepV-K4RWz4xLOg4GFRU7m4XpsczAQf14AOSq8RgWphgoQxtF1OwzrB5ls8FnQ61XwCWpXHVDrK6MVszkoEEsJlskQFaP3Vwk7dO5~KIw2V-F94KuMRFX-TF4cnypCuCcgxlT1oz0-NtHqKmY22fB4AaGPy6KyCjx3TosmyP8bVfN9Mqm7FC8065sJdar3-wJNihQ6ySS2~RaJRBOLpKlGEX2Z7ZY06wdxMjSvWEZd-odBKtKKUkho2cuJlbFa1iQ-zlRb-J2h7w__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Reinforcement Learning
+for Aligning Structure-Based
+Molecular Generation toward Make-on-Demand Chemical Spaces" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Generative models for structure-based drug design have
+strong potential
+to accelerate early-stage drug discovery by enabling the conditional
+generation of target-specific molecules. However, a major bottleneck
+is that generated compounds are frequently difficult or impossible
+to synthesize, limiting their direct experimental validation and utility.
+We address this by optimizing for membership in make-on-demand chemical
+libraries, ensuring that generated molecules can be directly purchased
+and tested. To this end, we apply reinforcement learning to a pocket-conditioned
+generative molecular model, steering generated molecules toward two
+large make-on-demand spaces: Enamine REAL and Freedom 4.0. We compare
+an offline, preference-based strategy (direct preference optimization,
+DPO) and an online RL strategy (DiffusionNFT) across single-target
+and multi-target settings. In single-target optimization for KRAS,
+the fraction of unique purchasable candidates rises from 10.0% to
+25.5% for Enamine REAL and from 4.3% to 12.1% for Freedom 4.0, while
+drug-likeness and docking-based affinity proxies are preserved. In
+multi-target optimization, DPO achieves consistent improvements across
+diverse protein targets, including a 23-fold increase for the challenging
+CDK4 pocket. These results demonstrate that RL alignment can substantially
+improve the experimental accessibility of SBDD candidates without
+sacrificing structural or chemical quality.&lt;/span&gt;</description>
+</item>
+<item>
+<title>RAVEN: Frozen Random Graph Reservoirs with Physics-Informed
+Interaction Fingerprints for Protein–Ligand Binding Affinity
+Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02897/5461567/RAVEN-Frozen-Random-Graph-Reservoirs-with-Physics</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02897</guid>
+<pubDate>Fri, 30 Oct 2026 12:00:40 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02897/1/ci6c02897_0006.png?Expires=2147483647&amp;amp;Signature=cMBOdPBnmlE5dnc509Feu4U88az2Hetv8U4VenoD35aoaTn6pp7QoORSxIGKRsLwQ2f5HGodFGLiVHhSwKUT0-QqiKWcgJPKeUAKwP4qdfNM52sgXqJ7KW6xy4PO1ztuRZJy-eqgdlWtDnoFXG4rx7iqAX7DS0RkosFrQIA2Jih-DszYOQfDh71YG07ifZHfB8SE51ptCv2GpI5xEFSereibHODi2arH7a27CmYc0iHGixvj80yuLMPlPheXc7K19XLX3ruaEaLRxkWCq0oD4ZFwmZuVl8sSXB72YHhOaEqJL4aSIAVbjkOZnb9-BLCKIEOQ1aYx3zg3uwuP2z~BcQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="RAVEN: Frozen Random Graph Reservoirs with Physics-Informed
+Interaction Fingerprints for Protein–Ligand Binding Affinity
+Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predicting
+protein–ligand binding affinity directly from
+three-dimensional complex structures remains challenging because available
+structure–affinity data are limited, heterogeneous, and highly
+susceptible to similarity-driven data set bias. Most graph-learning
+approaches address this problem by optimizing molecular representations
+end-to-end against affinity labels, potentially coupling representation
+learning to data set-specific correlations. Here, we introduce RAVEN
+(Randomized Atomistic Views with Ensemble Neural Reservoirs), a different
+learning paradigm in which multiple independently initialized atomistic
+graph neural networks are used as fully frozen reservoirs of nonlinear
+structural representations. Rather than adapting the graph encoders
+to affinity labels, RAVEN samples multiple independently initialized
+structural views from the initialization-induced representation space
+and integrates them with deterministic, physics-informed interaction
+fingerprints. Heterogeneous neural and tree-based readers then exploit
+these representations, followed by validation-based nonnegative fusion.
+On a similarity-isolated PDBbind 2020R1 benchmark reconstructed using
+GEMS similarity criteria, RAVEN achieved a Pearson correlation of
+0.8005 and an RMSE of 1.2346 p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt; units on the held-out
+test set, and a Pearson correlation of 0.8415 on the protected CASF-2016
+subset. Ablation analyses further show that increasing the number
+of frozen graph views generally improves the predictive utility of
+the structure-only representation, whereas physics-informed tree-based
+readers exhibit distinct residual patterns that enhance heterogeneous
+model fusion. These results demonstrate that competitive protein–ligand
+affinity prediction does not require end-to-end optimization of every
+representation component and establish frozen randomized graph reservoirs
+as a modular strategy for combining structural diversity, physical
+priors, and complementary inductive biases in molecular prediction.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Instance-Wise Contrastive
+Graph Neural Network Enables
+the Discovery of Novel  Aedes aegypti  Larvicidal Compounds</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02558/5461380/Instance-Wise-Contrastive-Graph-Neural-Network</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02558</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:42 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02558/1/ci6c02558_0006.png?Expires=2147483647&amp;amp;Signature=wRGrUyvpBuNx2XFBcD50FM5fQxlCCUtUHbC6egKF0ABdy07bsdLxF017MsGxUjKf5uwGbh3becCstiBv9lzPK6hAQw8im~7QPij3F~ebnTfXFpBqGqahvhCW2bqd5Cz-pL4DyC7QZhsoXrQHaC5zEMkwJBgO-HPpJuv~NnIOF6COCs5a~0D0YJJxfK40zcPiHeKIZ~ZvtgoxtQWFKgriPTDdMhIQ4ahjg-66Y5NE2XeDEYNZPhP7RCqOk0O~w82ZqxLBgTMSA9z8zCny4zvGVKYFuRaahwbNrMeGbtr03WF8aErcXB6K5l6u1S~KFwOkVCpd-m0ANxb-zekBQMTPIw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Instance-Wise Contrastive
+Graph Neural Network Enables
+the Discovery of Novel  Aedes aegypti  Larvicidal Compounds" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;Aedes aegypti&lt;/span&gt; remains
+a major arboviral
+vector, making larval control a critical strategy to reduce mosquito
+populations. However, resistance to commercial larvicides has reduced
+the long-term effectiveness of current interventions, reinforcing
+the need for new compounds with improved potency and selectivity.
+Here, we present an instance-wise contrastive graph neural network
+(GNN) framework to accelerate the discovery of novel larvicidal compounds.
+The model was trained on a curated data set of 556 organic compounds
+organized into LC&lt;sub&gt;50&lt;/sub&gt;-derived multitask classification thresholds
+and integrated Transformer-inspired graph learning with whole-molecule
+and fragment-level contrastive regularization. This model achieved
+strong held-out performance, with global AUC = 0.95 ± 0.01, PR-AUC
+= 0.93 ± 0.01, MCC = 0.77 ± 0.03, and G-mean = 0.88 ±
+0.02, outperforming conventional machine learning and graph-based
+baselines. Predictive uncertainty analysis and counterfactual maps
+further supported the interpretation of threshold-sensitive predictions
+and substructural contribution patterns. The model was applied to
+screen 1.3 million compounds, resulting in 10 candidates for experimental
+validation. Three compounds showed measurable larvicidal activity
+against &lt;span style="font-style:italic;"&gt;A. aegypti&lt;/span&gt; larvae. Among them, &lt;strong&gt;LC-79&lt;/strong&gt; emerged as the most promising hit, with 2-day and 5-day
+LC&lt;sub&gt;50&lt;/sub&gt; values of 0.24 μg/mL (0.66 μM) and 0.05
+μg/mL (0.13 μM), respectively, an IE&lt;sub&gt;50&lt;/sub&gt; of 0.06
+μg/mL (0.16 μM), and rapid larval mortality (LT&lt;sub&gt;50&lt;/sub&gt; = 1.10 days at 1 μg/mL). &lt;strong&gt;LC-79&lt;/strong&gt; also showed no
+measurable acute toxicity to &lt;span style="font-style:italic;"&gt;Daphnia magna&lt;/span&gt; at the highest tested concentration [EC&lt;sub&gt;50–48h&lt;/sub&gt; &amp;gt;
+43 μg/mL (&amp;gt; 119 μM)], resulting in selectivity indices
+&amp;gt; 180 and &amp;gt; 860 relative to its 2-day and 5-day LC&lt;sub&gt;50&lt;/sub&gt; values.
+Overall, this study demonstrates that contrastive graph learning can
+move beyond retrospective larvicide modeling to experimentally validated
+hit discovery, identifying &lt;strong&gt;LC-79&lt;/strong&gt; as a potent and preliminarily
+selective acylthiourea larvicide candidate for further mechanism-of-action,
+resistance, and semifield evaluation.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Rule-Defined Multitopology
 PEG Ligand Library for
 Virtual Screening</title>
@@ -3942,254 +4226,6 @@ performance compared to state-of-the-art computational methods across
 multiple benchmark data sets and delivers strong results on an independent
 benchmark for virtual screening, indicating its potential for generalization
 and practical utility. The source code can be obtained at https://github.com/CSUBioGroup/MultiRankDTA.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Graph-to-Graph
-Inverse Design of Surfactants under
-Multiobjective and Structural Constraints</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02137/5438519/Graph-to-Graph-Inverse-Design-of-Surfactants-under</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02137</guid>
-<pubDate>Fri, 25 Sep 2026 13:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02137/5438519/Graph-to-Graph-Inverse-Design-of-Surfactants-under"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02137/1/m_ci6c02137_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Rapid,
-sustainable redesign of large functional molecules
-requires
-efficient exploration of vast chemical spaces subject to multiple
-properties and constraints. Graph neural networks have shown strong
-performance in molecular property prediction, yet their use for inverse
-design remains relatively underexplored. Meanwhile, chemical language
-transformers capable of learning long-range relationships have emerged
-as a competing paradigm. To address this gap, we propose a novel motif-based
-graph-to-graph framework for the inverse design of surfactants, in
-which latent representations are optimized to meet target specifications.
-We demonstrate the framework on a challenging and industrially relevant
-problem, targeting the critical micelle concentration (CMC), the air–water
-surface tension at CMC, and the maximum surface excess concentration,
-while considering constraints on surfactant classes and compatibility
-between amphiphiles and counterions. We observed that our framework
-could accurately target multiple properties with greater accuracy
-than surfactant-property models from the literature. Additionally,
-compared with our previously proposed SMILES-based transformer, the
-graph-to-graph framework significantly improves prediction accuracy
-and inverse design validity and expands the diversity of generated
-surfactant classes. Overall, these results establish the motif-based
-graph-to-graph framework as a more accurate, chemically expressive,
-and industrially applicable technology for the multiobjective inverse
-design of large functional molecules.&lt;/span&gt;</description>
-</item>
-<item>
-<title>CSoM Software: Continuous Symmetry Operation Measure
-for Point Group Symmetry Determination of Atomic Coordinates</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02312/5438408/CSoM-Software-Continuous-Symmetry-Operation</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02312</guid>
-<pubDate>Fri, 25 Sep 2026 12:00:36 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02312/5438408/CSoM-Software-Continuous-Symmetry-Operation"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02312/1/m_ci6c02312_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Symmetry
-is a determining characteristic for molecules and materials
-that determines the electronic properties. Thus, the symmetry of a
-set of atoms, whether in a material or a molecule, should be determined.
-The CSoM software aligns a set of atoms according to a point group
-and reports the deviation from ideal symmetry as a CSoM value: σ&lt;sub&gt;sym&lt;/sub&gt;(&lt;span style="font-style:italic;"&gt;Q&lt;/span&gt;,&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;). Previously, using
-the CSoM software required programming expertise. Here we report and
-describe an online version of the CSoM software that is freely available
-and able to determine the symmetry, or lack of symmetry, for any set
-of atoms with less than 1000 members. CSoM takes the identity and
-the position of every single atom into account, which we demonstrate
-for three different materials: a mineral, a hydrogen-bonded dimer,
-and a polyoxometalate containing an advanced molecular material. Following
-the guides herein, everybody is able to measure the symmetry of all
-computed or synthesized compounds.&lt;/span&gt;</description>
-</item>
-<item>
-<title>MARS-RNA: An Automated Pipeline for Correlating RNA
-Molecular Dynamics Trajectories with Chemical Probing Data</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03140/5438311/MARS-RNA-An-Automated-Pipeline-for-Correlating-RNA</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c03140</guid>
-<pubDate>Fri, 25 Sep 2026 10:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03140/5438311/MARS-RNA-An-Automated-Pipeline-for-Correlating-RNA"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03140/1/m_ci6c03140_0002.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ribonucleic acid
-(RNA) molecules fold into complex, highly dynamic
-three-dimensional conformational structures that govern their biological
-activities. Chemical probing methods, such as SHAPE (selective 2′-hydroxyl
-acylation analyzed by primer extension), provide structural insights
-in the form of one-dimensional (1D) nucleotide reactivity profiles.
-However, mapping these one-dimensional profiles back to the underlying
-dynamic structures remains a key challenge, as traditional analyses
-rely on a static view based on three-dimensional (3D) high-resolution
-structures from X-ray crystallography or nuclear magnetic resonance,
-rather than accounting for the dynamic nature of the system. In this
-Application Note, we introduce MARS-RNA (Molecular
-dynamics  Analysis for Reactivity and Structure), an automated pipeline
-that extracts and integrates multiscale structural and geometric features
-from RNA Molecular Dynamics (MD) trajectories, combining them with
-secondary (2D) and 3D annotations from X3DNA-DSSR to identify features
-that correlate with experimental reactivity. MARS-RNA processes raw GROMACS trajectories, performs frame-by-frame structural
-annotation, calculates spatial centroids and physical distance fluctuations,
-computes Pearson/Spearman correlation coefficients against SHAPE data,
-and preprocesses results for machine learning pipelines. We show its
-value on the RNA 3′-UTR (PDB ID: &lt;a href="1AUD"&gt;1AUD&lt;/a&gt;, chain A), by highlighting several single
-correlation with SHAPE reactivity.&lt;/span&gt;</description>
-</item>
-<item>
-<title>A Chemical Foundation
-Model Benchmark for PFAS Bioactivity
-Prediction: Multi-Task Fine-Tuning Beats Fingerprint Baselines, PFAS
-Domain Pretraining Does Not Help</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02202/5438022/A-Chemical-Foundation-Model-Benchmark-for-PFAS</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02202</guid>
-<pubDate>Thu, 24 Sep 2026 21:00:43 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02202/5438022/A-Chemical-Foundation-Model-Benchmark-for-PFAS"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02202/1/m_ci6c02202_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Per- and polyfluoroalkyl substances (PFAS) comprise more
-than 21,000
-chemicals, yet fewer than 1.3% have any experimental bioactivity measurement,
-making structure-based hazard prediction the gating problem for prioritizing
-the untested majority. Existing PFAS models are single-task and rarely
-evaluated under leakage-aware cross-validation. We present the first
-multitask chemical foundation-model benchmark for PFAS bioactivity,
-fine-tuning off-the-shelf MolFormer-XL with 156 ToxCast classification
-heads under Tanimoto-Butina cluster-out cross-validation, which is
-appropriate because 89% of PFAS have empty Murcko scaffolds. The model
-reaches macro AUROC 0.764, beating a Morgan-fingerprint XGBoost baseline
-by +0.18 and winning on 155 of 156 end points. That baseline is, however,
-partly degenerate: binary Morgan fingerprints map a quarter of the
-compounds onto identical vectors, and sweeping eight 1&lt;span style="font-style:italic;"&gt;D&lt;/span&gt;/2D/3D representations on the same folds raises the best classical
-model to 0.688, so the margin properly attributable to the foundation
-model is +0.076. A matched factorial ablation shows that backbone
-fine-tuning and multitask learning are synergistic: multitask learning
-helps only once the backbone is fine-tuned (+0.08). This interaction
-is backbone- and task-dependent: it reproduces on Tox21 for two backbones
-but is absent for ChemBERTa-2 on PFAS, and label-free encoder diagnostics
-show this is not because ChemBERTa-2 represents PFAS poorly, so static
-representation quality does not predict postfine-tuning performance.
-PFAS-specific domain-adaptation pretraining gives no detectable improvement
-(Δ = – 0.01 to – 0.03). Mondrian-by-class conformal
-calibration improves rare-active-class coverage from 0.36 to 0.78,
-and an applicability-domain analysis shows only 26% of untested PFAS
-lie close enough to the training set for the model to be applied without
-caveat. The representation also transfers to soil-water partitioning
-(&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;d&lt;/sub&gt;) regression, where it holds at Spearman
-ρ = 0.75 even on PFAS chemistries absent from training while
-the fingerprint baselines collapse.&lt;/span&gt;</description>
-</item>
-<item>
-<title>DeepKa Protein
-p K  a  Database:
-Identifying pH Dependence in the Protein Data Bank</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01937/5437802/DeepKa-Protein-pKa-Database-Identifying-pH</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01937</guid>
-<pubDate>Thu, 24 Sep 2026 15:00:45 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01937/5437802/DeepKa-Protein-pKa-Database-Identifying-pH"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01937/1/m_ci6c01937_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;pH plays a central role in many biological events. To
-explore the
-underlying molecular mechanisms, it is of importance to determine
-p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; values of ionizable residues in proteins.
-In this work, DeepKa, a deep learning-based protein p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; predictor, was employed to create the p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; database DeepKa DB (http://computbiophys.com/DeepKa/database), which contains p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; data of over 30
-million residues in about 200 thousand soluble proteins. The database
-has been integrated into the existing DeepKa web server, from which
-users can obtain the data of interest freely. In addition to the data
-presentation, four representative case studies were set up to demonstrate
-how p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt;’s extracted from the database
-could be applied to the investigation of pH-dependent processes in
-proteins.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Candidate Structure Prioritization in Non-Target Screening
-with Predicted Collision Cross-Sections and Uncertainty Quantification</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02492/5437770/Candidate-Structure-Prioritization-in-Non-Target</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02492</guid>
-<pubDate>Thu, 24 Sep 2026 13:00:50 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02492/5437770/Candidate-Structure-Prioritization-in-Non-Target"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02492/3/m_ci6c02492_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Candidate structure
-prioritization in non-target screening (NTS) can be
-performed using collision cross-sections (CCSs) predicted by a machine-learning (ML) model, with
-a threshold on the relative difference between measured and &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; CCSs. Such thresholds generally are heuristic
-and lack a statistical foundation. In this context, we have constructed
-a conformal predictive system to quantify the uncertainty of the ML-predicted
-CCSs and provide guarantees on the minimum percentage of prioritized
-true structures among the candidate lists of the NTS features detected
-in a sample. The system is designed as a wrapper around the open-source
-ML model GraphCCS and can, in principle, be combined with any CCS
-model. Additionally, we propose the detection of the applicability
-domain of the conformal predictive system based on maximum common-edge subgraph (MCES) molecular distances. We showcase the
-application of our tool to two independent &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; NTS datasets. Results on the two tested external datasets suggest
-that applicability domain detection based on the MCES distance allows
-to maintain the guarantees on the minimum percentage of true structures
-prioritized. In terms of candidate structure prioritization performance,
-on average ∼16% of incorrect candidates could be deprioritized
-while retaining 90% of all true structures. Although this constitutes
-a modest 8% improvement over random prioritization, our tool additionally
-offers adaptivity of removal efficiency to the difficulty of the NTS
-candidates based on quantified uncertainty. Furthermore, the framework
-can potentially be combined with other analytical properties to improve
-candidate structure prioritization in NTS.&lt;/span&gt;</description>
-</item>
-<item>
-<title>AGENTi: APCI-ESI
-Analyte Ionization Fidelity Pre-Screening
-Workflow using Multimodel Inference</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01085/5437769/AGENTi-APCI-ESI-Analyte-Ionization-Fidelity-Pre</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01085</guid>
-<pubDate>Thu, 24 Sep 2026 13:00:50 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01085/5437769/AGENTi-APCI-ESI-Analyte-Ionization-Fidelity-Pre"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01085/1/m_ci6c01085_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ionization sources convert neutral analytes into ions,
-enabling
-their subsequent separation and detection by mass spectrometry. Depending
-on the technique, this mechanism occurs within a solution or in the
-gas phase. The two most common methods to generate ions are electrospray
-ionization (ESI) and atmospheric-pressure chemical ionization (APCI),
-respectively. Both ESI and APCI can generate the same resultant ion
-species; however, it has been shown that preferential charge sites
-can change in response to an ionization source environment. Therefore,
-an additional quality control is warranted &lt;span style="font-style:italic;"&gt;a priori&lt;/span&gt; to delineate erroneous analyte identification and/or unequivocal
-structural assignment. For protonation, protomer fidelity can be assessed
-by comparing the ion-mobility collision cross section (CCS) values
-obtained for both ESI and APCI. In this work, we utilized proxy standards
-(i.e., controls) derived from the available literature to develop
-a proof-of-concept multimodel inference application called AGENTi
-to probe differences in ionization for high-throughput protomer shift
-exploratory analysis. AGENTi uses in sequence the TensorFlow Autoencoder
-anomaly detection and the YDF Gradient Boosted Tree machine learning
-frameworks to generate more balanced and robust anomaly scores. We
-found that using a multimodel screening approach can reduce false
-positive capture at an acceptable loss of true positives. Moreover,
-we expect to achieve a better recovery of true positives with an improvement
-on the current Gradient Boosted Tree regression model for ΔCCS
-prediction as more ESI-APCI dual data are obtained for training. In
-all, we demonstrated in this pilot study that our foundation model
-for &lt;span style="font-style:italic;"&gt;a priori&lt;/span&gt; probing of ionization pathway fidelity
-is feasible and efficient with AGENTi. The AGENTi prototype application
-and documentation are accessible at https://github.com/mitkeng/AGENTi.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Targeting the “Undruggable”
-STAT3 DBD:
-Free-Energy Perturbation-Guided Design of Covalent Micheliolide Derivatives
-Targeting Cysteine 367</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03067/5437355/Targeting-the-Undruggable-STAT3-DBD-Free-Energy</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c03067</guid>
-<pubDate>Thu, 24 Sep 2026 07:00:51 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03067/5437355/Targeting-the-Undruggable-STAT3-DBD-Free-Energy"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03067/1/m_ci6c03067_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Pancreatic cancer remains a highly lethal malignancy,
-largely due
-to persistent STAT3 signaling that sustains cancer stem cells (CSCs)
-and drives therapeutic resistance. Conventional inhibitors targeting
-the conserved SH2 domain of STAT3 have exhibited limited selectivity
-and efficacy. Here, we report that micheliolide (MCL), the active
-metabolite of the clinical-stage candidate ACT001, inhibits STAT3
-through Cys367 (C367)-dependent covalent engagement within the DNA-binding
-domain (DBD)–a residue unique to STAT3 among STAT family members.
-This specific modification disrupts STAT3 phosphorylation at Tyr705,
-nuclear translocation, and transcriptional activity prior to any detectable
-inhibition of upstream JAK phosphorylation, a finding that suggests
-that STAT3 inhibition is not primarily driven by upstream kinase blockade.
-Guided by covalent docking, R-group enumeration, and relative binding
-free-energy calculations via free-energy perturbation (FEP), we have
-designed and synthesized a series of MCL analogs. These derivatives
-retain comparable antiproliferative potency but exhibit markedly improved
-physicochemical properties, including enhanced kinetic aqueous solubility
-and optimized lipophilicity. Microscale thermophoresis confirms C367-dependent
-binding, while microsecond-scale molecular dynamics simulations and
-pair-interaction energy analyses highlight stable complexes in which
-electrostatic interactions predominate, with major contributions from
-key residues (Lys365, Val366, and Ile368). This study establishes
-C367 as a druggable covalent site in the historically challenging
-STAT3 DBD, validates FEP-guided optimization of covalent inhibitors,
-and identifies compound &lt;strong&gt;16&lt;/strong&gt; as a promising next-generation
-lead with a superior drug-like profile for targeting STAT3-dependent
-cancers. All in all, these findings provide a foundation for advancing
-selective STAT3 DBD inhibitors toward clinical translation.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
