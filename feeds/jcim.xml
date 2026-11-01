@@ -5,6 +5,40 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Deciphering the Filamentous Organization of Human
+Liver Phosphofructokinase-1 through Highly-Coarse-Grained Modeling</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02577/5461857/Deciphering-the-Filamentous-Organization-of-Human</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02577</guid>
+<pubDate>Sat, 31 Oct 2026 14:00:48 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02577/1/m_ci6c02577_0008.png?Expires=2147483647&amp;amp;Signature=cg5dHHTcpIY4w8KpbdxDATxVZ-EAHvldIupblfrLPf86DSmV4nu~RRc8XhoOPFMMRaqMMkRN-pP7wF4Vpoyu53JLT7pxLEEdGmf8gsJH1RVhuixdGOnH2ap9PaDgfQAeJBtiK4cw34ebIEGmE4Zf19HfLw9DJbbJvV6fvQpumw8277uGZSu-i-lTnNblp2ZLKqyTMfKEY~F8gfaK3duZi2FdrMqvqWLX9SU4JFeknhx3TnuWatr50uwarS78E7TTJ216skPayq2PETzjUj3U9qVA7ygR7lWT0MSh8lM9fetTmIkarBhOsxqsbmY1GYHAsZpjqIcrzHw3k3HGFQuLwg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Deciphering the Filamentous Organization of Human
+Liver Phosphofructokinase-1 through Highly-Coarse-Grained Modeling" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Enzyme filamentation
+is an increasingly recognized mode of metabolic
+regulation and spatial organization, yet the relationship between
+filament-forming interactions, assembly morphology, and potential
+function remains insufficiently understood. Phosphofructokinase-1
+(PFK1), a key glycolytic enzyme, provides a prominent example: its
+liver isoform, PFKL, forms higher-order filamentous assemblies with
+distinct experimentally resolved interaction modes. Here, we develop
+a shape-based rigid-body model of human PFKL tetramers with explicit
+interaction sites derived from these filament-forming interfaces.
+The model preserves the overall tetramer geometry while remaining
+sufficiently coarse-grained to simulate the collective assembly and
+organization of many PFKL tetramers. We use this framework to determine
+how the relative strengths of the Interface 1–Interface 1 and
+Interface 1–Interface 2 interaction modes influence filament
+formation and emergent assembly morphology. We further examine how
+an attractive membrane-like surface alters PFKL organization and how
+filament formation affects the spatial colocalization of generic client
+proteins representing potential components of glycolytic assemblies.
+The simulations reveal how protein shape, interface specificity, surface
+association, client size, and interaction strength influence higher-order
+organization. Together, these results establish a structure-informed
+framework for connecting experimentally defined enzyme interfaces
+to mesoscale assembly. This framework provides a computationally tractable
+approach for investigating enzyme filament formation and membrane-associated
+protein organization.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Spatially Resolved
 Transcriptomic Correlation Improves
 the Prediction of Anticancer Drug Candidates</title>
@@ -4196,36 +4230,6 @@ and were treated as exploratory. These results support UTR-FNex as
 a multimodal prioritization framework while defining important limits
 in cross-gene and cross-source generalization. Source code is available
 at https://github.com/liyaning233/UTR-FNex, and MetaUTR is deposited at &lt;a href="https://doi.org/10.5281/zenodo.19719670"&gt;10.5281/zenodo.19719670&lt;/a&gt;.&lt;/span&gt;</description>
-</item>
-<item>
-<title>MultiRankDTA: A
-Hybrid Ranking Framework for Robust
-and Generalizable Drug-Target Affinity Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00799/5439704/MultiRankDTA-A-Hybrid-Ranking-Framework-for-Robust</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00799</guid>
-<pubDate>Mon, 28 Sep 2026 08:00:45 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00799/5439704/MultiRankDTA-A-Hybrid-Ranking-Framework-for-Robust"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00799/1/m_ci6c00799_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predicting drug-target affinity (DTA)
-is essential for
-screening
-candidate compounds in early-stage drug discovery. However, most existing
-computational methods formulate DTA prediction as a regression task,
-leading to an objective mismatch with the practical need to rank and
-prioritize candidate compounds based on their relative binding strengths.
-Moreover, existing ranking-based methods often adopt a fixed ranking
-objective or scoring function, which may limit their flexibility when
-they are applied to diverse drug-target interaction scenarios. To
-address these challenges, we propose MultiRankDTA, a novel framework
-that formulates DTA prediction as a multilevel ranking task to better
-align with the practical goal of drug screening. By integrating pointwise,
-pairwise, and listwise ranking strategies through a mixture-of-experts
-(MoE) module, MultiRankDTA enables dynamic and adaptive compound prioritization.
-Furthermore, we introduce a fusion network to reduce data set-specific
-biases by leveraging auxiliary supervision from multiple sources.
-Extensive experiments demonstrate that MultiRankDTA achieves superior
-performance compared to state-of-the-art computational methods across
-multiple benchmark data sets and delivers strong results on an independent
-benchmark for virtual screening, indicating its potential for generalization
-and practical utility. The source code can be obtained at https://github.com/CSUBioGroup/MultiRankDTA.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
