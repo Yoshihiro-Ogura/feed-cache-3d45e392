@@ -61,6 +61,13 @@
 <description>&lt;p&gt;Nature Communications, Published online: 02 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78991-y"&gt;doi:10.1038/s41467-026-78991-y&lt;/a&gt;&lt;/p&gt;Molecular crystals with luminescent properties are desirable, but tuning of properties within one system is challenging. Here, the authors report crystals with photoinduced red emission and room temperature phosphorescence regulated by polymorph modulation.</description>
 </item>
 <item>
+<title>Building a pre-trained model for single-cell multi-omics analysis beyond highly variable feature selection</title>
+<link>https://www.nature.com/articles/s41467-026-78933-8</link>
+<guid>10.1038/s41467-026-78933-8</guid>
+<pubDate>2026-11-02</pubDate>
+<description>&lt;p&gt;Nature Communications, Published online: 02 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78933-8"&gt;doi:10.1038/s41467-026-78933-8&lt;/a&gt;&lt;/p&gt;The authors present scPMMI, a pre-trained model that learns from multiple types of molecular data in individual cells. They show that this method captures signals beyond highly variable features and supports diverse multi-omics analysis tasks.</description>
+</item>
+<item>
 <title>Li&lt;sup&gt;+&lt;/sup&gt;-locked domain effect for breaking the temperature stability bottleneck in thermal-detection high-entropy energy storage ceramics</title>
 <link>https://www.nature.com/articles/s41467-026-79179-0</link>
 <guid>10.1038/s41467-026-79179-0</guid>
@@ -1046,13 +1053,6 @@
 <guid>10.1038/s41467-026-78749-6</guid>
 <pubDate>2026-10-19</pubDate>
 <description>&lt;p&gt;Nature Communications, Published online: 19 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78749-6"&gt;doi:10.1038/s41467-026-78749-6&lt;/a&gt;&lt;/p&gt;Author Correction: Climate heterogeneity enhances macroclimate data-driven vegetation modeling on the Qinghai-Tibet Plateau</description>
-</item>
-<item>
-<title>Author Correction: Twinned-magnesium metal negative electrodes enable reversible magnesium electrodeposition</title>
-<link>https://www.nature.com/articles/s41467-026-78751-y</link>
-<guid>10.1038/s41467-026-78751-y</guid>
-<pubDate>2026-10-19</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 19 October 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78751-y"&gt;doi:10.1038/s41467-026-78751-y&lt;/a&gt;&lt;/p&gt;Author Correction: Twinned-magnesium metal negative electrodes enable reversible magnesium electrodeposition</description>
 </item>
 </channel>
 </rss>
