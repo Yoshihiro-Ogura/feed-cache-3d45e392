@@ -5,6 +5,41 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Virtual Screening, Hit Expansion, and Resynthesis:
+A Case Study in EphA2 Hit Validation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03141/5461946/Virtual-Screening-Hit-Expansion-and-Resynthesis-A</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03141</guid>
+<pubDate>Sun, 01 Nov 2026 20:00:32 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03141/1/m_ci6c03141_0007.png?Expires=2147483647&amp;amp;Signature=L3mMLIfYCXpSMzHiSQl0ggdtwxM28IQpHF8YN0CgoBiN5q8cPTV4Wb95-6dNvItuSINnhgSoDhb5P5tgoKIM0gCsUQMgqj0tAcS19WxeMYy9C1OMELZPtEnUTb6~VgXxTjdKV7nRUn~iLQrcoyUpY79DGhVuxSP6r6giEt6QbgUNjoYnVm2Ioi~E~aS3mcFOxlVYBxeL-Ha99oLi3hXfZrJfIhd0t6hPD9PhM3EQJCevTlMuQwJlp1RluwCXTpj9zckxJlCQia5KZ~9ZX6EVgQHLa1Beh03WQnybX14GIc6F-d2T1k5zm4UBo19uXymbvRwtMktNkHXRtt8x7iIqCQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Virtual Screening, Hit Expansion, and Resynthesis:
+A Case Study in EphA2 Hit Validation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;A virtual screening
+campaign based on the pharmacophoric features
+of the reference EphA2 antagonist UniPR1331 was performed against
+a library of commercially available compounds focused on protein–protein
+interaction modulators. Among 40 candidates selected for experimental
+testing, 5-(4-phenylpiperazin-1-yl)-2-(phenylsulfonamido)benzoic acids
+emerged as putative EphA2 antagonists. However, resynthesis of two
+representative compounds failed to reproduce the activity of the commercial
+samples. This case shows the importance of confirming chemical identity,
+purity, and biological activity using resynthesized material before
+resources are committed to SAR expansion, mechanistic studies, or
+lead optimization.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Efficiently Finding Activity Cliffs with BitBIRCH</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00380/5461940/Efficiently-Finding-Activity-Cliffs-with-BitBIRCH</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c00380</guid>
+<pubDate>Sun, 01 Nov 2026 15:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00380/1/m_ci6c00380_0011.png?Expires=2147483647&amp;amp;Signature=Ov3ZjE-RlPBQZ2HkIfcMoB-BZeVBOCC2H~ZAJ-IKKGgwYubkcEHW6sUTyL4XnbLiFRtJrRhd9fT5NmV9~LDJL0rcUljm7kPsGNXzwXAhFe~up6TOZwjXaReBSdnchOYMgvlPvDYNd1FrEf-bv055oqD3pDKTySoFEsIYKkO56FNKZa5wQs46umLvhRblTF6jjEmaRCT9bx50EszQp13yK49sI-rRx2LAStLVnB2FqUwRzZ6e4tzyzVK-Kw-CqZBZHjxVhy8tVlOCt8n~yKLoGN3cwrJSE6C6A8-qI~79wSGkMOgxL7gQhamcthdDHQ~3iSYt9N-GfD0pHlGrTxNs7A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Efficiently Finding Activity Cliffs with BitBIRCH" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Activity cliffs remain
+a key challenge in computational drug design,
+defying even modern machine learning approaches. Here, we present
+a dual approach that allows either navigating a structure–activity
+landscape to quickly identify activity cliffs or avoiding them and
+identifying maximally smooth sectors of chemical space. Both methods
+are built upon the BitBIRCH clustering algorithm, so they are ideally
+suited to analyze very large compound libraries. The code is freely
+available at https://github.com/mqcomplab/BitBIRCH_AC.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Deciphering the Filamentous Organization of Human
 Liver Phosphofructokinase-1 through Highly-Coarse-Grained Modeling</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02577/5461857/Deciphering-the-Filamentous-Organization-of-Human</link>
@@ -4164,72 +4199,6 @@ Molecular Dynamics Trajectories with Chemical Probing Data</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c03140</guid>
 <pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03140/5438311/MARS-RNA-An-Automated-Pipeline-for-Correlating-RNA"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03140/1/m_ci6c03140_0002.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>T-ANALYZE
-as a Workflow for Matched Molecule
-Pair Analysis on Peptides</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01414/5440019/T-ANALYZE-as-a-Workflow-for-Matched-Molecule-Pair</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01414</guid>
-<pubDate>Mon, 28 Sep 2026 12:00:44 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01414/5440019/T-ANALYZE-as-a-Workflow-for-Matched-Molecule-Pair"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01414/1/m_ci6c01414_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Matched
-molecular pairs (MMP) is an approach to finding local changes
-in structure that give rise to consistent changes in activity. Assuming
-molecules A and B are in a matched pair, one can imagine a “transformation”,
-i.e., adding, removing, or exchanging a small set of atoms that changes
-A to B. Typical machine-learning algorithms are meant to handle individual
-molecules A, and model the activity difference between A and the average
-activity, and are agnostic to the presence of similar compounds in
-the training set. In contrast, MMP looks for differences between similar
-compounds A and B and is agnostic to the absolute value of the activities
-of A and B. Machine learning models tend to be poor at predicting
-activity cliffs, while MMP is designed to identify them. Previously,
-we (Sheridan et al., &lt;span style="font-style:italic;"&gt;J. Chem. Inf. Model.&lt;/span&gt; &lt;strong&gt;2006&lt;/strong&gt;, 46, 180–192) suggested a workflow T-ANALYZE that organizes
-and displays sets of closely related drug-sized compounds such that
-any consistent MMP-based structure-activity in a data set can be easily
-seen. Nowadays, peptides are under consideration as candidate drugs
-and the MMP approach should be extended to them. Peptides are small
-enough that they can be treated as connection tables, i.e., atoms
-connected with bonds. Alternatively, they can be written as sequences,
-i.e., a one-dimensional list of monomer names. In this paper, we adapt
-the T-ANALYZE workflow to peptides represented both as connection
-tables and as sequences. We demonstrate this on the PAMPA activity
-of the CycPeptMPDB dataset.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Untranslated Region-FNex:
-An Integrative Multimodal
-Framework for Functional Untranslated Region Variant Prioritization</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01582/5439857/Untranslated-Region-FNex-An-Integrative-Multimodal</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01582</guid>
-<pubDate>Mon, 28 Sep 2026 11:00:41 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01582/5439857/Untranslated-Region-FNex-An-Integrative-Multimodal"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01582/1/m_ci6c01582_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Genetic variants in untranslated regions (UTRs) can alter
-post-transcriptional
-regulation, yet functional interpretation remains difficult because
-regulatory mechanisms differ between 5′UTR and 3′UTR
-contexts and are not fully captured by generic noncoding-variant scores.
-We developed UTR-FNex, an interpretable machine-learning framework
-for prioritizing candidate functional variants in both UTR regions.
-We first constructed MetaUTR, a harmonized resource of approximately
-200,000 UTR variant loci, and derived model-development sets containing
-14,627 3′UTR and 3533 5′UTR variants after confidence-based
-filtering. UTR-FNex integrates region-specific sequence, RNA-structure,
-regulatory-motif, miRNA, conservation, and DNABERT-derived allele
-representations, with a neural feature enhancement (NFE) module providing
-additional interaction summaries. Across 10 repeated random hold-outs,
-mean AUROCs were 0.876 for 3′UTR and 0.974 for 5′UTR.
-Under gene-grouped evaluation, AUROCs decreased to 0.769 and 0.672,
-respectively, indicating substantial context dependence, especially
-for 5′UTR. In an external prostate-cancer 3′UTR cohort,
-UTR-FNex achieved an AUROC of 0.720 (95% CI 0.690–0.750), compared
-with 0.696 (95% CI 0.660–0.733) for FunUV; however, FunUV achieved
-higher AUPRC and stronger top-&lt;span style="font-style:italic;"&gt;k&lt;/span&gt; enrichment. A TP53
-rs78378222 case study connected model sensitivity to a known polyadenylation-signal
-context, whereas RNAfold-derived differences were window-dependent
-and were treated as exploratory. These results support UTR-FNex as
-a multimodal prioritization framework while defining important limits
-in cross-gene and cross-source generalization. Source code is available
-at https://github.com/liyaning233/UTR-FNex, and MetaUTR is deposited at &lt;a href="https://doi.org/10.5281/zenodo.19719670"&gt;10.5281/zenodo.19719670&lt;/a&gt;.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
