@@ -5,6 +5,112 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Benchmarking Machine
+Learning Models for Viral Nanobody
+Epitope Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02430/5462537/Benchmarking-Machine-Learning-Models-for-Viral</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02430</guid>
+<pubDate>Tue, 03 Nov 2026 01:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02430/1/m_ci6c02430_0010.png?Expires=2147483647&amp;amp;Signature=qX1SJ7-Pt0EBcD78-hLDh2UxCPkheIoosbetSBcAzbHgbN0T9T6Mn9vhzRQpQytObTR-XSY7bpUApcn6p9GjNbmaXk7CI6xIGq4OU-W31sI5Z33axVD~Dzvrf74KYSqbWCOxxSEvQ25a0nJK0b8Qpwt1Plcji7fzWEC636Ty-99PjFZDbFYG9bQ8QSaE3DfabeFgDMLVn-u5W7dvbWrHFfzP5akx~8NVBJmkVk1lvsXkK8tKZOLHRRJhm4g-lQFhPdTdVrki2xGhL6s57Zg2QRLVTuLrdBJN1Y33QPH~HQ02pOnrzlvRxKwWBYZ-lk~uJFU7ZutgmpSnoZc7NYFBiA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Benchmarking Machine
+Learning Models for Viral Nanobody
+Epitope Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Rapid development of therapeutics against emerging viral
+pathogens
+increasingly depends on machine learning (ML), both to generate candidate
+binders and for structural validation. Nanobodies (Nbs), or single-domain
+antibodies, are promising antiviral therapeutics, but accurate &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; prediction of viral epitopes remains challenging.
+Here we benchmark three ML-based structure prediction models, Boltz-2,
+Chai-1 and AlphaFold3 (AF3), against a curated data set of viral antigen-nanobody
+complexes deposited after the AF3 training cutoff. AF3 outperformed
+the other models: success (interface DockQ &amp;gt; 0.23) rose from 33%
+with
+a single seed to 50% and 65% with 10 and 100 seeds-per-target, respectively,
+compared with 18% for Boltz-2 and 30% for Chai-1. Using an expanded
+data set, we evaluated confidence metrics and found that a strict
+ipTM cutoff of 0.8, or a combination of ipTM ≥ 0.6 with a CDR3
+loop pLDDT ≥ 60, reliably excluded incorrect predictions while
+retaining most successful ones. We further establish best practices
+for two AF3-specific capabilities, the choice of antigen multimeric
+state and the inclusion of &lt;span style="font-style:italic;"&gt;N&lt;/span&gt;-glycosylation, both
+of which can be decisive for epitope success depending on the target.
+Finally, we apply these guidelines to two design problems: ranking
+a library of VEEV-neutralizing nanobodies and mapping the epitope
+of the broadly neutralizing nanobody CC3 across homologous alphavirus
+antigens. These results provide a practical framework for ML-based
+viral nanobody epitope prediction and design.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Aligning Molecules
+and Fragments in a Shared Embedding
+Space for Property-Aware Fragment Selection</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01840/5462429/Aligning-Molecules-and-Fragments-in-a-Shared</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01840</guid>
+<pubDate>Mon, 02 Nov 2026 16:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01840/1/m_ci6c01840_0016.svg?Expires=2147483647&amp;amp;Signature=QlhpBUJYanT3RdinF~PVutYoePHpbFBF~3tP-KJoWKo3Xs9hFgODnHKhJhJz9VOwAnedqLaQ8OWnk4sAWR3~4FatgvAdfh-J6cIkZ5E3N1fy8fC9jfVkPW9oRBmnHsGMkC2mSmyExhCTeWq1rOmzXI7wxuydf7o5PpL5QhMx6mLEFD1hidQNOhdVIM7vDHeezWGWZa-avamAlZ~LcE3h7hGIYqCD-b088baQBlgZgWje7Nqm5wTTcabrwqe7D-~dUBpzHwQc9flaxy4~5of4UBN1mDDI-4INGXm75ccAut3iGysqi-Ro7AiKgYiXkg78hiXJdDgUFiuSwYFgsIfIUA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Aligning Molecules
+and Fragments in a Shared Embedding
+Space for Property-Aware Fragment Selection" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Fragment-based molecular design offers a chemically grounded
+strategy
+for exploring drug-like chemical space, yet identifying fragments
+that are both chemically feasible and relevant to a target property
+remains challenging. Fragment-level attribution is inherently ambiguous
+because each molecule contains multiple fragments and the same fragment
+can occur in molecular contexts with different property values. We
+introduce Molecule–Fragment Representation Alignment for Generation
+(M-FRAG), a property-aware framework that aligns molecules and fragments
+in a shared embedding space. M-FRAG organizes fragments according
+to their local relationships with parent molecules and their global
+distribution across molecular properties. Candidate fragments are
+then prioritized by their distance and distributional proximity to
+property-relevant molecular regions and used to guide reinforcement-learning-based
+molecular assembly. Across five docking-based multiobjective optimization
+tasks, M-FRAG improves the novel hit ratio by up to 58.00% over the
+strongest locally evaluated primary baseline and achieves the best
+Novel Top-5% docking scores for all five targets while maintaining
+strong novelty and chemical validity. These results establish embedding-space-guided
+fragment selection as an effective and traceable strategy for property-optimized
+molecular generation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>An Integrated Ligand-
+and Structure-Based Virtual
+Screening and Experimental Strategy for the Prediction of Chemically
+Diverse GLP-1R Agonists</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01453/5462344/An-Integrated-Ligand-and-Structure-Based-Virtual</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01453</guid>
+<pubDate>Mon, 02 Nov 2026 13:00:43 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01453/1/m_ci6c01453_0012.png?Expires=2147483647&amp;amp;Signature=xHKPQ89MVZzFVxXcbEusgNxTm0x6yjMs9CKhkDSdEMLHkcCy7Q9cUht~ZrlnZivsntwaDxiF2sfgsngxJYHgVjgathECP~QGOz0bNyrtUb0dJ1foFBNy6IM3IQJxe5260AkCV~Rjq0oxQaWa-BOruXVZqrwkjwS0UZ8WGeP6mzbMabpHafHQ1HP1Y6wHJjbdxdOMP1iVEvEo08FKo4Yyt2nnDMgCnZdZxJanYvsVT3b1RmiTXoDcG~SRK082tfy5cUzRlGgRzeFkKXynY1DGcUTYY1Kf-Dxj1sFd0Drd48y~gYKbhD39zcht8PspqFXBzgUwMQWpYg94juiPabcTLg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="An Integrated Ligand-
+and Structure-Based Virtual
+Screening and Experimental Strategy for the Prediction of Chemically
+Diverse GLP-1R Agonists" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The glucagon-like peptide-1 receptor (GLP-1R) plays a
+central role
+in metabolic regulation and is a major therapeutic target for obesity
+and diabetes. Peptide agonists, like semaglutide, targeting GLP-1R,
+remain among the most effective regulators of glucose metabolism and
+appetite. Nonetheless, recent reports of weight regain after treatment
+discontinuation sustain the interest in expanding the chemical diversity
+of GLP-1R ligands through drug discovery strategies. However, the
+structural complexity and conformational plasticity of class B1 G
+protein-coupled receptors (GPCRs) make conventional single-method
+virtual screening approaches prone to bias and limited chemotype recovery.
+Using an integrated ligand- and structure-based virtual screening
+pipeline, combining complementary ligand-based descriptors, multifingerprint
+similarity, electrostatic similarity, pharmacophore modeling, and
+multiconformation docking under a consensus-driven selection strategy,
+we identified three chemically distinct GLP-1R agonists comprising
+one nonpeptidic molecule (GQB47810), and two peptides (neuromedin
+C and DPDPE). Among them, DPDPE showed the greatest effectiveness,
+reaching nearly 100% of the maximal GLP-1 response, although with
+lower potency (EC&lt;sub&gt;50&lt;/sub&gt; = 4.3 μM). Further in vitro characterization
+confirmed that DPDPE behaved as a full agonist and exhibited dual
+agonistic activity at GLP-1R and at the glucose-dependent insulinotropic
+polypeptide receptor (GIPR, EC&lt;sub&gt;50&lt;/sub&gt; = 4.3 μM). Site-directed
+mutagenesis of the predicted binding site, with cell-surface expression
+measured for every mutant, and whole-cell competition binding against &lt;sup&gt;125&lt;/sup&gt;I-GLP-1 are consistent with direct engagement of the receptor.
+These findings establish a consensus-driven computational framework
+for chemotype-diverse agonist discovery at conformationally flexible
+GPCR targets and reveal a pentapeptide with GLP-1-like efficacy as
+a promising lead for next-generation small peptide therapeutics.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Virtual Screening, Hit Expansion, and Resynthesis:
 A Case Study in EphA2 Hit Validation</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03141/5461946/Virtual-Screening-Hit-Expansion-and-Resynthesis-A</link>
@@ -4172,33 +4278,6 @@ Real-Spectra NMR Structure Elucidation</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02552</guid>
 <pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02552/5432510/Public-Database-Leakage-Distorts-Model-Rankings-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02552/1/m_ci6c02552_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] AI Prediction of Future Antibiotics: Genome-Predicted
-Antimicrobial Peptides Are Stained with the Amino Acid Signature of
-Man-Made Synthetic Peptides</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02831/5432941/AI-Prediction-of-Future-Antibiotics-Genome?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02831</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02831/5432941/AI-Prediction-of-Future-Antibiotics-Genome"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02831/1/m_ci6c02831_0002.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Targeting the “Undruggable”
-STAT3 DBD:
-Free-Energy Perturbation-Guided Design of Covalent Micheliolide Derivatives
-Targeting Cysteine 367</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03067/5437355/Targeting-the-Undruggable-STAT3-DBD-Free-Energy?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c03067</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03067/5437355/Targeting-the-Undruggable-STAT3-DBD-Free-Energy"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03067/1/m_ci6c03067_0012.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] MARS-RNA: An Automated Pipeline for Correlating RNA
-Molecular Dynamics Trajectories with Chemical Probing Data</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03140/5438311/MARS-RNA-An-Automated-Pipeline-for-Correlating-RNA?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c03140</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03140/5438311/MARS-RNA-An-Automated-Pipeline-for-Correlating-RNA"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03140/1/m_ci6c03140_0002.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

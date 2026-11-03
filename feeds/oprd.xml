@@ -5,6 +5,65 @@
 <link>https://pubs.acs.org/rss/oprdfk/asap.xml</link>
 <description>OPR&amp;D (mirrored feed)</description>
 <item>
+<title>Digital-Assisted
+Workflow for Organic Solvent Nanofiltration:
+Accelerating Process Development in Pharmaceutical Manufacturing</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00337/5462448/Digital-Assisted-Workflow-for-Organic-Solvent</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00337</guid>
+<pubDate>Mon, 02 Nov 2026 17:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00337/1/m_op6c00337_0010.png?Expires=2147483647&amp;amp;Signature=mAUe7Q7X0U1UyU51wK0KIgYDQwt-9U6rz6QWYs01D4o2aku52zdnyX1gJ7JZlNYRjDH2Jp~GiZnT4XPFJey8Be8Oy4GI4aOeVBhnS2yJlRi13oAWFVP-0dY~CxHwFjBYEcgRc4B~w-b3kDOgFgJXgKzPq-tnsZ-UqVlxOTMO5ZZOaItPzFD01Z5kVz8w6THU6YA9bexDZEokImrHmVsoci9mbu7f2~frB8EnoHRG8TMzaiS6j0sqSfsZher1fcvhBMPOaIA~jco0AOZquCM6rvzJPe4J3CXu6aqPaun~LLvFlnZCCvhHOHIagntDGDxFuIM2tameX1NNACGFEBrdEQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Digital-Assisted
+Workflow for Organic Solvent Nanofiltration:
+Accelerating Process Development in Pharmaceutical Manufacturing" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Organic solvents contribute more than 80% of total process
+mass
+intensity (PMI) in pharmaceutical manufacturing. Although organic
+solvent nanofiltration (OSN) diafiltration processes can improve sustainability,
+achieving high product yield typically requires large solvent volume
+to operate. Here, we present a digital-assisted workflow, built on
+the OSN Designer framework, that enables rapid screening of OSN process
+configurations to identify architectures that minimize solvent consumption
+while maintaining API recovery. The framework integrates a solution-diffusion
+transport model, film theory for concentration polarization, and non-steady-state
+mass balances, calibrated from crossflow experiments with compound
+A on the Borsig oNF-3 membrane in 2-methyltetrahydrofuran. Validated
+with average concordance correlation coefficient (ccc) of 0.72 across
+steady-state and dynamic operating regimes, the model was applied
+without recalibration to evaluate four process configurations. A two-stage
+membrane cascade with closed-loop permeate recycling achieved a process
+mass intensity (PMI) of 7.76─a 92.4% reduction relative to
+the single-stage constant-volume diafiltration baseline (PMI 101.5).
+The formalized four-phase workflow reduces experimental effort to
+approximately 3 weeks from more than 6–8 months and is directly
+transferable to other pharmaceutical OSN systems.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Cold Plasma-Induced
+Nucleation of Paracetamol in a
+Batch Stirred Tank Reactor</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00342/5462133/Cold-Plasma-Induced-Nucleation-of-Paracetamol-in-a</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00342</guid>
+<pubDate>Mon, 02 Nov 2026 07:00:58 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00342/1/m_op6c00342_0009.png?Expires=2147483647&amp;amp;Signature=ICv0t1MLgbXf715eONQE2fwVeykSQr3GG0fJkCC78yblXwyqVQyt5msPiMMAXSv96PsorAC9fRHQmjjYJdThCjUJnAhtXI9hUOon7siZbvn9Y11f~Qyu0ClDFr0sHb9HjBN7Ra~HGPvK3YfOtcwoumr1ow81LZf6k8WmI9g4H8uRDGmAH3EfO8OGuT1~TxjsqPJYsDhF~6k3luISj7LEq0kvqOaCLp8s47vSucO6QY3hTjIuEMUIjXekjYZLyK4d201TkoSGDyfiN8zCWYlruZv7F0ugQa59jSet5j~PQtuL8E4rVxFgcu1dOvvJZiIkYiuffIAQQ0Qc3agVaGjS6w__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Cold Plasma-Induced
+Nucleation of Paracetamol in a
+Batch Stirred Tank Reactor" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cold plasma generates multiple physical and chemical
+phenomena
+that can promote crystal nucleation. However, its use for crystallization
+under process-relevant conditions remains unexplored. In this work,
+cold plasma was evaluated as a novel strategy to initiate the crystallization
+of paracetamol, a model pharmaceutical active ingredient (API), in
+acetonitrile within a stirred tank reactor. An in-house probe was
+designed to generate nanosecond repetitively pulsed (NRP) discharges
+inside nitrogen bubbles injected into the solution. Above a supersaturation
+threshold within the metastable zone, cold plasma treatment significantly
+decreased the induction time and improved its reproducibility. Enhancing
+the number of plasma-treated bubbles further reduced the induction
+time and increased the desupersaturation rate. Surprisingly, no significant
+effect on the final particle size distribution was observed, probably
+due to agglomeration. This work demonstrates, for the first time,
+that cold plasma is an effective tool to trigger the crystallization
+of API on-demand, automatically, and without seed preparation. It
+offers a promising nonintrusive alternative to conventional seeding.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Retrospective Analysis
 of Pharmaceutically Relevant
 Palladium-Catalyzed Cross-Coupling Reactions for Machine Learning-Guided
@@ -2294,20 +2353,6 @@ peptide production.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.oprd.5c00490</guid>
 <pubDate>Thu, 25 Jun 2026 12:00:00 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.5c00490/1/m_op5c00490_0013.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.5c00490&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Automation in Pharmaceutical Crystallization</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00057</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00057</guid>
-<pubDate>Thu, 25 Jun 2026 05:38:24 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00057/1/m_op6c00057_0013.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00057&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Optimization of a Resolution Process Allowing Access to Both Enantiomers of the Versatile Chiral Phosphine Ligand sSPhos on Scale</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00142</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00142</guid>
-<pubDate>Thu, 25 Jun 2026 05:37:07 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00142/1/m_op6c00142_0015.svg" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00142&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
