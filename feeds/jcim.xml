@@ -5,6 +5,113 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Artificial Intelligence-Aided
+Design of Peptides with
+Custom Secondary Structure Motifs and Reduced Amino Acid Alphabets</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03837/5463265/Artificial-Intelligence-Aided-Design-of-Peptides</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03837</guid>
+<pubDate>Tue, 03 Nov 2026 17:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03837/1/m_ci6c03837_0005.png?Expires=2147483647&amp;amp;Signature=WwxL3L4sMoUC6j5y7G19fuR4xRBgounNGzVstPDE0XzWTFBKvTKKOVv4IgpY4X4C983q~RA7Tot6WHUXL-rDomh58sfI4E~LdrOwBZIdh97JKbCHeJn3tnn15diUjI-kHS9hjGZLYxirSGbaaGbVAKgtBINvomIPj4ZtvfOxyRmsIKXZSWLH74ktbJw9kVWxPSMmezpcXW-H1pT5aQLCPBH43gFpVHOxfYJZ1gFTzBZF5Nv5-yCaLyHAGOU7vQsIRr9PagNm73YsIcc8IITcInGkc-EMSbcE9bimlYPLn7H1XooEMVuG0v2RWLfWyYznjmYSrYh29hNFelLcjXykHA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Artificial Intelligence-Aided
+Design of Peptides with
+Custom Secondary Structure Motifs and Reduced Amino Acid Alphabets" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Proteins are highly diverse functional polymers where
+the specific
+sequence of amino acids, selected from a standard genetically encoded
+alphabet of 20 (C20), determines the structure and ultimately the
+function of the resulting folded protein. This standard alphabet has
+been identified to be nonrandomly distributed in physicochemical properties
+crucial to both structure formation and function, often referred to
+as coverage theory. While machine learning models have drastically
+improved protein structure prediction, success of protein design models
+lags structure prediction, particularly for custom secondary structure
+motifs and amino acid alphabets. Here, we therefore bridge contemporary
+biological theory with recent advancements in artificial intelligence
+(AI) to develop and evaluate a generative AI protein design model,
+trained on hundreds of thousands of proteins within the RCSB PDB,
+for custom secondary structure motifs using reduced amino acid alphabets
+(RAAs). Results indicate an overall success in designing novel proteins
+with desired secondary structure motifs for a broad range of amino
+acid alphabets and complexity of designs. Interestingly, for a substantial
+fraction of designs, ESMFold predicts a fold close to that of the
+target structure despite training only on physicochemical sequence
+space and secondary structure information. The development of this
+model advances research across multiple disciplines, from general
+scientific AI architecture development to protein design for biotechnology,
+astrobiology, and early-Earth evolutionary biology.&lt;/span&gt;</description>
+</item>
+<item>
+<title>BlindDDG: A Blind
+Evaluation-Based Method for Protein
+Mutation Stability Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03187/5462948/BlindDDG-A-Blind-Evaluation-Based-Method-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03187</guid>
+<pubDate>Tue, 03 Nov 2026 15:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03187/1/m_ci6c03187_0008.svg?Expires=2147483647&amp;amp;Signature=X4O-QzPB7W3rvvsokyt9~T8EzKmWsSOpW-WteGeblx5oU3CV-ezPfSHp6rL9ITu7WoXLZUY3awoUcSYtXbPeEktOPAu17k07SKk-2QdujXHIkSsTHiWSZ2aekI1AB2kAFe99HjBoo3S~ix2JsB36PMmoOUTAfTcie9SgcGUyUHBQpRXeoykUB9GHQvlX3KQUmarrfWVJBk2euAFIrEQ0S0KZKZLVY6dNcySeSPEwfNH9y9ucP153bz1N9OUHgvGBrThl7o3iXmwSmhcOhCZuHpncC6qwTA6SrJARgORnsC~AliQY~RVaDevzTMLtCf7VEbyo66R9Y1MtBT~L4n26eQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="BlindDDG: A Blind
+Evaluation-Based Method for Protein
+Mutation Stability Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein thermodynamic stability changes
+upon mutation
+profoundly
+affect protein structure and biological function. Recent advances
+in deep learning and protein language models have provided powerful
+tools for computational analysis of mutation-induced stability changes.
+However, most existing methods focus on quantitative regression of
+free-energy changes, which places strong dependence on precise experimentally
+measured ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt; values, although reliably
+determining the direction of stability change is itself an important
+objective in many practical applications. Here, we propose BlindDDG,
+a novel framework that reformulates protein mutation stability prediction
+from quantitative ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt; estimation to direction-oriented
+stability change classification. First, we introduce a blind-evaluation
+strategy that models mutation-induced changes by learning the representation
+difference between wild-type and mutant proteins, rather than relying
+solely on their individual intrinsic properties. This formulation
+focuses on the direction of stability changes and reduces the dependence
+on precise quantitative ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt; measurements.
+Second, a Siamese architecture with shared parameters is employed
+to encode the wild-type and mutant states and capture subtle mutation-associated
+differences. Third, a local structure-aware cross-attention mechanism
+is developed to integrate mutation-centered structural information
+with global protein language model representations, enabling effective
+multimodal feature interaction. Experimental results on the independent
+S669 benchmark demonstrate that BlindDDG achieves strong classification
+performance, obtaining an F1 score of 0.5449, an MCC of 0.3929, an
+accuracy of 0.7721, and a recall of 0.5417 for stabilizing mutation
+identification. BlindDDG outperforms all evaluated methods in F1 score,
+MCC, accuracy, and recall, highlighting its effectiveness in capturing
+mutation-induced stability changes, particularly for imbalanced stability
+classification.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Predicting Chemical
+Roles from Database Descriptions
+Using Natural Language Processing</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01643/5462727/Predicting-Chemical-Roles-from-Database</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01643</guid>
+<pubDate>Tue, 03 Nov 2026 12:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01643/1/m_ci6c01643_0012.png?Expires=2147483647&amp;amp;Signature=eFwMPNwf6jqoobp~-6JLphG8AxGz5s-h2M2fWFkm9yGuiofhF4LSe7FQPZD6qXLzkUxCfY~qisZXQmSU-xJEcazoAdn1nPyG6vm5EMNHDDifIGFu4VLlGaAYWDdfSbJG~rxta8ReHSlvdWSBjrN99UjydXaGYMXiYAxASxGW~s-ipLm7CWePYpuPpWcEWUVzc6hG9tSn-FW4LHvqEEeZCIY18ajCA34TdNbXVAOq9-O8CNwOk~YIOf~kFzTa9AXQIGDz3ihwLoiwoV65iUuABqB2UVNaLHBU9xuebxv-UxY9bNcqn~5hJP55ELWDPQCMfXRi9YJoBAH-4FObSyghIQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Predicting Chemical
+Roles from Database Descriptions
+Using Natural Language Processing" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In recent years, the use of document information to predict
+compound
+activity has gained attention. However, existing methods face challenges
+in applying these predictions to compounds not included in the training
+data because of the shortage and insufficient applicability of chemical
+knowledge as well as in interpreting the basis for predictions. Therefore,
+this study developed an approach to classifying the chemical roles
+of these compounds. By analyzing the descriptions of compounds registered
+in databases using Doc2Vec, we obtained the embeddings. Specifically,
+by setting the tag portion of Doc2Vec to the substructures of compounds,
+we acquired embeddings corresponding to the substructures and summed
+them to represent the compounds. We predicted the presence or absence
+of 10 chemical roles for the compounds; compared to predictions using
+chemical descriptors, our predictions had higher F1 scores for many
+chemical roles. Additionally, by applying Shapley additive explanations,
+we visualized the substructures likely to influence the prediction
+of the presence or absence of each role, confirming that their interpretation
+was consistent with the findings of the previous research. This paper
+suggests that the obtained embeddings, which combine the structural
+information and annotations of compounds, are useful descriptors for
+classifying the chemical roles of the compounds.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Benchmarking Machine
 Learning Models for Viral Nanobody
 Epitope Prediction</title>
@@ -4252,32 +4359,6 @@ for Point Group Symmetry Determination of Atomic Coordinates</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02312</guid>
 <pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02312/5438408/CSoM-Software-Continuous-Symmetry-Operation"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02312/1/m_ci6c02312_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] A Systematic Evaluation of Molecule Generation Models
-for  De Novo  Drug Design: From Benchmarks to Practical
-Insights</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02405/5433695/A-Systematic-Evaluation-of-Molecule-Generation?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02405</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02405/5433695/A-Systematic-Evaluation-of-Molecule-Generation"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02405/1/m_ci6c02405_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Candidate Structure Prioritization in Non-Target Screening
-with Predicted Collision Cross-Sections and Uncertainty Quantification</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02492/5437770/Candidate-Structure-Prioritization-in-Non-Target?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02492</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02492/5437770/Candidate-Structure-Prioritization-in-Non-Target"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02492/3/m_ci6c02492_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Public Database
-Leakage Distorts Model Rankings in
-Real-Spectra NMR Structure Elucidation</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02552/5432510/Public-Database-Leakage-Distorts-Model-Rankings-in?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02552</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02552/5432510/Public-Database-Leakage-Distorts-Model-Rankings-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02552/1/m_ci6c02552_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
