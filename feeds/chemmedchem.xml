@@ -5,6 +5,26 @@
 <link>http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1860-7187</link>
 <description>ChemMedChem (mirrored feed)</description>
 <item>
+<title>Molecular Dynamics and Density Functional Theory Analysis of Novel Acridine Derivatives Targeting Bacterial Topoisomerase IV</title>
+<link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70560?af=R</link>
+<guid>10.1002/cmdc.70560</guid>
+<pubDate>Thu, 05 Nov 2026 00:53:15 -0800</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70560?af=R"&gt;&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/8ea192c7-c438-4277-a19e-1967a0c59be2/cmdc70560-blkfxd-0001-m.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
+&lt;p&gt;Nine novel 9-substituted acridine derivatives are synthesized by a catalyst-free microwave method and evaluated for antibacterial, antibiofilm, antioxidant, antihemolytic, and urease-inhibitory activities. A2 and A3 show the strongest antibacterial effects, while A7 combines potent antibiofilm and urease inhibition with favorable docking and molecular-dynamics profiles against topoisomerase IV, identifying it as a promising scaffold for further optimization.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;A series of nine 9-substituted acridine derivatives was prepared by a catalyst-free microwave-assisted method and evaluated for antibacterial, antibiofilm, antioxidant, antihemolytic, and urease-inhibitory activities. Compounds A2 and A3 displayed the strongest antibacterial effects against both Gram-positive and Gram-negative bacteria, including selected clinical and references isolates (MIC = 31.25–500 µg mL&lt;sup&gt;−1&lt;/sup&gt;). Compound A7 exhibited the highest antibiofilm activity and the most potent urease inhibition against jack bean and &lt;i&gt;Helicobacter pylori&lt;/i&gt; ureases (IC&lt;sub&gt;50&lt;/sub&gt; = 97.3 ± 1.89 and 156.2 ± 2.41 µg mL&lt;sup&gt;−1&lt;/sup&gt;, respectively). A5 showed the best DPPH radical-scavenging capacity, while A1, A5, A7, and A9 produced marked antihemolytic effects. Molecular docking against &lt;i&gt;Escherichia coli&lt;/i&gt; topoisomerase IV and xanthine oxidase, followed by a 300 ns molecular dynamics simulation of the A7–topoisomerase IV complex, provided structural hypotheses consistent with the experimental data. DFT calculations further indicated favorable electronic properties for selected derivatives. Overall, A7 emerges as a promising acridine scaffold for further structural optimization and experimental target validation.&lt;/p&gt;</description>
+</item>
+<item>
+<title>From Generative Molecular Design to Agentic Artificial Intelligence in Drug Discovery</title>
+<link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70564?af=R</link>
+<guid>10.1002/cmdc.70564</guid>
+<pubDate>Thu, 05 Nov 2026 00:45:23 -0800</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70564?af=R"&gt;&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/f963e15f-32bb-4cb6-9751-03cd51dd91fe/cmdc70564-blkfxd-0001-m.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;
+&lt;p&gt;Generative artificial intelligence (AI) provides new opportunities for drug discovery. Moreover, emerging agentic AI systems are intended to become increasingly autonomous to automate research activities along the drug development pipeline. Principles from explainable and trustworthy AI must be considered to support the further development and wider adoption of such systems.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Over the past decade, artificial intelligence (AI) has increasingly influenced the early stages of drug discovery, which focus primarily on target evaluation and the design or identification of new active small molecules or biologics. Deep neural networks adapted from areas such as natural language processing and computer vision have provided novel opportunities for generative modeling and human–machine interactions. State-of-the-art AI models for generative molecular design have emerged, but remain only little understood so far. Furthermore, new computational systems are being devised rapidly that are expected to significantly transform the drug discovery landscape in the near future. These developments pose challenges to computer-aided drug discovery in various ways. In the following, we discuss these opportunities and challenges, with a focus on molecular design.&lt;/p&gt;</description>
+</item>
+<item>
 <title>What Method and Library Size Is Best for Fragment Screening?</title>
 <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.70503?af=R</link>
 <guid>10.1002/cmdc.70503</guid>
