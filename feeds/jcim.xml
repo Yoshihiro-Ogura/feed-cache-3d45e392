@@ -5,6 +5,188 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Long-Timescale
+Molecular Dynamics Reveal a Coordination-Biased
+Conformational Selection Mechanism for Sorcin Activation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02340/5464055/Long-Timescale-Molecular-Dynamics-Reveal-a</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02340</guid>
+<pubDate>Wed, 04 Nov 2026 19:00:44 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02340/1/m_ci6c02340_0009.png?Expires=2147483647&amp;amp;Signature=s2h-m13Zbx3pxchveWe33QVu9jMM3XhM~QvjZMe1OB7cSEAijCLiN63JhDgUTimBCCU-98lYYBpsVtt6QP4qHy-~e6H2IQlm7GMhQZkdwjTYbAxz9yQwWPX4DQDDjsgS4kVcA2z6VjZrEfnVScW4ffmIA9~4WbKRoqWNCD91FNt1YLQgtrbXBkbceSaLEA~Eg8iUD8~nwLgJz0sS3wAGP2l1ohGgayPh0lJ9iZdb8VD00NBmRt3P6sQ870y~ECMbVXUV~k-sLqeIJGXuWUaviL3UolC7BDx1NvkW7P3Z~yZF9c8xGkjVakhONVEC-sZvAqt0EVqlyg13z68oMI728w__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Long-Timescale
+Molecular Dynamics Reveal a Coordination-Biased
+Conformational Selection Mechanism for Sorcin Activation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Sorcin is a dimeric penta-EF-hand Ca&lt;sup&gt;2+&lt;/sup&gt;-binding
+protein
+that regulates intracellular Ca&lt;sup&gt;2+&lt;/sup&gt; homeostasis through Ca&lt;sup&gt;2+&lt;/sup&gt;-dependent conformational activation and target recognition,
+and it has also been implicated in multidrug resistance in cancer.
+Although crystal structures have defined the apo inactive and Ca&lt;sup&gt;2+&lt;/sup&gt;-bound active states of Sorcin, the transition pathways connecting
+these states and the conformational ensembles populated under each
+condition remain poorly understood. Here, we performed nine 10-μs
+all-atom molecular dynamics simulations (∼90 μs in total)
+on the special-purpose supercomputer Anton 3 to define the Ca&lt;sup&gt;2+&lt;/sup&gt;-coupled conformational dynamics of dimeric human Sorcin.
+Starting from the Ca&lt;sup&gt;2+&lt;/sup&gt;-bound structure, we directly observed
+the transition from the active to the inactive state following Ca&lt;sup&gt;2+&lt;/sup&gt; removal, indicating that loss of Ca&lt;sup&gt;2+&lt;/sup&gt; coordination
+is sufficient to drive inactivation on the microsecond timescale.
+Simulations initiated from the Ca&lt;sup&gt;2+&lt;/sup&gt;-bound crystal structure
+with retained ions revealed ultrafast Ca&lt;sup&gt;2+&lt;/sup&gt; dissociation
+and rebinding at all EF-hand sites, indicating weak intrinsic Ca&lt;sup&gt;2+&lt;/sup&gt; affinity and highly dynamic ion exchange. In complementary
+simulations initiated from the apo structure, Sorcin spontaneously
+sampled active-like conformations even in the absence of stable Ca&lt;sup&gt;2+&lt;/sup&gt; binding, supporting a conformational selection mechanism
+in which Ca&lt;sup&gt;2+&lt;/sup&gt; shifts the population toward preexisting
+active states rather than inducing the transition de novo. Across
+all conditions, we observed pronounced and persistent structural asymmetry
+between the two protomers, revealing that the Sorcin homodimer is
+dynamically heterogeneous. Together, these results support a coordination–biased
+conformational selection model for Sorcin activation, in which weak
+and rapidly exchanging Ca&lt;sup&gt;2+&lt;/sup&gt; binding stabilizes, rather
+than induces, the active state. This work provides a dynamic framework
+for understanding Sorcin function as a fast Ca&lt;sup&gt;2+&lt;/sup&gt; sensor
+and offers broader mechanistic insight into activation principles
+of EF-hand Ca&lt;sup&gt;2+&lt;/sup&gt;-binding proteins.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Computational Mapping
+of Cholesterol-Binding Landscapes
+in TRPV6</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02428/5463985/Computational-Mapping-of-Cholesterol-Binding</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02428</guid>
+<pubDate>Wed, 04 Nov 2026 15:00:56 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02428/1/m_ci6c02428_0010.png?Expires=2147483647&amp;amp;Signature=y3e-FulE8vSNvxC5jAnCGliEWGGZlPx4GK~hWVSz1QGC5E0vJKzg7Bt-EECYxAqbskubmyaZ2n42Q68oGQfa5EIu90pSlIuCLkC2VYhKK7YCMXmzxPNIgtKGrdY~t6tQTca-roKYF~OnyYRS9GYT2IOhraapQ5KBUGXwqA84DrBW9z2S8-oarIRZOGYSkkcp9ctrj7LdIiYlvRQboJ5sLOmr4iVwrpiZD3bez~x4EXukRnn56p6dmFLmJADsbr0DcVP~mWdXGBRaRffhzUh7Fj5-axzlxzDv7tArAWBJzTpCjeBNqRhV4p81CW-3mxhSYx-9VwZ8gTDKMPZqh2etCQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Computational Mapping
+of Cholesterol-Binding Landscapes
+in TRPV6" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cholesterol is an important regulator of membrane protein
+function,
+yet the molecular basis of its interaction with ion channels remains
+incompletely understood. This is particularly relevant for TRPV6,
+a highly Ca&lt;sup&gt;2+&lt;/sup&gt;-selective epithelial ion channel essential
+for systemic calcium homeostasis, whose activity is influenced by
+membrane lipids. Here, a multiscale computational framework combining
+coarse-grained molecular dynamics (CG-MD) simulations, molecular docking,
+and site identification by ligand competitive saturation (SILCS) was
+used to investigate cholesterol-interaction landscapes in TRPV6 across
+distinct conformational states. The three complementary approaches
+consistently identified recurrent cholesterol-interaction regions
+distributed throughout the transmembrane domain of TRPV6, particularly
+near the S1/S2 helices, the S4–S5 interface, and adjacent transmembrane
+segments. Although these interaction regions were largely conserved
+between open and closed conformations, cholesterol occupancy and interaction
+persistence differed between channel states. CG-MD simulations revealed
+spontaneous cholesterol-enriched regions within the membrane, SILCS
+identified energetically favorable interaction hotspots, and molecular
+docking defined preferred sterol docking sites. Together, these approaches
+provide a coherent description of cholesterol recognition across multiple
+spatial and temporal scales. Several computationally predicted interaction
+regions spatially overlapped with sterol-associated regions observed
+in cryo-EM structures of TRPV6, supporting their potential physiological
+relevance. Collectively, these findings indicate that cholesterol
+interaction with TRPV6 is distributed across multiple membrane-facing
+regions rather than a single dominant interaction site and is influenced
+by channel conformation. More broadly, this work demonstrates the
+value of integrating complementary computational approaches to investigate
+lipid–protein interactions and provides a molecular framework
+for understanding sterol regulation of TRPV6 and related TRP channels.&lt;/span&gt;</description>
+</item>
+<item>
+<title>How Molecular Packing
+Controls Electronic Structure
+in π-Stacked Radical Dimers: A DFT and Descriptor-Based Machine-Learning
+Study</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02583/5463948/How-Molecular-Packing-Controls-Electronic</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02583</guid>
+<pubDate>Wed, 04 Nov 2026 15:00:56 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02583/1/m_ci6c02583_0007.png?Expires=2147483647&amp;amp;Signature=Vqqp4h1-uU6azEAELFdu-mNBqaUzmXLaVORSUor2T6tPXBjFr60EE~BcHximC-6fllMQHNOPhLKyeeAQ8FqWfXpenefv3LXkLaMFs5iaaYplTrdysCW-cC~OmJh5Lu4oYu67K1Bd-ROwlyrP~pKvxNG4nNCYYv38GWp00lWiaAdCxSyQfhaKFZYsNGQ08DvX9S0AlFS9vDPgRc15elx0Bcm2Vj5dso-zRIL-cekfzO4XtPS62rzFfYdbV-ADYdoyv-dyH7XTlZiDWBNAd9p0hFisxTNUEp2oRv6nr06JuPJcjGyyqiC6iuxYA9f2zd8QEPYwRTj~t4L-UOigxORlGw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="How Molecular Packing
+Controls Electronic Structure
+in π-Stacked Radical Dimers: A DFT and Descriptor-Based Machine-Learning
+Study" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;π-Stacked radicals exhibit electronic properties
+that are
+highly sensitive to subtle changes in molecular packing, yet identifying
+which structural features control these interactions remains challenging.
+Here, we combine density functional theory calculations with chemically
+defined structural descriptors to quantify geometry−electronic
+structure relationships across 2,582 π-radical dimer configurations
+of five different polycyclic aromatic hydrocarbon (PAH) radical dimers.
+Extremely randomized trees and multilayer perceptron models predict
+fragment-orbital SOMO coupling, interaction energy, frontier-orbital
+separation, and the SOMO−SOMO interaction energy with test-set &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; values of 0.94−0.98 for radical families
+represented in training. Feature-importance analysis separates two
+structural regimes: global π-surface descriptors are most strongly
+associated with frontier-orbital variation and contribute to the interaction-energy
+scale, whereas local stacking registry and short C···C
+contact networks are most strongly associated with radical−radical
+coupling and corrected spin-dependent interaction energy. Comparison
+with a baseline that uses no structural descriptors shows that the
+frontier-orbital separation is largely set by the identity of the
+parent radical, whereas the two pancake-bonding properties are predicted
+from packing geometry alone and transfer to radical families absent
+from training. Y-randomization and geometry-clustered validation support
+the robustness of these relationships. This framework provides an
+interpretable, geometry-based route for evaluating and prioritizing
+packing arrangements in π-stacked radical dimers.&lt;/span&gt;</description>
+</item>
+<item>
+<title>PriMPT: Prior-Informed
+Multiscale Paired-Token Representation
+Learning for CRISPR/Cas9 Off-Target Cleavage Activity Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02365/5463674/PriMPT-Prior-Informed-Multiscale-Paired-Token</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02365</guid>
+<pubDate>Wed, 04 Nov 2026 13:00:59 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02365/1/m_ci6c02365_0006.png?Expires=2147483647&amp;amp;Signature=iaPppNTvQVDArNfwr0Nko0VWWM9vn6SH9i2RnS7Yzkv63aLbfKSAHrzodj5udQ7hGzdCxc7cncgEywwkSlzUgRnNdLbOGiWVykzYuS6cB9Snlyc9pD4Ebe3UPLtIYwoJcQjJR2YmymDNBpFMTqao9oxNKNZWP~wXvyZAbQG3eC7ShLzpYi-AdEjHbG5V4mJSMnDNJXD20wZCtwnRsAQCBHhw9ixC6I5RbQtAGA8abEA6WBI7WrMPTy0-bbbKMso7cb4fH4lEpoBg7bgG1LyzDKfV7grVxx8wdYp5rN~RubGAhaaDzzzvm16Fq-6MMvCqBXeU6vSiipnGKmTJESwvAA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="PriMPT: Prior-Informed
+Multiscale Paired-Token Representation
+Learning for CRISPR/Cas9 Off-Target Cleavage Activity Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate
+prediction of CRISPR/Cas9 off-target cleavage
+activity
+requires molecular representations that explicitly capture the interaction
+compatibility between guide RNA and target DNA. This study presents
+PriMPT, a prior-informed multiscale paired-token representation learning
+framework that redesigns guide-target tokenization using 1-, 2-, and
+3-gram paired tokens and injects mechanism-informed pair-prior descriptors
+into the corresponding embeddings through scale-specific gated injection,
+thereby incorporating RNA–DNA interaction information before
+contextual modeling and facilitating interaction-aware learning of
+guide-target compatibility. Across guide-disjoint cross-validation
+on six public data sets and a cross-data set external test, PriMPT
+achieved the numerically highest mean area under the precision-recall
+curve (AUPRC) among the evaluated models in each of the seven scenarios,
+with ablation studies identifying input-level pair-prior injection
+as the most consistent contributor and Integrated Gradients analysis
+yielding attribution patterns consistent with established aspects
+of Cas9 target recognition. These results suggest that PriMPT captures
+mechanism-relevant sequence-pair patterns and offers a mechanism-informed
+representation learning strategy for CRISPR/Cas9 off-target risk assessment.&lt;/span&gt;</description>
+</item>
+<item>
+<title>HyperDFI: Cross-View
+Hypergraph-Graph Contrastive
+Learning for Drug-Food Interaction Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01669/5463468/HyperDFI-Cross-View-Hypergraph-Graph-Contrastive</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01669</guid>
+<pubDate>Wed, 04 Nov 2026 08:00:51 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01669/1/m_ci6c01669_0003.png?Expires=2147483647&amp;amp;Signature=wl8onL05fFyUtACobx0-rDy5R4z8lNRyBWthWBnMvBqK9TF7MwfTukwQb1W82~Ii8TKDC9qKvNCM-w1PolXAcJRf8Ba5~S~QQJF1hyVxSxFn5BMu8jdUgBHhIRI3UbT8366b98AQ92-arFwWKfGZ3-ZF3SZCPGu-lxN3KNwkfHe1Prk0yj-cD8Hay7BA3ukqcA3JZAbGcUrkDN~CW53Yyz1BKrMkLdW~LsWM~mM-NMYdx6WyAsVN6e-5aba5OywRLvjwBsMq0ytnGaAYq988wDS6pK73OfstLFJ8oWGgz1AYhgSlaaYYCA-dh6BdQDB7Ia1-FpF1nGCJr2jQz~HaTw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="HyperDFI: Cross-View
+Hypergraph-Graph Contrastive
+Learning for Drug-Food Interaction Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug-food interactions (DFIs) are
+one of the major factors
+that
+trigger adverse drug events and have important research and clinical
+application value. However, experimental identification of DFIs remains
+costly and limited in scalability, leading to insufficient coverage
+of known interactions. Existing computational methods often treat
+DFI prediction as a variant of drug-drug interaction (DDI) prediction
+and primarily focus on drug-food constituent relationships, which
+restrict their ability to directly model drug-food interactions. In
+this study, we propose a cross-view hypergraph-graph contrastive learning
+framework named HyperDFI for predicting interactions between drug
+and food (food constituents). We first construct four benchmark data
+sets by integrating information from DrugBank and PubMed, covering
+both drug-food and drug-food constituent interactions. Based on these
+data sets, heterogeneous bipartite graphs were established. HyperDFI
+jointly captures local topological structures and global high-order
+semantic relationships by combining graph neural networks (GNNs) and
+dynamic hypergraph neural networks (HGNNs). Furthermore, a cross-view
+contrastive learning strategy is introduced to align representations
+at different structural scales, thereby enhancing their consistency
+and discriminability. Extensive experiments on four benchmark data
+sets demonstrate that HyperDFI consistently outperforms state-of-the-art
+methods. In addition, case studies on grapefruit further validate
+its ability to uncover novel DFIs.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Artificial Intelligence-Aided
 Design of Peptides with
 Custom Secondary Structure Motifs and Reduced Amino Acid Alphabets</title>
@@ -4315,50 +4497,6 @@ Dynamin-like Protein</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01952</guid>
 <pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01952/5436118/From-Closed-to-Mighty-How-GTP-Induced-Allosteric"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01952/1/m_ci6c01952_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] SwinTransRNA: A Swin Transformer-Based Framework for
-Accurate Prediction of RNA Subcellular Localization</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02004/5434788/SwinTransRNA-A-Swin-Transformer-Based-Framework?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02004</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02004/5434788/SwinTransRNA-A-Swin-Transformer-Based-Framework"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02004/1/m_ci6c02004_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Graph-to-Graph
-Inverse Design of Surfactants under
-Multiobjective and Structural Constraints</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02137/5438519/Graph-to-Graph-Inverse-Design-of-Surfactants-under?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02137</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02137/5438519/Graph-to-Graph-Inverse-Design-of-Surfactants-under"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02137/1/m_ci6c02137_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] CoTAR: Topology
-and Atomic State Reconstruction in
-Condensed Phases</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02184/5432390/CoTAR-Topology-and-Atomic-State-Reconstruction-in?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02184</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02184/5432390/CoTAR-Topology-and-Atomic-State-Reconstruction-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02184/1/m_ci6c02184_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] A Chemical Foundation
-Model Benchmark for PFAS Bioactivity
-Prediction: Multi-Task Fine-Tuning Beats Fingerprint Baselines, PFAS
-Domain Pretraining Does Not Help</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02202/5438022/A-Chemical-Foundation-Model-Benchmark-for-PFAS?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02202</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02202/5438022/A-Chemical-Foundation-Model-Benchmark-for-PFAS"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02202/1/m_ci6c02202_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] CSoM Software: Continuous Symmetry Operation Measure
-for Point Group Symmetry Determination of Atomic Coordinates</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02312/5438408/CSoM-Software-Continuous-Symmetry-Operation?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02312</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02312/5438408/CSoM-Software-Continuous-Symmetry-Operation"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02312/1/m_ci6c02312_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
