@@ -5,6 +5,117 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>A Three-Level Noise
+Floor for Cyclodextrin Binding
+Constants and What It Permits for Descriptor-Based Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02933/5465272/A-Three-Level-Noise-Floor-for-Cyclodextrin-Binding</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02933</guid>
+<pubDate>Thu, 05 Nov 2026 20:00:32 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02933/1/m_ci6c02933_0008.png?Expires=2147483647&amp;amp;Signature=IkWiOiFWr2wo24Idmc4fZ0VA2tYYdK6l03kg~kQqqVV6Jvb4I0HuAjOc~TKprVRI2vl8uwg72puuQ62s8jj0U2-x7v4iDbDkAdgyzvhJkhisA9KGpQRIiUB9V8bqSa4ISZgQqmvaQH3nSoJHVq1LDM8o8PUdmRqYf6oFQXEI~vXHclKJYewSOZDvgjjLD2l9ocneeDxXezO~Kv8ebIFKBknBKJdyOOkOOXO97FLLExibJdZnZ-P~UvieMb99d0GLKs37mit9aLlDVftV6hgTRgzOLEk5aWRlwAOfeWov4I9wseE1ugk0~Pxli-drwcJUMTmbeB6H5B5pAfgKF7Dbuw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="A Three-Level Noise
+Floor for Cyclodextrin Binding
+Constants and What It Permits for Descriptor-Based Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Regression and machine-learning models for cyclodextrin
+inclusion
+constants are often reported with cross-validated &lt;span style="font-style:italic;"&gt;Q&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; near 0.9, yet the reproducibility of the compiled data
+on which they are trained has not been quantified. This work quantifies
+it at three levels, each defined by the uncertainty it captures. The
+within-experiment fitting precision of a single calorimetric study,
+0.008 log units, is a lower bound on repeatability; head-to-head comparisons
+between laboratories and methods give 0.115 log units (95% CI: 0.079–0.210);
+and 128 replicated host–guest pairs in a verified extraction
+of the standard thermodynamic compilation give 0.157 log units (95%
+CI: 0.115–0.220, from a pair-level bootstrap), with a heavy
+tail in which 7.3% of pairwise comparisons, and an estimated 3–5%
+of single determinations, deviate by more than 1 log unit. Propagated
+through the replication structure of a 44-pair modeling set under
+three error models, this noise implies an out-of-sample &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; ceiling of about 0.70–0.78, and response noise
+accounts for roughly two-thirds to nine-tenths of the leave-one-out
+error of the adopted model, an error statistically compatible with
+a model limited by the data alone. Against this bound, a size descriptor
+derived from measured limiting diffusion coefficients through the
+Edward-corrected Stokes–Einstein relation was compared with
+McGowan volume, each paired with log &lt;span style="font-style:italic;"&gt;P&lt;/span&gt;. The two are
+statistically indistinguishable (95% CI of the difference in mean
+squared error, −0.024 to +0.042) under leave-one-out and leave-one-guest-out
+validation, and both lose accuracy when whole chemical families are
+withheld. No packing optimum is detectable, and normalizing guest
+size by cavity volume degrades performance by aliasing the size term
+onto the host intercepts. The durable result is the bound, which should
+accompany any accuracy reported on compiled data.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Multiscale Molecular
+Simulations Reveal the Structural
+Pathway of Histatin 1 Self-Association</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02345/5464881/Multiscale-Molecular-Simulations-Reveal-the</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02345</guid>
+<pubDate>Thu, 05 Nov 2026 10:00:32 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02345/1/m_ci6c02345_0012.png?Expires=2147483647&amp;amp;Signature=X15-tqyPZ6LHsmMrU8QIKrvnDBaCoLxdIMeY~qkLDwNctVhKnq69oBKLIbhfz80UNECzOdLzYp7GeVc5EXvMRJrkbfba4~MvEzx8Yiey6~43qn538Iugrzj~exb6hrvIvjJWd5GUkEizBkqJLbuAvGCixSWMpJ9FObKX8~YRasip7yknix36-ANEHhV3AqCovq6Q~U~sOzD~nmKRyN9xyJNu2WR590~hS-CmEhurnfIWHrSKHiqJt563lEFJCoO-hs7bpmVZ3eiAy3zlSKTA-Klj502qwoAqxRdQnzNcg-w0mZUsGNWoJpWZbToWNZbVmifaCzZBkqevJsd-yduRqA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Multiscale Molecular
+Simulations Reveal the Structural
+Pathway of Histatin 1 Self-Association" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Histatins are a family
+of human saliva peptides; the
+three main
+members consist of Histatin 1 (Hst1), Histatin 3 (Hst3), and Histatin
+5 (Hst5). Despite their high primary-structure similarity, the peptides
+display varied functions and behaviors. Experimental evidence supports
+concentration-dependent self-association of Hst1, but the molecular
+mechanisms remain poorly understood. This property is of interest
+because it is not observed in  Hst5. Here, we combine atomistic and
+coarse-grained molecular dynamics simulations with a decomposition-based
+trajectory analysis to investigate the structural origins of Hst1
+self-association across multiple length and time scales. Atomistic
+simulations reveal dimers that remain associated over the simulated
+time scales, together with transient higher-order oligomers. Analysis
+of intermolecular residue contacts highlights aromatic residues as
+prominent contributors to peptide association, consistent with a multivalent
+interaction network. Coarse-grained simulations extend these observations
+to larger systems and longer time scales, demonstrating a progressive
+assembly into dynamic peptide clusters. By discretizing the resulting
+conformational landscape, we extracted representative structures to
+reconstruct the self-association pathway from dispersed monomers to
+higher-order assemblies. The simulations provide a multiscale description
+of Hst1 self-association and support a model in which weak, multivalent
+peptide–peptide contacts contribute to the formation of dynamic
+peptide-rich assemblies. Although the present work does not directly
+demonstrate liquid–liquid phase separation, it identifies molecular
+features associated with biomolecular assembly.&lt;/span&gt;</description>
+</item>
+<item>
+<title>XTQSPRKinetic:
+A Mixture-of-Experts Framework for
+Reaction-Space Clustering and Property Learning from SMILES</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02298/5464836/XTQSPRKinetic-A-Mixture-of-Experts-Framework-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02298</guid>
+<pubDate>Thu, 05 Nov 2026 07:00:55 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02298/1/m_ci6c02298_0010.png?Expires=2147483647&amp;amp;Signature=24aiLuXqzxycbidN3EREJ9MfodppMFHTEDNqG9K80L~mBDMFLGwdlFKBJpO4QZPtDN~rO1r7PSk6Bs9EGMst8VIJFlw3~ghrGMpB~I4L1APVBM6ED-bd3y0-53XvscRD766Gfbh-Be8ucMoNOJTeXSGnf~Qn~XoxTu~8zmPgQBWDS4-SVIGmoZTDY8VLo1ZPWLmbawyBtUuV3Qvd9JMkt2XjjRgI4UKqZmUJgf332W2KX8ZFK9ImYS2T7w8OHjC5PUuTdfh4SqpKVrVs-veJSgBEvEWSVepmIosH~DCqffA0QitNdMWx-wbAvw5lQLp7dm4HHj-u7DWVto6aQjky-g__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="XTQSPRKinetic:
+A Mixture-of-Experts Framework for
+Reaction-Space Clustering and Property Learning from SMILES" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chemical heterogeneity can limit the ability of a single
+global
+structure–property model to represent modified Arrhenius parameters
+across a reaction network. XTQSPRKinetic combines learned reaction
+grouping with specialist regression in a configurable mixture-of-experts
+(MoE) architecture evaluated on a Reaction Mechanism Generator (RMG)-derived &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;-hexane pyrolysis/steam-cracking network containing 1215
+elementary reactions. Using 23 Boruta-confirmed descriptors, a seven-family
+gate combining Latent Dirichlet Allocation with fuzzy C-means clustering
+and hard routing to Extreme Gradient Boosting (XGBoost) specialists
+yielded fitted-network root-mean-square errors (RMSEs) of 7.904, 0.985,
+and 4.855 for ln &lt;span style="font-style:italic;"&gt;A&lt;/span&gt;, &lt;span style="font-style:italic;"&gt;n&lt;/span&gt;, and &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; (kcal mol&lt;sup&gt;–1&lt;/sup&gt;), respectively.
+Under the same descriptor basis, the learned-family configuration
+achieved lower reconstruction errors than both the unpartitioned global
+baseline (corresponding RMSEs of 14.394, 1.819, and 8.946) and size-matched
+random partitions (mean RMSEs of 10.746, 1.329, and 5.932). RMG-label
+specialists achieved still lower RMSEs of 5.629, 0.681, and 3.935.
+This comparison uses 15 RMG classes versus seven learned groups and
+differs in class composition, partition resolution, and specialist
+support; the performance gap cannot therefore be attributed to label
+semantics alone. Learned grouping provides a complementary organization
+without requiring RMG labels for gate fitting or routing. Residual
+diagnostics identified rare 1,3-sigmatropic rearrangements among the
+largest errors, while SHapley Additive exPlanations (SHAP) revealed
+family dependent use of the shared descriptors. These metrics characterize
+fitted-network reconstruction; predictive performance on unseen reactions
+requires separate held-out evaluation.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Long-Timescale
 Molecular Dynamics Reveal a Coordination-Biased
 Conformational Selection Mechanism for Sorcin Activation</title>
@@ -4469,34 +4580,6 @@ Dynamics Trajectory</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01426</guid>
 <pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01426/5433640/Multiscale-Interpretable-Deep-Learning-Framework"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01426/1/m_ci6c01426_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] CUE: A Chemical
-Uncertainty-Aware Embedding Framework
-for Multimodal Drug Selectivity Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01761/5432292/CUE-A-Chemical-Uncertainty-Aware-Embedding?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01761</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01761/5432292/CUE-A-Chemical-Uncertainty-Aware-Embedding"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01761/1/m_ci6c01761_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Explainable Artificial
-Intelligence to Unveil Patterns
-of Antioxidant Peptides for Free Radical Regulation</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01872/5431954/Explainable-Artificial-Intelligence-to-Unveil?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01872</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01872/5431954/Explainable-Artificial-Intelligence-to-Unveil"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01872/1/m_ci6c01872_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] From Closed to
-Mighty: How GTP-Induced Allosteric
-Dynamics, Dimerization, and Membrane Binding Transform a Bacterial
-Dynamin-like Protein</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01952/5436118/From-Closed-to-Mighty-How-GTP-Induced-Allosteric?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01952</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01952/5436118/From-Closed-to-Mighty-How-GTP-Induced-Allosteric"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01952/1/m_ci6c01952_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
