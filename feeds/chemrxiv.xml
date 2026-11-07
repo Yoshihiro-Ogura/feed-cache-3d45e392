@@ -5,6 +5,13 @@
 <link>https://chemrxiv.org/action/showFeed?type=latest&amp;format=rss</link>
 <description>ChemRxiv: Latest Preprints (mirrored feed)</description>
 <item>
+<title>Large Language Models in Chemistry: Opportunities, Limitations, and Hallucination Risks</title>
+<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15011834/v1?af=R</link>
+<guid>10.26434/chemrxiv.15011834/v1</guid>
+<pubDate>2026-11-07T09:33:39Z</pubDate>
+<description>Large language models (LLMs) have moved quickly from general-purpose text tools to components of chemical research workflows. They are now used to extract data from the literature, propose synthesis routes, write analysis code, predict properties from few examples, and control laboratory instruments through tool-augmented agents. These capabilities create real opportunities, particularly for researchers and institutions with limited access to specialist software and training. They also carry risks that are specific to chemistry. Chemical information is dense with symbols, units, stoichiometry, and safety-critical numbers, and LLMs generate fluent text whether or not it is correct. This perspective reviews the main opportunities for LLMs in chemistry, the technical limitations that constrain them, and a taxonomy of hallucination types with examples of how each can cause harm in a laboratory or research setting. It then proposes a practical verification framework for everyday users, a set of reporting practices for authors, and a short research agenda. The central argument is that LLMs are most valuable in chemistry when they are treated as fallible assistants wrapped in verification tools, such as cheminformatics libraries, databases, and physical measurement, and not as sources of chemical truth.</description>
+</item>
+<item>
 <title>Sequence order controls silver(I) coordination in aqueous His–Met–Pro tripeptide–nitrate mixtures: an ab initio molecular dynamics study</title>
 <link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15011801/v1?af=R</link>
 <guid>10.26434/chemrxiv.15011801/v1</guid>
@@ -1043,12 +1050,6 @@
 <guid>10.26434/chemrxiv.15011631/v1</guid>
 <pubDate>2026-11-04T05:50:52Z</pubDate>
 <description>Functionalized carbazoles are versatile organic building blocks that play pivotal roles in diverse applications, particularly in charge-transfer complexes, hole-transport materials, and interfacial modifiers. In this study, we synthesized 1,8-functionalized carbazole derivatives (C1-C5) with various aryl substituents that provided extended conjugation via Mizoroki-Heck coupling reaction using our previously developed phosphine ligand-based Pd catalysis. Among them, the di(1-vinylpyrene) derivative (C4) exhibited a unique molecular conformation in which one pyrene unit is nearly coplanar with the carbazole. At the same time, the other is twisted by about 49°, resulting in a bidirectional π-stacking arrangement, as revealed by its single crystal structure. Photophysical, electrochemical, and computational studies collectively supported the influence of aryl substitution on the electronic nature of carbazole by tuning the HOMO-LUMO energy gap. AFM analysis showed that C4 self-assembled into spherical aggregates. In contrast, in the presence of naphthalenediimide (NDI8), it formed a donor-acceptor charge-transfer complex (1:2 ratio) that further self-assembled into a highly ordered, micrometer-long fibrillar structure. This long-range structural uniformity offers promising architectures for emerging applications of organic functional materials.</description>
-</item>
-<item>
-<title>Tension-Limited Leaflet-Asymmetry Budding Predicts the Size and Rate of Tumour Ectosome Shedding</title>
-<link>https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010117/v4?af=R</link>
-<guid>10.26434/chemrxiv.15010117/v4</guid>
-<pubDate>2026-11-04T05:46:23Z</pubDate>
 </item>
 </channel>
 </rss>

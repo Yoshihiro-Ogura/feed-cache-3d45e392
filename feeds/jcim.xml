@@ -5,6 +5,40 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Computational Compound
+Prioritization Strategy Incorporating
+Docking Variability and Interaction Energies Identifies Putative LRH-1
+Binders</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02790/5466124/Computational-Compound-Prioritization-Strategy</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02790</guid>
+<pubDate>Sat, 07 Nov 2026 01:00:47 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02790/1/m_ci6c02790_0007.png?Expires=2147483647&amp;amp;Signature=Kc27JTJpi2~zuaQw~s2xjkeyEJavesepglevmkRLkuCR12msUScl1qbNj-FekCoZ1HGkvPnjp0RVdgEwmRJstWUoeh3PZJMgmrJhXwper7FIOoeNHgqu31zer1c-Lmd-YDBJuguhNMgcCgBhHSMXvrTfNaGpH~Wyo6yiArE-nCCVb1aXrXoEZLDlF5ds46ts~u0AO7DrNx59rZvi4tiJ7CrcJ7bIZVDh6v~ld8zKAsa-1AE4Ftz34LOmIsRU8bMZVVnTLA7-seyF~ylPYh0bDzSOIhIzuCjB5LK5YVWImR0ZvmDjd~fa97Oo3Bxtt44q5pYzqN~KaZM~TN5hFiY-bw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Computational Compound
+Prioritization Strategy Incorporating
+Docking Variability and Interaction Energies Identifies Putative LRH-1
+Binders" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Compound ranking in structure-based computer-aided drug
+discovery
+notoriously yields highly ranked false positives due to sampling and,
+more frequently, scoring errors. We developed a compound prioritization
+strategy that utilizes sampled docked poses from complementary docking
+approaches, i.e., targeted physics-based docking and blind docking
+with a generative model, into multiple conformations of the target
+protein to train two multilayer perceptron (MLP) models. The MLPs
+predict binders or activators at the orthosteric ligand-binding pocket
+of the nuclear receptor Liver Receptor Homologue-1 (LRH-1, NR5A2).
+Our approach circumvents the reliance on a single docked pose for
+scoring compounds or individual scoring metrics for compound ranking.
+In an out-of-distribution compound set, we observed that the MLPs
+identified compounds that are chemically dissimilar from those in
+the training set and are sensitive to single scaffold modifications,
+making the MLPs potential tools for lead optimization. We applied
+the MLPs on a pilot study prospective drug discovery campaign, which
+resulted in the identification of four putative LRH-1 binders. We
+found that a combination of scoring and prediction metrics enriches
+for hit compounds across library sizes. In all, this work presents
+a method to leverage structural and experimental data to aid drug
+discovery for a challenging protein target.&lt;/span&gt;</description>
+</item>
+<item>
 <title>A Three-Level Noise
 Floor for Cyclodextrin Binding
 Constants and What It Permits for Descriptor-Based Prediction</title>
@@ -4570,16 +4604,6 @@ Identifying Cholesterol-Binding Hot Spots in Membrane Proteins</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01419</guid>
 <pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01419/5436273/Cholesterol-Hot-Spot-Automated-Mapping-Protocol"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01419/1/m_ci6c01419_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Multiscale Interpretable
-Deep-Learning Framework for
-the Identification and Visualization of Deformation Stages in Molecular
-Dynamics Trajectory</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01426/5433640/Multiscale-Interpretable-Deep-Learning-Framework?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01426</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01426/5433640/Multiscale-Interpretable-Deep-Learning-Framework"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01426/1/m_ci6c01426_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
