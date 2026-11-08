@@ -5,6 +5,13 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>A General Strategy to Control Lifetime-Resolved Polarity Quantification of Push−Pull Fluorophores</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01416/5466247/A-General-Strategy-to-Control-Lifetime-Resolved</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01416</guid>
+<pubDate>Sat, 07 Nov 2026 16:00:53 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01416/1/m_au6c01416_abs.png?Expires=2147483647&amp;amp;Signature=QWGBMtz9An0JA4XNOcOmbHNSjB2MMXizg5Te876Y1kWh2Dr7X~wqluqf3N2mHzbVrbPBva~8OIBbMWVpInAIfq~N4TLBLnbDDH~ahqsBUy5ufFq3Bb4NsM9TGZ9zozlwmv8BTCdpIqN~3hKzP8TgjsJEkPbti6lssVJ4gK-KO895Gh3ThyR-wPDn3c8iGrQmncZCyEKe9GmjOsqIsznvWra-ukfGdtpEkDPk8GFfuSb2q8eTPSP~xICHZK06oouG0Dz3mCQ5iPZ7zikBY9IXpKlobO7OPyaP-04QH2Vx~rccnmMIvBVhxgv5X7Bc4~qUZBxBNbA5iTzg1UUePm49Aw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="A General Strategy to Control Lifetime-Resolved Polarity Quantification of Push−Pull Fluorophores" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cellular polarity is important for physiological and biological conditions. Fluorescence lifetime imaging microscopy (FLIM) provides a quantitative approach for resolving microenvironmental polarity in living cells, and a variety of fluorophores have been developed for lifetime-based sensing. However, achieving tunable and quantitative polarity responses in fluorescence lifetime remains challenging, particularly when the range of polarity changes is wide. Herein, we establish a molecular design strategy that enables push−pull fluorophores to exhibit a linear response of their lifetime to environmental polarity in a wide range of polarity variations (dielectric constants from 5.30 to 32.70 or to 70.85). Theoretical calculations demonstrated that the tetrahydroquinoxaline−piperidine (THQP) unit exhibited an appropriate twisted intramolecular charge transfer (TICT) tendency, enabling effective modulation of the excited-state dynamics associated with environmental polarity. This strategy provides broad applicability across multiple push−pull fluorophores including coumarins, difluoride-boron complexes, rhodols, and boranil-derived fluorophores. Notably, THQP−coumarin probes enable quantitative mapping of polarity variations in proteins and subcellular compartments both &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt; and in living cells via FLIM. Owing to their high brightness and photostability, these probes further uncover nucleolar polarity dynamic change during the cell cycle as well as the correlation between mitochondrial polarity and morphology under stress conditions through time-lapse FLIM. In summary, this work establishes a general molecular design principle for tuning lifetime-resolved polarity quantification and expands the applicability of FLIM for quantitative polarity imaging in complex biological systems.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Electrochemical Skeletal Editing</title>
 <link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01196/5466059/Electrochemical-Skeletal-Editing</link>
 <guid>http://dx.doi.org/10.1021/jacsau.6c01196</guid>
@@ -3780,40 +3787,6 @@ tryptophan, compatibility with chemical peptide synthesis, and genetic
 encoding, 6Ac-Trp provides a useful minimal fluorophore for site-specific
 studies of protein dynamics, interactions, and localization in complex
 biological systems.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Go-and-Stop Nanovehicles
-Enabled by Counterbalanced
-NIR Optical Engines</title>
-<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00299/5276969/Go-and-Stop-Nanovehicles-Enabled-by</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00299</guid>
-<pubDate>Wed, 19 Aug 2026 17:01:38 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00299/5276969/Go-and-Stop-Nanovehicles-Enabled-by"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00299/1/m_au6c00299_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Nanomotors are promising
-for diverse applications due to their
-ability to convert energy into directional motion. However, precise
-control of their motion is still difficult because creating required
-asymmetric nanostructures presents significant synthetic challenges.
-Inspired by automotive engine control, this study reports a general
-strategy for constructing optical nanomotors with programmable motion.
-For the first time, this approach implements a “Go and Stop”
-concept, leveraging dissimilar near-infrared (NIR) responsivities
-of upconversion nanoparticle (UCNP) to accelerate (“Go”)
-or brake (“Stop”) motion on demand. Specifically, the
-nanovehicle is designed via interface-guided anisotropic growth strategy,
-where half of a single upconversion nanoparticle (UCNP) is coated
-with a hydrophilic silica shell containing Au nanoseeds, while the
-other is covered by a hydrophobic periodic mesoporous organosilica
-(PMO) loaded with Roussin’s black salt (RBS). This dual hydrophilic/hydrophobic
-design is also applicable to other optical materials, thus demonstrating
-great flexibility. When excited at 980 nm, blue light emitted by the
-UCNP activates the RBS to release nitric oxide (NO), propelling the
-nanomotor forward. Conversely, light at 808 nm induces gold-mediated
-thermophoresis, which reduces and eventually stops NO-driven motion.
-Such “pull–push” effect enables the nanomotor
-to start, accelerate, decelerate, and stop simply by switching the
-excitation light. As a proof of concept, the nanovehicle is further
-used to noninvasively regulate cellular endocytosis and has demonstrated
-great potentials for programmable tumor treatment.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

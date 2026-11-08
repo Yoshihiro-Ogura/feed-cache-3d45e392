@@ -5,6 +5,36 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>MERIT: Mechanism-Driven
+Model Predicts Drug Outcomes
+and Nominates Indications for Failed Drugs</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02891/5466182/MERIT-Mechanism-Driven-Model-Predicts-Drug</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02891</guid>
+<pubDate>Sat, 07 Nov 2026 14:00:50 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02891/1/m_ci6c02891_0005.png?Expires=2147483647&amp;amp;Signature=iftnRaU~jjJ26l4yPk4SdQX6Mfh8GhHGqKYThrAQN8DWyAcpFeair86vuRe-Ot7jgVIGhRJYaZ9eyO8kZ6Slh4NYzduEZdmeTL5NMNpJB7kaPx~ti9GjvsM18VI-mY9alyDx9-wjXhNaPdNDS0yLbwwIywPfCO0mHgP8M5yCQrOeN~Hb3jXdQT~fs8YNdrQ2qRXHBb2D3TYk1B2y0d7gOMBPyBSitrDbUeoMDh9D9NuVihWE1EmqLtGytPWKU2igFnfJEP9CGkYAtU71ZAKM7H6qsjJnUWjYYI7U-Mn2PWMDoR5l8jhGufVsUNqItRbTNX3XHbpzf9swUkRT4sy~tQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="MERIT: Mechanism-Driven
+Model Predicts Drug Outcomes
+and Nominates Indications for Failed Drugs" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Drug development depends on efficacy
+and safety, but many trial-outcome
+prediction models incorporate trial design, prior development history,
+or compound identity, enabling compound memorization and inflating
+apparent performance. We developed MEchanism-Resolved Inference of
+Trial outcomes (MERIT), a model that predicts trial outcomes from
+molecular and disease features without using information on similar-compound
+success. MERIT integrates the disease and drug of interest with large-scale
+drug–protein, protein–metabolite, and immune interaction
+maps to link a drug’s intended and potential off-target effects
+to tissue-specific efficacy and safety. Across 753 small-molecule
+drugs and 3,133 trials, MERIT achieved an overall AUROC of 0.770 (0.765
+for efficacy and 0.784 for safety) under structure-holdout evaluation,
+outperforming two published methods retrained on the same trials and
+folds. Scored by a mechanism-fit profiling, MERIT ranked the approved
+indication above the failed one for 83% (50 of 60) of a preselected
+set of 60 cohort compounds that failed one indication but are approved
+for another. Finally, we registered locked, outcome-blind predictions
+for 55 drug-indication pairs in ongoing phase III trials for prospective
+evaluation.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Computational Compound
 Prioritization Strategy Incorporating
 Docking Variability and Interaction Energies Identifies Putative LRH-1
@@ -4595,15 +4625,6 @@ Emphasis on Approved Drugs</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01375</guid>
 <pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01375/5432575/Pose-Reproduction-Cross-Docking-Database"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01375/1/m_ci6c01375_0015.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Cholesterol Hot
-Spot Automated Mapping Protocol (CHAMP):
-Identifying Cholesterol-Binding Hot Spots in Membrane Proteins</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01419/5436273/Cholesterol-Hot-Spot-Automated-Mapping-Protocol?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01419</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01419/5436273/Cholesterol-Hot-Spot-Automated-Mapping-Protocol"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01419/1/m_ci6c01419_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
