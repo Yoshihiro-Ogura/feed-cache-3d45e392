@@ -5,6 +5,35 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Property-Defining Feature Extraction in Porous Crystalline
+Materials Using Attention-Guided Cooperative Game Theory</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02337/5466282/Property-Defining-Feature-Extraction-in-Porous</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02337</guid>
+<pubDate>Sun, 08 Nov 2026 14:00:32 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02337/1/m_ci6c02337_0010.png?Expires=2147483647&amp;amp;Signature=H1n0TwPzE2GRjM3uEiPEhRNoK~njzrFqF1jVi1kaDVpnEP2HTvzQluD4jdUNZvtGm207gc5logv8~G7sJxTGS7ZwYZDvLJw9c17cSz~wWj1E7athvoHFgE4szQHwKpoB-nsHNjFwquQVzpfE5daGhPzGrkRAAmfh~OJZ~26H87cOjlmoZ099HEd03vwlVU8sLPNEbJzmBKRwCdffbEIZ9Y8IZCkwykKaBNDQNHlEZaFSsU5PI-Ud5NIDO4QsSe-3gfaaDNzmPAIQBp3NbEuHyNuMv2naEmByEbn7ig4xZNPCs36SD~vIaaY0z30XGGw2vO7a~cJ79mof7IsdhZj7pA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Property-Defining Feature Extraction in Porous Crystalline
+Materials Using Attention-Guided Cooperative Game Theory" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Porous crystalline
+materials assembled from molecular building
+blocks offer vast potential across applications such as gas storage,
+separation, and catalysis, yet their structural tunability creates
+an expansive design space that demands the systematic identification
+of their property-defining features. To help researchers identify
+these features rapidly and inform next generation design, we introduce
+the Explainable Crystal Transformer (ExCT); an attention-guided cooperative
+game-theoretic workflow for extracting property-defining structural
+features in porous crystalline materials by combining attention-based
+representation learning, Shapley-style attribution, and local surrogate-fidelity
+screening. Designed for broader use across reticular frameworks, ExCT
+is demonstrated here with metal–organic frameworks (MOFs) as
+a representative case study of H&lt;sub&gt;2&lt;/sub&gt;, CH&lt;sub&gt;4&lt;/sub&gt;, and
+CO&lt;sub&gt;2&lt;/sub&gt; adsorption: cooperative game-theoretic attributions
+highlight chemically plausible local regions in selected hypothetical
+MOFs and qualitatively correspond to reported adsorption environments
+in experimentally studied cases, whereas attention identifies broader
+property-associated regions. Strict held-out surrogate-fidelity screening
+retains only a subset of high-fidelity explanations, more frequently
+for H&lt;sub&gt;2&lt;/sub&gt; than CH&lt;sub&gt;4&lt;/sub&gt; and less frequently for CO&lt;sub&gt;2&lt;/sub&gt;.&lt;/span&gt;</description>
+</item>
+<item>
 <title>MERIT: Mechanism-Driven
 Model Predicts Drug Outcomes
 and Nominates Indications for Failed Drugs</title>
@@ -4615,16 +4644,6 @@ Simulations</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01334</guid>
 <pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01334/5421624/Synergistic-Effects-of-pH-and-Temperature-on"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01334/1/m_ci6c01334_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Pose Reproduction,
-Cross Docking, Database Enrichment,
-and Reverse Docking Benchmarks for DOCK6, Vina, and AutoDock 4 with
-Emphasis on Approved Drugs</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01375/5432575/Pose-Reproduction-Cross-Docking-Database?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01375</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01375/5432575/Pose-Reproduction-Cross-Docking-Database"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01375/1/m_ci6c01375_0015.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

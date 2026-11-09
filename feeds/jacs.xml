@@ -37,6 +37,78 @@ ability of a fluxional site to participate in metal sequestration
 at the host–pathogen interface.&lt;/span&gt;</description>
 </item>
 <item>
+<title>Ambipolar Electrochemical
+Doping of CsPbBr  3   Nanocrystals</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c19292/5466285/Ambipolar-Electrochemical-Doping-of-CsPbBr3</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c19292</guid>
+<pubDate>Sun, 08 Nov 2026 21:00:30 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c19292/1/m_ja6c19292_0006.png?Expires=2147483647&amp;amp;Signature=XoKs53awpBBW4-fQfM0MzlnfSRua1LYUS9cVXJqCNjALrRj9eb-kOcLmeig-giEoVGXCbNIOsZFND7SxRo6hVDG7P-DQyy41cPHv-Ee14P8QwIi~MxIjmx32dn3Pt64kxXYAaOqIhXY3r9lKDBAC0GP96PqWFkaH3r~PWKhRVds7hVD1wye~pmbIvFfzvbDuZBBD-gZqX5jcAdULYOmvzs0ljx2F1ofc9Rf6dRBPaS2MoUJc4qpqAW0MVx~AyvbEdZiXngyTkCGgKyrvJwX-38xvgmAX2Tn-wXHsXEh6S7JJH3CU8GuEY2IKJ1u6Fx37BVtgXGd0PUMck~q~w6vSPg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Ambipolar Electrochemical
+Doping of CsPbBr  3   Nanocrystals" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Electronic
+doping underpins many semiconductor applications
+but
+has remained elusive for lead halide perovskite nanocrystals because
+their high density and low formation energy of defects easily compensate
+introduced dopants. Here, we use electrochemical doping as a strategy
+to avoid doping compensation. Electrochemical injection of electrons
+or holes into the nanocrystal is compensated by surface-adsorbed electrolyte
+counterions, therefore not compromising crystal structure. We accomplished
+ambipolar (n- and p-type) doped CsPbBr&lt;sub&gt;3&lt;/sub&gt; nanocrystals with
+charge carrier concentrations ranging from intrinsic up to 4.8 ×
+10&lt;sup&gt;17&lt;/sup&gt; cm&lt;sup&gt;–3&lt;/sup&gt; (corresponding to 0.25 charges
+per nanocrystal). We show that electrochemical doping is reversible
+and stable at these free carrier concentrations. The extent of doping
+and stability are enabled by the use of lecithin, a zwitterionic ligand
+that strongly binds to the surface of the CsPbBr&lt;sub&gt;3&lt;/sub&gt; nanocrystals
+while still allowing ion and electron transfer. Lecithin stabilizes
+the surface atoms by shifting the potentials for Pb&lt;sup&gt;2+&lt;/sup&gt; reduction
+and Br&lt;sup&gt;–&lt;/sup&gt; oxidation outside of the bandgap. The inferred
+surface-chemistry design rules for stable electrochemical doping can
+also serve as a guideline for developing CsPbBr&lt;sub&gt;3&lt;/sub&gt; nanocrystals
+stable under high free-carrier concentrations in optoelectronic devices,
+such as light-emitting diodes or electronically triggered quantum
+light sources.&lt;/span&gt;</description>
+</item>
+<item>
+<title>CHARMM-Compatible
+Molecular Mechanics Force Fields
+for Multiscale Modeling of HIV-1 Replication Inhibitors</title>
+<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c11578/5466280/CHARMM-Compatible-Molecular-Mechanics-Force-Fields</link>
+<guid>http://dx.doi.org/10.1021/jacs.6c11578</guid>
+<pubDate>Sun, 08 Nov 2026 14:00:32 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c11578/1/m_ja6c11578_0008.png?Expires=2147483647&amp;amp;Signature=WXdbPL3csfV4jzAbiUPgTGpK9xFCcOLh11Q7EsCI4fBXLd7dkWseRjhisnerLwQp3WBXxRoC2Osua~fyxi8VqnRjmaWTygC2KW-iHsldEWQX~L0bqUleKCxcFtqKm~7xR9Ip86E4qfi4Ef5N~V1mAkmosRaS-a4Vewun0F7aqyq7ktCmvLKBC1nSbNTgYaR9anoHZAEvu2niebF0csEDQhiCyfqPYkRcfjLCxXDtojEH1svRUzItLpnR9yJMgnFOAT7xUOxL2drMukoQjdt4ebaU6ZoPNc7kKnlxYNkNzYKFBn6kq6-ryhwq0iC1S14gfQxq4eLtKeYjZWm4CPd4lg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="CHARMM-Compatible
+Molecular Mechanics Force Fields
+for Multiscale Modeling of HIV-1 Replication Inhibitors" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular dynamics
+simulations provide insight into inhibitor-protein
+interactions and support rational drug design; however, their accuracy
+depends on reliable molecular mechanics force field parameters and
+coarse-grained representations that retain relevant molecular features.
+Although force field parameter sets for biomacromolecules are well
+established, the chemical diversity of small-molecule inhibitors often
+requires the development of system-specific parameters. Here, we present
+a parametrization framework integrating quantum mechanical optimization,
+experimental benchmarking, and small-molecule coarse-graining, demonstrated
+using HIV-1 inhibitors targeting multiple stages of the viral replication
+cycle. We provide a curated data set of CHARMM-compatible force field
+parameters for 12 HIV-1 inhibitors and the HIV assembly cofactor inositol
+hexakisphosphate (IP6), together with geometry-optimized atomic structures
+and ligand restraint files. The resulting parameters are validated
+against experimental structural and thermodynamic benchmarks, including
+lenacapavir binding free energy estimates, through inhibitor-bound
+complex simulations. We demonstrate applications of the parameter
+data set by quantifying inhibitor-protein interactions, including
+the free-energy profile of an integrase strand transfer inhibitor
+interacting with the viral capsid lattice, and the binding energetics
+of an allosteric integrase inhibitor. Furthermore, we extend the all-atom
+inhibitor parameter data set through a novel coarse-graining strategy
+for small molecules that preserves key electrostatic features. The
+HIV-1 inhibitor force field parameter data set is a publicly available
+resource that establishes a unified framework for multiscale modeling
+of HIV-1 inhibitors and facilitates computational and structural biology
+studies of drug resistance and inhibitor design. More generally, the
+framework presented here is broadly applicable to small-molecule parametrization
+and multiscale simulations in other therapeutic and biomolecular contexts.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Geometry-Induced Construction
 of Sub-Stoichiometric
 3D Covalent Organic Frameworks for SO 2  Capture</title>
@@ -4721,64 +4793,6 @@ more, EDA-NOCV shows that &lt;strong&gt;6&lt;/strong&gt; is best described as a 
 biradical [B&lt;sub&gt;4&lt;/sub&gt;(NMe&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;] ring stabilized
 by two [(DAE)Al(NMe&lt;sub&gt;2&lt;/sub&gt;)]&lt;sup&gt;•–&lt;/sup&gt; radical-anion
 donors.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Dynamically and Reversibly
-Functionalized Self-Assembled
-Platelets via Noncovalent Interactions</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c17888/5460980/Dynamically-and-Reversibly-Functionalized-Self</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c17888</guid>
-<pubDate>Thu, 29 Oct 2026 15:00:59 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c17888/1/m_ja6c17888_0006.svg?Expires=2147483647&amp;amp;Signature=XOs4QGh10mmkUMm8DgtWH9b7vQwillipZzjgPQ1-QE4GRXXftBmY1VN6up4K6hyKaH9p2pNiGUfuCyFatlWR-Mo-r4FeULAvdG8O8o7qLvfSP9F1af4TPzECbVqdgH1y-xte47ireLl3Vn1~EVakNGCJuEymqCRWE22V2U8RbEK7MfQf8bI11R-tViP2F~za1Cfs1yZ54~vORK6zr4sjs~qWtSRbfrgurqGrjZrsnF0aNGxoaGS-g8wYdiOuI0kmdqOEkB7zuys4cMD7jK8g11a2NGUpgBRnYHpLcMnTu0olIe-s21nsOz2cWYeHosRi6lnQ1uN18jW7Cf6eeL6zmw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Dynamically and Reversibly
-Functionalized Self-Assembled
-Platelets via Noncovalent Interactions" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The creation of polymeric assemblies with reconfigurable
-surface
-functionality remains a major challenge for programmable soft materials.
-Covalent modification strategies can provide stable functional materials,
-but often require harsh reaction conditions or irreversible bond formation.
-Here, we integrate noncovalent interactions with crystallization-driven
-self-assembly (CDSA) to construct polymer platelets with region-selective
-functionalization and controllable responsiveness under mild conditions.
-Polycaprolactone-based platelets bearing cyclodextrin, barbituric
-acid, or related recognition motifs were prepared and subsequently
-orthogonal modified with complementary fluorescent guests through
-host–guest interactions or hydrogen bonding. Confocal fluorescence
-microscopy confirmed platelet-localized dye incorporation, while competitive
-displacement and relabeling demonstrated reversible molecular loading
-and release without disrupting platelet structural integrity. This
-work establishes supramolecular modification of CDSA-based assemblies
-as a modular route to soft materials with controllable and reconfigurable
-molecular functionality under mild conditions.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Chemically Engineered
-Carbon Nanotubes Map Class-Selective
-Metabolite Enrichment from Human Plasma</title>
-<link>https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c15416/5460975/Chemically-Engineered-Carbon-Nanotubes-Map-Class</link>
-<guid>http://dx.doi.org/10.1021/jacs.6c15416</guid>
-<pubDate>Thu, 29 Oct 2026 15:00:59 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/pap/10.1021_jacs.6c15416/1/m_ja6c15416_0007.png?Expires=2147483647&amp;amp;Signature=biC25VPtLFde6lOq9a47tNQnhp6CuOiWNoAcRJV6R4GJ1k-OelDHysJHBZW5Wh7XqvQgXS~o~zZxOLUjDOxJ1BSnKa4lYSoyXWUq327rdkIIuvti-b-A7b1DQvscClZ1iYpLh7auAE0DZWeX3zec8O9s4hHmtZyqPVhBBxKXmDxrvUo89EugcLutkbnt5r-fM3y9U6LLBcl7BVTkZko4PwyCYpgVUVr9z8oXLlHS4PlpbCNDd9C9cXc7faHORKfb3wZbbP2KyrXmQYk1Vrf6fcdRrke8rWZVsw0a7p30WYgZX07ytgZVYuXfVR2-5EKPCX6h-8-F8HuyUNUHCzHBJg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Chemically Engineered
-Carbon Nanotubes Map Class-Selective
-Metabolite Enrichment from Human Plasma" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The spontaneous adsorption of biomolecules onto nanoparticle
-surfaces
-has been extensively characterized at the protein level, but the metabolite
-corona remains poorly defined, in part because low annotation rates
-inherent to untargeted metabolomics limit systematic, class-level
-analysis. To address this analytical challenge, we developed a multimodal
-liquid chromatography–mass spectrometry workflow combined with
-machine-learning classifiers, extending metabolite class annotations
-from 10 to 45% coverage to the full detected set and enabling the
-first class-level mapping of metabolite corona composition across
-25 chemically modified carbon nanotubes in human plasma. Complementary
-analytical conditions detected approximately 9,000 metabolite features,
-of which over 5,000 yielded valid corona-versus-plasma enrichment
-measurements. We find that polymer wrapping dominates corona composition,
-and covalent quantum well defects further modulate class-level enrichment
-in a structure- and chemistry-dependent manner. Our findings demonstrate
-that chemically modified carbon nanotubes can serve as tunable, selective
-scaffolds for metabolite enrichment, potentially enhancing the capability
-to recruit and detect structurally diverse, low-abundance small molecules
-in complex biofluids.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
