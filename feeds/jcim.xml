@@ -5,6 +5,182 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>In Silico  Design of Dimerization
+Interfaces in  Drosophila melanogaster  Glutathione Transferase</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01706/5466855/In-Silico-Design-of-Dimerization-Interfaces-in</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01706</guid>
+<pubDate>Mon, 09 Nov 2026 15:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01706/1/m_ci6c01706_0008.png?Expires=2147483647&amp;amp;Signature=xDEEG5rkSJNqJZS3d0bi-21zfW5iP3B6dqU1srmVNP4wAIoxS6K0W8qz1GfIgcaWF~dTaDFl1I2pS~EvubYwO2cwOxvTno2cFkNN9GRNe32o8YqNiNbUiNTfK-AqFVAbx7icJPrOnG46OBAncYoeNFAgTem1xUW2Db31TDGGmgtPsKUdZa6jRWpCj5J8Jo3UpxDWjqWx7adFSIwny8DSsIvH4vkUNXcvSGSzWjto2znM6ysyEi4NDgmr1JGCOyQ88qNl5VXhuP0DwI3USIf3b9HTw5rbojE0oNlvW4JYE608Tq23yhboMKmnqgMZ2nYTWJMALM6TZg83bgNqMqzTsg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt=" In Silico  Design of Dimerization
+Interfaces in  Drosophila melanogaster  Glutathione Transferase" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding
+the molecular determinants of protein–protein
+interface stability remains a central challenge for the rational engineering
+of oligomeric enzymes. Here, the glutathione transferase GSTE3 from &lt;span style="font-style:italic;"&gt;Drosophila melanogaster&lt;/span&gt; is used as a model system
+to decipher the factors governing dimer stability through an integrated
+structural, computational, and experimental approach. The X–ray
+crystal structure reveals a canonical homodimeric organization with
+a conserved Epsilon-class dimerization motif at the subunit interface.
+Molecular dynamics simulations combined with inter-residue contact
+network analysis provide a quantitative description of the interface,
+identifying persistent and transient interactions that contribute
+to dimer stability. Building on this framework, sequence-space exploration
+by Monte Carlo simulations is employed to design the dimerization
+interface and enhance stability. Distinct modeling strategies, differing
+in mutation schemes and energy evaluation methods, yield multiple
+classes of variants with diverse interfacial properties. Their stability
+and interaction patterns are further assessed using molecular dynamics
+simulations, enabling comparative analysis of structural robustness
+and contact network organization. Selected variants are subsequently
+produced &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt; to evaluate their experimental
+feasibility. Altogether, this study establishes a multiscale framework
+for the rational engineering of protein–protein interfaces
+and highlights both the potential and limitations of sequence–based
+optimization strategies for stabilizing enzyme dimers.&lt;/span&gt;</description>
+</item>
+<item>
+<title>BFEE3: An AI-Assisted,
+Feature-Rich, and Streamlined
+Platform for Absolute Binding Free Energy Calculations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02494/5466854/BFEE3-An-AI-Assisted-Feature-Rich-and-Streamlined</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02494</guid>
+<pubDate>Mon, 09 Nov 2026 15:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02494/1/m_ci6c02494_0004.png?Expires=2147483647&amp;amp;Signature=lUnm8RM0hZHbILNLcE6srkyIBd-2wS4QQaCI~3Tq3de~~WVGkFq6uLLsG6KCynkyk8aF1FZ0D14hvtiHEeFVp-dhW-VIbRry8fzyzvCDK7CK3IKVXx1SnW~EANyW01NAGBMGpvnrRKPFCUWDzlK38EYRsH3zjujo96NYhPwuhUZU~5JlnLbVZVl4srSEgyHRfX85-VEVlSgW8UaCuwS3WM3SKlxK6wpYHeF46xtrFif~JdB~gidLg2C7gUoIEDIxY-sEQjhgw6GBOijUvBdgzKXrfNrmh2-RE6XUJgBvXc4gbUIn3HIMM0oVbmdERZ60Fyzwz~YYDfp9f2VzZ5szhw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="BFEE3: An AI-Assisted,
+Feature-Rich, and Streamlined
+Platform for Absolute Binding Free Energy Calculations" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Absolute binding free energy (ABFE) calculations for
+protein–ligand
+and protein–protein complexes, based on molecular simulations,
+are now established as essential tools in drug design and protein
+engineering. Nevertheless, both geometrical and alchemical routes
+require multistage simulation campaigns involving input preparation,
+postprocessing, and bookkeeping. These complex procedures can introduce
+preventable errors and limit accessibility for nonexpert practitioners.
+Therefore, there is a clear need for user-friendly and automated software
+environments to address these challenges. The Binding Free Energy
+Estimator (BFEE) is one such tool that has been widely adopted for
+estimating binding free energies. In this work, we present BFEE3,
+a release that delivers two major advances. First, it integrates an
+artificial intelligence (AI) assistant that enables the configuration
+of binding free energy protocols through natural language and provides
+on-demand explanations of methodological differences and the roles
+of individual options. Second, it incorporates recently developed
+protein–ligand ABFE protocols based on the double-decoupling
+method (DDM), including lucid DDM (LDDM) and well-tempered metadynamics-λ
+adaptive biasing force-accelerated DDM (WTM-λABF-DDM). Additional
+enhancements include support for protein–protein ABFE calculations,
+GROMACS compatibility for geometrical protein–ligand workflows,
+one-click simulation setup, and other usability improvements. We demonstrate
+the main advances of BFEE3 on three representative protein–ligand
+systems, focusing on natural-language-driven setup, automated input
+generation, postprocessing, and convergence analysis. We anticipate
+the use of BFEE3 by both expert and nonexpert users across physical
+chemistry, biochemistry, and medicinal chemistry.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Structural Insights
+into the Coaggregation Mechanism
+of TTR and TDP</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02386/5466853/Structural-Insights-into-the-Coaggregation</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02386</guid>
+<pubDate>Mon, 09 Nov 2026 15:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02386/1/m_ci6c02386_0008.png?Expires=2147483647&amp;amp;Signature=I84lfmesSNGp2PjGXHEtKInCtN1F-~atsu4kS4gjO5Mxu2yDrgLev3wj3dCzsgXHorYiI5h4SlR7Fa-xVjqxo7adU6x5ipBYVOoB3w-Xn6Eq8CQpk4M6VilUYn0nmW5UHDdoJJHk5RAtD-si1ax4Td0SHvfUoAorxeOkNBSPCdsPvuwEyQI~hsAWiPW-ByftsBN7EblVjT0lCA5gAI7RJllmQzt0iEj~1Eaz-rG9E5-xm1kA7fk1UfDWrNsXGtY5QwTPh0LQgdYd4XyXNopNDOR-IpE17QeXVOd0gYv5PG2EiSSMgL9wV~g4nhgTAZLrjFQIdicdLpK0zeWlWqaISQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Structural Insights
+into the Coaggregation Mechanism
+of TTR and TDP" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The self-aggregation of TTR and TDP proteins is closely
+associated
+with the treatment of TDP-43 proteinopathies. Recent experimental
+evidence suggests that TTR and TDP-43 can coaggregate in the cytoplasm
+of Amyotrophic lateral sclerosis (ALS) patients and disease models.
+However, their coaggregation molecular mechanisms are unknown. Herein,
+we investigated the conformational ensembles of TTR, TDP, and TTR-TDP
+systems, respectively, employing all-atom replica exchange molecular
+dynamics (REMD), molecular dynamics (MD), and coarse grain (CG) MD
+simulation methods. Analyses reveal that TTR-TDP heterohexamer can
+assemble into closed/open β-barrel structures, but TTR/TDP homohexamer
+can form bilayer structures, implying the distinct coaggregation property
+of the TTR-TDP heterohexamer. Compared to TTR/TDP systems, the TTR-TDP
+system has a higher β-sheet content, longer β-strands
+and larger β-sheets, suggesting the stronger coaggregation ability
+of the TTR-TDP heterohexamer. Further analyses reveal that the hydrophobic
+interactions play the pivotal role in driving the coaggregation of
+TTR and TDP. These findings may provide a deeper understanding of
+the pathogenesis of related amyloid diseases and prove the development
+of novel therapeutic strategies.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Membrane Lipid
+Composition and Asymmetry Modulate
+Translocation Versus Leakage of the Model Amphipathic Peptide MAP</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01742/5466826/Membrane-Lipid-Composition-and-Asymmetry-Modulate</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01742</guid>
+<pubDate>Mon, 09 Nov 2026 14:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01742/1/m_ci6c01742_0006.png?Expires=2147483647&amp;amp;Signature=HaqrMXC9iMqAY67ZKKSgTownEYn~TiaLRzAF2hJkke-nEnSImR0lnmaJlgqtcUptPxPRkxWWRRK6BdRB5xJM4ZjbSQnRzdZ2C0cccfxzeRRcQBYVOvvksLTH0y6XT0RzRIsL3APaElZ9kySbJjaqpj2i8mVGaI0LXp32-McxhQTz~DfEjseODozx~bAw9qes18m7YwiUrYLTRlh~xvWbwN8qY1quW66bEhcvBQP7UKukM2oVx0a0JcOa7HbojZMvTX-xjSkSul4YY7zWed07lA3iSRFzrwNzHlb-ChkwO-LHQLmnTym00XXDzI2GuV3KNt1PnZ1ItNWXOEc5scQ-~A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Membrane Lipid
+Composition and Asymmetry Modulate
+Translocation Versus Leakage of the Model Amphipathic Peptide MAP" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cell-penetrating peptides (CPPs) can enable intracellular
+access
+while avoiding cytotoxicity, yet their behavior is highly sensitive
+to membrane composition. Here we show that lipid composition and leaflet
+asymmetry act as a switch that determines whether the amphipathic
+CPP MAP undergoes nondisruptive translocation or stabilizes membrane
+pores that drive leakage. Using high-field computational electrophysiology
+(CompEL) simulations in membranes of increasing physiological relevance,
+we show that electrically induced membrane defects allow the insertion
+of MAP peptides. We find symmetric anionic bilayers favor MAP insertion
+coupled to transmembrane pore stabilization in POPC/POPG membranes,
+reproducing progressive dye release in liposome leakage assays. Incorporation
+of cholesterol reduces the number of inserted peptides and conducts
+to faster leakage kinetics in cholesterol-containing vesicles. In
+contrast, a minimal asymmetric membrane model (POPC extracellular
+leaflet; POPC/POPS intracellular leaflet) supports MAP translocation
+without sustained membrane disruption. This delivery-relevant mechanism
+is supported by efficient MAP internalization in HEK293 cells while
+maintaining high viability. Polarized ATR–FTIR provides structural
+context, indicating predominantly membrane-associated α-helical
+conformations across lipid compositions. Together, these results establish
+lipid asymmetry and composition as actionable biointerface parameters
+that tune CPP function between translocation and leakage and demonstrate
+an experimentally benchmarked framework for predicting membrane outcomes
+across complex lipid environments.&lt;/span&gt;</description>
+</item>
+<item>
+<title>An Antisymmetric
+Framework with Cross-Modal Information
+Decoupling for Predicting Missense Mutation-Induced Changes in Protein–Ligand
+Binding Affinity</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02822/5466437/An-Antisymmetric-Framework-with-Cross-Modal</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02822</guid>
+<pubDate>Mon, 09 Nov 2026 10:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02822/1/m_ci6c02822_0008.png?Expires=2147483647&amp;amp;Signature=RCUc9iVdxRHDtBbuf5QtzxerpTPs424uOEnafRI3~INBHaSt~FV9cTD0ZD0TXppLhhu5Mu4jy~H30qzEn1dJj0eOwD~aS6w483Ae6Zy~X1VJR1sTqey9hi5OI1bhh-FkN5UaHJkao6HPvVcUZjxAhujWx-unkj1zPrFOH9AREsUWk7Z0h7wg2NhLzEDD5ggh-4MytbAtBYdeV9-gpy1infDR3Ix~lNwRgiOSyV01BQI7321~SxSAd0fmu81Qa0HRXEO7mvxxfgrsFclUl020UZU-3b9OO4c3dU9WnptnexK8W2E~IO0Y9KB0L8L07Goj0sOq4qtlbW6-5Ey6TOnhEQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="An Antisymmetric
+Framework with Cross-Modal Information
+Decoupling for Predicting Missense Mutation-Induced Changes in Protein–Ligand
+Binding Affinity" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurately predicting changes in protein–ligand
+binding
+affinity induced by missense mutations is important for understanding
+disease mechanisms, identifying drug resistance mutations, and supporting
+precision medicine. However, existing computational methods often
+directly integrate protein sequence and structure information, which
+may introduce background information, structural uncertainty, and
+redundant cross-modal information, limiting the identification of
+transferable mutation-related features. In addition, most existing
+approaches do not explicitly enforce the thermodynamic consistency
+of binding free energy changes upon mutation reversal. Here, we present
+MutBindPred, a cross-modal deep learning framework for predicting
+missense mutation-induced changes in protein–ligand binding
+affinity. MutBindPred jointly models wild-type and mutant protein–ligand
+complexes and introduces a cross-modal information decoupling module
+to separate modality-shared background information from modality-specific
+mutation-related signals. The framework further captures directional
+differences between wild-type and mutant states and incorporates an
+antisymmetric constraint to improve the thermodynamic consistency
+of predicted ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt; values. Under rigorous
+protein and ligand cold-start settings, MutBindPred achieves improved
+generalization performance compared with existing baseline methods.
+Further analyses show that sequence-derived heterogeneous representations
+provide the strongest transferable predictive signals. Structural
+representations show limited standalone predictive utility but contribute
+as an auxiliary modality for guiding cross-modal representation learning.
+Overall, MutBindPred provides a thermodynamically consistent and generalizable
+framework for predicting missense mutation-induced changes in protein–ligand
+binding affinity.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Property-Defining Feature Extraction in Porous Crystalline
 Materials Using Attention-Guided Cooperative Game Theory</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02337/5466282/Property-Defining-Feature-Extraction-in-Porous</link>
@@ -4599,51 +4775,6 @@ ChEMBL Bioactivity Curation for QSAR Modeling</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c00802</guid>
 <pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00802/5436330/CAPRICHO-Interpretable-Quality-Flagging-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00802/1/m_ci6c00802_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] In-Context Molecular
-Property Prediction with LLMs:
-A Blinding Study on Memorization and Knowledge Conflicts</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00961/5432107/In-Context-Molecular-Property-Prediction-with-LLMs?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c00961</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00961/5432107/In-Context-Molecular-Property-Prediction-with-LLMs"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00961/1/m_ci6c00961_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] AGENTi: APCI-ESI
-Analyte Ionization Fidelity Pre-Screening
-Workflow using Multimodel Inference</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01085/5437769/AGENTi-APCI-ESI-Analyte-Ionization-Fidelity-Pre?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01085</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01085/5437769/AGENTi-APCI-ESI-Analyte-Ionization-Fidelity-Pre"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01085/1/m_ci6c01085_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Multiparadigm Benchmark
-of Molecular Docking: From
-Physics to Co-Folding and Hybrid Models</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01293/5434364/Multiparadigm-Benchmark-of-Molecular-Docking-From?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01293</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01293/5434364/Multiparadigm-Benchmark-of-Molecular-Docking-From"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01293/1/m_ci6c01293_0005.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Energy Landscape Sampling Reveals Ligand-Dependent
-Structural Dynamics of the Protease-Activated Receptor 1</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01315/5436112/Energy-Landscape-Sampling-Reveals-Ligand-Dependent?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01315</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01315/5436112/Energy-Landscape-Sampling-Reveals-Ligand-Dependent"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01315/1/m_ci6c01315_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Synergistic Effects
-of pH and Temperature on Dengue
-Virus Envelope Dimers: Insights from Microsecond Molecular Dynamics
-Simulations</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01334/5421624/Synergistic-Effects-of-pH-and-Temperature-on?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01334</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01334/5421624/Synergistic-Effects-of-pH-and-Temperature-on"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01334/1/m_ci6c01334_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
