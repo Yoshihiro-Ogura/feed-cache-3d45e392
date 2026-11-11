@@ -5,6 +5,36 @@
 <link>https://pubs.acs.org/rss/chreay/asap.xml</link>
 <description>Chem.Rev. (mirrored feed)</description>
 <item>
+<title>Diffusion Models for Small-Molecule Design</title>
+<link>https://pubs.acs.org/chreay/article/doi/10.1021/acs.chemrev.6c00161/5468115/Diffusion-Models-for-Small-Molecule-Design</link>
+<guid>http://dx.doi.org/10.1021/acs.chemrev.6c00161</guid>
+<pubDate>Tue, 10 Nov 2026 19:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/chreay/pap/10.1021_acs.chemrev.6c00161/1/m_cr6c00161_0018.png?Expires=2147483647&amp;amp;Signature=ko~QNvCHDkSgXc6UwskzviOACTHkChcLkbVhcpMLy50g~d-x2cZXLIFWvlRb-S7gZ6cIn7kRh5NpLzM5eCCcOMVC3Fa4nDeDo8fxmOYXECF5jA6tFKY-OAGJq5DCaKiq8Cvlyvkz~f1V~35cUjrQHbVstFFVKInmp2qt4~BKVpNoo0-K~~OxCwMzf7DM9-GHgQifzgPWD9C8FCcrqiWGXtEa1dzBOGzUTI-GJPVhk-wGK-JU9lJWJblb5mpaDoHmcwdiIfpWz-HOOZlD2S~YD4zadTn4KdPcNlMQ~YzH3v1Q0h6o-5M3DiQ2qdKTUfoz9eiZbtvxXHYAoDumtGOp5g__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Diffusion Models for Small-Molecule Design" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Diffusion models (DMs) have emerged
+as a class of generative models
+for controllable small-molecule design in drug discovery capable of
+progressively transforming noisy or partially specified molecular
+states into candidate structures under structural, geometric, and
+property constraints. This Review provides a comprehensive overview
+of the methodological foundations and representative applications
+of diffusion-based molecular generation, emphasizing the alignment
+among molecular representations, generative dynamics, controllable
+design, and evaluation and validation. Particular attention is given
+to recent advances in property- and structure-guided generation, target-aware
+and fragment-based design, multiobjective optimization, and synthesis-aware
+generation. We also discuss the roles of data sets, computational
+evaluation, and prospective experiments in assessing the chemical
+and biological relevance of generated molecules. By organizing these
+developments within a unified conceptual framework, we provide computational
+chemists and drug discovery researchers with a structured roadmap
+that balances the mathematical rigor with chemical intuition. Throughout,
+we highlight current methodological limitations and unresolved challenges
+and conclude with future directions toward chemically credible and
+experimentally grounded molecular design. To facilitate navigation
+of this rapidly evolving field, we introduce an interactive companion
+platform (https://diffsmd.scbdd.com) that provides a curated, continuously updated repository of model
+architectures and visualizations.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Two-Dimensional
 IR Spectroscopy: Mapping Structure
 and Dynamics in Complex Molecular Environments</title>

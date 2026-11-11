@@ -5,6 +5,222 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Proteome-Wide Identification
+and Membrane Positioning
+of Single-Pass Membrane Proteins Using AlphaFold Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03090/5468171/Proteome-Wide-Identification-and-Membrane</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03090</guid>
+<pubDate>Tue, 10 Nov 2026 22:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03090/1/m_ci6c03090_0008.png?Expires=2147483647&amp;amp;Signature=QropQGO8fIH5qSjkVH3njO2r1vhBlC3ajIsTfXP4yak9S0DxeJv8Qeu2PdXZ68ffwinJA3VvMgMaALwUCd~LhA-J5Y~e6-lP~U1sZ75h-8hYGFDxjjZ5rxH1YxqmnrJq4tfMfnyQQvyi83kxxrKscfWSclBMC5hhwaOUU1P5BDYTP2vflJKr40Pa5gUp2OWaHZZzyg0OwNkkb-TRXn16zxm5gfXCDRqqsvDrN15tgZ5kr-HC72vL4Uu06EeMnpT4rJXTvRiKO~6g~zTnIwYMTrtWs4qRsAPkJ9xgIdorwMlP22fxqCDEgpDWTP1AyiQzXjNimVwbQWjro5MWEVNKfA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Proteome-Wide Identification
+and Membrane Positioning
+of Single-Pass Membrane Proteins Using AlphaFold Models" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Single-pass (bitopic) transmembrane (TM) proteins are
+highly abundant
+and functionally diverse, yet their structures remain poorly characterized.
+Experimental structures of full-length bitopic proteins and their
+functional complexes are scarce. Although thousands of predicted protein
+structures from hundreds of proteomes are available, accurately identifying
+bitopic proteins and determining their orientations within a lipid
+bilayer remain challenging. Here we developed AlphaPPM, a new pipeline
+and web server that identifies bitopic proteins from AlphaFold (AF)
+models and positions them in membranes. Built on the established Positioning
+of Proteins in Membranes (PPM) and Folding of Membrane-Associated
+Peptides (FMAP) approaches, AlphaPPM automatically removes low-confidence
+unstructured regions and signal sequences, separates structural domains,
+and then reassembles and orients extracellular, intracellular, and
+TM domains relative to membrane boundaries. We applied and validated
+the method across complete sets of bitopic proteins from 18 organisms.
+The results are available through MembranomeX, a dedicated web resource
+comprising an online database and four web servers. Supplemented by
+manual curation and cross-validation, the database contains membrane-oriented
+AF models of 16,697 bitopic proteins organized into 15 functional
+classes, 664 superfamilies, and 2497 families and data on 7966 protein
+complexes. Notably, the workflow identified 1225 bitopic proteins
+absent from established databases. MembranomeX integrates tools for
+structural modeling, data retrieval, model verification, and 3D visualization,
+providing a comprehensive platform for evolutionary, structural, and
+functional analyses of bitopic proteins.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Deep-Learning Predictions
+of Biomolecular Structures:
+Persistent Limitations and New Horizons Extended by Explicit Ion Addition</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02555/5468053/Deep-Learning-Predictions-of-Biomolecular</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02555</guid>
+<pubDate>Tue, 10 Nov 2026 18:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02555/1/m_ci6c02555_0010.png?Expires=2147483647&amp;amp;Signature=TUwwjR5fKf3I2hXF6zuuLA9GIBHRW~fwCUAuvq2PAoXyUyPaSlJFU7Eb1XaNOmlFT8See-h97LdOIU5yFlVdcBFx2vKd-LbWQ41f7tBOXZ0~flI61w6FF9O246q1SgXH4n-WEcgIhBwoZNATSshV2GuhZmVj2oP5IDI-VR6p609ff94Wkxs9EhH7gJFJJZfYsPcNCtIN027sTXj9IpiQKK0OmMvW9ZgNwXnneAwRXhOrr8fzIvvUrWpQ5limdFWv8zOVzOqSDZ0NNKQ49XlTG2mTWQL~KKfQ~5sECS7HvI-ZCUug2uw6ZsPWjNKsfCTU14pg7HylokRDfhNhEpQlwg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Deep-Learning Predictions
+of Biomolecular Structures:
+Persistent Limitations and New Horizons Extended by Explicit Ion Addition" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The advent of deep-learning-driven
+tools such as AlphaFold
+has
+revolutionized the prediction of biomolecular structures, offering
+unprecedented accuracy and accessibility for proteins, RNA, and their
+complexes. While these tools have demonstrated remarkable success
+in benchmarking competitions and enabled experimentalists to generate
+models with ease, their widespread use has also highlighted persistent
+challenges. These include difficulties in assessing model confidence,
+limitations in predicting transmembrane domains, nucleic acids, conformational
+diversity, and interactions with ions or ligands, as well as the tendency
+to misfold intrinsically disordered regions (IDRs). In this perspective,
+we critically evaluate the strengths and limitations of current AI-based
+structure prediction tools through illustrative examples with a particular
+emphasis on the impact of explicit ion modeling. We notably report
+that the explicit addition of a few potassium cations to the prediction
+of IDRs or G-quadruplexes can substantially shift AF3’s predicted
+conformation compared to “dry” predictions. On this
+basis, we suggest modeling sequences both “dry” and
+in the presence of explicit potassium cations as a simple, practical
+way to sample alternative conformations and to expose disordered regions
+that current predictors tend to overfold. We discuss the importance
+of reporting confidence metrics in publications to avoid overinterpretation.
+Furthermore, we address the unique challenges of RNA structure prediction,
+where data scarcity and structural complexity limit the performance
+of both classical and deep learning methods. Our analysis underscores
+the need for continued methodological advancements, integration of
+complementary computational tools, and expansion of high-quality experimental
+data sets.&lt;/span&gt;</description>
+</item>
+<item>
+<title>FusioBERT: A Task-Adapted
+Peptide Language Modeling
+Framework for Anti- Fusarium  Peptide
+Discovery</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02852/5467789/FusioBERT-A-Task-Adapted-Peptide-Language-Modeling</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02852</guid>
+<pubDate>Tue, 10 Nov 2026 15:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02852/1/m_ci6c02852_0019.png?Expires=2147483647&amp;amp;Signature=X34OS~LDURV6Pz4ShC6Czg4-gIhEos7cJ5dPvOgrNhaot92p4F3gzibM~Nfe8cuxU42ty3bD2Yj0V8j-Qz~lpqWAuP4IgVWV9xhGhGfnRTOmnrtjAmtfK~4SOALdgrpyU24hmO2ciNl7KFP9xdTWL3hQR46qzIBg5Zq0UgC857oMCHybTgwrWrQxjG1QVmXeqNC3u6qCapntA7obL2tAJaHW6JPdXhZ5M128p4mwOPoWC9FMIuRdVD8cYwkO3c616Gl22d5MeFy20tOuemmYQcqdGLXZUCJlrPQ9zJ6k8DwIh1-et30ceVkeQwRhCcxJo8gSHjukay8hq-1ntSjQSQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="FusioBERT: A Task-Adapted
+Peptide Language Modeling
+Framework for Anti- Fusarium  Peptide
+Discovery" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;Fusarium&lt;/span&gt; pathogens cause
+substantial
+crop losses, motivating targeted antifungal peptide discovery. We
+developed FusioBERT, a 7.52-million-parameter peptide language model
+incorporating fixed sinusoidal positional encoding, learnable relative
+position bias, RMSNorm, and SwiGLU. It was pretrained on 19.18 million
+short sequences and 12,616 candidates mined from 232 &lt;span style="font-style:italic;"&gt;Trichoderma&lt;/span&gt; genomes. The curated benchmark comprised
+210 labeled peptides; evaluation used five balanced 178-sequence subsets
+with three-seed 5-fold cross-validation. FusioBERT achieved an MCC
+of 0.948 ± 0.058 and generated continuously differentiated genome-scale
+rankings, whereas physicochemical classifiers exhibited score saturation.
+Across nine external peptide tasks, FusioBERT obtained a mean MCC
+of 0.685, compared with 0.666 for PepBERT-large and 0.654 for ESM2.
+Fixed-seed residue-order shuffling reduced MCC from 0.947 to 0.874,
+providing preliminary evidence of sequence-order sensitivity beyond
+bulk composition. Among the three evaluated prioritization strategies,
+FusioBERT-only ranking yielded the most favorable descriptive wet-laboratory
+outcomes, including the strongest broad-spectrum candidates, SR1403–2
+and SR1403–3. Their Hill-logistic EC&lt;sub&gt;50&lt;/sub&gt; values ranged
+from 1.62 to 7.07 μM; observed MIC end points were 8–32
+μM. Physicochemical fusion, docking, and molecular dynamics
+were treated as auxiliary analyses. FusioBERT supports model-first
+prioritization but does not directly establish activity probabilities,
+candidate safety, or universal homology-independent generalization.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Large-Scale and
+Systematic Prediction of ADMET Properties
+through Heterogeneous Network and Kernel-Based Deep Learning</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01629/5467774/Large-Scale-and-Systematic-Prediction-of-ADMET</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01629</guid>
+<pubDate>Tue, 10 Nov 2026 15:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01629/1/m_ci6c01629_0006.png?Expires=2147483647&amp;amp;Signature=yBYh9txdEGZnlqlDPk7YJvMzZluDeCfybccu6BxbxL1gn-S6oD90MIIVa2h25Hkuew46ojc~QXIMlQkn4Z0jYcGjckbe8AO5vfhSEa8yXKFjOIDuzEHds~c4ez-1KIqoCK78C62iBvdQ6uDqkAD3u8H08GxRzExNUcqYkTR3SUGyzWafW~RziIAUyI~JrnJhXEBVnsfmvsXzRtQttiQ0cEShFnsRat4hjSvht2Lna2nnT9wZE4F749hjtvuO3i4DeX-WaEeuDWop9k7in22el3WM3QejBpqIicD2WtoX4m49QQA-8Oib8ztR2AvMwhbIA8ncel2h6KR7-Kf3Nt7RIA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Large-Scale and
+Systematic Prediction of ADMET Properties
+through Heterogeneous Network and Kernel-Based Deep Learning" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurately predicting absorption, distribution, metabolism,
+excretion,
+and toxicity (ADMET) properties remains a major challenge in accelerating
+drug discovery, especially for underexplored natural products (NPs).
+Herein, we present a unified multitask learning framework that integrated
+heterogeneous network (HN) embeddings and a modified kernel-based
+deep neural network (DNN) to simultaneously predict all ADMET properties.
+Our model named as hdADMET captures complex molecular interactions
+through HNs that incorporated compound–drug relationships,
+experimental validated ADMET features, and the interrelationships
+among ADMET properties to transform the embedding representations
+into a kernel-based DNN for boosting the learning ability of the prediction
+model. Hold-out cross-validation on benchmark data sets, including
+ChEMBL, BindingDB, CTRPandGDSC, and NPASS, demonstrated improved and
+robust accuracy through data integration. Compared with the state-of-the-art
+multitask models, the hdADMET model achieved competitive performance
+with a significantly lower computational cost. Its practical utility
+was further demonstrated by accurately predicting the ADMET profiles
+of newly identified NPs mined from the literature studies. The promising
+candidate with high anticancer activity, low toxicity, and favorable
+metabolic properties was identified for further experimental validation.
+The hdADMET model offered an alternative way to prioritize leading
+compounds for clinical translation through HN embeddings and deep
+learning.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Expert-Augmented
+Deep Learning Approach for Synthesis
+Route Evaluation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03207/5467072/Expert-Augmented-Deep-Learning-Approach-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03207</guid>
+<pubDate>Tue, 10 Nov 2026 07:00:45 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03207/1/m_ci6c03207_0011.svg?Expires=2147483647&amp;amp;Signature=b7rT7OS8WVxDpE-w56tcdosEoXJ5YQiUY8IK4N2jw8~wDrBh59n0eJZA~rb9j06tPUJ~~oiLrVR7Q0RCpjStYRVD8r1kf1MTb9b9NoYEpCog3QL1BHFM1lXJcNgyrsLlj1k4giMYzJLtVDB6ViDWRBbbpR2Y81GU9mf3NgHsGxd5Wxyr2N616zHRIZM2tbfid7a2MGISU1L8MbjdgISEI3eFbBVMbCCtpDM10TlZ9wJ9UsxntPZcIpGW7sqLEk9CmEQP9Mwi-wCWL08GDiSd5WJvx8s~frwXrgrKoWeRCeSI6khb8hNbmYaZwypP3GpU6LPRjia3QgC-NWUgnWtT6A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Expert-Augmented
+Deep Learning Approach for Synthesis
+Route Evaluation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Selecting multistep synthetic routes remains a major
+bottleneck
+in computer-aided synthesis planning: high-quality negative data are
+scarce, and individual reported routes provide incomplete benchmarks
+for route quality. We introduce an expert-augmented framework that
+combines large-scale reference-based learning with expert-defined
+chemical feasibility assessment. Large-scale pretraining on literature-derived
+reference routes achieves 60.3% top 1 reference-route recovery on
+held-out targets. In expert assessment, the model’s top-ranked
+route is feasible in 88.4% of assessed cases, either matching a reference
+route or representing an alternative endorsed by experts. Among alternative
+top-ranked proposals, 75.4% are judged feasible, demonstrating that
+divergence from a literature reference does not necessarily indicate
+chemical infeasibility. The pretrained model captures a measurable
+expert-feasibility signal (Spearman |ρ| = 0.46), which increases
+to 0.78 ± 0.05 after expert fine-tuning. On an independent multi-expert
+dataset, agreement with the expert majority increases from 48.0% to
+64.0% after fine-tuning, comparable to the 64.8% agreement between
+a held-out expert and the majority of their peers. Together, these
+results show that large-scale proxy supervision can provide scalable
+route prioritization, while limited expert supervision substantially
+improves alignment with chemical feasibility.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Surrogate Machine
+Learning Models for ADME Prediction:
+From Synthetic Labels to Experimental Data</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02049/5466989/Surrogate-Machine-Learning-Models-for-ADME</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02049</guid>
+<pubDate>Tue, 10 Nov 2026 05:00:32 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02049/1/m_ci6c02049_0007.png?Expires=2147483647&amp;amp;Signature=WhGz62c~OcFonlzmwFwnok~C03fWHACjKYKhfsyeu8kYF7Fj28mrWMoQMsUcV6~dWiK1Ey-s2gsWp9QHgFo~q5-o1oNYXvi~SCO7IQ4i92Z2AcPhR--4E8CHUFL~WaOMAoEoMMCOphMd5vgQo5p6BU~iIr8sgDoectfU5wR88GI6ZaZEkHQYEelU80eFEHmHFlCDa1k4gh57WHx23DypItLXTOILY9y05w2n6PX8k31gTdjCXxasD-pDCQC17d~J9Wvh7XGO9G8Ba7X0INSNT7CaVBuXHB1Aj7fKMCJoPap0GxDyI-p5yPtOlwE391mdAYs1Q5XzqZ4qJ3VrEwulzQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Surrogate Machine
+Learning Models for ADME Prediction:
+From Synthetic Labels to Experimental Data" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Optimization of absorption,
+distribution, metabolism,
+and excretion
+(ADME) properties is central to small-molecule drug discovery, yet
+is often constrained by limited access to large and consistent experimental
+data sets. The performance and generalizability of machine learning
+(ML) models for ADME property prediction rely on the composition of
+the training data. Surrogate data sets comprise compounds annotated
+with synthetic ADME labels (predictions) generated by ML models trained
+on experimental data. This can offer a consistent data augmentation
+or sharing strategy without requiring access to proprietary data sets;
+ML models trained on these data can be referred to as surrogate models.
+However, systematic strategies for developing, evaluating, and applying
+surrogate models remain underexplored, particularly in the context
+of transfer learning and validation on new experimental data. In this
+work, surrogate modeling strategies were investigated for ADME prediction
+using a data set of over 270,000 compounds with synthetic labels across
+25 endpoints. ML models were built on such surrogate data set and
+evaluated on prospective in-house and public experimental ADME data.
+Surrogate models based on multitask graph neural networks were predictive
+under prospective in-house validation and across multiple properties
+on external data. Uncertainty estimates were informative and actionable,
+identifying predictions associated with higher or lower prediction
+errors. Moreover, fine-tuning on experimental data further improved
+performance for most property data sets. Overall, these results show
+that surrogate models, especially coupled with fine-tuning, provide
+a practically valuable approach for ADME prediction, supporting model
+development from consistently generated data and bringing new opportunities
+for ML models for property prediction.&lt;/span&gt;</description>
+</item>
+<item>
 <title>In Silico  Design of Dimerization
 Interfaces in  Drosophila melanogaster  Glutathione Transferase</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01706/5466855/In-Silico-Design-of-Dimerization-Interfaces-in</link>
@@ -4611,170 +4827,6 @@ While ChEMBL and BindingDB host extensive bioactivity archives, PDBbind
 directly links three-dimensional complex structures with carefully
 curated binding affinity data. This unique value makes it best suited
 for structure-based studies.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Benchmarking Experiments
-with External Data, Domain-Specific
-Features, and Learning Strategies for Modeling ADME and Potency of
-Coronavirus Main Protease Inhibitors</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00304/5441801/Benchmarking-Experiments-with-External-Data-Domain</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c00304</guid>
-<pubDate>Tue, 29 Sep 2026 18:00:31 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00304/5441801/Benchmarking-Experiments-with-External-Data-Domain"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00304/1/m_ci6c00304_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predictive computational models of potency and pharmacokinetic
-properties of antiviral drug candidates can dramatically accelerate
-the path from molecular design to clinical evaluation. The ASAP-Polaris-OpenADMET
-consortium hosted the open-science Antiviral Drug Discovery Challenge
-2025, providing a rigorous setting for this problem and requiring
-prediction of potency against the SARS-CoV-2 and MERS-CoV &lt;span style="font-style:italic;"&gt;M&lt;/span&gt;&lt;sup&gt;&lt;span style="font-style:italic;"&gt;pro&lt;/span&gt;&lt;/sup&gt; alongside five ADME end
-points (LogD, KSOL, HLM, MLM, and MDR1-MDCKII). In response, we pursued
-a domain-aware modeling strategy, reasoning that the distinctive chemical
-properties of antiviral compounds could be explicitly engineered in
-the feature space. We tested this premise by isolating the key molecular
-descriptors capable of identifying antivirals, augmenting challenge
-data sets with curated public data, and building both classical machine
-learning and graph neural network (GNN) variants. For ADME modeling,
-ensemble gradient boosting models trained on our bespoke feature space
-consistently outperformed both broader tree-based approaches and GNN
-variants across the five ADME end points in blind evaluation. By a
-factorial design of experiments and statistical benchmarking, we evaluated
-the performance of the optimal XGBoost model for each end point. For
-modeling potency, we explored varied pretraining paradigms and ensemble
-fusion strategies, and found that a stacking ensemble combining docking-enhanced
-XGBoost with a stereochemistry-aware AttentiveFP Graph-Transformer
-model yielded the strongest significant generalization on the Challenge
-test set, suggesting that orthogonal model families reduced epistemic
-uncertainty attributable to model selection in data-limited, multitarget
-settings. Beyond benchmarking, our experiments provided a testbed
-for evaluating critical assumptions in the field, encompassing data
-augmentation strategies, splitting protocols, and ensemble integration
-approaches. Our analysis revealed that a consistently optimal model
-is elusive, and that several standard industry practices fail to withstand
-close inspection. Overall, our work provides both practical benchmarked
-modeling strategies for ADME and potency prediction and a reproducible
-computational foundation for AI-driven antiviral drug discovery efforts.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Generative AI-Assisted
-Molecular Design of AChEIs</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02233/5441756/Generative-AI-Assisted-Molecular-Design-of-AChEIs</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02233</guid>
-<pubDate>Tue, 29 Sep 2026 16:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02233/5441756/Generative-AI-Assisted-Molecular-Design-of-AChEIs"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02233/1/m_ci6c02233_0020.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Alzheimer’s disease (AD) remains a major neurodegenerative
-disorder with limited therapeutic options, while currently approved
-acetylcholinesterase inhibitors (AChEIs), such as donepezil, are associated
-with adverse effects including cardiotoxicity. Here, we integrated
-a deep learning-based framework to design novel AChEIs candidates
-with improved predicted cardiac safety. A reinforcement learning-guided
-GraphVAE (RL-GraphVAE) was employed for target-biased molecular generation.
-The generated compounds were prioritized through CardiotoxPred-based
-cardiotoxicity screening, molecular docking, triplicate molecular
-dynamics simulations, and chemical synthesis. Experimental evaluation
-identified D0209 as a lead molecule exhibiting a noncompetitive inhibition
-mechanism. Notably, compared with donepezil, D0209 showed ∼43-fold
-lower hERG channel inhibition, indicating an improved cardiac safety
-profile. Overall, this integrated computational and experimental workflow
-demonstrates the utility of generative modeling for the discovery
-of novel leads with improved predicted safety profiles, providing
-promising starting points for further optimization and biological
-evaluation.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Predicting Synergistic and Antagonistic Micellization
-Effects in Surfactant Blends for Optimized Formulation Design</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02030/5440504/Predicting-Synergistic-and-Antagonistic</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02030</guid>
-<pubDate>Tue, 29 Sep 2026 11:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02030/5440504/Predicting-Synergistic-and-Antagonistic"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02030/1/m_ci6c02030_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Surfactant mixtures
-exhibit non-ideal interactions that govern
-their macroscopic behavior, yet their prediction is limited by the
-need for experimentally derived interaction parameters. Within Rubingh’s
-Regular Solution Approximation (RST), these interactions are described
-by the parameter β, which is typically obtained by fitting experimental
-mixture data, restricting its applicability in large-scale formulation
-design. In this work, a computational hybrid approach combining machine
-learning with thermodynamic modeling is introduced to enable end-to-end
-prediction and optimization of surfactant mixtures. A dataset of interaction
-parameters derived from experimental binary surfactant mixtures was
-constructed to train predictive models for β, together with
-models for pure-component properties. The predicted, composition-dependent
-β values are incorporated into the RST framework to estimate
-mixture behavior without requiring experimental mixture data, while
-treating the resulting activity coefficients as effective quantities.
-The overall framework was further validated against a comprehensive
-dataset of binary surfactant mixtures and further evaluated on ternary
-systems, showing good agreement with experimental values across diverse
-interaction regimes and compositions. In addition, a multi-objective
-optimization strategy is introduced to identify formulations that
-balance performance and molecular complexity, enabling efficient exploration
-of chemical space. A case study on representative systems further
-demonstrates the applicability of the framework for computational
-formulation design. Overall, the proposed approach provides a scalable
-computational tool for surfactant mixture design, reducing reliance
-on experimental parameterization while enabling rapid virtual screening
-of formulation space.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Enzymatic Reaction
-Feasibility Classification Using
-Machine Learning Methods</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02294/5440449/Enzymatic-Reaction-Feasibility-Classification</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02294</guid>
-<pubDate>Tue, 29 Sep 2026 07:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02294/5440449/Enzymatic-Reaction-Feasibility-Classification"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02294/1/m_ci6c02294_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;With the advancement of computer-aided retrobiosynthesis,
-numerous
-biosynthetic pathways have been predicted, exceeding the capacity
-of experimental validation. Effective classifiers are needed to identify
-feasible reactions. In this study, we collected 75,864 feasible reactions
-from biocatalysis databases and generated an equal number of infeasible
-reactions based on reaction rules. Following atom mapping focused
-on reaction centers and systematic reaction preprocessing, three datasets
-for training were constructed: the “stereo” dataset,
-which retained reaction stereochemical information; the “non-stereo”
-dataset, which was a stereochemistry-agnostic version of the “stereo”
-dataset; and the “mixed” dataset, which comprised both.
-We established a total of 22 individual enzymatic reaction feasibility
-classification models, which include: eXtreme Gradient Boosting (XGBoost)
-and Deep Neural Network (DNN) models utilizing Reaction Fingerprints
-(RXNFP), Differential Reaction Fingerprint (DRFP), and our constructed
-Combined ECFP4 Reaction Fingerprints (c_ECFP4) for reaction representation,
-and Transformer models and fine-tuned ChemBERTa-77M-MLM (ChemMLM)
-models using reaction SMILES strings as the direct input. The results
-indicate that models utilizing the c_ECFP4 representation achieved
-the highest predictive performance, which effectively captured underlying
-enzymatic reaction mechanisms. Among them, Model 1A-M (based on XGBoost
-and “mixed” dataset) was identified as the optimal individual
-model, achieving Matthews Correlation Coefficient (MCC) values of
-0.865 and 0.853 and Area Under Curve (AUC) values of 0.981 and 0.980
-on the “stereo” and “non-stereo” test
-sets, respectively. Furthermore, a consensus model enzymatic reaction
-feasibility classification (ERFC) integrating four reaction representations
-further improved predictive performance, achieving MCC values of 0.894
-and 0.886 and an AUC of 0.986 on both test sets. Moreover, both models
-(Model 1A-M and ERFC) successfully validated a five-step biosynthetic
-pathway, demonstrating higher prediction accuracy than the previously
-reported DeepRFC and DORA-XGB models in identifying feasible reactions.
-All data, the individual Model 1A-M, and the consensus model ERFC
-are openly available, offering a reliable and flexible framework for
-predicting enzymatic reaction feasibility in the presence or absence
-of stereochemical information.&lt;/span&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] HDACiAP: A Curated
-Database and Analytical Platform
-for Histone Deacetylase Inhibitors</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00572/5433648/HDACiAP-A-Curated-Database-and-Analytical-Platform?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c00572</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00572/5433648/HDACiAP-A-Curated-Database-and-Analytical-Platform"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00572/1/m_ci6c00572_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] CAPRICHO: Interpretable
-Quality Flagging and Flexible
-ChEMBL Bioactivity Curation for QSAR Modeling</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00802/5436330/CAPRICHO-Interpretable-Quality-Flagging-and?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c00802</guid>
-<pubDate>Mon, 28 Sep 2026 19:09:42 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c00802/5436330/CAPRICHO-Interpretable-Quality-Flagging-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c00802/1/m_ci6c00802_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
