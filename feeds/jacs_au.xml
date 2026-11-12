@@ -5,6 +5,20 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Induced Lysosomal Targeted Degradation of the Oncogenic RNA-Binding Protein HuR Complex</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01290/5468854/Induced-Lysosomal-Targeted-Degradation-of-the</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01290</guid>
+<pubDate>Wed, 11 Nov 2026 18:00:50 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01290/1/m_au6c01290_abs.png?Expires=2147483647&amp;amp;Signature=09LuSC69rafkDU2E5GbCQjc2qxwrq~lbi78vWiepWJGKB~L3X8DWccac9mKaPlv~V75CeGSsnaXRhlwKWTNYkMzsORqv-saB3ZG2coAAkdL3kGvh0lfazo7bFz5FXPE-d5I1jSt9LRuTpd2hLhmTVtVbYyUG1BwBIDjYM-Ad6dS1ZR7wDzDT-ZZDYK60aJ-qbD49SMuQUF~mjuTYk81mIzn9pRbxg40YORDQMtbnFo66zJh4hRA~Tzj9u2MtimDJxqT5nTg~jEWYIp3pTHiDdTFtzvBwnN3mFG7sSInxCFIMmMktn2oXhld2itoJlrDyvjtOdQq7M63-rd7dAhsnSQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Induced Lysosomal Targeted Degradation of the Oncogenic RNA-Binding Protein HuR Complex" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The RNA-binding protein HuR (ELAVL1) is frequently overexpressed and aberrantly localized in cancer cells, where it enhances the stability and translation of numerous transcripts involved in proliferation, survival, invasion, and resistance to therapy. HuR contains multiple RNA-recognition motifs and regulates a broad network of oncogenic mRNAs. Consequently, inhibition of a single RNA-binding pocket is often insufficient to fully suppress its oncogenic activity, as HuR may retain RNA-binding and regulatory functions through its remaining domains. Complete elimination of HuR and its associated ribonucleoprotein complexes may provide a more effective therapeutic strategy than conventional occupancy-based inhibition. Here, we present an induced-proximity approach that redirects HuR-containing complexes toward lysosomal degradation. We developed bifunctional molecules designed to simultaneously bind HuR and engage p62, a selective autophagy receptor that promotes cargo sequestration and subsequent lysosomal clearance. The lead compound induced efficient HuR degradation in breast cancer cells through a lysosome-dependent mechanism. This degradation was accompanied by reduced expression of major HuR-regulated oncogenic targets and a marked decrease in breast cancer cell proliferation and viability. These findings establish p62-mediated lysosomal degradation of HuR complexes as a promising anticancer strategy and provide a broader framework for targeting oncogenic RNA-binding protein networks. More broadly, this work provides a foundation for a next-generation therapeutic platform aimed at targeting previously difficult-to-drug oncogenic RNA-protein networks.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Collision Dynamics in Thermally-Controlled Ball Milling in Rh(I)-Catalyzed C−H/C−N Bond Activation: Mechanism and Hot−Spot Activity</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01116/5468847/Collision-Dynamics-in-Thermally-Controlled-Ball</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01116</guid>
+<pubDate>Wed, 11 Nov 2026 18:00:50 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01116/1/m_au6c01116_abs.png?Expires=2147483647&amp;amp;Signature=ssrnje8v~MFDy~6XjuP79wdBzP~t2N8wYrXAYslZoUb4rIqYWERAdsbr8zn1fy2JUUJ-WZ2QJBJdHnEhPgIPmzMub2Np6NbGPFPwVxL3wFjvexRyrRAv2Z5DZDtAkRdBxU9gXNiFi7jwVa4vHxfsCNNeU0pjzBk5P81XX7tH9rYrVjvYnlSvbZD-NTxJrdr57xZhSS34dqZW1F5ItfHfBJPRK8jZBd-F7zqd1Nm9fD76aVANfmeuet2mkuXbPgRzU8iia30qXclDKMsIaT5Msj0PjeubNQp0v72GNFdHtzcK6QHVkHSVa1zDiuv5av35LPAumUr~kPVPkIUiMT0DBg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Collision Dynamics in Thermally-Controlled Ball Milling in Rh(I)-Catalyzed C−H/C−N Bond Activation: Mechanism and Hot−Spot Activity" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Mechanochemical activation represents a powerful concept to harness mechanical force and drive chemical transformations in a solid state. Herein, we report a framework to determine the effect of temperature increase on mechanochemical ball milling in Rh(I)-catalyzed C−H/C−N activation. By using collision dynamics, we provide a model to determine the effect of ball size, milling frequency, internal jar length, velocity, material, and internal curvature during the collisions. By conducting computational studies, we investigate the reaction mechanism and the role of thermal mechanochemical collisions on C−H/C−N bond activation steps. Taking the solution-phase mechanism as a working hypothesis, the observed ball-milling acceleration is consistent with a proposal combining local temperature elevation at impact sites, estimated at up to 83.5 K above the bulk temperature, and modest, step-dependent mechanical modulation of selected transition states, while the rate-determining step is not significantly affected by compression. These results suggest that mechanical force can lower selected transition-state barriers at hot spots, offering a promising strategy for mechanochemical synthesis.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Multiplexed Bioorthogonal
 Imaging through Affinity
 Hierarchies in a Supramolecular Host</title>
@@ -3745,71 +3759,6 @@ multitechnique characterization system provides a powerful analytical
 tool to precisely resolve SEI formation and failure processes, thereby
 offering scientific insights and practical engineering strategies
 for developing safer and highly reversible Li-metal batteries.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Transneuronal Transport of Ligand-Conjugated Upconversion
-Nanoparticles from the Peripheral to the Central Nervous System</title>
-<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00949/5278459/Transneuronal-Transport-of-Ligand-Conjugated</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00949</guid>
-<pubDate>Thu, 20 Aug 2026 15:01:18 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00949/5278459/Transneuronal-Transport-of-Ligand-Conjugated"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00949/1/m_au6c00949_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Despite significant
-advancements in neuro-nanotechnology, the movement
-of nanomaterials between peripheral and central neurons for applications
-such as cargo delivery, imaging, and tracking remains a formidable
-challenge. This limitation highlights the critical necessity for developing
-engineered materials that can facilitate efficient intra-axonal transport
-and trans-synaptic translocation. In this study, we report the design
-and synthesis of core–shell–shell upconversion nanoparticles
-(CSS-UCNPs) featuring a NaYF&lt;sub&gt;4&lt;/sub&gt;:YbEr core sequentially coated
-with active NaYF&lt;sub&gt;4&lt;/sub&gt;:YbNd and inert NaYF&lt;sub&gt;4&lt;/sub&gt; shells.
-To achieve neuron-specific targeting, the architecture was surface-functionalized
-with poly(ethylene glycol) (PEG)-maleimide and conjugated to the RVG29
-peptide (CSS-PEG-RVG29). Characterization by transmission electron
-microscopy, dynamic light scattering, and spectroscopic analyses confirmed
-uniform particle size (42.9 nm radius) and efficient upconversion
-luminescence (λ&lt;sub&gt;ex&lt;/sub&gt; = 808 nm, λ&lt;sub&gt;em&lt;/sub&gt; =
-500−575 nm). &lt;span style="font-style:italic;"&gt;In vitro&lt;/span&gt; assays demonstrated
-low cytotoxicity in Neuro2a, NSC34, and C6 cell lines at concentrations
-up to 500 μg/mL, enhanced cellular uptake mediated by RVG29,
-and no detectable alterations in spinal neuronal action potential
-firing, as assessed by patch-clamp electrophysiology. &lt;span style="font-style:italic;"&gt;In vivo&lt;/span&gt;, intrafascicular injection into the mouse sciatic nerve (2 mg/mL,
-2 μL) resulted in nanoparticle transport to the dorsal part
-of the spinal cord, with localization in higher regions of the central
-nervous system (CNS) and cortices, as visualized by multiphoton microscopy.
-In contrast, control experiments utilizing scrambled RVG29-conjugated
-nanoparticles demonstrated negligible accumulation within the CNS.
-These findings establish CSS-PEG-RVG29 as a promising platform for
-peripheral-to-CNS cargo delivery, with broad potential applications.&lt;/span&gt;</description>
-</item>
-<item>
-<title>All-in-one Photoelectrochromic
-Device Enabling Designable
-Coloration and Real-Time Light Adaptation</title>
-<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00768/5278418/All-in-one-Photoelectrochromic-Device-Enabling</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00768</guid>
-<pubDate>Thu, 20 Aug 2026 14:01:06 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00768/5278418/All-in-one-Photoelectrochromic-Device-Enabling"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00768/1/m_au6c00768_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Solar-powered electrochromic devices (SP-ECDs) are promising
-for
-zero-energy smart optical systems, holding potential applications
-in energy-saving windows, augmented reality displays, and adaptive
-camouflage. State-of-the-art SP-ECDs typically rely on the physical
-stacking of solar cells and electrochromic components. This approach
-inevitably introduces multiple heterogeneous interfaces, which severely
-limit the switching speed, operational stability, and color diversity
-of integrated devices. Herein, we introduce an all-in-one photoelectrochromic
-device that molecularly integrates dye-sensitized photoanodes and
-viologen electrochromic molecules within a single redox electrolyte.
-This innovative device achieves a record switching time of ∼7
-s under optical, electrical, or hybrid stimuli, enabling real-time
-light adaptation to various dynamic illumination situations. The device
-presents high operational stability, enduring over 10&lt;sup&gt;3&lt;/sup&gt; cycles
-under continuous AM 1.5G illumination. Furthermore, it offers a wide
-range of designable color palette (red, green, blue, purple, and cyan)
-with uniform, full-frame coloring appearance, facilitating further
-aesthetic and functional designs. Our strategy establishes a monolithic
-architecture that overcomes the integration complexity in conventional
-SP-ECDs, inspiring the creation of customized material platforms and
-the advancement of self-adaptive optoelectronics.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

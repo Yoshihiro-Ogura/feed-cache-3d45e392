@@ -5,6 +5,168 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Leveraging Contrastive
+Learning for Conditional and
+Robust TCR Sequence Generation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02823/5468411/Leveraging-Contrastive-Learning-for-Conditional</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02823</guid>
+<pubDate>Wed, 11 Nov 2026 11:00:50 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02823/1/m_ci6c02823_0006.png?Expires=2147483647&amp;amp;Signature=io95TYo7jBoZyoEahNGz4tNEb1r-K1yKF-tQgq6PDWJ9Zr0zqymprODo~-2qJtKKiSvrhumH9bjHtCXkG7mF8qxbmux7KQB0TILrgWuHeBvzLZif5RhH3MScS5t5wp1w~z2mZRqs8m0hv5T7vW~fxgyV-66FF0FzBWEYXdKT6tTQ0m4VflYLvpsPJaGVXZGJwncxgj56mo1UUbTSf-h2xGlBnSTnbuQoSbKhmG~l52WXt7MhDV3Z1IbHPD5-XymUKy7USx78~0KLuzKDp5Vytovohu2zPc3Yp-DLLwWjwPQvNmCEA~JzTS-mm351d05~4VZEV01MGhZQ0rP6rWVCWQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Leveraging Contrastive
+Learning for Conditional and
+Robust TCR Sequence Generation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;T cell receptor (TCR) initiates T cell activation programs
+that
+are central to antiviral and antitumor immunity, and TCR-engineered
+T cell is a promising therapeutic approach in treating solid tumors.
+However, the design of TCR is time-consuming and labor-intensive,
+and computational TCR sequence generation remains comparatively underdeveloped
+with fewer dedicated models. We propose an encoder-decoder generation
+framework (&lt;span style="font-style:italic;"&gt;i.e.&lt;/span&gt;, Pep2Tcr) warm-started with pretrained
+peptide and TCR language models to conditionally generate TCR CDR3β
+sequences targeting a specific peptide. It also incorporates contrastive
+learning over batches to pull each TCR toward the peptide it pairs
+with. Through a series of progressive evaluations, Pep2Tcr outperforms
+other state-of-the-art methods under generation distribution, hit
+(independent testing sets), authenticity (third-party prediction),
+and generation probability (OLGA). Grafting and docking experiments
+of some predicted positive TCR sequences to the HLA-A*02:01-AAGIGILTV
+(melanoma antigen) complex showed plausible scores and potential interaction
+patterns for downstream experimental validation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Evaluating MSA-Derived
+Evolutionary Information in
+Enzyme Recommendation for Biocatalytic Reactions</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03384/5468400/Evaluating-MSA-Derived-Evolutionary-Information-in</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03384</guid>
+<pubDate>Wed, 11 Nov 2026 10:00:49 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03384/1/m_ci6c03384_0006.png?Expires=2147483647&amp;amp;Signature=HMK0m~kNmi~MmSwP7qkmWJql8Qb1EBbvlWEeYte7YJKRiGjNGzwIR5hCKvGr~yJkEcDQVJ9Bnv~74VbYOvXlS60ZhW8QlPZrsUvS2EXPeXJt1wdQ5170QNauu8GckJpM7CAg8axVlA~LeOBSiaGL~6u5FRgFQPjYvQZer5NNu95YMmW-lW5OmvQsfC-jOmxkZLbCvdOtqQShPna5e2qi-b-JP7NfYw27XpzkY8T9lENYtrrDfHcDkB8gxnenKm5QmcdvNyVTEGJBfs~AgGCBR0Hos-cuxzEusKFDEYISzO8twY~Yedc6pd5dixXt2ZcTQZLmqmrhH43hzzEoizVz4A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Evaluating MSA-Derived
+Evolutionary Information in
+Enzyme Recommendation for Biocatalytic Reactions" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Reaction-conditioned enzyme recommendation ranks candidate
+enzymes
+for a query chemical transformation, but the contribution of explicit
+evolutionary context to this task remains insufficiently characterized.
+Here, we present an exploratory evaluation of multiple sequence alignment
+(MSA)-derived evolutionary features, integrating full-sequence and
+pocket-level MSA Transformer representations into EnzymeCage and a
+benchmark-adapted Horizyn implementation through concatenation or
+gated fusion. On the fixed Enzyme-405 candidate pools, the evaluated
+EnzymeCage Pocket-MSA model achieved a Top-1 success rate of 20.3%
+versus 14.6% for the baseline, while Full + Pocket MSA achieved a
+Top-10 success rate of 61.4% versus 55.6%; changes on Orphan-335 and
+in the adapted Horizyn implementation varied across configurations.
+Although a focused three-seed EnzymeCage baseline–Pocket comparison
+did not establish a consistent improvement across training runs and
+ranking cutoffs, analyses of MSA diversity, training-reference sequence
+similarity, and alignment-context removal characterize the observed
+effects and guide further evaluation of MSA-augmented enzyme recommendation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Cheminformatics
+Analysis of Substituents in Bioactive
+Molecules and Their Bioisosteric Replacement Network</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03454/5468361/A-Cheminformatics-Analysis-of-Substituents-in</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03454</guid>
+<pubDate>Wed, 11 Nov 2026 07:01:21 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03454/1/m_ci6c03454_0005.png?Expires=2147483647&amp;amp;Signature=R9C9JzSTK8zFSxH6ehRMjH7ZltY0z5suFC6ubtfLWpSqfBFgnT08~ZCUP5WZIbglKjRQBXMBwaqhp5tza2vs8tWcIpBJ71WgCtk7B0B1E9FpgAsYCezwon3hBdKm5kkyKa4oEIlvtLUorDn~R4-FMtnnx6OfUnm4ZAf1ZObgiBN8DF3YWfENdHig3StqniGD4VlEAheGxVNgWehDftKIX6Zzb2plpLTHWr3yfxf6BUtl7cEL6dKFhvDpFN6WuZ~haqvgYzyCe6CvSd2Um97aSblp38KivgeYKXrA3i4sG~7qV63il0YTe~MjBoUXNwsicvLz2BIofoJtD7b0GB6rUQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="A Cheminformatics
+Analysis of Substituents in Bioactive
+Molecules and Their Bioisosteric Replacement Network" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Substituents, decorating the central molecule core, play
+a key
+role in medicinal chemistry, where they are modified during lead optimization
+to improve biological activity, physicochemical properties, selectivity,
+and other drug properties. The selection of appropriate substituents,
+guided by the bioisosteric principle, is one of the most effective
+strategies for optimizing molecular properties while preserving affinity
+for the biological target. Despite the widespread application of bioisosteric
+replacement in drug discovery, systematic analyses of bioisosteric
+relationships among substituents derived from large collections of
+bioactive molecules remain limited. In this work, we present a comprehensive
+analysis of substituents occurring in bioactive molecules and investigate
+their bioisosteric relationships using data extracted from medicinal
+chemistry literature. Bioisosteric pairs are identified from substitution
+patterns observed in related compounds with activity on the same target,
+enabling the construction of a network of frequently interchangeable
+substituents. Because the analysis is based on the observed co-occurrence
+of substituents within the same molecular environments rather than
+on structural similarity or physicochemical descriptors, it captures
+experimentally validated substitution patterns and uncovers not only
+well-established bioisosteric pairs but also less well-known relationships.
+The resulting bioisosteric substituent network is made available through
+a free web application at https://ertlmolecular.com/tools.html, providing
+a practical resource for medicinal chemists engaged in lead optimization,
+analog design, and library development.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Thermodynamically
+Guided CRISPR Spacer Optimization:
+Strategy-Dependent Off-Target Trade-Offs</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03063/5468353/Thermodynamically-Guided-CRISPR-Spacer</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03063</guid>
+<pubDate>Wed, 11 Nov 2026 07:01:21 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03063/1/m_ci6c03063_0004.png?Expires=2147483647&amp;amp;Signature=TwVXeAarXalZavGQTNjQSZVvjP7qc2Tip~ahb32~F0jbuuNj7FjNAAj8-itdj5o7ZnnncHLVjG7shOvf8UBqNtjFqmqz7W9fMRmmh6DtPsHr-Clcmc1~RzbqwUBr4X0Ul5uaqqjndpoh2Cc-rzeAp7bZDnp5XGSZD5E0uFvsCCT9oJ~aVNcw7mh1ZPT7~2u9XS5R-dBQ4w80FLnCJSUz2D-ehJ5K6VGKEvcSawc7KFNlkGJ2JbrfoO9hmi~rGXxM1OtrDhg8Oek6KVAZCV-QXPs6Y8mYqEsL2Lb1zlHMMDoUTfcMQIdyb-31bm7rS9Vf1SpKlFJwS45yHlFo1vwKbw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Thermodynamically
+Guided CRISPR Spacer Optimization:
+Strategy-Dependent Off-Target Trade-Offs" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Most CRISPR-Cas9 design tools select guide RNAs (gRNAs)
+by ranking
+predefined candidates rather than actively optimizing them. Here we
+instead formulate SpCas9 spacer refinement as a constrained search
+problem, in which a limited number of nucleotide substitutions may
+be introduced outside the PAM-proximal seed region. The search is
+driven by a thermodynamically grounded objective that combines CRISPRspec-based
+specificity with penalties for suboptimal GC content and long homopolymer
+runs. Within this single setting we compare five search strategies:
+three reinforcement-learning (RL) policies, which are Proximal Policy
+Optimization (PPO), Quantile-Regression Deep Q-Network (QR-DQN), and
+Rainbow Deep Q-Network (Rainbow DQN), together with a nonlearning
+score-guided search and a prompt-guided large language model (LLM).
+All five share the same objective, mutable positions, substitution
+budget, and evaluation protocol, so that only the search strategy
+differs. On 100 held-out &lt;span style="font-style:italic;"&gt;IGF2R&lt;/span&gt; guides from a gene
+and chromosome excluded from training, every strategy significantly
+reduced the predicted off-target burden (38.6–78.3%) and improved
+independent specificity metrics without degrading on-target scores.
+The strategies nevertheless differed sharply in per-guide safety:
+the LLM achieved the largest aggregate reduction but introduced new
+off-target sites into 38% of guides that were initially free of them,
+whereas PPO, an on-policy RL algorithm, retained a strong gain with
+the lowest regression rate of 15%. These results show that the thermodynamic
+objective supplies a robust common optimization signal, while the
+choice of search strategy governs the trade-off between aggregate
+improvement and regression of already-favorable guides.&lt;/span&gt;</description>
+</item>
+<item>
+<title>SynthStrategy:
+Extracting and Formalizing Latent Strategic
+Insights from LLMs in Organic Chemistry</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01688/5468646/SynthStrategy-Extracting-and-Formalizing-Latent</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01688</guid>
+<pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01688/4/m_ci6c01688_0007.png?Expires=2147483647&amp;amp;Signature=Qzt-Upne9mX5kAIGDmtGgq3M0QYbHWqA13CgNDIpfnlPmrkLUImSGbbP~h8iGaYl2AQVDQHluCd7wF-nXLSecKe-Etapxiv3tXrsViBbIp-Z4vpELRp7oR5MZ4a756gYU0wtCi3RvwCPL5mGMTv8QZA~OhSFS0HdFi77uXBX-p945PoyIZBmeicSx5QEi4nrq1fAGEZbcOkmfe0jpZxAkjxITSare5Y4GLgBfvsvYmK4FXsq0m--up9olWneKCnDZN8V~EXYmxFivA5C7SHu0wnhsQkJWxGtzKGvZQBhr9dJjdfYd4AbklsMw0XZDuQ6rO~LDrd3qo0fm4vz0gbxlA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="SynthStrategy:
+Extracting and Formalizing Latent Strategic
+Insights from LLMs in Organic Chemistry" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Modern computer-assisted synthesis planning (CASP) systems
+show
+promise at generating chemically valid reaction steps but struggle
+to incorporate strategic considerations such as convergent assembly,
+protecting-group minimization, and optimal ring-forming sequences.
+We introduce a methodology that leverages Large Language Models (LLMs)
+to distill synthetic knowledge into code. Our system analyzes synthesis
+routes and translates strategic principles into executable Python
+functions representing diverse strategic and tactical rules, such
+as strategic functional group interconversions, protecting strategies
+and ring construction features. We validate the use of LLM-as-a-judge
+in this domain, demonstrating their efficacy in evaluating synthesis-specific
+code generation. By formalizing this knowledge as verifiable code
+rather than simple heuristics, we create testable, interpretable representations
+of synthetic strategy. We release the complete codebase and the USPTO-ST
+data set─synthesis routes annotated with strategic tags. This
+framework unlocks a novel capability for CASP: natural language-based
+route retrieval, achieving 74.5% Top-3 accuracy on our benchmark.
+We further validate our library through temporal analysis of historical
+trends and chemically intuitive route clustering that offers more
+granular partitioning than common previous methods. This work bridges
+the tactical-strategic divide in CASP, enabling specification, search,
+and evaluation of routes by strategic criteria rather than structure
+alone.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Proteome-Wide Identification
 and Membrane Positioning
 of Single-Pass Membrane Proteins Using AlphaFold Models</title>
@@ -4647,186 +4809,6 @@ proteins, posing questions about binding pockets, conformational changes,
 or structure-activity relationships to test ideas in real time. &lt;span style="font-style:italic;"&gt;Speak to a Protein&lt;/span&gt; reduces the time from question to evidence,
 lowers the barrier to advanced structural analysis, and enables hypothesis
 generation by tightly coupling language, code, and 3D structures. &lt;span style="font-style:italic;"&gt;Speak to a Protein&lt;/span&gt; is freely accessible at https://open.playmolecule.org.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Computer-Aided Drug Design for Type 2 Diabetes-Related
-Enzymes: Polarizable and Nonpolarizable Simulations of Enzyme-Inhibitor
-Complexes</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01734/5442239/Computer-Aided-Drug-Design-for-Type-2-Diabetes</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01734</guid>
-<pubDate>Wed, 30 Sep 2026 11:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01734/5442239/Computer-Aided-Drug-Design-for-Type-2-Diabetes"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01734/1/m_ci6c01734_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Carbohydrate-digesting
-enzymes, including pancreatic α-amylase
-and maltase-glucoamylase (MGAM), are important therapeutic targets
-for type 2 diabetes due to their role in regulating glucose production.
-In this study, molecular dynamics (MD) simulations were performed
-to investigate the stability and interaction patterns of inhibitors
-identified through SILCS-based virtual screening. Representative ligands
-for the N-terminal and C-terminal domains of MGAM (NtMGAM, CtMGAM),
-and α-amylase were parametrized using both the nonpolarizable
-CHARMM and polarizable Drude force fields based on quantum mechanical
-(QM) reference data. MD simulations of the apo enzymes show that their
-overall structures remain stable, with flexibility primarily localized
-to regions surrounding the catalytic pockets. Simulations of the enzyme–ligand
-complexes demonstrate that the ligands remain associated with the
-binding regions throughout the trajectories. Comparison between the
-two force fields reveals distinct interaction patterns: CHARMM interactions
-are largely driven by a small number of dominant contacts, whereas
-the Drude model captures a more extensive and cooperative interaction
-network. Notably, the Drude model enables enhanced engagement with
-catalytic residues in NtMGAM, whereas ligand binding in CtMGAM and
-α-amylase remains more flexible and less directly coupled to
-the catalytic machinery. These results highlight the importance of
-polarization in describing enzyme–ligand interactions and suggest
-that polarization can influence the balance and persistence of interactions
-in a system-dependent manner. These findings provide further computational
-support for the candidate inhibitors identified through computational
-screening.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Computer-Aided
-Drug Design for Type 2 Diabetes-Related
-Enzymes: SILCS-Based Fragment Mapping, Pharmacophore Modeling, and
-Virtual Screening</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01733/5442221/Computer-Aided-Drug-Design-for-Type-2-Diabetes</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01733</guid>
-<pubDate>Wed, 30 Sep 2026 10:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01733/5442221/Computer-Aided-Drug-Design-for-Type-2-Diabetes"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01733/1/m_ci6c01733_0014.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Highly charged enzyme active sites present a challenge
-for conventional
-Site Identification by Ligand Competitive Saturation (SILCS) because
-strongly interacting charged probes can suppress sampling of neutral
-fragments, while additive force fields do not explicitly account for
-electronic polarization. To address these limitations, we developed
-a comprehensive SILCS-based computational framework and applied it
-to the N-terminal and C-terminal domains of maltase–glucoamylase
-and to α-amylase. Both the conventional mixed-probe SILCS workflow
-and a modified neutral–charged protocol were evaluated using
-the CHARMM additive and Drude polarizable force fields. FragMap convergence
-analysis demonstrated reliable sampling across all systems, with the
-neutral–charged protocol alleviating competitive exclusion
-effects observed in conventional simulations. In highly charged catalytic
-pockets, the conventional workflow was dominated by cationic probe
-sampling, suppressing neutral and hydrogen-bonding features. Separation
-of charged and neutral probes restored chemically diverse interaction
-patterns, improving representation of hydrogen-bond donor, acceptor,
-and hydrophobic hotspots. Incorporation of the Drude polarizable force
-field further enhanced resolution of electrostatic and hydrogen-bonding
-interactions. Energy-based SILCS-Pharmacophore models were generated
-from the neutral–charged FragMaps and used for virtual screening
-of the Maybridge and ChemBridge libraries. Hits were refined using
-SILCS-MC, ranked by ligand grid free energy (LGFE) and ligand efficiency
-(LE), and analyzed through scaffold- and fingerprint-based clustering.
-Integration of energetic and structural analyses enabled identification
-of favorable scaffolds and functional group patterns associated with
-strong binding efficiency. Together, this study develops, evaluates,
-and applies an improved SILCS workflow to three enzymes associated
-with type 2 diabetes (T2D), demonstrating its utility for characterizing
-highly charged active sites and prioritizing candidate inhibitors.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Binding Free Energy Landscape of Different SARS-CoV-2
-Nsp1 Variants Interacting with NXF1-RRM: Insights from Molecular Dynamics
-Simulations and Markov State Models</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02358/5442058/Binding-Free-Energy-Landscape-of-Different-SARS</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02358</guid>
-<pubDate>Wed, 30 Sep 2026 03:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02358/5442058/Binding-Free-Energy-Landscape-of-Different-SARS"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02358/1/m_ci6c02358_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The
-interaction of the SARS-CoV-2 Nsp1 protein with the host NXF1-RRM
-domain plays an important role in host gene expression, which influences
-virus replication and host immune surveillance. Thus, understanding
-the key factors that determine their binding affinity, such as mutations,
-is of great interest. In this work, we investigated the effects of
-three Nsp1 mutants─D33K/E36K/E37K/E41K, L27D/V28D, and R124E/K125E─on
-its binding to the NXF1-RRM domain using structural and energetic
-analysis. To quantify the affinity changes, we developed a computational
-framework for calculating the free energy landscape of protein–protein
-binding based on the Markov state model (MSM). Our approach is based
-on fluctuations of the radius of gyration and the root mean square
-deviation (RMSD) from a reference state. We found that the D33K/E36K/E37K/E41K
-mutant exerts the strongest destabilizing effect, resulting in greater
-structural deviation, reduced compactness, and a significant loss
-of intermolecular hydrogen bonds. In contrast, the L27D/V28D and R124E/K125E
-mutants retain structural and dynamical properties closer to those
-of wild-type Nsp1 (WT), indicating that these mutations have a more
-limited impact on the stability of the Nsp1–NXF1-RRM complex.
-These results are in good agreement with the previous experimental
-work. We also used the molecular mechanics Poisson–Boltzmann
-surface area (MM-PBSA) method to estimate the binding free energy
-of these complexes, yielding results consistent with the MSM analysis
-and experimental data. However, the binding free energy values obtained
-from the MSM method are more realistic compared to the MM-PBSA method,
-which tends to overestimate binding free energy values or produce
-unphysically negative results. Therefore, the MSM approach provides
-a useful framework for characterizing mutation-induced changes in
-the structural stability and binding energetics of Nsp1–NXF1-RRM
-complexes.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Language of Toxicity:
-An eXplainable Artificial Intelligence
-Approach</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.5c03214/5442022/Language-of-Toxicity-An-eXplainable-Artificial</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.5c03214</guid>
-<pubDate>Wed, 30 Sep 2026 00:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.5c03214/5442022/Language-of-Toxicity-An-eXplainable-Artificial"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.5c03214/1/m_ci5c03214_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Toxicity prediction
-in small molecules represents a fundamental
-challenge in drug development and chemical safety assessment. Traditional
-approaches heavily rely on predefined molecular descriptors or fingerprints,
-potentially limiting the ability to capture complex and nonlinear
-structure–activity relationships. Here, we present a descriptor-free,
-language-inspired framework that can be applied to different toxicity
-prediction tasks within a unified architecture. The model proposed
-combines a multiscale Convolutional Neural Network (CNN) layer to
-capture chemical patterns at different scales and a Gated Recurrent
-Unit (GRU) layer to capture the sequential nature of these patterns.
-This architecture also exploits an attention mechanism that computes
-attention weights across the sequence, enabling the model to focus
-on the most relevant molecular substructures for toxicity prediction.
-Toxic and nontoxic chemicals, represented by canonical SMILES, are
-investigated as the words of two languages which have to be discriminated;
-using eight different end points, the model provided an accurate description
-of toxicity patterns, with an average Area under the ROC curve (AUC)
-of 0.83 (min: 0.70, max: 0.94) under repeated cross-validation. The
-models were trained on relatively small data sets (∼1000 samples)
-and often strongly imbalanced, two important challenges that highlight
-the opportunities for future improvement; moreover, the proposed attention-based
-framework offers a representation of the molecular regions influencing
-model predictions, providing a basis for future investigations into
-toxicity-related structural patterns and potentially supporting hypothesis
-generation in drug design or drug repurposing applications.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Evaluation of the
-Complementarity of Three Major Databases
-of Protein–Ligand Binding Affinity Data</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02172/5441904/Evaluation-of-the-Complementarity-of-Three-Major</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02172</guid>
-<pubDate>Tue, 29 Sep 2026 22:00:31 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02172/5441904/Evaluation-of-the-Complementarity-of-Three-Major"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02172/1/m_ci6c02172_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein–ligand binding affinity data underpin
-a variety
-of tasks at the early stage of drug discovery. Public databases including
-ChEMBL, BindingDB, and PDBbind curate such data with distinct focuses,
-yet their data overlap and complementary attributes remain insufficiently
-quantified. In this work, we systematically cross-mapped protein–ligand
-binding data in PDBbind (version 2024) against data records sourced
-from ChEMBL (version 35) and BindingDB (version 2025.08). Our analysis
-revealed that merely 22.1% and 23.9% of PDBbind’s annotated
-protein–ligand complexes possess matching binding data records
-in ChEMBL and BindingDB, respectively, confirming that the PDBbind
-dataset is not a subset of the other two larger repositories. This
-limited overlap arises from fundamental differences in scope: ChEMBL
-and BindingDB center on drug discovery datasets, whereas the data
-entries in PDBbind encompass a broader chemical and biological landscape.
-Our analysis further uncovered substantial data redundancy in ChEMBL
-and BindingDB, where 40%–50% of protein–ligand interaction
-pairs are associated with multiple, discrepant binding affinity values.
-Currently, no single resource achieves a comprehensive coverage of
-available protein–ligand binding data, mandating researchers
-to adopt resource-selection strategies customized to their goals.
-While ChEMBL and BindingDB host extensive bioactivity archives, PDBbind
-directly links three-dimensional complex structures with carefully
-curated binding affinity data. This unique value makes it best suited
-for structure-based studies.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
