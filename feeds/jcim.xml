@@ -5,6 +5,336 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Scramblases and
+Insertases Facilitate Transmembrane
+Translocation of Amphiphilic Peptides</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03159/5469816/Scramblases-and-Insertases-Facilitate</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03159</guid>
+<pubDate>Fri, 13 Nov 2026 02:01:01 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03159/1/m_ci6c03159_0006.png?Expires=2147483647&amp;amp;Signature=TlyKU-3XUtJ5FvBHckVFATq5KADjiG5ICqya3TeQDhpntELq-jN2A8vB0Y3qYq6j2n8CdkO4Ic4lbGSNPQ69vh91pD1xNdNUA3zumQxwB-DbQuGBxPYrnF4rgYfWsKysiYhkJiDLCljFcUkiK29jBTVHGdmtrxvo7MIusOrwRBYbAIPa43aZOUPp72exSqnYF10yzwb2HIM-jfbYqVkJVUZB4Os0NtOGVFStRn7mvsU-u2CW1zRGCTlXWvdMYODpPASYkFxNEeyhWFXfo99Pk6BwwQAnIglqOpyywgl9rSE5w8sX5Tu5m1l09c8QmdgAkxDvK~WW-7n1iml19vvsvw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Scramblases and
+Insertases Facilitate Transmembrane
+Translocation of Amphiphilic Peptides" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Translocation of amphiphilic peptides across a lipid
+membrane requires
+getting polar groups through the hydrophobic membrane core and is
+therefore prohibitively slow in a protein-free bilayer. Here we show
+that lipid scramblases can dramatically lower this barrier, effectively
+acting as bidirectional peptide translocases. Using coarse-grained
+molecular dynamics simulations, we calculated free energy profiles
+for the translocation of a model amphiphilic peptide across phospholipid
+membranes, each containing one of six scramblases or insertases. Most
+of these proteins reduce the free energy barrier by roughly 80%. Peptide
+translocation and lipid scrambling share the same mechanism: both
+proceed along the same hydrophilic groove on the protein surface,
+and the transition of both is enabled by local membrane defects induced
+by the groove. We further show that peptide and lipid transport are
+competitive, and that peptides can inhibit or completely block phospholipid
+scrambling. Scramblases and insertases thus provide a general route
+for moving amphiphiles across membranes, and offer a molecular rationale
+for the cytosolic entry of cell-penetrating peptides.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Inverse Design
+of Potential Dicyanamide Anion Based
+Ionic Liquids with High Nernst–Einstein Conductivity</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02873/5469746/Inverse-Design-of-Potential-Dicyanamide-Anion</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02873</guid>
+<pubDate>Thu, 12 Nov 2026 20:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02873/1/m_ci6c02873_0010.png?Expires=2147483647&amp;amp;Signature=CW45~yM7bE8XYx~HDy06u-enMhpMvJ0RyAiEY1oskhWWOMIa-0vcLrkccXOSLFdY2SO6WXTqtDAxdXZft-SEyFFFb5c9s2Rqw4ujXxSvlaigBYZp143GfmI2XSL~Nm0MfaUy5nnWjudeopYT3kwjVa8OD7vEf7P~E6-ejHB52xMVoxyNXr2Xv1kXqNNNScC1~M7gbZpON7Vrs7OmX22V7Y2rWMz5hWbijjlVmpp3ei1Y~QiHor3YRfCX4dfYC04vnzuZ7U8fz-4kHMkrBggPlKtEiWCHt71NB~3D1QQwGPKK4plXoEZ~xcTeHCimpQ2QkfJiURHCiF-~z~H-FeNwdg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Inverse Design
+of Potential Dicyanamide Anion Based
+Ionic Liquids with High Nernst–Einstein Conductivity" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ionic
+liquids exhibit wide electrochemical windows, negligible
+volatility, and strong design flexibility, making them promising electrolytes
+for next-generation energy storage devices. However, the vast design
+space renders conventional trial-and-error discovery inefficient.
+Here, we develop a reinforcement learning framework for the &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; inverse design of potential dicyanamide-anion-based
+ionic liquids with enhanced Nernst–Einstein conductivity. A
+recurrent neural network trained on known cation structures was coupled
+with Monte Carlo tree search to generate novel cations. A forward
+predictive machine learning model was implemented as the reward function,
+guiding the search toward candidates with high Nernst–Einstein
+conductivity. Generated structures were subsequently evaluated using
+molecular dynamics simulations, and the resulting Nernst–Einstein
+conductivity data were iteratively incorporated to retrain and refine
+the forward model, forming a closed reinforcement learning loop. Through
+five iterations, the maximum molecular-dynamics-simulated Nernst–Einstein
+conductivity of the generated potential ionic liquids increased from
+0.61 S/m to 3.77 S/m. The liquid-state character and the synthesizability
+of the generated candidates remain to be established. The proposed
+framework could facilitate the computational screening of ionic liquids
+with desired properties.&lt;/span&gt;</description>
+</item>
+<item>
+<title>CPPainter: Painting
+Cell-Penetrating Peptides for
+Identification and Generation through Reinforcement Learning</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02507/5469545/CPPainter-Painting-Cell-Penetrating-Peptides-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02507</guid>
+<pubDate>Thu, 12 Nov 2026 15:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02507/1/m_ci6c02507_0009.png?Expires=2147483647&amp;amp;Signature=tK1E-nQ9VXRsbCG3AHPpS4oA1-ho3ZwGpHFEK5HP02jy-J7b4EZhbvdXTBKlwTVWelKLSH2JEFvfe~7CfWjMWLgj6ey0pF-12amBK0WjPygGmSxpoJw3LrUIGAcQPT6Aev9wK6UbyvlamrQK2i7VNzk8v~-3Vv0Z9X8O1MaSFxCH54CxY-gGJWG2PXULctsM0mn3lKbqx9Jvlz3ZXINgIY~0uR7GLIKRsC8r9zjpIBLsUTLUlDY1~4CwGzNWIsDA2kmLYR6emS~qcR~yi48nIfjrQG8oWaC-fgf3zTWDMAAalHGcz06XLdcQrvPgpQkHioLn6w3gXsCiY~epavRMXA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="CPPainter: Painting
+Cell-Penetrating Peptides for
+Identification and Generation through Reinforcement Learning" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cell-penetrating peptides (CPPs) are promising intracellular
+delivery
+vectors, but computational CPP identification, sequence optimization,
+and candidate generation are often studied as separate tasks. This
+study aimed to develop an integrated framework for CPP prediction
+and reward-guided sequence design. We developed CPPainter, a computational
+framework that couples a protein language model ensemble classifier
+with a reinforcement-learning-guided generator. CPPainter-Classifier
+outputs a continuous CPP probability score for CPP identification
+and sequence-level reward assignment. The CPPainter-Generator selects
+mutation sites with a trainable policy network, proposes amino acid
+substitutions using a masked language model, and updates the policy
+through REINFORCE. CPPainter-Classifier achieved a Matthews correlation
+coefficient (MCC) of 0.9482 on the internal CPPainter-Bench and scores
+of 0.9002, 0.9348, and 0.7339 on the external CPPCGM-Bench, SiameseCPP-Bench,
+and MLCPP2-Bench, respectively, outperforming previously reported
+methods by 1.2 to 7.0 percentage points. Starting from three seed
+pools, including known CPPs, bacterial signal peptides, and random
+sequences, the CPPainter-Generator produced 924 high-confidence, strictly
+novel CPP candidates. The generated candidates successfully reproduced
+canonical CPP amino acid patterns and physicochemical profiles, achieving
+Pearson correlations against the positive reference of 0.97 for molecular
+weight, 0.86 for the Eisenberg hydrophobic moment, and 0.80 for GRAVY
+hydropathy. CPPainter provides a unified computational framework for
+CPP identification, sequence optimization, and candidate generation.
+The generated sequences should be regarded as computationally prioritized
+CPP candidates and require further experimental validation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Ceci n ’ est  pas  le benzène : The Treachery of Chemical
+Representations in Machine Learning for Drug Discovery</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03172/5469422/Ceci-n-est-pas-le-benze-ne-The-Treachery-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03172</guid>
+<pubDate>Thu, 12 Nov 2026 14:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03172/1/m_ci6c03172_0003.png?Expires=2147483647&amp;amp;Signature=bidhp4mI5B-sSeNAwIX-jOZy~AChzsZ~a56AUSofwUMOmMM5wHNwd4eJ23gDZTjOMEJlisoid8vbODVv7QjtgYKpjSeCujh~RVcEowqxUdMUwrgj6CI6UWxBl23esjtLi9Agp3dX3QsErCpoOndrWdHjtYEvl~CGsmMItrytgugCKaNu8-rDRAKuMADZR5dxg0JoYbvA9R9HoVSlWHFoAErAYlG1ztvd~FrMbLHJRodSeY7CsW6ugbEyhfH3hp~p~4XgQuuYXtID6CTLYtTgtcnHAsRhbwdbljcORl1n73udk5pMTEPnreSdeNuAZGxQZxAREQxcOkneDQihHRzZRg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt=" Ceci n ’ est  pas  le benzène : The Treachery of Chemical
+Representations in Machine Learning for Drug Discovery" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chemists do not draw molecules; they draw agreements
+about molecules.
+A hexagon with three alternating lines is not benzene, and, read literally,
+it is not even an adequate model, since it localizes bonds that experiment
+treats as equivalent. Chemists repair this discrepancy automatically
+and never write the repair down; a machine receives the convention,
+plus whatever further theory its software compiles into it. This Perspective
+asks what our models actually see, across structural formulas, SMILES,
+fingerprints, graphs, conformers, simulated ensembles and the token
+sequences on which chemical language models are trained. We argue
+that both members of the training pair are representations─one
+of a chemical entity, the other of an assay-conditioned observation─and
+interpret tautomeric ambiguity, stereochemical and solid-form identity,
+activity cliffs, heterogeneous bioactivity labels and generative failure
+as consequences of this double reduction. We propose accountability,
+not realism, as the operative standard: explicit entity definitions,
+complementary representations, assay provenance, calibrated uncertainty,
+prospective testing. We then make the standard operational, setting
+out the controlled comparisons that separate representational loss
+from model limitation, sparse training coverage and experimental heterogeneity,
+and specifying for each perturbation test the control that makes it
+interpretable, the criterion for an actionable failure, and the corrective
+action it implies.&lt;/span&gt;</description>
+</item>
+<item>
+<title>CROWN: Curated
+Repository of Well-Resolved Noncovalent
+Interactions</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03343/5469374/CROWN-Curated-Repository-of-Well-Resolved</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03343</guid>
+<pubDate>Thu, 12 Nov 2026 14:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03343/1/m_ci6c03343_0006.svg?Expires=2147483647&amp;amp;Signature=f7Gjt4KB648Xwu89cUpKdJOGg2lnMWCeujguBF9MUbfKT8rCvVR-mNleAd3k-tRYeoULaVkK7K3r5Qyo2G2EUuDGSrUXswcxZbMt62~04MGHJk7y0F3MEEoY7uZTspn26xvGwWDI2PXY2tjY0FbPxKYvXR1iaX5tcMzzvgI28~VPQd6Jf4MYEITKKCpssryBFDKjqA3Xs-WFevH38UJKF-sevHhV5BWvlCdlM946SA0YE1aUVAsLbmf1H9UDXyi1xTK~xGRpyHDC3G3JLwuRs72m2i7iAGz0ReBtl0g8wl8mur5E0vil17ymas4RVed37Y9q6jFMJpxmUS3Dllu5ag__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="CROWN: Curated
+Repository of Well-Resolved Noncovalent
+Interactions" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The usefulness of structural data sets for machine-learning
+models
+of protein–ligand recognition depends not only on their size,
+but also on how structural imperfections are handled. Existing resources
+typically trade structural rigor for scale. Recent data sets such
+as SPINDR improve large-scale structural data through systematic preprocessing,
+but restrictive inclusion criteria still discard much of the chemical
+and biological complexity represented in the Protein Data Bank (PDB).
+Here, we present Curated Repository Of Well-resolved Noncovalent interactions
+(CROWN), a machine-learning–ready data set built around a repair-first
+curation philosophy: structural inconsistencies are corrected whenever
+this can be done without compromising experimental evidence at the
+binding interface, while filtering is reserved for cases that cannot
+be repaired conservatively. Starting directly from deposited PDB structures,
+CROWN resolves alternate conformers and connectivity errors, reconstructs
+complete interaction environments, repairs missing or nonstandard
+regions outside the binding pocket, assigns protonation states at
+physiological pH and applies constrained energy minimization using
+flat-bottomed restraints to relieve local strain while preserving
+experimentally supported geometry. This strategy yields 193,374 protein–ligand
+complexes spanning 81,606 PDB entries and 18,516 UniProt accessions,
+representing more than a 5-fold increase in both complex count and
+protein diversity relative to SPINDR while retaining a uniform structural
+representation. Rather than organizing the data set around sparsely
+available binding-affinity measurements, CROWN adopts a geometry-centric
+design in which the three-dimensional arrangement of atoms at the
+binding interface provides the primary source of information. On CASF-2016,
+CROWN-trained knowledge-based potentials achieved the highest scoring
+and ranking performance among five training resources, while matching
+PDBbind- and HiQBind-trained models in docking and screening and consistently
+outperforming SPINDR-trained counterparts. Together with multiaxis
+similarity annotations and a companion web interface, CROWN provides
+a scalable resource for scoring-function development, pose prediction,
+binder generation, ligand-conditioned protein design, and other structure-based
+machine-learning applications.&lt;/span&gt;</description>
+</item>
+<item>
+<title>PertiNet: Interaction-Aware Multimodal Modeling of
+Protein–Protein Interactions</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03062/5469120/PertiNet-Interaction-Aware-Multimodal-Modeling-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03062</guid>
+<pubDate>Thu, 12 Nov 2026 10:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03062/1/m_ci6c03062_0006.png?Expires=2147483647&amp;amp;Signature=YTlIjMegElS9JWyv3CTQf-eAjZMjeDNpdNZeorHqg-1gQS2F~Wcd2eIESzdWZtI6slJe1S-eN0Tncle6lBuyaw1GNfqW6cDpLn-dhJkETDUahz7pRPOKrBs5-M4tMcF7y1-QHr9JaqUrwAfrbexXd3lghQdGqVYIyRpuvQpQCwS1-kmoV78m01IjVCgQ340XTzkQ5tpdvruCsDSYosY~Y7ZM~z4EDKPVGsFqboZlIlu7KM79fcFzmwgbxKo6sF62lzI8PEYQr1xarErwAjKVz7rixkM3yT0NJ~~gfJs13FifPd222DtjpCXIuQmugdoR6mLXwY66Y1VMbcU4Vin6VA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="PertiNet: Interaction-Aware Multimodal Modeling of
+Protein–Protein Interactions" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein–protein
+interaction (PPI) prediction requires models
+that combine sequence, structure and functional evidence for proteins
+excluded from training. We developed PertiNet, which represents these
+inputs as separate modality tokens, models their interactions and
+assigns each token a protein-pair-specific weight. On the fixed protein-disjoint
+Bernett benchmark, PertiNet using sequence and structure achieved
+AUROC, AUPRC, balanced accuracy and MCC values of 0.71, 0.72, 0.66
+and 0.33, respectively. Adding Gene Ontology (GO) annotations increased
+these values to 0.72, 0.73, 0.67 and 0.35, compared with published
+TUnA values of 0.70, 0.69, 0.65, and 0.30. Within-study Bernett controls
+showed that complete fusion improved on concat–MLP with identical
+sequence and structural inputs, using either the original sequence
+representation or ESM-2. Matched RBP400 ablations examined the contributions
+of modalities and fusion components, and Dset_186_72_PDB164 provided
+a complementary evaluation of residue-level interface localization.
+These results support integrating structural and functional context
+with sequence representations through interactions among modality
+tokens.&lt;/span&gt;</description>
+</item>
+<item>
+<title>FUSED: A Functional
+Representation for Joint Structural
+and Elemental Analysis of Protein–Ligand Binding Sites</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03105/5469063/FUSED-A-Functional-Representation-for-Joint</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03105</guid>
+<pubDate>Thu, 12 Nov 2026 08:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03105/1/m_ci6c03105_0013.svg?Expires=2147483647&amp;amp;Signature=F~L0ylFYaVB3OyN8cPt5IXgZfsYN9nyqBoUKSjgO8uOlgDDe4stRW5FkVHb5JAQTir~FeLDo7imJuey4RxhGkVE6hWgnSFGH6gEf9T~P7mtm21g-lmpe6Qn0EOYNN3jVlOp67BrtFN2QhKcmDjIhaBQqp1r5aoz-MySl8NjnRKcKMOYbpnrHjQbhpDirRPKgCcGy5wXzejkdAt0Au0gSFZRJMuugehFoUatLV7Xdtu6FYXEF8AmC521aodhZqkv748U7TzqwAJCWqH7s7-wKNv~odcIkXB7zPBgWmctsLAHqJBu8nQ33K7XZAaM~-3QhOjs1aGHpBQmocfREMBdVPQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="FUSED: A Functional
+Representation for Joint Structural
+and Elemental Analysis of Protein–Ligand Binding Sites" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Ligand binding site representations are central to the
+analysis
+of protein–ligand interactions, with applications in functional
+characterization, binding-site comparison, and ligand recognition.
+Many descriptor-based approaches characterize ligand binding sites
+using a fixed distance threshold from the ligand, despite substantial
+variability in how such thresholds are defined and the possibility
+that relevant structural and compositional information changes across
+spatial scales. We propose Functional Unification of Structural and
+Elemental Descriptors (FUSED), a multivariate functional representation
+that jointly models structural and elemental compositional information
+on ligand binding sites as functions of distance from the ligand.
+Structural information is captured through covariance-based descriptors
+derived from the CDPA framework, while chemical composition is represented
+through isometric log-ratio coordinates to account appropriately for
+compositional geometry. Treating distance from the ligand as a functional
+domain allows structural and compositional characteristics to be examined
+across distance thresholds rather than at a single prespecified value.
+The resulting representation can be used directly or combined with
+dimension-reduction, statistical-learning, and/or machine-learning
+procedures, with the distance interval tailored to the data set, analytical
+task, and procedure. We evaluate FUSED on three benchmark data sets
+spanning complementary ligand binding-site analysis tasks: the Extended
+Kahraman data set for multiclass ligand discrimination, TOUGH-C1 for
+three-class binding-site classification, and TOUGH-M1 for pairwise
+matching of pockets associated with drug-like ligands. FUSED supports
+strong discrimination in the EK and TOUGH-C1 tasks using standard
+statistical-learning procedures, while a supervised Siamese neural
+network applied to the full FUSED representation achieves a mean ROC-AUC
+of 0.9375 on TOUGH-M1 under repeated sequence-cluster-disjoint evaluation.
+Matched evaluations against leading available methods demonstrate
+competitive performance, with relative advantages depending on the
+task and comparator. Two illustrative retrieval cases identify pockets
+binding identical or chemically related ligands despite low global
+sequence and structural similarity between the proteins. These results
+demonstrate that FUSED provides a flexible, alignment-free representation
+that supports both direct examination of threshold-dependent binding-site
+characteristics and competitive downstream classification and pocket
+matching while remaining computationally practical.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Correction to “Validating
+and Correcting Graph
+Neural Network Attention for Drug-Induced Liver Injury Prediction”</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03953/5469049/Correction-to-Validating-and-Correcting-Graph</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03953</guid>
+<pubDate>Thu, 12 Nov 2026 08:00:35 GMT</pubDate>
+<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03953/5469049/Correction-to-Validating-and-Correcting-Graph"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03953/1/m_ci6c03953_0001.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;Deanship of Scientific Research at Imam Mohammad Ibn Saud Islamic University (IMSIU)NAIMSIU-DDRSP2601&lt;/span&gt;</description>
+</item>
+<item>
+<title>Molecular Determinants of Contaminant Association
+with PET Nanoplastics Revealed by Atomistic Simulations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02127/5469033/Molecular-Determinants-of-Contaminant-Association</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02127</guid>
+<pubDate>Thu, 12 Nov 2026 07:00:45 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02127/1/m_ci6c02127_0009.png?Expires=2147483647&amp;amp;Signature=SY7glTO4zDCbplv2dSpxXF3To4cYmwpbPPmiqH9a-EbtBctZ6-VEMMohqXHGGVNrOk2LJYr-LmPA5w7aIEqXvBJG2QgE87ySpEfB2h9SdPPmHvI8cYvoxSKBzVNwu7LxRUX~TV6WXyci1XZKnbduLCoYwqAy2z773c0gwbKzjWuf4tGiVv03HYkjLdkUJegD8g0zCkJ8gFBQXFwppr40hxoF3dxoUwcgupWkG5tWI2p9kfOBl8P~GHLxrsRcjQSPmT8HLtQGxgsPB77R~vFZjgyAgwEto0JwFM9kOK7mvBvC~BPs3w~XBvomS-UKw3wAR7E0l3~rbf5NeuAhkGEDQQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Molecular Determinants of Contaminant Association
+with PET Nanoplastics Revealed by Atomistic Simulations" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chemical contaminants
+associated with nanoplastics can form environmentally
+pervasive, persistent complexes with potentially toxic effects. Yet,
+determining which contaminants are most likely to associate with nanoplastics
+and which molecular determinants govern this phenomenon remains challenging.
+Here, we used molecular dynamics (MD) to screen and compare the surface
+association of small-molecule contaminants with polyethylene terephthalate
+nanoplastic particles (PET-NPPs). Toward this aim, we developed an
+automated, open-source MD screening pipeline that requires only a
+SMILES string as input. By systematically analyzing 203 environmentally
+relevant contaminants in complex with a PET-NPP model, we observed
+widespread surface association governed by a specific set of physicochemical
+descriptors. Contaminant net charge defined the primary interaction
+regime. Among neutral contaminants, association increased strongly
+with molecular size at lower molecular weights. Among compounds of
+comparable size, the strongest binders were consistent with geometric
+complementarity with the PET surface, involving aromatic anchoring
+and, in some cases, conformational adaptability. Together, these results
+identify model-specific molecular determinants of contaminant association
+with PET-NPPs, providing a framework that enables rapid, internally
+consistent prioritization of contaminants for targeted experimental
+and mechanistic follow-up.&lt;/span&gt;</description>
+</item>
+<item>
+<title>FamGeo-DDG: A Mutation-Centered
+Local Geometric-Semantic
+Framework for Protein–Protein ΔΔ G  Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02288/5469024/FamGeo-DDG-A-Mutation-Centered-Local-Geometric</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02288</guid>
+<pubDate>Thu, 12 Nov 2026 07:00:45 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02288/1/m_ci6c02288_0008.png?Expires=2147483647&amp;amp;Signature=UD~fYEcA5ogkU~ymHM5iJKyIUOra9f7-02YsMoRxIu~AxNfftEnpGAcZrEPyseyHCe9rcNdNPE8jnc2nsAnkBihkyR8nK9vTVraCElGz4eRIvGsmy5QC0nvxQruQEDPlvO7DFgD0GDBX5-Z1HIIyiqdWXy~kZPPNWHwpdiAuTHyWEhkpgGMkfi5bhmnNC0aEAknI~bUou3fHqlAa~rBM0mE8RggM4Cd5deExZuzL1nQ6ZWs5jLC-JLsS3fBOA~6wtiJ0Whw-cyeoJ4~B~UAKM4M5cU7oCIwSgmJafMsEuTHU8ElkZlStUhNt-TgTropk~ZMiDFGUnP2qOUTU3QH1cw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="FamGeo-DDG: A Mutation-Centered
+Local Geometric-Semantic
+Framework for Protein–Protein ΔΔ G  Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein–protein interactions
+(PPIs) are central
+to cellular
+regulation, immune recognition, and therapeutic design, making accurate
+prediction of mutation-induced binding free energy changes (ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;) important for variant interpretation and protein engineering.
+However, ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt; prediction remains challenging
+because mutational effects are often localized, while benchmark performance
+may be inflated by residual similarity between training and validation
+complexes. Here, we present FamGeo-DDG, a mutation-centered local
+geometric-semantic framework for protein–protein ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt; prediction. FamGeo-DDG constructs a local residue graph
+around the mutation site or the union of local neighborhoods surrounding
+multiple mutation sites and integrates residue substitution information,
+DSSP-derived structural descriptors, and ESM-2-derived contextual
+difference features (ΔESM). A local geometric encoder and mutation-centered
+readout capture structural context and mutation-induced perturbations.
+For evaluation, we adopt three complementary 5-fold partitioning protocols,
+the family split, which groups complexes by complex-signature similarity,
+the MpbPPI split, which directly reuses the partitions provided by
+MpbPPI, and the structure split, which uses ECOD-guided grouping based
+on available structural annotations. Under matched 5-fold partitions,
+we compare FamGeo-DDG with 13 recent and classical baselines, including
+TopNetTree, GeoPPI, 3D-ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;, DSSA-PPI,
+MutPPI+, IGMI, Prot-ΔΔ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt;, and Pythia-PPI,
+and report mean ± standard deviation across folds. On the family
+split, FamGeo-DDG achieves PCC values of 0.5471 ± 0.1212, 0.4956
+± 0.1299, 0.5486 ± 0.1830, and 0.5168 ± 0.0792 on S645,
+M1101, S1131, and S4169, respectively. Across multiple data sets and
+partition protocols, FamGeo-DDG achieves consistent predictive performance,
+demonstrating the effectiveness of mutation-centered geometric and
+semantic representations. Ablation analysis and external validation
+further support the contribution of individual model components and
+the transferability of FamGeo-DDG across different mutation prediction
+scenarios.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Leveraging Contrastive
 Learning for Conditional and
 Robust TCR Sequence Generation</title>
@@ -4468,347 +4798,6 @@ by both three-dimensional structural comparison and secondary-structure
 analysis. These results provide proof-of-concept support for CS-SelectFold
 and suggest that the same sample-and-select principle may extend to
 broader low-populated hidden conformations, including folding intermediates.&lt;/span&gt;</description>
-</item>
-<item>
-<title>ElemeNet: Multiscale
-Molecular Machine Learning with
-Uncertainty Quantification across the Periodic Table</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02178/5443562/ElemeNet-Multiscale-Molecular-Machine-Learning</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02178</guid>
-<pubDate>Thu, 01 Oct 2026 18:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02178/5443562/ElemeNet-Multiscale-Molecular-Machine-Learning"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02178/1/m_ci6c02178_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Advances in deep learning architectures and representations
-have
-enabled ML-driven chemical property prediction, but state-of-the-art
-(SOTA) models have remained largely confined to independent codebases
-and lack support for diverse chemical species. This work introduces
-ElemeNet, a unified, general-purpose software package for molecular
-machine learning. The ElemeNet software package enables the training
-of advanced ML models for diverse properties and data sets with an
-enlarged range of elemental compositions. We define molecular representations
-compatible with elements 1–100, supporting diverse organometallic
-and biological systems in addition to organic chemistry already well
-served by the Chemprop ML toolkit. As well as more common atom-, bond-,
-and molecule-level predictions, we introduce and allow for moiety-level
-predictions. We also natively define optional conditioning on charge
-and spin states. Advanced E(3)-equivariant and transformer architectures
-are supported in addition to 2D models, with all classes including
-built-in uncertainty quantification through deterministic and statistical
-measures. We benchmark our protocols for ML model training against
-representative data sets from organic, inorganic, coordination, and
-biological chemistry, achieving competitive and SOTA performance relative
-to literature baselines and favorable scaling to millions of molecules.
-The entire workflow is exposed through a concise command-line interface,
-lowering the barrier to entry for nonexpert users. We anticipate ElemeNet
-will empower noncomputational researchers to leverage modern deep
-learning methods across the chemical and physical sciences.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Predicting Protein
-Thermostability with Equivariant
-Graph Neural Networks and Contrastive Learning</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01926/5443515/Predicting-Protein-Thermostability-with</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01926</guid>
-<pubDate>Thu, 01 Oct 2026 16:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01926/5443515/Predicting-Protein-Thermostability-with"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01926/1/m_ci6c01926_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurately predicting the thermostability changes induced
-by single-point
-mutations is a core challenge in protein engineering and industrial
-enzyme modification. However, current computational methods often
-struggle to jointly integrate evolutionary information, structural
-context, and the interactions between mutation sites and their local
-microenvironments, presenting obvious limitations in guiding protein
-modification practice. To this end, this paper proposes the Equivariant
-Contrastive Learning Network (ECL-Net) for effectively predicting
-protein thermostability changes. Firstly, this method employs a joint
-sequence-structure representation strategy, deeply integrating sequence
-embeddings extracted by protein language models (PLMs) with spatial
-structural information captured by residue interaction networks, while
-an Equivariant Graph Neural Network (EGNN) is utilized for feature
-propagation and structural modeling. Furthermore, the self-attention
-mechanism of the language model is utilized to determine critical
-residues highly correlated with the mutation, thereby introducing
-structural microenvironment information. Building upon this, a contrastive
-learning method jointly guided by the mutation site and local microenvironment
-is designed, aiming to guide the model to learn more robust feature
-representations. Experimental results demonstrate that ECL-Net outperforms
-existing baseline models. Among the four predicted transglutaminase
-mutants, the model’s predictions for three mutants were consistent
-with the experimental outcomes, demonstrating the potential applicability
-of ECL-Net in guiding protein engineering.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Benchmarking TAS2R
-Subtype-Selectivity Prediction
-under Scaffold-Aware Evaluation: A Controlled Analysis of Receptor
-Representations</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02473/5443337/Benchmarking-TAS2R-Subtype-Selectivity-Prediction</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02473</guid>
-<pubDate>Thu, 01 Oct 2026 13:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02473/5443337/Benchmarking-TAS2R-Subtype-Selectivity-Prediction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02473/1/m_ci6c02473_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Bitter taste perception is mediated by 25 human G protein-coupled
-receptors (TAS2Rs) whose ligand selectivity profiles range from receptors
-recognizing hundreds of chemically diverse compounds to receptors
-with fewer than 10 known agonists. Predicting which specific TAS2R
-subtype a compound activates─rather than simply whether it
-tastes bitter─is essential for understanding subtype-specific
-physiology and for designing selective bitter-masking agents. Here,
-we build a TAS2R subtype-selectivity model, TAS2R-SelectNet, and use
-it as a controlled testbed to establish two things about how such
-models should be evaluated and how their receptors should be represented.
-First, we quantify scaffold-based data leakage in commonly used TAS2R
-evaluation setups and identify its mechanism. Random-split evaluation
-inflates area under the curve (AUC) by up to 0.21 for receptor subtypes
-of broad selectivity (TAS2R39: ΔAUC = +0.210; TAS2R14: +0.188).
-The inflation tracks chemical similarity directly: prediction AUC
-rises from about 0.64 for the most novel test compounds to a plateau
-near 0.95 once a near-duplicate of a training compound exists, and
-random splits enrich the test set with exactly such compounds. Reported
-accuracies obtained under random splits are therefore likely optimistic,
-and the effect can be diagnosed in any benchmark with a simple similarity
-analysis. Second, we show that the widely assumed benefit of restricting
-protein language model embeddings to binding-pocket residues does
-not hold for this task, using controls that isolate what the receptor
-encoder actually exploits. A single residue drawn at random from outside
-the pocket performs as well as the pocket itself (0.735 ± 0.010
-versus 0.721 ± 0.010 for a single-pocket residue), and for TAS2R14
-the cholesterol-binding site and the intracellular agonist site are
-interchangeable (0.738 versus 0.739). At matched input dimensionality,
-full-sequence ESM-2 pooling (0.759 ± 0.004) leads pocket pooling
-(0.741 ± 0.004), with one-hot encoding between them (0.744 ±
-0.011); the same holds for receptors held out entirely from training.
-Sweeping the receptor-encoder input width from 32 to 5120 dimensions
-across seven representations shows why such comparisons are fragile:
-all 42 settings fall within 0.708–0.771 macro AUC and the ranking
-changes with width, while training AUC reaches 1.000 throughout, so
-at this data set size, the model memorizes the training associations
-irrespective of receptor encoding. Comparisons between receptor representations
-therefore require matched input dimensionality and are not established
-by a single setting. We further test the model on held-out literature
-agonists absent from BitterDB, where it recovers the correct receptor
-for data-rich subtypes and fails for the near-orphan TAS2R2, delimiting
-the class-imbalance regime, and we release predictions and a selectivity
-index for all 14,835 compound–receptor pairs. TAS2R-SelectNet
-and all code are freely available at https://github.com/tysonyj/TAS2R-SelectNet.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Drug-Like, Shape
-Profiling and Diversity Assessment
-of the Molport in-Stock Compound Database</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01636/5443231/Drug-Like-Shape-Profiling-and-Diversity-Assessment</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01636</guid>
-<pubDate>Thu, 01 Oct 2026 11:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01636/5443231/Drug-Like-Shape-Profiling-and-Diversity-Assessment"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01636/1/m_ci6c01636_0013.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Publicly accessible compound repositories are essential
-for virtual
-screening and hit identification, but their continuous growth brings
-inconsistent structure representations, reactive groups, and a computational
-burden from standardizing millions of entries. Many repositories also
-contain outdated or out-of-stock compounds that are no longer procurable,
-weakening the practical value of screening results. We present a 20-year
-effort to build and maintain an open-access compound repository: the
-Molport in-stock catalog, now a collection of 6.1 M purchasable compounds
-sourced exclusively from validated suppliers. We describe the cheminformatics
-workflow applied to this catalog, which harmonizes structures from
-openly accessible, heterogeneous sources into a standardized format,
-maintains dynamic currency by including only compounds confirmed in
-stock and removing outdated or unavailable molecules, and profiles
-physicochemical properties, druglikeness, three-dimensional (3D) shape,
-and structural diversity to produce chemically meaningful, medicinally
-relevant subsets. The result is an organized, up-to-date view of purchasable
-chemical space that supports faster and more reliable identification
-of experimentally accessible hit candidates for downstream screening
-campaigns.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Acep K  a : Thermodynamics-Informed
-p K  a  Prediction and Protonation-State Generation
-in PlayMolecule AI</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03037/5443162/AcepKa-Thermodynamics-Informed-pKa-Prediction-and</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c03037</guid>
-<pubDate>Thu, 01 Oct 2026 07:00:31 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03037/5443162/AcepKa-Thermodynamics-Informed-pKa-Prediction-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03037/1/m_ci6c03037_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The acid dissociation constants (p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt;) and the protonation states that they determine govern solubility,
-permeability, and protein–ligand binding, making their accurate
-prediction essential in drug discovery. We present Acep&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt;, an application on the PlayMolecule AI platform that
-implements the Uni-p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; framework, which
-couples statistical mechanics with representation learning. Rather
-than treating p&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; as a scalar regression
-target, Acep&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; models the complete protonation
-ensemble, enforcing thermodynamic consistency across coupled ionization
-sites. The application is built on an independently retrained Uni-Mol
-backbone that matches state-of-the-art accuracy on standard public
-benchmarks. We further describe three engineering contributions: AceConfgen,
-a GPU-accelerated conformer generator approximately 7 times faster
-than other GPU implementations and more than an order of magnitude
-faster than multithreaded RDKit; a streamlined inference engine that
-protonates molecules directly; and a 3D-aware mode that applies predicted
-protonation states to bound ligand poses. Acep&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;a&lt;/sub&gt; supports library-scale prediction and provides a validated,
-ready-to-use implementation of this methodology, available at https://open.playmolecule.org.&lt;/span&gt;</description>
-</item>
-<item>
-<title>A Multimodal Integration
-Framework for Taste and Odor
-Prediction and Flavor Molecule Discovery</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02181/5442651/A-Multimodal-Integration-Framework-for-Taste-and</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02181</guid>
-<pubDate>Wed, 30 Sep 2026 17:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02181/5442651/A-Multimodal-Integration-Framework-for-Taste-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02181/1/m_ci6c02181_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Data-driven molecular property prediction is increasingly
-used
-to accelerate molecular discovery and computer-aided design. In flavor
-science, accurate prediction of molecular taste and odor attributes
-could facilitate the screening and rational design of candidate flavor
-molecules. However, this task remains challenging because structure–flavor
-relationships are complex, single molecular representations may provide
-incomplete property-relevant information, and the available labels
-are highly imbalanced. To address these challenges, we implemented
-and evaluated Uni-Flavor, a multimodal prediction framework embedded
-in an integrated computational discovery workflow. Uni-Flavor combines
-three-dimensional molecular representations extracted from a LoRA-fine-tuned
-Uni-Mol2 model with stability-selected Mordred physicochemical descriptors
-through a dual-branch fusion architecture incorporating modality-specific
-projection, multiplicative late fusion, label-aware classification,
-and imbalance-aware optimization. Independent taste and odor models
-were trained separately under a common modeling and evaluation protocol,
-using curated datasets containing 17,202 taste molecules across six
-categories and 4,983 odor molecules across 138 labels. On held-out
-test sets, the taste model achieved an accuracy of 95.63% and an AUROC
-of 97.35%, an AUPRC of 82.05%, and an F1 score of 76.32%, whereas
-the corresponding values for the odor model were 96.03%, 89.97%, 38.00%
-and 36.94%. Branch-specific atom-level attribution analysis provided
-heuristic structural insights into the Uni-Mol2-derived component
-of the predictions by associating attribution patterns with specific
-molecular substructures. The trained models were subsequently used
-to screen approximately 670,000 natural products and coupled with
-a ScaffoldCAMD strategy for the constrained design of synthetic flavor
-candidates under chemical-validity, scaffold-assembly, and physicochemical-property
-constraints, followed by preliminary structural safety filtering.
-Molecular docking was further used to examine plausible receptor–ligand
-interactions and provide preliminary receptor-level support for selected
-candidates. This work presents a common multimodal modeling strategy
-that integrates three-dimensional molecular representations with physicochemical
-descriptors and is instantiated independently for multilabel taste
-and odor prediction. Although developed for flavor-related prediction,
-evaluation on the SIDER dataset provides preliminary cross-task evidence
-that the multimodal integration strategy can be applied to another
-imbalanced multilabel molecular property problem; broader transferability
-to other property domains remains to be established.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Fréchet
-ChemNet Distance Is Blind to Double-Bond
-Stereochemistry</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02441/5442618/Fre-chet-ChemNet-Distance-Is-Blind-to-Double-Bond</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02441</guid>
-<pubDate>Wed, 30 Sep 2026 16:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02441/5442618/Fre-chet-ChemNet-Distance-Is-Blind-to-Double-Bond"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02441/1/m_ci6c02441_0003.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Fréchet ChemNet Distance (FCD) cannot distinguish &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;/&lt;span style="font-style:italic;"&gt;Z&lt;/span&gt; stereoisomers, because the ChemNet
-tokenizer maps the SMILES bond-direction symbols / and &lt;span style="font-style:italic;"&gt;\&lt;/span&gt; to the same unknown token; inverting every
-double-bond configuration in MolT5-large’s ChEBI-20 output
-(384 molecules altered) changes FCD by 0.001 resampling standard deviations
-while conditional per-bond accuracy falls from 98.97% to 1.03%, and
-MOSES and GuacaMol cannot expose the defect because their benchmark
-data contain no stereochemistry. A stereochemistry-aware correction
-is monotone under synthetic corruption yet prefers fully inverted
-real output, illustrating that a metric operating only on unpaired
-generated and reference embeddings cannot recover per-caption correctness.
-Across real generators FCD carries no dependable signal about a more-than-3-fold
-difference in &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;/&lt;span style="font-style:italic;"&gt;Z&lt;/span&gt; recall: on the
-double bonds where MolT5-large and BioT5-base both recover the molecular
-skeleton, recall is 0.26 versus 0.997, yet FCD does not separate the
-two models─its ordering is statistically borderline, with a
-bootstrap interval that crosses zero. The failure is one of uninformativeness
-rather than of reversal. Where paired conditional references exist,
-stereochemistry should be reported directly, as coverage, precision,
-and recall, rather than inferred from a distributional score.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Predicting Adsorbate-Solvent
-Interaction Energies
-in Zeolite Pores Using Convolutional Neural Networks with Attention
-Mechanisms</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02080/5442606/Predicting-Adsorbate-Solvent-Interaction-Energies</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02080</guid>
-<pubDate>Wed, 30 Sep 2026 15:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02080/5442606/Predicting-Adsorbate-Solvent-Interaction-Energies"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02080/1/m_ci6c02080_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Solvent effects play
-a critical role in determining reaction
-thermodynamics
-and kinetics in liquid-phase heterogeneous catalysis, particularly
-in confined nanoporous environments such as zeolite pores. However,
-accurate prediction of solvation thermodynamics remains computationally
-prohibitive due to the need for extensive first-principles calculations
-on diverse solvent configurations. In this work, we present an attention-enhanced
-three-dimensional convolutional neural network (3D-CNN) framework
-to predict solvation interaction energies (Δ&lt;span style="font-style:italic;"&gt;Eint&lt;/span&gt;) of adsorbates in Ti-faujasite (Ti-FAU) zeolite pores.
-Molecular dynamics (MD) snapshots of C&lt;sub&gt;1&lt;/sub&gt;–C&lt;sub&gt;3&lt;/sub&gt; oxygenates in aqueous and water–methanol solvent environments
-are transformed into multichannel voxel grid representations that
-encode spatially resolved atomistic information. The 3D-CNN architecture
-incorporates separate adsorbate and solvent branches and employs convolutional
-block attention modules to dynamically prioritize spatial regions
-and feature channels relevant to adsorbate–solvent interactions.
-Trained on density functional theory (DFT)-derived interaction energies
-from a multiscale modeling workflow, the model achieves a mean absolute
-error of 0.08 eV for individual configurations and 0.04 eV for ensemble-averaged
-solvation energies, approaching DFT accuracy while substantially reducing
-computational cost. Cross-validation (CV) using simulation-system,
-solvent-composition, and pore-type splits demonstrates predictive
-performance on held-out systems within the represented chemical domain
-and across the solvent and pore conditions considered in this study.
-Analysis of spatial attention maps and feature attributions reveals
-that the model emphasizes adsorbate-proximal solvent structures and
-hydrogen-bonding interactions, consistent with physical intuition.
-This framework enables efficient and interpretable prediction of solvation
-interaction energies in confined systems and provides a scalable pathway
-for mapping structural information sampled from force-field-MD to
-DFT targets.&lt;/span&gt;</description>
-</item>
-<item>
-<title>GMSF: A Dual-Path
-Multimodal Framework for Enzyme
-Function Prediction via Difference Graph Encoding and Multiscale Semantic
-Fusion</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02672/5442605/GMSF-A-Dual-Path-Multimodal-Framework-for-Enzyme</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02672</guid>
-<pubDate>Wed, 30 Sep 2026 15:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02672/5442605/GMSF-A-Dual-Path-Multimodal-Framework-for-Enzyme"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02672/1/m_ci6c02672_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Enzymes play a central role in green chemistry and biomanufacturing.
-However, precise enzyme selection via Enzyme Commission (EC) number
-prediction remains a critical bottleneck between the retrosynthetic
-pathway planning and experimental implementation. Existing computational
-methods predominantly rely on single-modality representations that
-either lose spatial topological structures or treat reactions as static
-snapshots, failing to capture the explicit atom-level state transitions
-in chemical bond evolution. To address these limitations, we propose
-GMSF, a dual-path multimodal deep learning framework. GMSF features
-two core innovations: Difference Graph Encoding, which leverages atom–atom
-mapping (AAM) to compute node feature differences and extract structural
-difference signatures of reaction centers; and Multiscale Sequence
-Encoding, which uses AAM-aligned node mappings to hierarchically capture
-chemical semantics. Experimental results on the ECREACT dataset demonstrate
-that GMSF achieves an accuracy of 93.17% in the highly challenging
-level 3 (subsubclass) enzyme function prediction, outperforming the
-state-of-the-art (SOTA) baseline by a margin of 1.36%. Furthermore,
-its successful application to real-world metabolic networks in the
-BioCyc database validates its immense potential for deciphering complex
-biochemical reactions, serving as a powerful computational screening
-tool to narrow down catalytic mechanisms and coenzyme dependencies
-prior to the exact enzyme selection.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Speak to a Protein: An Interactive Multimodal Co-Scientist
-for Protein Analysis</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01738/5442322/Speak-to-a-Protein-An-Interactive-Multimodal-Co</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01738</guid>
-<pubDate>Wed, 30 Sep 2026 12:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01738/5442322/Speak-to-a-Protein-An-Interactive-Multimodal-Co"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01738/1/m_ci6c01738_0007.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Building
-a working mental model of a protein typically requires
-weeks of reading, cross-referencing crystal and predicted structures,
-and inspecting ligand complexes, an effort that is slow, unevenly
-accessible, and often requires specialized computational skills. We
-introduce &lt;span style="font-style:italic;"&gt;Speak to a Protein&lt;/span&gt;, a new capability that
-turns protein analysis into an interactive, multimodal dialogue with
-an expert coscientist. The AI system retrieves and synthesizes relevant
-literature, structures, and ligand data; grounds answers in a live
-3D scene; and can highlight, annotate, manipulate, and see the visualization.
-It also generates and runs code when needed, explaining results in
-both text and graphics. We demonstrate these capabilities on relevant
-proteins, posing questions about binding pockets, conformational changes,
-or structure-activity relationships to test ideas in real time. &lt;span style="font-style:italic;"&gt;Speak to a Protein&lt;/span&gt; reduces the time from question to evidence,
-lowers the barrier to advanced structural analysis, and enables hypothesis
-generation by tightly coupling language, code, and 3D structures. &lt;span style="font-style:italic;"&gt;Speak to a Protein&lt;/span&gt; is freely accessible at https://open.playmolecule.org.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
