@@ -5,6 +5,275 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Molecular Insights
+into the Allosteric Regulation
+of Pyruvate Kinase in  Streptococcus pneumoniae</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02013/5470723/Molecular-Insights-into-the-Allosteric-Regulation</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02013</guid>
+<pubDate>Fri, 13 Nov 2026 22:00:45 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02013/1/m_ci6c02013_0007.png?Expires=2147483647&amp;amp;Signature=r6w5dLERASNxRD2TLZQv8t42qxnFfTlX4GmS6gYrq3tXYPTSPaDvXasyzkEOv2WLXwFiFFJ038Ji3-gVRRSYhK5-GOzAUj8sjCwOEO4ZyyamlXkZGW5nLxTaOPGbUTMcDY2jO7wGvK4an30RQfrMs9IWXNnHool-jBG8mJeCpkgPDfyn90Wes2gM8ZLnKxLth1dpOhH0oUcuQCGYYKoFP2NFiMv78met5sgqTAqrZaVASaCwPztUgbQSt7GT4wCqAB8JOT0yLC~dyUb4tmLVtgBHiUry9CU3xZmOmJcpYWKEg1EoeOXGjnwxKE68WJKPOB21Q~RGxxVhzO8CGSH-VQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Molecular Insights
+into the Allosteric Regulation
+of Pyruvate Kinase in  Streptococcus pneumoniae " /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;Streptococcus pneumoniae&lt;/span&gt; is a clinically
+important fermentative pathogen that relies heavily on glycolysis
+for energy production. Its rate-limiting enzyme, pyruvate kinase (&lt;span style="font-style:italic;"&gt;Sp&lt;/span&gt;PYK), is allosterically activated by the effector fructose-1,6-bisphosphate
+that binds ∼40 Å away from the substrate-binding catalytic
+site; however, the dynamic mechanism driving this long-range communication
+remains elusive. In this study, we employ molecular dynamics (MD)
+simulations and network analysis to map the allosteric activation
+pathway of &lt;span style="font-style:italic;"&gt;Sp&lt;/span&gt;PYK. Our results indicate that effector
+binding reshapes the dynamical landscape of the protein, increasing
+the coherence of collective motions coupled to active-site activation
+and rewiring long-range correlations. Our computational findings were
+validated by mutagenesis assays, which confirmed the role of key leucine
+residues within the activation pathway for the catalytic activity
+of the enzyme. Our findings refine the “Rock and Lock”
+model of allostery and offer a structural blueprint for leveraging
+allosteric regulation to develop species-selective antimicrobials.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Critical Assessments of Computational Hit-finding
+Experiments Challenge #4: Targeting the Tyrosine Kinase Binding Domain
+of the E3 Ligase Casitas B-Lineage Lymphoma Proto-Oncogene
+B, an Immuno-Oncology Target</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02396/5470712/Critical-Assessments-of-Computational-Hit-finding</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02396</guid>
+<pubDate>Fri, 13 Nov 2026 21:00:49 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02396/1/m_ci6c02396_0007.png?Expires=2147483647&amp;amp;Signature=L98FIF1UL3M95pNv2Z2OS9WkhrdOa9w4DWQfjVAzHt1BrVFPXVBa5DH6HjGCZNvRbdvlyMojjwkj~ZNPb4jXU~XY1w1cGmp2Fp3YmQU2awFnC09A~uBUAqVlo3NTqNeyHkuWCTuthawWTekZN6W9j~k5lmgK4bdrOxUB5F~HkuDU-aD2KtJLKKB38FHG4Aj8frPh6g-IsfoH3Wq89irF-kY9hUIMjJXOIUCHxPO~pRAF3SKEvVFFZ4d-GNSm8NrgGjKVCHGXh1lnVGXWeumueld39YN93YmHqLF2Xe5sk6T5rmF49WxJ2uEN7n676SzXoLA8IbBdDE8LFpD6Ho5knA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Critical Assessments of Computational Hit-finding
+Experiments Challenge #4: Targeting the Tyrosine Kinase Binding Domain
+of the E3 Ligase Casitas B-Lineage Lymphoma Proto-Oncogene
+B, an Immuno-Oncology Target" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The
+critical assessments of computational hit-finding experiments
+(CACHE) are prospective benchmarking exercises where small molecule
+ligands predicted for a nominated protein of interest are procured
+and tested experimentally. In CACHE #4, 23 participating teams each
+selected up to 100 compounds designed to bind the E3 ligase CBLB,
+an immuno-oncology target. The organizers released the first public
+structure of CBLB in complex with a known ligand at the outset of
+the challenge to enable the discovery of chemically novel molecules.
+Out of the 1688 compounds collectively predicted, ten compounds from
+nine participants showed some sign of activity (primary hits), but
+only two were convincingly confirmed (validated hits) across multiple
+biophysical binding assays and in subsequent analogs, and only one
+of them was chemically novel. The apparent difficulty of finding novel
+CBLB ligands, previously reflected by the chemical similarity of inhibitors
+from the patent literature, suggests that potent CBLB hit molecules
+were either rare in the screened commercial libraries, or that computational
+methods may have struggled to retrieve presumably present but weak
+ligands, or that the conformational dynamics of the binding site was
+not sufficiently accounted for. The successful method was strikingly
+atypical. Selection from a chemical binding similarity classifier
+followed by a random forest binding affinity predictor trained on
+inhibitors from the patent literature was refined using a diffusion-model
+binding pose predictor. The road to an ML-driven breakthrough in computational
+hit-finding can take unexpected turns. Which of these turns reveal
+novel horizons and which are mere distractions will best be investigated
+and answered collectively. The discovery in CACHE #4 of a novel series
+of CBLB ligands is not a trivial achievement and may inform medicinal
+chemistry efforts toward clinical candidates that complement immune
+checkpoint inhibition to elicit antitumor immune response in cancer
+patients.&lt;/span&gt;</description>
+</item>
+<item>
+<title>VorRel-Net: Topology-Driven
+Multirelational Learning
+with Voronoi Contact Area for Protein–Ligand Interaction Site
+Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02867/5470609/VorRel-Net-Topology-Driven-Multirelational</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02867</guid>
+<pubDate>Fri, 13 Nov 2026 18:00:52 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02867/1/m_ci6c02867_0007.png?Expires=2147483647&amp;amp;Signature=xBJ3npTSID9cj-aTU9hAmPTGuE3t5T9UlVXzlGMRze6xI61FgrBSqA7hk7gNnGbaMYy45w1EGnp6zFCkdoqNoPBXt4gvZEAeKhnZ8QeDX3JIUeQRopmFWSHS2wLsfKG8ImJ9DzUhOqg5vJ0dCrNaVWtPDCysRYzvY5oKYO3ByUgnHV4QBRXSeUqBcBvFguXFeoCP6c07yllatOCEH5YO04n8ImzjO567hHNuTVdGaHA3e~~auo4NRfghG0cnkWXBWkWBeeGHos7Q5AaFa1NJVwbhDAO8nAuKuh-8cf0ZPZGaElF9rN~W2FLOFMKE29bBJMPDB-e-A0iJkk~1~PQBeg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="VorRel-Net: Topology-Driven
+Multirelational Learning
+with Voronoi Contact Area for Protein–Ligand Interaction Site
+Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate identification of protein–ligand binding
+sites
+is a core task in computational biology and drug discovery. Existing
+protein graph construction methods generally define graph edges using
+only a single topological distance threshold, ignoring the complementary
+roles of various noncovalent interactions (such as hydrogen bonds,
+hydrophobic interactions, and long-range salt bridges) in stabilizing
+protein structures and mediating specific ligand recognition. Furthermore,
+prevailing models suffer from feature degradation and oversmoothing
+issues during deep-layer stacking, alongside insufficient capacity
+for adaptive fusion of multimodal features. To address these bottlenecks,
+we proposed VorRel-Net (Topology-Driven Multirelational Learning with
+Voronoi Contact Area for Protein–Ligand Interaction Site Prediction),
+which constructs a hierarchical multirelational graph to jointly model
+multimodal residue representations and diverse structural interactions.
+An adaptive feature evolution mechanism is designed to effectively
+capture high-order structural dependencies and fuse complementary
+biological information. In addition, a semantic feedback strategy
+is introduced to refine low-level representations using high-level
+semantic guidance, thereby alleviating information loss during deep
+feature propagation. Experimental results verify that VorRel-Net resolves
+dimensional mismatch and information redundancy stemming from conventional
+feature fusion strategies. The proposed method achieves state-of-the-art
+predictive accuracy and biological interpretability on the protein–ligand
+binding site prediction benchmark.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Beyond Organic
+Molecules: MetalLipoDB, a Lipophilicity
+Data Set for Metal Complexes and Machine Learning Benchmarks</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03597/5470593/Beyond-Organic-Molecules-MetalLipoDB-a</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03597</guid>
+<pubDate>Fri, 13 Nov 2026 18:00:52 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03597/1/m_ci6c03597_0012.png?Expires=2147483647&amp;amp;Signature=clnzbFCM0VmGaqdliXnaqf8K69IqNRXT~JqOaexxTvmCrpSXxqZCdhKCXsJ12u6wXDF0sKz4M4gEwSj31zcLvUeffx8JlQQxTs9ua6frwqW8SQoq~Xp73dDWZTslz8We7d8SpRGFkJOskL50MozphfKIIQnExG83L5rwqlMGESPh7nwzfp647NSVBSuQTJ3nJrp6cd02HGusjPAITuTs4eAocGagDDc1UoRZ7by5BdNv2ik3o93cHQqoPO7wAANsPeGIQyf7LDK9Hy88gkwz3~dckm5l4-xG0yNHb7B~QJ-FioeY~plCBBu5NdOs1rKU7PlNhnKnvR17I8yMV9rexA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Beyond Organic
+Molecules: MetalLipoDB, a Lipophilicity
+Data Set for Metal Complexes and Machine Learning Benchmarks" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Lipophilicity governs the uptake, distribution, and toxicity
+of
+drug candidates, yet the experimental log &lt;span style="font-style:italic;"&gt;P&lt;/span&gt; data sets used to build predictive models contain almost exclusively
+organic molecules. Here we present MetalLipoDB, a manually curated
+data set of 5158 experimental log &lt;span style="font-style:italic;"&gt;P&lt;/span&gt; and log &lt;span style="font-style:italic;"&gt;D&lt;/span&gt; values of complexes of 23 metals from 1192 articles, including
+556 entries for multinuclear and heterometallic complexes, annotated
+with the measurement conditions and counterions. The data set quantifies
+the interstudy reproducibility of these measurements (0.56 log units)
+and serves as a benchmark for machine learning, with a mean absolute
+error of 0.72–0.75 for complexes from unseen articles. For
+articles with at least four measurements, anchoring the predictions
+to three measured complexes of the series reduced the error on the
+remaining complexes from 0.73 to 0.51. MetalLipoDB, the code, and
+an interactive web application (https://biometaldb.streamlit.app/) are openly available to support the design of metal-based drugs.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Learning from SILCS FragMaps: Combining Physics-Based
+Energies with Artificial Intelligence for Rapid Drug Permeability
+Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02159/5470566/Learning-from-SILCS-FragMaps-Combining-Physics</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02159</guid>
+<pubDate>Fri, 13 Nov 2026 17:00:51 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02159/1/m_ci6c02159_0009.png?Expires=2147483647&amp;amp;Signature=os9DsDnLsjxrwkkHboHFoseUNEVYLlTpsSM6mi2wnst6eDGI4eS4Vj2LIjShWc7jcjCjWevdoiJWT268RZ2XttJZHOb4hfzir4xMKZa0Gh2DQJtGIDHumYcHkHuo9wYoTdn-q7qR-~6pnUoXWD2eliLveBkcxy3Nu9RRXGm~OhdBfliPbG36IVqq~ut~j7j~X23ZqfgT7kr05hY4Wp-t0zKz3mTq9N0vVi3LgHxLlD6nbO7HPRpqNX0-Z7usiQEJ593qQOZmyv0l0JnT~WRPmYuOVfplnmSnUad3m5uHUsqPbw1dXkjtiWwiuFS2ma3-AHznMavIxkWj-t9dyoWEgw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Learning from SILCS FragMaps: Combining Physics-Based
+Energies with Artificial Intelligence for Rapid Drug Permeability
+Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Prediction of drug
+passive permeability represents an important
+component of rational drug design, requiring continued development
+of methods to address this problem. Artificial intelligence (AI) methods
+have long been shown to be of utility for prediction of compound permeability,
+though they are limited by the range of chemical space in the data
+sets used in the training of the models. To address this, in the present
+study, the site identification of ligand competitive saturation (SILCS)
+methodology is used to calculate free energy profiles for compounds
+across 3 model lipid bilayers: a POPC–cholesterol bilayer,
+a bilayer model mimicking parallel artificial membrane permeability
+assay (PAMPA) experiments, and a bilayer modeling the blood–brain
+barrier. We present a rapid workflow generating around 15,000 such
+profiles that accounts for the passive permeation of more than 2500
+unique ligands for 3 different membranes. The free energy profiles,
+which account for all accessible protonation states of the compounds,
+are then used as features in a collection of AI models. As the physics-based
+free energy profiles are calculated based on the functional group
+types in the compounds combined with the SILCS FragMaps calculated
+for the bilayers, their use potentially improves model transferability
+by overcoming the limitation of the applicability of the AI models
+to the chemical space included in the training set, assuming the SILCS-based
+energies are representative of barriers to compound permeabilities.
+The resulting models are shown to be almost comparable with available
+passive permeability models reported in the literature while additionally
+offering energetic information about the contribution of functional
+groups to the permeation barriers that may be used for rational compound
+optimization. Limitations in the cell-based training data, including
+the presence of drug transporters, are discussed.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Multiscale Drug–Cell
+Interaction Modeling via
+Hybrid Graph Architectures and Knowledge-Aware Fusion for Drug Synergy
+Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02622/5470108/Multiscale-Drug-Cell-Interaction-Modeling-via</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02622</guid>
+<pubDate>Fri, 13 Nov 2026 13:00:55 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02622/1/m_ci6c02622_0007.png?Expires=2147483647&amp;amp;Signature=B5tWHwCB-ltemWBTx717FGw-bqMX3cScNazEfrwWkZZOOl04WymAfxPhFLIIlYmTCGnnk1H3g9WQ0dtTTBurLnfqEeFeTyaPFJHSUSp8aUcwak5DnDVKfTY6x2pEFlYTRmT7QQwJX86fuViQWQ1FORhDtYk1Y3h8d19SyiteEu7Hoac8SPepTyYbF6d0inv8aHohRBQyum9O7zhYoLxGgY57ojiErU52EM8aMjLW3ufdNbk~pX898OcPBhJRbo~DzQKSbn7OEvGeAxo164QFWQdJPIusmUrfb9qqekNd8iivMNd3Z6fGJAWfgmTpWyRbhDnKb5OeIApmra~6slmDig__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Multiscale Drug–Cell
+Interaction Modeling via
+Hybrid Graph Architectures and Knowledge-Aware Fusion for Drug Synergy
+Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of drug combination synergy remains
+challenging
+due to the vast combinatorial space and strong cellular context dependency
+of drug responses. To address these limitations, we present MILSyn,
+a multimodal interaction learning framework designed to capture multiscale
+drug–cell interactions through three integrated components:
+(1) relational modeling of heterogeneous graph structures using a
+hybrid RGCN-GATv2 architecture, (2) cross-modal fusion of biochemical
+features spanning SMILES, substructures, 3D conformations, and multiomic
+profiles, and (3) knowledge-aware reasoning via LLM-derived semantic
+embeddings. Evaluated on DrugComb and four benchmark data sets, MILSyn
+consistently outperforms state-of-the-art models, demonstrating robust
+generalization in cold-start scenarios and notable performance gains
+under few-shot fine-tuning for rare tumors. Attention-based analyses
+provide exploratory summaries of gene-, pathway-, and substructure-level
+features associated with the model’s predictions, generating
+hypotheses for further investigation. By combining scalability with
+interpretability, MILSyn provides a practical framework for prioritizing
+candidate drug combinations in precision oncology.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Alchemy: Bounded
+Enumeration and Interactive Exploration
+of Small-Molecule Radical Reaction Networks</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02462/5469945/Alchemy-Bounded-Enumeration-and-Interactive</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02462</guid>
+<pubDate>Fri, 13 Nov 2026 05:00:51 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02462/1/m_ci6c02462_0004.svg?Expires=2147483647&amp;amp;Signature=LNfR2F0h773dVpg-TLYZeysE4climiPJJ65zgtYOqVNLXTkNAYIY6lqZiCmDmponv4C9OTqBp6~pyiyE3FTphY9bAsWhJp~S8eC1SPNmKdg8CHiQ9tQj1RsGU6~KZSSk6daIBr0wQTJyLFrWBt5Yw7~H3OKp6CnBZ5U0SUEZrXdivnDogI62vG1cG9AIBS8nkfaHWDeKB~BLUhz2JRFI6xuFWRe8XFNtz6-6F6-dTWWtjy6yYKH-y~z-r7NsT0a14zlvBL~EzWUwSBm1tcabSU7HIaWqRHhxSYGnfSuAtdNJMgWFX35~mJKzUAPWd7S1a~vmQdoT-Z1ze0DHyAwImw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Alchemy: Bounded
+Enumeration and Interactive Exploration
+of Small-Molecule Radical Reaction Networks" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Automated construction of chemical reaction networks
+is limited
+by the combinatorial growth of possible molecules, intermediates,
+and formal transformations. We present alchemy, an open-source Python workflow for systematic enumeration and interactive
+exploration of small-molecule radical reaction networks. Within an
+explicitly bounded graph space, alchemy generates
+connected, neutral C/N/H molecular graphs with single, double, or
+triple bonds and specified radical counts; RDKit sanitization and
+canonicalization then remove graph-invalid and duplicate records.
+Formal reaction candidates are constructed without learned reaction
+templates by combining bond-dissociation records into rearrangement
+and transfer stoichiometries. Parallel generation, persistent disk-backed
+storage, and Kuzu graph representation make the resulting formal network
+searchable. An independent brute-force control recovers exactly the
+same 416 neutral molecular graphs as alchemy in a three-heavy-atom C/N/H space. In a trimethylamine case study
+limited to at most five heavy atoms and one unpaired electron per
+reaction side, the workflow generated 41,735 unique molecular graphs
+and a seed-0 bounded sample of 60,035 first-generation reaction records.
+The reaction construction is not complete because high-frequency shared
+fragments are handled by a documented deterministic sampling cap.
+An optional PaiNN molecular-energy model is distributed with the software,
+but its closed-shell QM9 benchmark does not validate the open-shell
+species considered here, and its output is not used to rank, filter,
+or interpret the case-study records. Alchemy therefore, provides a reproducible route to bounded reaction-space
+construction and downstream graph inspection.&lt;/span&gt;</description>
+</item>
+<item>
+<title>CadreAI: Agentic
+AI for Semantically Decoupled Protein–Drug
+Design and Optimization</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02788/5469888/CadreAI-Agentic-AI-for-Semantically-Decoupled</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02788</guid>
+<pubDate>Fri, 13 Nov 2026 04:00:46 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02788/1/m_ci6c02788_0006.png?Expires=2147483647&amp;amp;Signature=ezObI9DN3p9hYJfy4jgwMS4ogpF2ZDnqdMWC64IHxBso-5RxK3BGiWyC9vDg4nkdd3JU1Jyb7lXM8SOURS3azXZ4iLZQG2tAYPTWff3HXi0FJ4geP2meU7~OQzCaptpNuFDAQQDv6VHl5Z9p~Du5oe3Z-Qy-3nKgcTIj2Ks11aOjBpJ7~YxilOvU8dE4utTvuBzLbxfs9iP~gi9ZRZseNh5sv0-1gWkWdpV4gOId9-u-5Ao7wtxWLhpxfJEKS2eI0Xnf7VbRd8ScTWv-hUaf1h2Dlem~amRAZxqgx2Mqlxg5iM4Am7xKVaQWxElo36MCigkErv9QJ3Z2yI5-F0r1mg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="CadreAI: Agentic
+AI for Semantically Decoupled Protein–Drug
+Design and Optimization" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;De novo&lt;/span&gt; drug design must balance global
+drug properties
+with local structural determinants of target specificity. However,
+existing methods often reduce both objectives to local geometric optimization,
+relying on blind, reward-driven perturbations that can disrupt essential
+scaffolds and compromise overall drug-likeness. To resolve this destructive
+optimization trap, we propose CadreAI, a semantically decoupled agentic
+de novo drug design framework. CadreAI explicitly decomposes the entire
+drug design process into two independent subtasks: target-oriented
+semantic planning and plan-conditioned molecular generation. This
+strict separation mitigates potential task interference, allowing
+each module to focus exclusively on its dedicated objective without
+mutual disruption. Crucially, the strategic logic of &lt;span style="font-style:italic;"&gt;how&lt;/span&gt; to formulate these target-oriented plans is driven by Simulation-Guided
+Insight Consolidation (SGIC). To eliminate trial-and-error guessing,
+this persistent memory mechanism translates transient numerical docking
+feedback into reusable textual heuristics, allowing the agent to continuously
+learn and logically deduce subsequent structural edits. Evaluated
+on the CrossDocked2020 and DrugGen benchmarks, molecules generated
+by CadreAI achieve superior docking performance with suitable drug-likeness
+and synthetic accessibility. Additional Boltz-2 evaluations provide
+orthogonal computational validation of predicted structural plausibility
+and binding affinity. These results demonstrate that semantically
+decoupled reasoning offers a highly controllable and practical route
+for &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; therapeutic design.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Scramblases and
 Insertases Facilitate Transmembrane
 Translocation of Amphiphilic Peptides</title>
@@ -4522,282 +4791,6 @@ showing significant correlation between computed scores and experimental
 binding affinities across all tested force fields. The software is
 freely available at https://github.com/jwperthold/GroScore under the
 MIT License.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Topology-Aware
-Modeling of the Full Genome Reveals
-Stability Determinants in a Small Naked Virus</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01934/5444147/Topology-Aware-Modeling-of-the-Full-Genome-Reveals</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01934</guid>
-<pubDate>Fri, 02 Oct 2026 22:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01934/5444147/Topology-Aware-Modeling-of-the-Full-Genome-Reveals"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01934/1/m_ci6c01934_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Understanding how viral genomes are organized under extreme
-spatial
-confinement remains a fundamental challenge in structural virology.
-Icosahedral viruses, despite offering high-resolution capsid structures
-through cryo-electron microscopy and X-ray crystallography, present
-a major obstacle: their genomes do not obey icosahedral symmetry and
-are thus averaged out during standard reconstruction procedures, leaving
-genome topology largely unresolved. Computational modeling offers
-a complementary avenue, but existing approaches often rely on simplified
-polymer representations that fail to capture sequence-specific features
-and the extreme compaction observed in small DNA viruses. Here, we
-focus on Porcine Circovirus type 2 (PCV2), a member of the &lt;span style="font-style:italic;"&gt;Circoviridae&lt;/span&gt; family and one of the smallest autonomous mammalian
-viruses, which packages a circular ∼1.7 kb single-stranded
-DNA genome into a ∼20 nm T = 1 icosahedral capsid at one of
-the highest DNA packing densities found in nature. We introduce an
-integrative methodology combining AI-based structural prediction,
-lattice Monte Carlo simulations, and multiscale molecular dynamics
-to generate and simulate three-dimensional topological models of the
-complete virions. Our results demonstrate that distinct genome arrangements
-can produce virions with experimentally indistinguishable external
-morphologies, yet differ substantially in their internal energies
-and predicted particle stability. These findings suggest that circovirus
-populations comprise structurally similar but energetically heterogeneous
-assemblies, with implications for infectivity, uncoating, and environmental
-persistence, while providing a generalizable framework for modeling
-genome topology in other confined viral systems.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Enhanced Generalization
-through Atomic Embeddings and Cross-Element Parameterization</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01725/5444133/Enhanced-Generalization-through-Atomic-Embeddings</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01725</guid>
-<pubDate>Fri, 02 Oct 2026 21:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01725/5444133/Enhanced-Generalization-through-Atomic-Embeddings"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01725/1/m_ci6c01725_0003.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The limited transferability of machine-learned interatomic
-potentials (MLIPs) to unseen chemical compositions constrains their
-utility in computational materials discovery. We present a systematic
-investigation into two interdependent design principles─learned
-atomic representations and cross-element parameterization─that
-govern MLIP generalization. Using the diverse, multielement OC20 catalyst
-dataset, we evaluate chemically informed atomic embeddings against
-conventional 1-hot encoding within two distinct model architectures:
-the tensor-based LATTE descriptor and the MACE message-passing neural
-network. We demonstrate that embeddings such as Magpie and Matscholar
-reduce force mean absolute errors (MAEs) by 20–30% compared
-to 1-hot encoding, and improve data efficiency in low-data regimes
-by over 40%. Furthermore, by strategically sharing parameters across
-elements, we reduce the model sizes by up to 98% (from 23M to 400k
-parameters) without remarkably compromising accuracy, and even enable
-meaningful few-shot prediction for underrepresented elements. This
-work establishes a practical framework for building compact, transferable,
-and data-efficient MLIPs suitable for exploration across heterogeneous
-chemical spaces.&lt;/span&gt;</description>
-</item>
-<item>
-<title>DESPOT: Direction-Enhanced Scoring POTentials for
-Scoring of Protein–Ligand Interactions</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02173/5444105/DESPOT-Direction-Enhanced-Scoring-POTentials-for</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02173</guid>
-<pubDate>Fri, 02 Oct 2026 19:00:31 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02173/5444105/DESPOT-Direction-Enhanced-Scoring-POTentials-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02173/1/m_ci6c02173_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Knowledge-based potentials
-(KBPs) remain among the most reliable
-and interpretable scoring functions for protein–ligand interactions,
-yet most share two structural limitations. They assume that the space
-around each protein atom is isotropic, and their interaction-conditioned
-reference state cannot represent regions of space that are preferentially
-left empty. We introduce DESPOT (Direction-Enhanced Scoring POTentials),
-an all-atom anisotropic KBP that overcomes both. DESPOT classifies
-atoms into isotropic, axially symmetric, and fully anisotropic symmetry
-classes from their hybridization and bonding environment, and discretizes
-the surrounding interaction space using the corresponding symmetry.
-By adopting a positionally averaged reference state and using a void
-ligand atom type, it learns, for every point around a protein atom,
-the probability that the point is occupied by a given ligand atom
-type or preferentially left empty─a ligand-independent description
-that naturally encodes steric exclusion. This occupancy-conditioned
-potential captures the precise, atom-level placement of ligand atoms;
-we pair it with a complementary geometry-conditioned, residue-level
-formulation (DESPOT-screen, in the spirit of KORP-PL) and combine
-the two inverse-Boltzmann scores into a consensus score, DESPOT-combo.
-Derived from 110,943 curated, energy-minimized complexes drawn from
-the CROWN database and evaluated on the CASF-2016 benchmark, DESPOT
-achieves competitive scoring power (Pearson &lt;span style="font-style:italic;"&gt;r&lt;/span&gt; = 0.61),
-while DESPOT-combo attains best-in-class docking power (89.5% top-1
-success); all anisotropic DESPOT variants significantly outperform
-isotropic KBPs and established empirical scoring functions in virtual
-screening. Anisotropy is decisive for rejecting geometrically implausible
-poses, and uniting the atom-level precision of DESPOT with the implicit
-flexibility tolerance of the residue-level score yields the most consistent
-performance across tasks. Because the same occupancy-conditioned potentials
-can be evaluated over an empty grid, DESPOT generates molecular interaction
-fields as well, unifying pose scoring with direction-aware binding-site
-characterization within a single interpretable model.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Validation Strategy Dominates Model Choice in Chronological
-QSAR Evaluation</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02796/5443814/Validation-Strategy-Dominates-Model-Choice-in</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02796</guid>
-<pubDate>Fri, 02 Oct 2026 11:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02796/5443814/Validation-Strategy-Dominates-Model-Choice-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02796/1/m_ci6c02796_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Quantitative structure–activity
-relationship (QSAR) models
-are commonly evaluated by random cross-validation or random train-test
-splits, but these retrospective procedures may overestimate performance
-when validation compounds are structurally or temporally close to
-the training data. In this study, we examined whether this optimism
-is primarily explained by structural redundancy, chronological data
-set evolution, or the choice of machine-learning model. Fourteen public
-ChEMBL bioactivity data sets were curated as binary classification
-tasks. Five validation conditions were compared: random validation,
-chronological validation by publication year, a size-matched randomly
-thinned control, structural filtering of the random validation set,
-and structural filtering of the chronological validation set. Model
-development was deliberately held fixed within the random-derived
-and year-derived comparisons, so that the effect of validation-set
-composition could be assessed without simultaneously changing the
-training cohort. Four standard QSAR model classes─random forest,
-support vector machine, XGBoost, and a feed-forward neural network─were
-evaluated under the same training-only model-selection workflow. Random
-validation produced closely aligned internal and external estimates,
-with mean MCC values of 0.75 and 0.72, respectively, while random
-thinning gave essentially unchanged validation performance (MCC 0.73).
-Structural filtering reduced validation MCC to 0.48 without changing
-the corresponding training-only CV estimate. Chronological validation
-produced a much larger generalization gap, with mean CV MCC of 0.73
-and validation MCC of 0.19; additional structural filtering reduced
-validation MCC to 0.15. Model-class comparisons showed substantial
-overlap among classifiers, and no standard algorithm consistently
-overcame the chronological validation penalty. These results indicate
-that validation-set definition has a dominant influence on estimated
-QSAR generalization and that chronological data set shift is not reproduced
-by random or structure-only validation.&lt;/span&gt;</description>
-</item>
-<item>
-<title>An Inverse Design
-Workflow for Solvent Mixtures Based
-on Hansen Solubility Parameters</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02092/5443716/An-Inverse-Design-Workflow-for-Solvent-Mixtures</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02092</guid>
-<pubDate>Fri, 02 Oct 2026 07:00:34 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02092/5443716/An-Inverse-Design-Workflow-for-Solvent-Mixtures"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02092/1/m_ci6c02092_0014.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We present &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt;, an open-source
-Python framework
-for inverse design of solvent mixtures based on Hansen solubility
-parameters (HSPs). &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt; allows users to control
-the composition of solvent mixtures while setting essential experimental
-constraints. As a case study, we applied &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt; to optimize a polyimide condensation as a model reaction, where
-the hydrogen-bonding HSP term was selectively tuned. &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt; identified seven viable ternary mixtures from an otherwise intractable
-space of 171,871 possibilities. The best-performing solvent mixture
-achieved a fivefold improvement in the product yield at a milder temperature
-when compared with the conventional single-solvent condition. This
-work establishes &lt;span style="font-style:italic;"&gt;SolvPred&lt;/span&gt; as a practical solution
-for rational solvent mixture design and experimental planning, as
-well as an efficient tool for property-guided solvent optimization
-within data-driven experimental workflows.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Decoding Conformational Dynamics and Hyperactivity
-of Histone H3K36  N -Methyltransferase in Oncogenic
-Mutations via tICA and Markov State Modeling</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01817/5443622/Decoding-Conformational-Dynamics-and-Hyperactivity</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01817</guid>
-<pubDate>Thu, 01 Oct 2026 23:00:38 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01817/5443622/Decoding-Conformational-Dynamics-and-Hyperactivity"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01817/1/m_ci6c01817_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;NSD2 is a histone
-methyltransferase that modifies lysine 36 in
-histone H3 (H3K36), playing a central role in chromatin organization
-and transcriptional regulation. Oncogenic mutations, such as E1099K
-and T1150A in NSD2, have been associated with hyperactive methylation,
-but the molecular mechanisms underlying this gain of function remain
-poorly understood. In this study, we performed all-atom molecular
-dynamics simulations  of
-NSD2 bound to the nucleosome in wild type (WT), E1099K, T1150A,
-and the E1099K/T1150A double mutant. Analysis of MD simulations reveals
-that the global dynamics of the enzymes remain unaltered upon mutations.
-The time-lagged independent component analysis and Markov state modeling
-uncovered fundamental differences in free-energy landscapes among
-the variants. The WT NSD2 exhibited energetically and kinetically
-unfavorable transitions between the macrostates along with extended
-enzyme–substrate distances. On the other hand, the mutant systems
-demonstrate reduced SAM-H3K36 distances with modified energy landscapes
-that facilitate transitions or favor prolonged occupancy of catalytically
-competent states. Importantly, the mutations reorganize the network
-of intramolecular contacts around the catalytic site, SAM-binding
-pocket, and histone-binding interface, optimizing substance engagement
-geometry. These findings are consistent with experimental observations
-of enhanced catalytic activity and suggest that oncogenic mutations
-promote hyperactivity through strategic reorganization of conformational
-dynamics rather than simple destabilization, balancing local flexibility
-with global stability to enhance catalytic efficiency. Our results
-provide mechanistic insights into NSD2 dysregulation in cancer and
-establish a framework to develop novel therapeutics that target the
-enzyme’s dynamic landscape.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Diversity-Seeking
-Docking-Guided Molecular Design
-Discovers Broader Predicted Interaction Profiles across Protein Families</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01658/5443611/Diversity-Seeking-Docking-Guided-Molecular-Design</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01658</guid>
-<pubDate>Thu, 01 Oct 2026 21:00:30 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01658/5443611/Diversity-Seeking-Docking-Guided-Molecular-Design"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01658/1/m_ci6c01658_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Structure-based discovery pipelines
-commonly prioritize
-a scalar
-docking score, concentrating candidates into narrow chemotypes and
-contact patterns. We formulate docking-guided &lt;span style="font-style:italic;"&gt;de novo&lt;/span&gt; molecular design as a diversity-seeking exploration problem and
-compare goal-directed, quality-diversity, Pareto-optimization, affinity-focused,
-novelty-based, and random search policies. Molecules are generated
-by fragment-based CReM edits and scored by rigid-receptor GNINA/Vina
-docking. We introduce a residue-level multi-interaction fingerprint
-encoding hydrophobic contacts and hydrogen-bond donor and acceptor
-interactions, together with the &lt;span style="font-style:italic;"&gt;reachability ratio&lt;/span&gt;, an empirical diagnostic of goal-retrieval discriminability. Across
-seven targets from five protein families, with 500 docking evaluations
-per run, Curiosity-IMGEP discovers 15.0% more interaction profiles
-than random search (&lt;span style="font-style:italic;"&gt;d&lt;/span&gt; = 1.01, &lt;span style="font-style:italic;"&gt;p&lt;/span&gt;&lt;sub&gt;Bonf&lt;/sub&gt; &amp;lt; 10&lt;sup&gt;–6&lt;/sup&gt;) and produces +12% more Bemis–Murcko
-scaffolds and +21% more binary residue-contact patterns. A newly added
-budget-matched NSGA-II baseline achieves the strongest predicted binding
-affinity in the benchmark (−11.03 vs Genetic algorithm’s
-−10.98 kcal/mol; &lt;span style="font-style:italic;"&gt;d&lt;/span&gt; = −1.02 vs Random, &lt;span style="font-style:italic;"&gt;p&lt;/span&gt;&lt;sub&gt;Bonf&lt;/sub&gt; &amp;lt; 10&lt;sup&gt;–8&lt;/sup&gt;), tied within
-noise with the Genetic algorithm, and leads on Bemis–Murcko
-scaffold count (23 ± 12), but underperforms QD/goal-directed
-methods on interaction-profile counts (259 ± 46, −12%
-vs Random). Representation ablations compare continuous and binary
-fingerprints, charged-interaction channels, distance cutoffs, and
-inclusion of docking quality in the search vector. Target-specific
-ChEMBL neighborhood and pose-robustness analyses provide orthogonal
-computational triage. The results establish that diversity-aware search
-broadens the set of docking-predicted interaction hypotheses generated
-under a fixed budget; they do not experimentally establish distinct
-binding modes or biochemical activity. Code, configurations, and raw
-results are publicly available.&lt;/span&gt;</description>
-</item>
-<item>
-<title>CS-SelectFold:
-Chemical-Shift-Guided Selection of
-Protein Hidden Conformations from a Generative Protein Structure Model</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02266/5443598/CS-SelectFold-Chemical-Shift-Guided-Selection-of</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02266</guid>
-<pubDate>Thu, 01 Oct 2026 21:00:30 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02266/5443598/CS-SelectFold-Chemical-Shift-Guided-Selection-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02266/1/m_ci6c02266_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Low-populated protein excited states can play decisive
-roles in
-function, ligand recognition, and misfolding, but their structural
-characterization remains difficult because these conformations are
-transient and sparsely populated. Here, we present CS-SelectFold,
-a framework that combines generative conformational sampling with
-NMR chemical-shift-guided post hoc selection to recover low-populated
-protein conformations without additional training or fine-tuning of
-its pretrained components. CS-SelectFold uses SimpleFold to sample
-diverse candidate structures from sequence, applies structural prescreening
-to enrich models that escape the dominant ground-state basin, predicts
-chemical shifts with UCBShift 2.0, and ranks candidates by agreement
-with experimentally determined excited-state chemical shifts. We benchmarked
-CS-SelectFold on two proteins with experimentally characterized low-populated
-states. For the T4 lysozyme L99A cavity mutant, a canonical excited-state
-system, the method recovered the defining excited-state-like local
-rearrangement around the engineered cavity, including inward placement
-of Phe114, consistent with the NMR/CS-Rosetta-derived excited-state
-model. A retrospective two-reference hotspot analysis using internal-distance
-RMSD (dRMSD)─the root-mean-square difference between corresponding
-pairwise distances within the hotspot rather than conventional coordinate
-RMSD after structural superposition─further showed that chemical-shift-based
-ranking enriched conformations that moved away from the ground-state
-basin and toward the experimentally defined excited-state basin. For
-the A39V/N53P/V55L Fyn SH3 domain, which populates an aggregation-prone
-hidden folding intermediate, CS-SelectFold recovered the key topological
-signature of the experimentally characterized intermediate: loss of
-the C-terminal β-strand present in the native state, as confirmed
-by both three-dimensional structural comparison and secondary-structure
-analysis. These results provide proof-of-concept support for CS-SelectFold
-and suggest that the same sample-and-select principle may extend to
-broader low-populated hidden conformations, including folding intermediates.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
