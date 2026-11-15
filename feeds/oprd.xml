@@ -5,6 +5,29 @@
 <link>https://pubs.acs.org/rss/oprdfk/asap.xml</link>
 <description>OPR&amp;D (mirrored feed)</description>
 <item>
+<title>Technical Note:
+Alternative Precatalyst and Base Selection
+Improve the Robustness of a (XantPhos)Pd-Catalyzed C–N Cross-Coupling</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00292/5470839/Technical-Note-Alternative-Precatalyst-and-Base</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00292</guid>
+<pubDate>Sat, 14 Nov 2026 15:00:48 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00292/1/op6c00292_0009.png?Expires=2147483647&amp;amp;Signature=bCxauQ5aQR-2cWZC5rKr98-V5kmO-REwtSFFV4kRQoXt3IrC0WFREQG0K2Cz36CdtkrDpRHoY5nwomz-Eyn6fzY3We413t9-Ygf0up98CyuyUS0RSELveNTX70s4ACREPgdY37BpCpu5fCLPmZmebe0oD0mQ4w2U6F6GXKsC2Ln4ZZhgzNE4LkgQqJR79Wsa7Q8jDKoOLm9od~rjxw0O5qeqj9V91u-J-khvVwmAyAXP0yIEfsCN9x3buCNGu9BOpkD4OGRN66FRyY8UqXub8ZUzjY2HgEoht43fBgKG5C27LFB3kZR1yQOfnzNO1mIa8zyDXXQZEPcSOhi1hQKFzg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Technical Note:
+Alternative Precatalyst and Base Selection
+Improve the Robustness of a (XantPhos)Pd-Catalyzed C–N Cross-Coupling" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Conditions for a scalable Buchwald-Hartwig C–N
+coupling
+in the synthesis of an intermediate toward BMS-986236 are described.
+Replacing (XantPhos)PdCl&lt;sub&gt;2&lt;/sub&gt; with (XantPhos)Pd(allyl)Cl enhanced
+the efficiency of reduction from Pd(II) to Pd(0), removing the catalyst
+induction period and increasing the concentration of the catalytically
+active (XantPhos)Pd(aryl)Cl oxidative addition complex. Utilizing
+the lipophilic carboxylate base potassium 2-ethylhexanoate (KEHA)
+in lieu of K&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;3&lt;/sub&gt; ensured full solubility of
+the base such that the reaction was no longer subject to particle-size
+dependent scaling effects. Taken together, these modifications were
+key to remediating robustness challenges associated with an earlier
+iteration of this process.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Next-Generation
 Synthetic and Biocatalytic Strategies
 for Therapeutic Oligonucleotide Production: A Process Chemistry Perspective</title>
@@ -2457,13 +2480,6 @@ peptide production.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.oprd.6c00170</guid>
 <pubDate>Tue, 30 Jun 2026 01:48:07 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00170/1/m_op6c00170_0015.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00170&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Development of a Second-Generation Stereoselective Manufacturing Process for a Key N-Hydroxyamidine Intermediate of GDC-6599 Enabled by Data Science and Mechanistic Understanding</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00017</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00017</guid>
-<pubDate>Mon, 29 Jun 2026 09:36:47 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00017/1/m_op6c00017_0019.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00017&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>

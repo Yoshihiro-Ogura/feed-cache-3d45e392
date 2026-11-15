@@ -5,6 +5,87 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>From Molecular Structure to Human Pharmacokinetics:
+Clearance Prediction Drives Exposure Error in a Hybrid ML–PBPK
+Workflow</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02076/5470821/From-Molecular-Structure-to-Human-Pharmacokinetics</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02076</guid>
+<pubDate>Sat, 14 Nov 2026 15:00:48 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02076/1/ci6c02076_0008.svg?Expires=2147483647&amp;amp;Signature=xeVXEygOcC2QADasyd08VZKBhPkZwoLNWReun2pXprjWduz38e-UZq3laizMo4CqJLF3Q5n7KP~sYv~qbBtdfusmbQ2PC9G2cxeToscTfrggcL~ERROSgtI7x0pRf7lDNPdASJ5Kpaka1ApaoZnN3rIJwYsJoXK7QUzpVKxRyXx8Sh8~2WFtVSnhuqoTE6AB1Gt751wo61PmQIrWqCDme0OZy4mU2s6PQbCnoH3mqs8He4EkcCenDNtidm25v~ZfUE4rmTIgefc2qaev9Ik4SV-DRq6fLDi6PtuGbz0R~K66sG~kCmo29c42cly3JGnJgEQuenFgLHbnrQjCSngZqg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="From Molecular Structure to Human Pharmacokinetics:
+Clearance Prediction Drives Exposure Error in a Hybrid ML–PBPK
+Workflow" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;End-to-end structure-to-exposure
+workflows combine molecular representation,
+pharmacokinetic (PK) input prediction, and physiologically based pharmacokinetic
+(PBPK) simulation, but aggregate accuracy does not reveal where error
+enters the workflow. We developed graph-based models for predicting
+plasma unbound fraction, systemic clearance, and steady-state volume
+of distribution and used paired input substitution in fixed compound-specific
+PBPK models to trace the downstream effects of these predictions.
+On held-out benchmark sets, models combining graph-derived and physicochemical
+features performed comparably to descriptor-based controls, with no
+detectable paired differences. In 41 compounds, replacing observed
+clearance with predicted intrinsic or systemic clearance caused the
+largest deterioration in exposure prediction. AUC&lt;sub&gt;0–&lt;span style="font-style:italic;"&gt;t&lt;/span&gt;&lt;/sub&gt; 2-fold coverage decreased from 82.9% to between
+41.5 and 53.7%, whereas substitutions of physicochemical properties,
+plasma unbound fraction, and volume of distribution had smaller effects.
+The intrinsic-clearance and systemic-clearance workflows were not
+detectably different under matched input slots. Persistent &lt;span style="font-style:italic;"&gt;C&lt;/span&gt;&lt;sub&gt;max&lt;/sub&gt; underprediction with observed inputs indicated
+an additional limitation in distribution-model structure. When all
+three PK inputs were predicted, AUC&lt;sub&gt;0–&lt;span style="font-style:italic;"&gt;t&lt;/span&gt;&lt;/sub&gt; and &lt;span style="font-style:italic;"&gt;C&lt;/span&gt;&lt;sub&gt;max&lt;/sub&gt; were within 2-fold for
+41 and 59% of compounds. Because encoder exposure may favor performance
+in this set, these coverage estimates are upper bounds for unseen
+chemistry. The paired-substitution design therefore identifies limited
+clearance prediction accuracy, rather than the PBPK clearance parametrization
+strategy, as the principal source of exposure error in the evaluated
+workflow and separates it from residual PBPK structural error.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Non-B DNA
+Finder: A Unified Computational Framework
+for High-Throughput Detection and Contextual Analysis of Noncanonical
+DNA Structures in Diverse Genomes</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01918/5470815/Non-B-DNA-Finder-A-Unified-Computational-Framework</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c01918</guid>
+<pubDate>Sat, 14 Nov 2026 14:00:46 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01918/1/ci6c01918_0005.png?Expires=2147483647&amp;amp;Signature=AfbT1qxeD4d0aNq0sae9Wwr3Rpo0Etfy3Rg8yw2Zs9ikfATfhozEsSwBP9nYZyorpStutQDyTU8zMTG1emqlILqnRLfee0Foft5hfie-1CQt5mBrKpc53Vf5fqc57aWsUjmRuMIfcyF5wkYPGg~lKcfpRXDuQKenPbqCKATrjpdpJUeIQYkQDufJLwBPYhONJHnmP1OH91kFS-OAEByooyWVYO4Fya50voDMxopLigxCTZmVDACh23GBF6kYEuiUhGEenVa~UIbjrpGfBn6ACpwbs9J3RqGbpt5Spa70RBo3AmtjLhQ8JqTj9JOLKzvQdKgOi253zP6SclZbmoU7Og__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Non-B DNA
+Finder: A Unified Computational Framework
+for High-Throughput Detection and Contextual Analysis of Noncanonical
+DNA Structures in Diverse Genomes" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Noncanonical DNA secondary structures arise from unique
+sequence
+patterns, and their formation &lt;span style="font-style:italic;"&gt;in vivo&lt;/span&gt; is modulated
+by local genomic context, including DNA supercoiling, chromatin state,
+and transcriptional activity. They contribute fundamentally to DNA
+replication, transcription dynamics, genome organization, gene regulation,
+genetic diversity, genome instability, disease pathogenesis, and aging.
+However, current computational tools for non-B DNA detection are limited
+in scope. Most predict only one or a few structural classes. None
+of the tools annotate the novel, structurally distinct and biologically
+significant motifs characterized in recent years, viz., A-philic DNA,
+extended-guanine Z-DNA (eGZ-DNA), adenine-cytosine motifs (AC-motifs),
+and G-triplex intermediates. Furthermore, no existing tool identifies
+genomic regions where multiple non-B DNA conformations overlap as
+hybrid domains or coclusters as structural hotspots. In this study
+we present the Non-B DNA Finder, a high-throughput computational framework
+that addresses these limitations. It is the first unified platform
+to integrate the detection of 11 structural classes and 24 subclasses
+of non-B DNA motifs, encompassing both the classical non-B DNA repertoire
+and novel motif types. For the first time, it enables genome-wide
+annotation of hybrid overlap regions and non-B DNA structural clusters.
+To this end, we applied the pipeline to 11 complete genomes spanning
+a broad GC range of 17.6–76.2%. A total of ∼15 million
+non-B DNA motifs were identified, corresponding to an average density
+of ∼6 motifs/kb (range: 0.76–15.5 motifs/kb). Overall
+motif density was positively correlated with GC content (&lt;span style="font-style:italic;"&gt;r&lt;/span&gt; = 0.37). G-quadruplexes were the most prevalent structural class
+in GC-rich actinobacterial genomes, reaching 7604 motifs/Mb in &lt;span style="font-style:italic;"&gt;Miltoncostaea marina&lt;/span&gt;. Contrastingly, curved DNA dominated
+AT-rich endosymbionts, accounting for &amp;gt;70% of all structures in &lt;span style="font-style:italic;"&gt;Candidatus Carsonella ruddii&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Buchnera aphidicola&lt;/span&gt;. Importantly, hybrid interaction analysis revealed that genomic
+regions rarely encode isolated non-B DNA conformations. In the human
+genome, G-Quadruplex → i-Motif (9.57%), G-Quadruplex →
+Slipped DNA (9.46%), and G-Quadruplex → R-loop (5.99%) were
+the most preponderant hybrid pairs. Structural cluster analysis identified
+loci harboring up to seven co-occurring structural classes within
+a 300 bp window. Non-B DNA Finder is freely accessible at https://nonbdnafinder.streamlit.app/, and the source code is available at https://github.com/VRYella/NonBDNAFinder/.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Molecular Insights
 into the Allosteric Regulation
 of Pyruvate Kinase in  Streptococcus pneumoniae</title>
@@ -4737,60 +4818,6 @@ calculations. Validated so far within a single family, gEDES-HM could
 provide a practical route to generate binding-competent structural
 libraries for homologues lacking experimental structures suitable
 for downstream structure-based modeling.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Refining AMOEBA
-Electrostatics for  d -Glucose
-and 1→4-Linked  d -Glucose Oligosaccharides</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02832/5444169/Refining-AMOEBA-Electrostatics-for-d-Glucose-and-1</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02832</guid>
-<pubDate>Sat, 03 Oct 2026 03:00:35 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02832/5444169/Refining-AMOEBA-Electrostatics-for-d-Glucose-and-1"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02832/1/m_ci6c02832_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Carbohydrate simulations
-are highly sensitive to the treatment
-of hydroxyl electrostatics because hydration, conformational sampling,
-and reactivity are governed by dense hydrogen-bonding networks. Here,
-we examine how oxygen quadrupole scaling affects AMOEBA &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose models generated with &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;Poltype2&lt;/span&gt; by comparing the
-standard 0.7 scaling with full 1.0 scaling for α- and β-&lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose monosaccharides, 1→4-linked oligomers, and
-concentrated solutions. Increasing the oxygen quadrupole scaling from
-0.7 to 1.0 improves monosaccharide hydration free energies, increases &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose–water hydrogen-bond counts and lifetimes, and
-strengthens hydroxyl electric-field projections without substantially
-altering hydration-shell structure. In 1→4-linked &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose oligomers, full scaling also enhances intramolecular hydrogen
-bonding, restricts conformational sampling, and produces more organized
-chain electrostatics. Electric-field decompositions indicate that
-OH2 and OH3 in α1→4 &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose oligomers are
-strongly coupled to intramolecular hydrogen-bond networks, whereas
-OH6 remains more water-controlled and solvent-accessible. Diffusion
-simulations show that both models perform reasonably well at concentrations
-up to 0.5 mol/kg but overestimate the slowdown of &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;d&lt;/span&gt;-glucose
-mobility at higher concentrations, especially with 1.0 scaling. Overall,
-full oxygen quadrupole scaling improves local hydration, hydroxyl
-electrostatics, and diffusion behavior in the lower-concentration
-regime. Further refinement is needed to balance these stronger interactions
-against transport properties in highly concentrated carbohydrate solutions,
-which may be particularly relevant to materials applications.&lt;/span&gt;</description>
-</item>
-<item>
-<title>GroScore: Automated
-Scoring of Protein–Protein
-Interactions Using Bidirectional Steered Molecular Dynamics</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01771/5444157/GroScore-Automated-Scoring-of-Protein-Protein</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01771</guid>
-<pubDate>Sat, 03 Oct 2026 00:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01771/5444157/GroScore-Automated-Scoring-of-Protein-Protein"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01771/1/m_ci6c01771_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;GroScore is an open-source Python toolkit that automates
-the scoring
-of protein–protein structures using bidirectional steered molecular
-dynamics (SMD) simulations with explicit solvent. Building on a previously
-published unidirectional pulling approach, the current version introduces
-bidirectional pulling (unbinding and rebinding), interface cutout
-for reduced computational cost, support for three force fields (AMBER19SB,
-CHARMM36m, GROMOS 54A8), and automated handling of small molecules
-and noncanonical amino acids (using OpenFF), structural ions, and
-crystal waters. GroScore integrates with GROMACS and SLURM for high-performance
-computing and is validated on protein–protein affinity benchmarks,
-showing significant correlation between computed scores and experimental
-binding affinities across all tested force fields. The software is
-freely available at https://github.com/jwperthold/GroScore under the
-MIT License.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
