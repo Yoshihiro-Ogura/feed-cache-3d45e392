@@ -5,6 +5,27 @@
 <link>https://pubs.rsc.org/dd/latest-articles</link>
 <description>Digital Discovery (mirrored feed)</description>
 <item>
+<title>Best practices for the BitBIRCH clustering algorithm</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00179c</link>
+<guid>urn:rsc-latest:d6dd00179c</guid>
+<pubDate>Tue, 17 Nov 2026 14:03:34 +0000</pubDate>
+<description>Authors: Kenneth López Pérez, Ramon Alain Miranda-Quintana&lt;br/&gt;DOI: 10.1039/d6dd00179c</description>
+</item>
+<item>
+<title>NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00705h</link>
+<guid>urn:rsc-latest:d6dd00705h</guid>
+<pubDate>Tue, 17 Nov 2026 10:43:53 +0000</pubDate>
+<description>Authors: Roxane Axel Jacob, Daniel Rose, Thierry Langer, Johannes Kirchmair&lt;br/&gt;DOI: 10.1039/d6dd00705h</description>
+</item>
+<item>
+<title>A single reference-energy outlier nearly eliminates Co-O chemistry from a generative model's training distribution</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00707d</link>
+<guid>urn:rsc-latest:d6dd00707d</guid>
+<pubDate>Tue, 17 Nov 2026 01:45:14 +0000</pubDate>
+<description>Authors: Dowon Song&lt;br/&gt;DOI: 10.1039/d6dd00707d</description>
+</item>
+<item>
 <title>Mapping structured absences in scientific papers: an auditable LLM-assisted workflow demonstrated on cross-coupling chemistry</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00428h</link>
 <guid>urn:rsc-latest:d6dd00428h</guid>
@@ -44,7 +65,7 @@
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00679e</link>
 <guid>urn:rsc-latest:d6dd00679e</guid>
 <pubDate>Thu, 12 Nov 2026 07:43:49 +0000</pubDate>
-<description>Authors: Kangming Li, Syeda Kinza Fatima&lt;br/&gt;DOI: 10.1039/d6dd00679e</description>
+<description>Authors: Syeda Kinza Fatima, Kangming Li&lt;br/&gt;DOI: 10.1039/d6dd00679e</description>
 </item>
 <item>
 <title>Closed-loop robotic optimization of ligand, base, and solvent for the selective mono-functionalization of a symmetric dibromofluorene via Suzuki-Miyaura coupling</title>
@@ -89,7 +110,7 @@
 <description>DOI: 10.1039/d6dd90055k</description>
 </item>
 <item>
-<title>CHAMP and AMPToxPred: A Machine-Readable Dataset of Antimicrobial Peptides and Deep Learning-Based toxicity Prediction</title>
+<title>CHAMP and AMPToxPred: a machine-readable dataset of antimicrobial peptides and deep learning-based toxicity prediction</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00506c</link>
 <guid>urn:rsc-latest:d6dd00506c</guid>
 <pubDate>Wed, 11 Nov 2026 02:43:27 +0000</pubDate>
@@ -1032,27 +1053,6 @@
 <guid>urn:rsc-graphical-abstract:d6dd00290k</guid>
 <pubDate>Fri, 28 Aug 2026 15:03:22 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00290k?rsc_ga=1"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00290k/1/d6dd00290k-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;Authors: Radu Alexandru Talmazan, Cheng Giuseppe Chen, Chenyu Tang, Alberto Megías, Sergio Contreras Arredondo, Chris Chipot&lt;br/&gt;DOI: 10.1039/d6dd00290k</description>
-</item>
-<item>
-<title>[Graphical abstract added] Evaluating 2D and 3D graph encoders for infrared-based organic structure verification</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00281a?rsc_ga=1</link>
-<guid>urn:rsc-graphical-abstract:d6dd00281a</guid>
-<pubDate>Fri, 28 Aug 2026 15:03:22 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00281a?rsc_ga=1"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00281a/1/d6dd00281a-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;Authors: J. Benji Rowlands, Richard J. Lewis, Peter Howe, Jonathan M. Goodman&lt;br/&gt;DOI: 10.1039/d6dd00281a</description>
-</item>
-<item>
-<title>[Graphical abstract added] Harnessing homolytic bond energetics to steer inverse radical design</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/D6DD00228E/1292472/Harnessing-homolytic-bond-energetics-to-steer?rsc_ga=1</link>
-<guid>urn:rsc-graphical-abstract:d6dd00228e</guid>
-<pubDate>Fri, 28 Aug 2026 15:03:22 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/D6DD00228E/1292472/Harnessing-homolytic-bond-energetics-to-steer?rsc_ga=1"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00228e/1/d6dd00228e-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Paper&lt;/strong&gt; — 19 August 2026&lt;/p&gt;&lt;p&gt;Rahul Sheshanarayana; Fengqi You&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1039/D6DD00228E"&gt;DOI: 10.1039/D6DD00228E&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Optimising drug activity using docking-informed machine learning</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00318d/1295347/Optimising-drug-activity-using-docking-informed?rsc_ga=1</link>
-<guid>urn:rsc-graphical-abstract:d6dd00318d</guid>
-<pubDate>Fri, 28 Aug 2026 15:03:22 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00318d/1295347/Optimising-drug-activity-using-docking-informed?rsc_ga=1"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00318d/1/d6dd00318d-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Paper&lt;/strong&gt; — 07 August 2026&lt;/p&gt;&lt;p&gt;James Proudfoot; Toby Lewis-Atwell; Matthew N. Grayson&lt;/p&gt;&lt;p&gt;&lt;a href="https://doi.org/10.1039/D6DD00318D"&gt;DOI: 10.1039/D6DD00318D&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

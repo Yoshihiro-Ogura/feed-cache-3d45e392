@@ -5,6 +5,102 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Co-Folding Models
+Localize Enzyme Active Sites but
+Fail to Accurately Predict Enzyme–Substrate Complex Structures</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03068/5471438/Co-Folding-Models-Localize-Enzyme-Active-Sites-but</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03068</guid>
+<pubDate>Tue, 17 Nov 2026 00:00:42 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03068/1/m_ci6c03068_0007.png?Expires=2147483647&amp;amp;Signature=mZSOYSAltMT8Zdr2uFfCoedlKu62r5evBvLAKK-f0oVIW-3bGYp8pKTx1XKUC9whrK0dD5T-DHwfUgMXmaX6rvLrFUApSyrFMdEup-38cIpbqIUwL-UukL~eHH4F-UYNTPdAnYgeUqTo8sJ9RQdqzmrxjw3jCGa8eoxpkS8b6tsQNKNv7135mbJ4mj7nKqMTOOeZVal7ekv2jKa3evQDnwy7Lp40Uf2XG7Io6dxRDDxztTPHRixpC3deRjvCoe9wjG9D9K4Nh16eyEK~OTvDg1W6dFa6uYgUXF0Fdo1wHEdWRVws1ANb9U~0VnbOCQ4XceXGXfZb19nau-yRtYh6oQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Co-Folding Models
+Localize Enzyme Active Sites but
+Fail to Accurately Predict Enzyme–Substrate Complex Structures" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The accurate prediction of enzyme–substrate complex
+structures
+is challenging due to the transient and dynamic nature of these interactions.
+We evaluated the performance of eight machine–learning (ML)
+docking tools and the physics–based method AutoDock Vina as
+a reference in the prediction of enzyme–substrate complex structures
+using a curated data set of 210 diverse, non–redundant enzyme–substrate
+complexes, equally divided into three classes: metal–free enzymes
+(A), and enzymes with metal ions outside (B) or inside (C) the active
+site. All ML–based docking tools had low geometric accuracy
+and physical plausibility, with fewer than 10% hit rates at the stricter
+2 Å threshold for substrate root-mean-square deviation. While
+no ML-based tools were able to outperform Vina in modeling physically
+plausible complexes, co–folding tools such as AlphaFold3 and
+Boltz–2 excelled at active–site localization, and many
+algorithms performed better for class C enzymes, and worse for class
+B enzymes. Surprisingly, DynamicBind, which was trained on less data
+with fewer parameters compared to other models, matched co-folding
+methods in active-site elucidation. Our results show that enzyme–substrate
+docking can be affected by the presence of a metal ion, and suggest
+that better performances for complex structure prediction may be achieved
+with data-centric strategies including molecular dynamics simulations
+rather than parameter-heavy ML architectures.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Martini 3 Coarse-Grained
+Models for Steroid Hormones</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03293/5471031/Martini-3-Coarse-Grained-Models-for-Steroid</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03293</guid>
+<pubDate>Mon, 16 Nov 2026 06:01:09 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03293/1/m_ci6c03293_0007.png?Expires=2147483647&amp;amp;Signature=y16GoVOiaFYngcaF3rSMDstF4FFudzNCGqrBaonz5EEoW6-Kepgq2tHmjajbqDOdDjsY4SIQlDRMkYIcD4IH1POsDGAmLK5xr3W~G89zUx0y3n0n0RXzMye0ff8WFBdAEGLCmLC0YtI-hoeBKeOSEa65kQVmuI71smrNA1ARyAsY8ArbfG84gQOh5sW956-W5C0Bemt3xduAjKzgu6g6rW2KvEdMQZ4zxhv9Enmx5O-EUFl6Ah9~UvzRF~OXizLNRv-7kMh00jIPVH1ud7g~qIkY1BDkeC4DizH9o4zKxtJBP7Mv49kD2SLbnNDbJ1ZchzngyR1i1nb5fuQDznE~SQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Martini 3 Coarse-Grained
+Models for Steroid Hormones" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Steroid hormones are central to the development, metabolism,
+homeostasis,
+and reproduction of animals and have been the subject of many evolutionary,
+ecotoxicological, and human health studies. Coarse-grained molecular
+dynamics (CG MD) simulations are a powerful tool to study the structural
+and dynamic behavior of steroid hormones and their interactions. Here,
+we expand the capabilities of the widely used Martini 3 CG framework
+by parameterizing and validating a set of 20 steroid hormone models─including
+both endogenous and synthetic molecules─to enable their study
+across diverse targets, systems, and fields of interest. Hormone parameterization
+followed Martini 3 guidelines, while leveraging the similarities with
+the parent cholesterol molecule, for which a Martini 3 model is available.
+Notably, we were able to base our parameterization on the hundreds
+of experimental structures in the protein data bank that contain steroid
+hormones, instead of relying on atomistic simulations as is typical
+with Martini. The parameterized models match to within 5% of target
+molecular volumes and recover the overall hydrophobicity trend of
+the hormones, although higher hydrophobicities tended to be overestimated.
+In free simulations of protein-hormone systems, the experimentally
+known binding poses could be recovered for 89% of the cases, indicating
+a successful parameterization also from a functional standpoint. Since
+several Martini 3 protein models were tested, we also incidentally
+show that the flexibility of the OLIVES and Go̅Martini models
+makes them best suited for this type of protein–ligand recognition.
+Finally, models were validated in interaction with membranes by comparison
+to reference atomistic data. We expect that the availability of our
+fully validated Martini 3 CG steroid hormone models will contribute
+to new studies, collaborations, and applications across different
+scientific fields.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Classical Structural
+Priors Improve Neural Molecular
+Representations in Molecule Language Models</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02225/5471030/Classical-Structural-Priors-Improve-Neural</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02225</guid>
+<pubDate>Mon, 16 Nov 2026 06:01:09 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02225/1/m_ci6c02225_0006.png?Expires=2147483647&amp;amp;Signature=nmtC5GuyS5Bedssx20egB3BiMwCxRiGhwF75BdSAVEBzQkba1HRDcVZ94G8WlTJDmxnfDck~40O5gs2z4LQ68HQs-nILc6Mo3ByR~3MpJRyhA0cNIjSj5tvFUf9S~StoajtbsQ3iCHQVl8UB9ZKNTqehV2yrP-ugHLvfMaqrY3TsYCQ39gLjjkqJfDWV0LDcH0rBeaGNua2RkIm1IOxijlbTUzSRbThZhEH2CyRY3yi9Qo4nwqH0TAMwPGZD5Ym0XIfXxPeY4DhDTR6gFaFptFcjBIRWX1JuJHvLvkOs0pKQgl3mSm53Sdi5Wg~PJERfe1pBWB52cupKxRYDOt~cfw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Classical Structural
+Priors Improve Neural Molecular
+Representations in Molecule Language Models" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Classical molecular similarity is central to chemical
+information
+systems, yet molecule-language models trained on paired structure–text
+data do not necessarily organize molecular embeddings according to
+graded structural relationships. Here, we introduce Structure-Aware
+Guided Alignment (SAGA), a training-only regularizer that uses Centered
+Kernel Alignment to align neural molecular representations with fingerprint-based
+Tanimoto similarity and requires no additional parameters or fingerprints
+at inference. In MolCA and Atomas, SAGA improves molecule–text
+retrieval, retrieves closer structural analogues, and raises average
+performance in scaffold-split property prediction, without clear degradation
+of molecular description or text-to-molecule generation. These results,
+together with control experiments that attribute the gains to the
+chemical content of the prior, show that established chemoinformatics
+priors can make molecule-language representations more chemically
+faithful while retaining their multimodal utility.&lt;/span&gt;</description>
+</item>
+<item>
 <title>From Molecular Structure to Human Pharmacokinetics:
 Clearance Prediction Drives Exposure Error in a Hybrid ML–PBPK
 Workflow</title>
@@ -4692,132 +4788,6 @@ needed for supervision. I argue that AI adoption should therefore
 be judged by whether it builds sustainable laboratory capacity, with
 assistance adjusted to task purpose and verifiability and human ownership
 retained for every consequential artifact.&lt;/span&gt;</description>
-</item>
-<item>
-<title>SpectralMol: Spectral
-Graph Bisection Achieves Universal
-Molecular Fragment Decomposition for Drug-Like Molecule Generation</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01818/5444884/SpectralMol-Spectral-Graph-Bisection-Achieves</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01818</guid>
-<pubDate>Tue, 06 Oct 2026 01:00:37 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01818/5444884/SpectralMol-Spectral-Graph-Bisection-Achieves"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01818/1/m_ci6c01818_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Generating valid, diverse, and drug-like molecules remains
-a central
-challenge in computational drug discovery. A key bottleneck for fragment-based
-generative models is &lt;span style="font-style:italic;"&gt;decomposition coverage&lt;/span&gt;: existing
-junction-tree methods fail on bridged bicyclic and spiro ring systems
-common in drug-like scaffolds. &lt;strong&gt;Our primary contribution is Fiedler-BFS
-(breadth-first search) molecular decomposition&lt;/strong&gt;, a spectral
-bisection algorithm achieving 100% decomposition success on all 250,000
-ZINC-250K molecules, including bridged and spiro systems where junction-tree
-methods fail. A decomposition ablation (5,000 molecules, 5 seeds)
-confirms that spectral structure drives the improvement: 91.4% vs
-7.1% for random bisection. Compared to BRICS (break retrosynthetically
-interesting chemical substructures; a rule-based retrosynthesis method),
-Fiedler-BFS produces fewer fragments per molecule (2.31 vs 5.13),
-better suited for hierarchical generative modeling. &lt;strong&gt;As a secondary
-contribution&lt;/strong&gt;, we instantiate the decomposition in a Tree-VAE
-(variational autoencoder) with classifier-free guidance over molecular
-properties, Inverse Multi-Quadratic MMD (maximum mean discrepancy)
-regularization, and gradient-based latent-space steering. Under a
-matched protocol in which the identical Tree-VAE is retrained while
-only the cut-bond set varies, Fiedler-BFS yields shorter, more learnable
-fragment trees than BRICS and junction-tree decomposition (validation
-reconstruction loss of 0.012 vs 0.048 vs 0.083). On ZINC-250K, the
-model achieves 100% chemical validity, 99.87% novelty, a mean QED
-(quantitative estimate of drug-likeness) of &lt;strong&gt;0.603&lt;/strong&gt; (matching
-the ZINC-250K training mean), and an SA (synthetic accessibility score)
-of &lt;strong&gt;2.70&lt;/strong&gt;, confirming compatibility with a hierarchical
-generative pipeline for drug-like molecule generation. Property conditioning
-reaches only a 12.2% QED hit rate and, under robust metrics, does
-not outperform an unconditioned baseline; the v2 vocabulary naturally
-generates drug-like molecules with QED ≈ 0.60, so stronger
-property guidance remains an open challenge.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Domain-Aware Feature
-Engineering for Prediction of
-Molecular Optical Interference in High-Throughput Screening</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02217/5444876/Domain-Aware-Feature-Engineering-for-Prediction-of</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02217</guid>
-<pubDate>Tue, 06 Oct 2026 00:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02217/5444876/Domain-Aware-Feature-Engineering-for-Prediction-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02217/1/m_ci6c02217_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Optical interference from small molecules─compounds
-that
-absorb UV/visible light or exhibit intrinsic fluorescence─is
-a significant source of false positives and false negatives in fluorescence-
-and absorbance-based high-throughput screening assays. Computational
-prediction of optical activity from molecular structure offers a promising
-route to early triage of such compounds, yet the problem is challenging
-due to its quantum mechanical underpinnings and the extreme class
-imbalance characteristic of diverse drug-like libraries. Here I describe
-a domain-aware feature engineering and automated hyperparameter optimization
-approach developed for the EUOS25 Challenge, a benchmark comprising
-approximately 100,000 small organic compounds with experimentally
-measured UV/visible absorbance and fluorescence spectra. Beyond standard
-RDKit physicochemical descriptors and molecular fingerprints, I developed
-four domain-specific descriptor groups that encode prior chemical
-knowledge about chromophoric systems: count fingerprints of Murcko
-scaffolds derived from known dyes and fluorophores, binary indicators
-for manually curated chromophoric substructures, semiempirical quantum-mechanical
-descriptors from GFN2-xTB calculations, and ML-predicted quantum properties
-trained on the QM9 data set. Meta-learning features - probability
-outputs of baseline models trained on structurally related, easier-to-model
-end points - were included as cross-task inputs. Hyperparameter optimization
-was performed using the FLAML automated machine learning framework.
-The best model for each end point was selected from three complementary
-strategies: single best model, ensemble consensus, and semisupervised
-pseudolabeling. Postchallenge feature importance and ablation analyses
-showed that cross-task meta-features were the dominant driver of predictive
-accuracy for physically related end points. Semiempirical xTB descriptors─in
-particular─HOMO–LUMO gap and dipole/quadrupole terms
-- rank among the top-weighted CatBoost features and provide a physically
-interpretable account of model behavior. The dye-scaffold and chromophore-indicator
-descriptors, by contrast, carry genuine but redundant signal: used
-in isolation they classify well above chance for the two well-predicted
-end points, yet their removal from the full feature set produces no
-statistically significant change for any end point, indicating that
-the fingerprint/2D backbone already encodes this information. These
-results demonstrate that combining a standard cheminformatics backbone
-with cross-task meta-learning and automated hyperparameter optimization
-yields highly competitive predictive models on this benchmark.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Mapping Functional
-Transitions across Protein Homologues
-from a Single Simulation: Application of gEDES-HM to Adenylate Kinases</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02521/5444611/Mapping-Functional-Transitions-across-Protein</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02521</guid>
-<pubDate>Mon, 05 Oct 2026 15:00:45 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02521/5444611/Mapping-Functional-Transitions-across-Protein"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02521/1/m_ci6c02521_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Proteins fluctuate
-across different conformational states,
-which
-constitute a dynamic ensemble that regulates their interaction networks
-and functions. Predicting the conformational landscape remains a computational
-challenge, and even more difficult is capturing the link between state
-distributions and specific functions within protein homologues. Here,
-we present gEDES-HM (generalized Ensemble Docking with Enhanced sampling
-of pocket Shape-Homology Modeling), a scalable computational protocol
-enabling us to remap conformational ensembles obtained from enhanced
-sampling simulations of a single protein to its homologous family
-members, removing the need to perform individual simulations for all
-of them and thus speeding up the whole process by orders of magnitude.
-Specifically, we exploit our recent gEDES protocol to bias through
-metadynamics simulations the shape and volume of the binding site(s)
-of a reference protein. Next, a number of maximally diverse conformations
-of the protein are extracted from a multistep cluster analysis and
-used together as a multitemplate library for comparative modeling
-of the conformational ensemble of each homologue in the pool. This
-enables the functional conformational ensemble of one protein to be
-transferred to its homologues and used, for example, in restrained
-ensemble docking. We validated the protocol on 22 homologues of the &lt;span style="font-style:italic;"&gt;E. coli&lt;/span&gt; adenylate kinase (hereafter, ADK), corresponding
-to 26 protein-ligand complexes and spanning 31% to 99% sequence identity
-to the reference. Our protocol retrieves a bound-like conformation
-of the protein binding site (corresponding to experimental substrate/inhibitor-bound
-states) for almost all targets, which allows reproducing native-like
-binding modes for 92% of the investigated complexes in ensemble docking
-calculations. Validated so far within a single family, gEDES-HM could
-provide a practical route to generate binding-competent structural
-libraries for homologues lacking experimental structures suitable
-for downstream structure-based modeling.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

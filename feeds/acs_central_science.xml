@@ -5,6 +5,63 @@
 <link>https://pubs.acs.org/rss/acscii/asap.xml</link>
 <description>ACS Central Science (mirrored feed)</description>
 <item>
+<title>Firefly-Geni:
+Automated Iteration-Guided Generative
+Discovery of Thermally Activated Delayed Fluorescence Molecules</title>
+<link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c01736/5471439/Firefly-Geni-Automated-Iteration-Guided-Generative</link>
+<guid>http://dx.doi.org/10.1021/acscentsci.6c01736</guid>
+<pubDate>Tue, 17 Nov 2026 00:00:42 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acscii/pap/10.1021_acscentsci.6c01736/1/m_oc6c01736_0009.png?Expires=2147483647&amp;amp;Signature=GkQHk1n3sPyLdScjPEMb152La2O8FgoLvgJaeaYxCptMR9GSTcFFeAyzzKTGB-RCMhI4L9dcPy99Xz9FPFzXsMyVJ-swk1AVVL6g7uP3PSebNdvT2lkA9cGuMnkNfvUn16pOp2FXsQF13oEzkofj4eOHHJpmfgMd~SUDm1QdyMIKkNUMNYgKVHPE0RaGdAFr02Le~cYnXEAd37IC8Bfc-p75S6NBg2VQej2lBBw93ECcYqdWmLuQxZcldzRhKvskwySWvSYplkv~lsYDLA0oMd46yUMTU7c~qMLE4NSgtVYId9jEU~YdQGR5Dpi-KvXnqabAJQtMJWkpOxJ8ylzYNg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Firefly-Geni:
+Automated Iteration-Guided Generative
+Discovery of Thermally Activated Delayed Fluorescence Molecules" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The efficient discovery of thermally activated delayed
+fluorescence
+(TADF) molecules remains heavily dependent on expert-driven design
+rules, while the vast structure–property knowledge accumulated
+in the literature stays largely fragmented and underutilized. Here,
+we present Firefly-Geni, an automated and interpretable active-evolution
+framework that transforms dispersed literature knowledge into structurally
+novel TADF candidates through a closed-loop workflow. Firefly-Geni
+integrates large-language-model (LLM)-assisted data extraction, multitask
+property prediction, conditional molecular generation, and theoretical
+evaluation. Its data-mining module converts unstructured literature
+into a curated database of experimental property entries. A dual-molecular-graph
+multitask predictor and a conditional generator are integrated with
+quantum-chemical feedback, enabling iterative refinement toward structural
+novelty. From 100,000 molecules generated under target conditions
+of a singlet–triplet energy gap Δ&lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;ST&lt;/sub&gt; = 0.05 eV and a synthetic accessibility (SA) score of 2.5,
+Firefly-Geni identifies 100 structurally novel candidates computationally
+predicted to support reverse intersystem crossing and to be synthetically
+tractable, spanning diverse emission wavelengths. One synthesized
+candidate exhibited an experimental Δ&lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;ST&lt;/sub&gt; of 0.019 eV and a film photoluminescence quantum yield (PLQY)
+of 84% under nitrogen, broadly consistent with the predicted small
+gap and high PLQY. Interpretability analyses further reveal chemically
+meaningful structure–property relationships and generation
+preferences, confirming that the candidates encode physically relevant
+low-Δ&lt;span style="font-style:italic;"&gt;E&lt;/span&gt;&lt;sub&gt;ST&lt;/sub&gt; design motifs. This work
+offers a closed-loop, explainable strategy for actively evolving TADF
+candidates from literature knowledge, providing a generalizable route
+for data-driven molecular discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>How PFAS Could
+Disrupt the Thyroid</title>
+<link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c01901/5471432/How-PFAS-Could-Disrupt-the-ThyroidForever</link>
+<guid>http://dx.doi.org/10.1021/acscentsci.6c01901</guid>
+<pubDate>Mon, 16 Nov 2026 22:00:47 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acscii/pap/10.1021_acscentsci.6c01901/1/m_oc6c01901_0006.png?Expires=2147483647&amp;amp;Signature=L3SRbLILfRx3NyKXBq448B5q5u4eWM4wXA5sZIcbP7n232UQpIHzZSluzCoDCaItZAXBusX10Q3xfr24-l73~n0gfZQ-bh6KWFID-tTIm3RCwnRSrEyaWvpZOAmbEJG2miCFe90LpNJg7gPbEIR-HgrNYHpRoyqEmxn16LG-SA9AIYMMqH2wS4rLcPv-PwIb3IAqWOa-KBbut0YatKs-9F80jGpSgPc8Rcuo4K2zCHYu1SVUA2oB6sFW8UrefV5AkuuA3RS8owesVsGN9DYLLlPkmRueaYZNVW9HdXPUQXPTLw6pMATYe4zQnU2nv8S88gXiN~bXOcGhTrN4oHbOhg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="How PFAS Could
+Disrupt the Thyroid" /&gt;&lt;span class="paragraphSection"&gt;&lt;/span&gt;</description>
+</item>
+<item>
+<title>Correction to
+“Characterization and Applications
+of the Protein Corona Forming on the Naturally Occurring Nanoparticles,
+Low-Density Lipoproteins”</title>
+<link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c01911/5471420/Correction-to-Characterization-and-Applications-of</link>
+<guid>http://dx.doi.org/10.1021/acscentsci.6c01911</guid>
+<pubDate>Mon, 16 Nov 2026 20:00:52 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;European Research Council10.13039/501100000781884114&lt;/span&gt;</description>
+</item>
+<item>
 <title>Which Babies Actually Need These 2 Pricey Additives
 in Their Formula?</title>
 <link>https://pubs.acs.org/acscii/article/doi/10.1021/acscentsci.6c01907/5470710/Which-Babies-Actually-Need-These-2-Pricey</link>

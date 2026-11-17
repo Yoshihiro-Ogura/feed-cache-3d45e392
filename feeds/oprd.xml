@@ -5,6 +5,75 @@
 <link>https://pubs.acs.org/rss/oprdfk/asap.xml</link>
 <description>OPR&amp;D (mirrored feed)</description>
 <item>
+<title>Three-Step Continuous-Flow
+Synthesis of GABA from
+an L-Carnitine Byproduct: Integrating Inline FTIR and Bayesian
+Optimization for Rapid Process Development</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00349/5471305/Three-Step-Continuous-Flow-Synthesis-of-GABA-from</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00349</guid>
+<pubDate>Mon, 16 Nov 2026 15:00:55 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00349/1/m_op6c00349_0008.png?Expires=2147483647&amp;amp;Signature=ZNR4Y5hhyF~LiGMRHuvxAEHOlc1-EEdLpNFeuiKs0Nd4dPg37PLiR7kZrXyspukiKGSzrhSeRGbTmeXOvJwozzYk~CaNQIniLVkCjkcKjNzlYegazyawINI2Qgkr8Aow6cA8e3jO59j0HjUvr7TPoK1FnK2-q4UKKAlkiJYc9W2gmDCkBXtRkaXfhqPw-9iwd3TlFU8Rel8h0yjsb3f2Gq4w~LA039SVO3StvxXWQ3bhkTNAL43Qb3CgEu6Zy00VlieHgTLdWvAPpEiJGyh4jtQWTmBdJaQhxiUmHq41s2IX904IRmk5HRC1M~w5tScee8p-6~az-pC2g6WwFsgRog__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Three-Step Continuous-Flow
+Synthesis of GABA from
+an L-Carnitine Byproduct: Integrating Inline FTIR and Bayesian
+Optimization for Rapid Process Development" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We report a three-step telescoped continuous-flow synthesis
+of
+γ-aminobutyric acid (GABA) starting from ethyl 4-hydroxycrotonate
+(EHC), a stoichiometric byproduct generated during L-carnitine production.
+The route proceeds through azidation with DPPA/DBU, dual-site catalytic
+hydrogenation over a Pd/C fixed bed, and alkaline ester hydrolysis.
+All three steps are conducted in a fully integrated flow system with
+no intermediate isolation required. A key engineering challenge, salt-induced
+microchannel clogging during quenching of the azidation step, was
+resolved with a 22 wt % subsaturated NH&lt;sub&gt;4&lt;/sub&gt;Cl solution, which
+simultaneously suppresses clogging and maintains stable liquid–liquid
+phase separation. The hydrogenation step, which must reduce both the
+C═C bond and the azide group in a single pass, was optimized
+over a five-variable parameter space using multiobjective Bayesian
+optimization with Gaussian process surrogate models, guided by inline
+FTIR spectroscopy. Starting from five Latin hypercube initialization
+points, the hypervolume appeared to plateau after only 21 total experiments.
+The three-step telescoped process delivers GABA in 75.1% overall yield.
+This study demonstrates how a structurally defined industrial byproduct
+can be valorized through a combination of inherently safe continuous-flow
+processing and data-driven optimization, with particular relevance
+to systems operating in uncharted parameter spaces under hazardous
+intermediate constraints.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Plug-and-Play 3D-Printed
+Pd Catalytic Cartridges by
+FFF Printing for Liquid-Phase Organic Synthesis</title>
+<link>https://pubs.acs.org/oprdfk/article/doi/10.1021/acs.oprd.6c00115/5471283/Plug-and-Play-3D-Printed-Pd-Catalytic-Cartridges</link>
+<guid>http://dx.doi.org/10.1021/acs.oprd.6c00115</guid>
+<pubDate>Mon, 16 Nov 2026 14:01:00 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/pap/10.1021_acs.oprd.6c00115/1/m_op6c00115_0015.png?Expires=2147483647&amp;amp;Signature=1rXeP9I5gaUQ3FfiCQliaHGvyl1ep8o1jxLs5exMplGzLr8~xCG9sL1qN7wivZtmBX2JS33qbNzC1zKR75AOAU60PKW6jZP92pYBOBflCW~pClgEXw-6GrfI90akMX1BN-ZFb9W2997j6ujufB6J-hI1z1hd1foQ26kJi7TB7DzCtDysZjm~evG00Ckw3JX2fobsoxAcvRQdjAVkAPLNwmP0nR3lYXpZm9fywQ9W0k~Yf4JhtoVCLMTowN9rvWym7Z8N7msmW5tCVrtavA7QpC6LgPGyUbShoN4P6Qt2l6uWcbbI8bZd22azN~xyAWeozzRPf~IWHROKjo1Fy7JDqg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Plug-and-Play 3D-Printed
+Pd Catalytic Cartridges by
+FFF Printing for Liquid-Phase Organic Synthesis" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Additive manufacturing offers a powerful route to “designable”
+catalytic objects, yet the most accessible 3D printing technology─fused
+filament fabrication (FFF)─has rarely been exploited for synthetic
+catalysis. Here we report a practical strategy to transform solvent-resistant
+FFF-printed architectures into reusable catalytic devices by depositing
+Pd onto 3D-printed polyamide meshes, yielding plug-and-play catalytic
+cartridges that can be fixed in a simple holder for rapid handling
+and separation. Systematic variation of the printed topology reveals
+a clear structure–performance relationship: decreasing the
+mesh size increases the accessible surface and boosts activity, delivering
+up to 81% yield in the mesh-optimization series for  a model alkyne
+bisthiolation. The cartridges are versatile, enabling both alkyne
+bisthiolation and transfer hydrogenation, and they can be upgraded
+to Cu–Pd bimetallic cartridges that provide near-quantitative
+conversion (99%) in Sonogashira coupling. Reuse tests over 10 cycles
+showed sustained high activity for the first three bisthiolation cycles
+and the first seven Sonogashira cycles, followed by a decline in performance.
+Mechanistic studies indicate a dynamic mixed-phase catalytic system
+in which Pd remains on the cartridge surface while catalytically active
+fractions are also released into solution. By merging polymer/material
+selection, controlled metallization, and digitally defined geometry,
+this work establishes FFF printing as a scalable platform for catalyst
+shaping and device-integrated catalysis, bridging materials science,
+reaction engineering, and synthetic methodology.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Technical Note:
 Alternative Precatalyst and Base Selection
 Improve the Robustness of a (XantPhos)Pd-Catalyzed C–N Cross-Coupling</title>
@@ -2466,20 +2535,6 @@ peptide production.&lt;/span&gt;</description>
 <guid>http://dx.doi.org/10.1021/acs.oprd.6c00131</guid>
 <pubDate>Tue, 30 Jun 2026 07:59:48 PDT</pubDate>
 <description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00131/1/m_op6c00131_0010.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00131&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Celebrating Lilly: 150 Years of Being a Medicine Company</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00201</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00201</guid>
-<pubDate>Tue, 30 Jun 2026 04:00:05 PDT</pubDate>
-<description>&lt;p&gt;&lt;a href="http://dx.doi.org/10.1021/acs.oprd.6c00201"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/issue/30/7/2/m_oprdfk.2026.30.issue-7.xlargecover.jpeg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00201&lt;/div&gt;</description>
-</item>
-<item>
-<title>[ASAP] Four-Step Continuous-Flow Total Synthesis of 4-Chloro-6,7-dimethoxyquinoline, a Key Intermediate for Tyrosine Kinase Inhibitors</title>
-<link>http://dx.doi.org/10.1021/acs.oprd.6c00170</link>
-<guid>http://dx.doi.org/10.1021/acs.oprd.6c00170</guid>
-<pubDate>Tue, 30 Jun 2026 01:48:07 PDT</pubDate>
-<description>&lt;p&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/oprdfk/30/7/10.1021_acs.oprd.6c00170/1/m_op6c00170_0015.png" alt="TOC Graphic" /&gt;&lt;/p&gt;&lt;div&gt;&lt;cite&gt;Organic Process Research &amp;amp; Development&lt;/cite&gt;&lt;/div&gt;&lt;div&gt;DOI: 10.1021/acs.oprd.6c00170&lt;/div&gt;</description>
 </item>
 </channel>
 </rss>
