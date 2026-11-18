@@ -5,6 +5,142 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>HiFiPL-Bench: A
+Fidelity-First and Bias-Aware Benchmark
+for Diagnosing Protein–Ligand Scoring Functions</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03060/5472156/HiFiPL-Bench-A-Fidelity-First-and-Bias-Aware</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03060</guid>
+<pubDate>Wed, 18 Nov 2026 03:00:39 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03060/1/m_ci6c03060_0013.png?Expires=2147483647&amp;amp;Signature=u~XSopWOjJtEklXbNsuxXoAOopyZLrId2Y246-ws8WyULQFPGHvLT1D0t4vss33RICgkr8Y5ocmo5JMgOl2QziDckkuZC6Jh0fs9UG8iF2GW5YLvTaPHSg-tcx92xgYGtmz2x6FCIHn5uE1B9SK0iRxRSOIsxG5l7SIIR50bWx3PrCgpicNp8iO0qDNPBNUQ6AQ4tknG71h-Gj7K6hM4AAfBHi0aL~QCPr3qm~Z1PAoF-ciYJyssL97kA7tAfCXzeWW4i3~6Vdk7to92LnTKCrzRZKFzKuyvkHaVaLc~QNuL7pz54oJ6ttdsCaoyLgayCfqxKYASf80jazZkC7FjBQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="HiFiPL-Bench: A
+Fidelity-First and Bias-Aware Benchmark
+for Diagnosing Protein–Ligand Scoring Functions" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate
+prediction of protein–ligand binding affinities
+is fundamental to structure-based drug design, yet existing benchmarks
+are often limited by outdated structural coverage, uncertain local
+structural fidelity, and physicochemical or protocol-dependent bias.
+Here, we present HiFiPL-Bench, a fidelity-first and bias-aware benchmark
+curated from RCSB PDB and BindingDB through hierarchical filtering,
+manual electron-density validation, affinity verification, and property-matched
+decoy generation. Across nine representative scoring functions, HiFiPL-Bench
+revealed reduced performance in scoring, ranking, and most docking
+evaluations relative to CASF-2016, whereas a controlled screening-like
+task using computationally generated property-matched decoys produced
+model-specific gains and losses that altered relative rankings rather
+than uniformly lowering performance. Model-specific overlap and deoverlap
+analyses further showed that documented development-data exposure
+differed substantially among methods and that deoverlapped sensitivity
+analyses affected models and evaluation tasks nonuniformly. Together,
+these findings indicate that performance estimates remain sensitive
+to starting-structure curation, task-specific preparation, data set
+composition, decoy design, benchmark protocol, and recoverable development-data
+exposure. HiFiPL-Bench therefore provides a reusable diagnostic framework
+for evaluating scoring-function performance in a structurally curated
+and bias-aware benchmark setting.&lt;/span&gt;</description>
+</item>
+<item>
+<title>FlowBack-Adjoint : Physics-Aware and Energy-Guided
+Conditional Flow-Matching for Protein Backmapping</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02114/5471556/FlowBack-Adjoint-Physics-Aware-and-Energy-Guided</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02114</guid>
+<pubDate>Tue, 17 Nov 2026 12:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02114/1/m_ci6c02114_0008.png?Expires=2147483647&amp;amp;Signature=z-acdERrWjTgZM91DIyF7kJ578XOezn2i9V4u~gvEumBFurgVq-S6tR19hRwj6tFtQdHtPvOe~It4G7geM1fH6rwdcIzkxCCQJotvKmiZZFior5S8hxpYjjrnWEDTDum0-QiRIO6X-dQDmYhV1Bxc3GPGUCIO4ugvOFoKmgnSEJr-jLKv0fZ~pLkLtkbd7040Zkh3RAVBRivX9lkdWyJETx~xcNMQIlWa22wwFngPFmyHsx0A1SRAA3h~su7RYOYFXUZUx-egJOJs-2DPgfLqUv5bDnQKxT~zEPIts7izOiwOrg-Ifa2uYNSWvAjpXvMXr1I1U0AfCGURsA7EXblWQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt=" FlowBack-Adjoint : Physics-Aware and Energy-Guided
+Conditional Flow-Matching for Protein Backmapping" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Coarse-grained (CG)
+molecular models of proteins can substantially
+increase the time and length scales accessible to molecular dynamics
+simulations of proteins, but recovery of accurate all-atom (AA) ensembles
+from CG simulation trajectories can be essential for exposing molecular
+mechanisms and for the calculation of physical properties requiring
+atomistic detail. The recently reported deep generative model &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;FlowBack&lt;/span&gt; restores AA detail to protein C&lt;sub&gt;α&lt;/sub&gt; traces
+using a flow-matching architecture and demonstrates state-of-the-art
+performance in backmapping of AA structural ensembles (&lt;span style="font-style:italic;"&gt;J. Chem. Inf. Model.&lt;/span&gt; 65, 2, 672–692, 2025). Training,
+however, is performed exclusively on structural data, and in the absence
+of any awareness of interatomic energies or forces, small structural
+imperfections can produce high-energy backmapped structures. In this
+work, we introduce &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;FlowBack-Adjoint&lt;/span&gt; as a lightweight enhancement
+that upgrades the pretrained &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;FlowBack&lt;/span&gt; model through a one-time,
+physics-aware post-training pass. Auxiliary contributions to the flow
+introduce physical awareness of bond lengths, bond angles, and Lennard-Jones
+interactions, and gradients of a molecular mechanics force field energy
+are incorporated via adjoint matching to steer &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;FlowBack-Adjoint&lt;/span&gt; toward low-energy configurations without compromising structural
+fidelity or diversity. In benchmark tests against &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;FlowBack&lt;/span&gt;, &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;FlowBack-Adjoint&lt;/span&gt; lowers single-point energies by a median
+of ∼30 kcal/mol·residue, reduces errors in bond lengths
+by &amp;gt;95%, eliminates &amp;gt;97% of molecular clashes, maintains excellent
+diversity of the AA configurational ensemble, and produces configurations
+capable of initializing stable all-atom molecular dynamics simulations.
+In applications to large protein–protein interfaces, including
+peptide–major histocompatibility complexes (peptide–MHCs)
+and HIV capsid assemblies, the model improves agreement with molecular
+dynamics-derived contact frequencies and increases the recall of experimentally
+observed interactions. We propose &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;FlowBack-Adjoint&lt;/span&gt; as an
+accurate and efficient physics-aware deep generative model for AA
+backmapping from C&lt;sub&gt;α&lt;/sub&gt; traces generated by structure
+prediction tools, coarse-grained simulations, or low-resolution experimental
+data.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Benchmark-Optimized Pipeline Identifies Experimentally
+Validated Antifreeze Peptides in Antarctic Krill</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03066/5471552/Benchmark-Optimized-Pipeline-Identifies</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03066</guid>
+<pubDate>Tue, 17 Nov 2026 12:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03066/1/m_ci6c03066_0008.png?Expires=2147483647&amp;amp;Signature=GHfnd1SfK4x9sIpeAxLf3gOESJQUoi84aLUsnngALYA39T1t2m68oxIHaFgUPxT2Ox4HyShexfkIIpumeDXPrlNV~jClN5E26t5GPcZq4qCyRoF3Pd0qFvTrnywCDeeGabXkbfQItgJ4u9xMOVVb-KDQ1p20-IbhyoNSxgZN0VZFNw8U7-9gRfmqRlTj~yI2qxI328-VD19HFUbNzqT2dz~N14pCtpzOEVi26I7vWQviFBh2ySRzO2Akq~kx7iI5Z9GKm5vs-xCpIk9vRg4NqH2MXW049~yDaYikZcSzCxFMCtL3F8wK~nm5rGI8lILYH8PF7YqJNd1xcdw-DpQG0Q__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Benchmark-Optimized Pipeline Identifies Experimentally
+Validated Antifreeze Peptides in Antarctic Krill" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Antifreeze
+proteins (AFPs) offer promising prospects as biocryoprotectants,
+yet their discovery remains a great challenge due to the lack of efficient
+large-scale screening tools. Here, we present a benchmark-optimized,
+multimodel computational pipeline that integrates property evaluation
+and structural assessment for high-throughput AFP identification.
+Through systematic benchmarking on independent testing data set, two
+optimal strategies were identified: the two-model-based Strategy 8
+achieved the highest accuracy of 0.82, while the stricter four-model-based
+Strategy 18 attained the highest precision of 0.97, making it optimal
+for initial large-scale screening. Furthermore, this pipeline was
+applied to screen 153,359 Antarctic krill sequences and discovered
+13 novel antifreeze peptides. Dynamic ice shaping assays revealed
+that four out of 13 peptides significantly inhibited ice crystal growth.
+Notably, Peptide 10 (SPHSWANTYQQCK) could inhibit ice growth and recrystallization.
+This study establishes a robust framework for large-scale AFP identification
+and provides a set of experimentally validated Antarctic krill peptides
+with strong potential as novel biobased cryoprotectants.&lt;/span&gt;</description>
+</item>
+<item>
+<title>An Integrated Coarse-Grained
+Simulation and Graph-Transformer
+Framework for the Discovery of Self-Assembling Cyclic Peptides</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03241/5471549/An-Integrated-Coarse-Grained-Simulation-and-Graph</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03241</guid>
+<pubDate>Tue, 17 Nov 2026 12:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03241/1/m_ci6c03241_0007.svg?Expires=2147483647&amp;amp;Signature=sO2ig3Uc-i3zNOXOxWVaN-Ey6cdL1SJrF32NX-aPni4774uxZ1sLj95qFPRBLpRQ9zvH8e~OYVAUYowm0ybSNYKYuB2IavIZz4NHDKGWQuz2~tXUsW9cdpFcAvLD31KPXCEK1WqFBf1hCyKK3DLaHC3pkQCrBhVKC1VPzk8qbO8IyVDdDNm6ijS4ou4mvT4eEEDvXv6HGSyRYh-pNJvlapqfDYMeqcjH16Qx7DxIP9ee1cwJR8iYdXl0GNB75JX-rA7nNVApPgHiclLEeiHvbRwfyTZk2y4Q6zcAWbqkmTDpGLc01-dUsyuiBaIEZUqtEEbZDikDqblLKBxbaXQVRQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="An Integrated Coarse-Grained
+Simulation and Graph-Transformer
+Framework for the Discovery of Self-Assembling Cyclic Peptides" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Self-assembling cyclic peptides are promising building
+blocks for
+functional biomaterials owing to their enhanced structural stability,
+proteolytic resistance, and diverse supramolecular architectures.
+However, how cyclization regulates peptide self-assembly remains poorly
+understood, and computational frameworks specifically developed for
+cyclic peptides are still lacking. Here, we demonstrate that disulfide-mediated
+cyclization fundamentally reshapes peptide self-assembly by significantly
+enhancing aggregation propensity (AP) and promoting the formation
+of diverse nanostructures compared with their linear counterparts,
+as confirmed by coarse-grained molecular dynamics (CGMD) simulations
+and experimental characterization. Motivated by these findings, we
+established an integrated computational-experimental framework for
+the prediction and rational design of self-assembling disulfide-cyclized
+peptides. A data set comprising 8,000 cyclic pentapeptides was generated
+using CGMD simulations, and multiple machine learning and deep learning
+models were systematically evaluated, among which a Graph-Transformer
+achieved the best predictive performance (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; = 0.971). The optimized model was subsequently applied to high-throughput
+screening of 160,000 cyclic hexapeptides using a ranking strategy
+integrating AP and hydrophobicity, leading to the identification of
+multiple previously unreported self-assembling candidates. Experimental
+validation showed excellent agreement with model predictions. Furthermore,
+systematic sequence analysis revealed residue- and position-dependent
+assembly rules unique to disulfide-cyclized peptide systems. This
+work establishes a computational framework for the rapid discovery
+of self-assembling disulfide-cyclized peptides and provides new mechanistic
+insights and design principles for peptide-based functional materials.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Co-Folding Models
 Localize Enzyme Active Sites but
 Fail to Accurately Predict Enzyme–Substrate Complex Structures</title>
@@ -4685,109 +4821,6 @@ and Multimodel Integration”</title>
 <guid>http://dx.doi.org/10.1021/acs.jcim.6c03353</guid>
 <pubDate>Tue, 06 Oct 2026 18:00:30 GMT</pubDate>
 <description>&lt;span class="paragraphSection"&gt;National Natural Science Foundation of China10.13039/50110000180922071249&lt;/span&gt;</description>
-</item>
-<item>
-<title>Validating and
-Correcting Graph Neural Network Attention
-for Drug-Induced Liver Injury Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02332/5445600/Validating-and-Correcting-Graph-Neural-Network</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02332</guid>
-<pubDate>Tue, 06 Oct 2026 17:00:31 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02332/5445600/Validating-and-Correcting-Graph-Neural-Network"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02332/1/m_ci6c02332_0017.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Attention-based graph neural networks (GNNs) are increasingly
-used
-for drug-induced liver injury (DILI) and other toxicity prediction
-tasks on the claimed strength of built-in interpretability, but this
-claim is almost always supported by a handful of hand-selected examples
-rather than being tested systematically. Using a curated, scaffold-split
-gold-standard DILI data set (1,079 compounds), we show that a graph
-attention network’s attention weights do not, in general, concentrate
-on seven literature-derived hepatotoxicity structural alerts across
-the full data set (pooled enrichment ratio of 0.35) and that the network
-itself does not outperform simple descriptor-based baselines under
-rigorous repeated-split evaluation (mean AUROC 0.625-0.649 vs. 0.714
-for random forest, &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.011). We then show both
-gaps can be addressed: a chemistry-informed multitask extension, trained
-with an auxiliary structural-alert-recognition loss, improves attention
-alignment for two alerts by more than 5-fold (both Bonferroni/FDR-corrected &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; &amp;lt; 10&lt;sup&gt;–14&lt;/sup&gt;), confirmed across five independent
-scaffold splits, without a robust cost to classification performance.
-All curated data, trained models, and analysis code are released to
-support reproducibility and further benchmarking of both predictive
-and interpretability claims for molecular GNNs.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Toward Autonomous
-Extraction and Building of Machine-Readable
-Molecular Models from Publications Using Large Language Models</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02128/5445555/Toward-Autonomous-Extraction-and-Building-of</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02128</guid>
-<pubDate>Tue, 06 Oct 2026 16:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02128/5445555/Toward-Autonomous-Extraction-and-Building-of"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02128/1/m_ci6c02128_0010.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Force field models are one of the central pillars of
-molecular
-simulations. A large number of molecular force field models has been
-developed in the past decades─mostly published in scientific
-papers. Building machine-readable force field input files for simulation
-engines is a tedious and error-prone task. We developed a method for
-extracting and building force field files from publications using
-large language models (LLMs). We have tested the new method by extracting
-114 force field models from 21 scientific publications. The studied
-force fields comprise 6–74 parameters that were automatically
-extracted, identified, annotated, and allocated. We have compared
-the performance of different LLMs, namely Gemini 2.5 Pro, Claude 4
-Sonnet, Claude 3.7 Sonnet, Gemini 2.5 Flash, and GPT-4o. Overall,
-they yield similar performance─yet there are important differences
-in individual cases. The overall best performance was obtained by
-the Gemini 2.5 Pro LLM. The force field parameters were extracted
-and identified with an accuracy of 94.0% using the Gemini 2.5 Pro
-LLM. The new LLM-assisted extraction method drastically reduces the
-time required for building force field files. Nevertheless, human-in-the-loop
-verification is still indispensable.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Structure-Guided
-Design of a Subnanomolar Dengue Virus
-NS4B Inhibitor</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02098/5445341/Structure-Guided-Design-of-a-Subnanomolar-Dengue</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02098</guid>
-<pubDate>Tue, 06 Oct 2026 14:00:33 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02098/5445341/Structure-Guided-Design-of-a-Subnanomolar-Dengue"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02098/1/m_ci6c02098_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Dengue virus nonstructural
-protein 4B (NS4B) is an essential
-regulator
-of viral replication but remains structurally unresolved, limiting
-drug discovery. Here, we combine modeling, ligand-based design, and
-experimental validation to enable structure-guided inhibition of NS4B.
-Comparative models across all four serotypes reveal a conserved transmembrane
-binding pocket consistent with resistance mutations. Docking of JNJ-series
-inhibitors defines key interaction features that guide the development
-of predictive field-based 3D-QSAR models (R = 0.91, Q = 0.89). Prospective
-screening of bioisosteric and in-house compounds identifies BNJ-495
-as a candidate broad-spectrum inhibitor with predicted activity across
-all four dengue serotypes. Experimental validation confirms potent
-activity against dengue virus serotype 2 (IC&lt;sub&gt;50&lt;/sub&gt; = 0.17 nM)
-with a high selectivity index (∼37,000). Conserved binding
-interactions across serotypes support broad-spectrum potential. This
-study establishes a general framework for targeting structurally elusive
-viral membrane proteins.&lt;/span&gt;</description>
-</item>
-<item>
-<title>AI and the PI:
-Infinite Generation, Finite Understanding</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03139/5444974/AI-and-the-PI-Infinite-Generation-Finite</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c03139</guid>
-<pubDate>Tue, 06 Oct 2026 08:00:31 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03139/5444974/AI-and-the-PI-Infinite-Generation-Finite"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03139/1/m_ci6c03139_0001.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Generative artificial
-intelligence (AI) produces code
-and prose
-quickly, apparently enabling a principal investigator (PI) in a computational
-group to do more. Assessing this gain must also account for the laboratory’s
-role in training scientists who understand, maintain, and own their
-work. AI creates a generation–verification asymmetry: it reduces
-the effort of producing plausible code and prose without similarly
-reducing the expertise needed to evaluate them, potentially leaving
-groups with technical and epistemic debt while obscuring the reasoning
-needed for supervision. I argue that AI adoption should therefore
-be judged by whether it builds sustainable laboratory capacity, with
-assistance adjusted to task purpose and verifiability and human ownership
-retained for every consequential artifact.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
