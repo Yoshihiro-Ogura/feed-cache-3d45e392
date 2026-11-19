@@ -5,6 +5,268 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>DeepChem-DEL: An
+Open-Source Framework for Reproducible
+DEL Modeling and Benchmarking</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02673/5473054/DeepChem-DEL-An-Open-Source-Framework-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02673</guid>
+<pubDate>Thu, 19 Nov 2026 01:00:49 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02673/1/m_ci6c02673_0017.png?Expires=2147483647&amp;amp;Signature=bsoDFt89OKm3LncUXptaKbiXnUiIXNDVdoHVzfgL~WeDM6UERCZgq00uOPzXnOSIx7UuydmlY-RokTulc0NRUv2KbuIbEphp7rgWBc90Bblb79m2h-HgP5Gw30zrk1pW8am4zv9qli3ky-W~7xPxDT9EygmpvdQARdVQF~sSzP61XaZb3Ofj0Iu-s7w4ZQMf9vz1HCglI9xJIZtnck7AwlLCvQi~YtUG6wWSBr-yekYC6GAUNmtdRZztbi9kjkXHFT45OMQ6DcCcRJNVl-P4pFUwUl2slTqdmEyKgVenhr47MB5CYa384GpypJTU6p19VDLVjtqfYxmUoGX2D-DaIw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="DeepChem-DEL: An
+Open-Source Framework for Reproducible
+DEL Modeling and Benchmarking" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;DNA-encoded libraries (DELs) allow screening of extremely
+large
+chemical spaces by tagging compounds with DNA barcodes. Machine learning
+(ML) techniques have enabled the extraction of meaningful chemical
+patterns from noisy, target-specific DEL binding data. However, existing
+tools for DEL machine learning (DEL-ML) remain fragmented, which limits
+systematic construction and reproducibility of modeling pipelines.
+Moreover, this fragmentation hinders integration of new models, such
+as chemical foundation models, into DEL workflows alongside classical
+approaches. To address these challenges in DEL modeling, we introduce
+DeepChem-DEL, an open-source suite of reproducible ML workflows for
+DEL modeling built on the DeepChem ecosystem. DeepChem-DEL integrates
+(i) a configurable denoising pipeline with (ii) modular DeepChem workflows
+for enrichment prediction, hit identification, and benchmarking across
+diverse model classes, including chemical foundation models enabled
+through extensions to the open-source ChemBERTa-3 framework. We evaluate
+DeepChem-DEL on the KinDEL and BELKA data sets, reproducing key baselines
+and enabling direct comparison across model classes. Our experiments
+demonstrate that leveraging chemical foundation models yields performance
+competitive with, and in several cases exceeding, previously explored
+approaches such as graph convolutional networks and random forest
+models. Together, these results demonstrate that DeepChem-DEL is a
+scalable and extensible platform for DEL-ML, while highlighting the
+potential of chemical foundation models for improved DEL modeling
+and prioritization.&lt;/span&gt;</description>
+</item>
+<item>
+<title>PolymerFFKit: Bridging
+Polymer Chemistry and Simulation-Ready
+Inputs through Traceable Force-Field and Topology Generation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03036/5473013/PolymerFFKit-Bridging-Polymer-Chemistry-and</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03036</guid>
+<pubDate>Wed, 18 Nov 2026 20:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03036/1/m_ci6c03036_0004.png?Expires=2147483647&amp;amp;Signature=x80t4H5uoGkoSyW7x9NDY9kEEu8W6fQOdmYwSeYX~SO0xMZsIBTgtRMNh4v63kdPRmpa8yJIMP5Yu9hnzLnLJM4VC4-seN3PRvqn5wKErCcJhZPHd7NcOOjxMndDsJdVEqZMv8pJEEIboXRoDKWi~csyhGVPWiIA7VqUL5LDUSfh9z4kE4Tk6CgacW0vIIU24pAuHUtqdgzSznFDEN~AmnQ0vZCy7AKqWyLPhPky8CViAw-cXpEYI4Zdi~2H0Z0qo-cBPY~opJtATqZ3KFlwGFDnVB3cmB836C5k1FzhRincWsv93B54B6PDYNhtnhxrmin~c1wK4~M9vCwgb5-L6A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="PolymerFFKit: Bridging
+Polymer Chemistry and Simulation-Ready
+Inputs through Traceable Force-Field and Topology Generation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Polymer molecular dynamics (MD) input preparation often
+separates
+experimental characterization, resolution mapping, bonded-parameter
+fitting, topology construction, and engine-specific file writing into
+weakly connected steps. PolymerFFKit is a cross-platform application
+that connects these steps for polymer force-field assembly and topology
+generation. It supports all-atom (AA), united-atom (UA), and coarse-grained
+(CG) representations; extracts bonded-coordinate statistics; obtains
+potential-of-mean-force (PMF) profiles by Boltzmann inversion; records
+fitting-domain choices; builds sequence-controlled polymer topologies;
+and exports GROMACS- and LAMMPS-oriented input files. PolymerFFKit
+v1.0.0 is available at https://tongshi0305-cpu.github.io/. Its main contribution is
+traceable preparation: mapping rules, fitted domains, random seeds,
+sequence definitions, and writer outputs remain part of the preparation
+record. In a hydroxyl-terminated polybutadiene (HTPB) case study,
+gel permeation chromatography (GPC), nuclear magnetic resonance (NMR),
+and Fourier transform infrared spectroscopy (FTIR) measurements defined
+sample-specific molar-mass and microstructure descriptors, while differential
+scanning calorimetry (DSC) provided an independent glass transition
+temperature (&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;g&lt;/sub&gt;). PolymerFFKit-derived
+coarse-grained simulations preserved the experimental &lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;g&lt;/sub&gt; ranking across three independent runs for each sample.
+The above results demonstrate that PolymerFFKit establishes a high-quality,
+standardized workflow for polymer simulation, bridging experimental
+synthesis and characterization with the prediction of polymer properties.&lt;/span&gt;</description>
+</item>
+<item>
+<title>BALLROOM A and
+S–A Benchmark Created Automatically
+from Structurally Resolved Pockets with Homogeneously Measured Affinities/Series</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02429/5472952/BALLROOM-A-and-S-A-Benchmark-Created-Automatically</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02429</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02429/1/m_ci6c02429_0007.png?Expires=2147483647&amp;amp;Signature=PQ-kAV6fglxKH8rFVM3uQNqCncdt7GbbR~W0YVXiFkBF9fGs8c0pY0r1-8YH2E1XUjjQapUqD8JmfqLJnrMGXDyFM8EdiyY3Y63z52-g2TjS~9un3nsAKk3dWTD45W0aHlSgw-2qsl4XBPa16GDhZxeFhGQ8B8D9WDxCPlBix8iDrtAtcq6CTjHHPDIg9itPDBRQquL9puEAvICl6MheVy4wA5l7ZgwjVNmDorlaRTWDhBFjBXAU8KLKlXATKdAZzmH8v36k1OHWbog4ls53HFUQoYW8R7iJvm5HMEOsdOP2YFLpSoJ4ZyoqPqtxRDcZD7EC3XM7eQitc9ZdO5KnjQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="BALLROOM A and
+S–A Benchmark Created Automatically
+from Structurally Resolved Pockets with Homogeneously Measured Affinities/Series" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Computational methods for virtual screening and lead
+optimization
+are benchmarked on specifically designed data sets to predict compound
+potency. Here we present a workflow and two resulting new benchmark
+data sets, BALLROOM A and BALLROOM S, from combining PDB and ChEMBL
+data. Due to high data quality standards, the formation of molecule
+pairs measured under the same conditions only, and avoiding pairs
+with close to equal potency, we achieve a reliable data collection
+for physics-based bioactivity prediction based on protein–ligand
+complex structures. When testing state-of-the-art scoring functions
+for docking, no classical method statistically outperforms a simple
+molecular-weight-based prediction, consistent with previous studies
+such as D3R. While challenging for physics-based methods, the prediction
+task can be easily addressed by simple nearest-neigbor scorers showing
+that the benchmark cannot be used for machine learing based scoring
+functions due to significant train-test inference.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Prospective Execution
+of a Generative Peptide Design
+Workflow at the Keap1–Nrf2 Interface</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03049/5472768/Prospective-Execution-of-a-Generative-Peptide</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03049</guid>
+<pubDate>Wed, 18 Nov 2026 15:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03049/1/m_ci6c03049_0010.png?Expires=2147483647&amp;amp;Signature=PhIGM2W7KDMj3p8LbQjK94m-RbHvutFgzKITavjxhtpwvuAX7OMgksKwg07WJ-64J5zsgnQGrn1WhlOylPP0MOYU8Zyy6rS6h1x4HhhGFjrsUDyWMU8Cd6BFOSkuND2GdQmF9BShD0MzJ9W5z9AntKrWmZfYKCKlxiSc3MLi-EoeSwwZVr6ZuyXZN-QkSoFsNcD3HhiJ9ElemK9HZXyaFwYdmuc~IRRACVfLis9WzyoN0f8D4v9rFXMtN1VkJSRGEnaMp3U5WopAFSAQ2eWvZE6mq7Ov2XQ4JmMK6EcMEpbd2rPb47fKMRDtnAOZ66Tj~Tx-ADkj6cpD4TvNKax2~Q__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Prospective Execution
+of a Generative Peptide Design
+Workflow at the Keap1–Nrf2 Interface" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Deep-learning tools for peptide design and structure
+prediction
+are increasingly combined into screening workflows, but at the Keap1–Nrf2
+interface such work has rarely progressed beyond computational characterization.
+We report a case study in which an initial-round workflow built from
+publicly available components─ProteinMPNN, Chai-1, PLIP, and
+HADDOCK3─was fixed before any experimental data were obtained
+and its complete prioritized output was carried to synthesis and measurement:
+530,299 unique sequences from seven Nrf2-derived backbones were reduced
+to 5,118 by sequence filtering and to 28 by structure-based filtering,
+and all 28 were synthesized and assayed alongside 16 analogues and
+the native Nrf2 12-mer, giving 45 measured peptides. One design, a
+12-mer carrying an ENGE variant of the ETGE motif, inhibited the interaction
+with an apparent IC&lt;sub&gt;50&lt;/sub&gt; of 120 nM under the assay conditions
+used, whereas the 14 resampled analogues satisfying the same structural
+criteria showed low inhibition, indicating that within this workflow
+the structure-based steps acted as filters for structural plausibility
+rather than as predictors of activity. Because the set was measured
+in full and the intermediate sequence sets were retained, we also
+report how the composition of the surviving population changed across
+the cascade; the original workflow data are released.&lt;/span&gt;</description>
+</item>
+<item>
+<title>ezABFE: An Easy-to-Use
+Workflow for Absolute Binding
+Free Energy Calculations</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02995/5472678/ezABFE-An-Easy-to-Use-Workflow-for-Absolute</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02995</guid>
+<pubDate>Wed, 18 Nov 2026 14:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02995/1/m_ci6c02995_0008.png?Expires=2147483647&amp;amp;Signature=g87S7dmfTKmKdtIK6pLClrxXWOYv9UFFKJ7yHFXR6GRIb0-Ax4~JOKJURdwsowGy01ygYyldQled6ywINz15Q96kzfYXCz8ztmkeCWouz6K2hxoGGVzpB3B4Pyu36fm~yZhYOIz0i3V4mtRFWkwLLZdQRf2QOQoRE9NWF4yq4WNpdr0ydtTNz147IKa47FKdwoguv300iZnnnJpybKZNF-z6Ued0M1-aOIe5ptVZplaiDA2F1JIBGdxJ0lhJNP~baLCT~1SG9sw4iKDG6xpG-aGfAFchn5ARW7asTj4nyVX7F1zyIeEuUbF1LqBn2Wz13aSodvlKVrAoJZAA3gKWVQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="ezABFE: An Easy-to-Use
+Workflow for Absolute Binding
+Free Energy Calculations" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Absolute binding free energy (ABFE) calculations can
+evaluate chemically
+diverse ligands, but their complex workflows remain challenging for
+nonexpert users and prone to errors. Here, we present ezABFE, an easy-to-use
+Python workflow for automated ABFE calculations within the AMBER ecosystem.
+ezABFE minimizes manual intervention in system preparation, representative-structure
+selection, Boresch restraint atom selection, simulation setup, free-energy
+estimation, and graphical analysis. The workflow employs both MBAR
+and TI for alchemical free-energy estimation and additionally provides
+MM-GBSA and optional MM-PBSA end-point calculations. Benchmarking
+across T4 lysozyme L99A, BRD4(1), CDK8, and the theophylline-binding
+RNA aptamer shows good overall agreement with experimentally derived
+binding free energies and comparable performance of MBAR and TI. Additional
+tests demonstrate that appropriate Boresch restraint atom selection
+is important for simulation stability and binding free-energy accuracy,
+and that ligand partial-charge models and the HMR/4 fs simulation
+protocol can influence calculated affinities, although the limited
+comparisons do not support general conclusions regarding either factor.
+The computationally inexpensive end-point methods also retain practical
+value for ligand ranking. Overall, ezABFE provides an accessible,
+automated workflow for reproducible ABFE calculations with improved
+throughput across diverse receptor systems, including nucleic acid
+receptors.&lt;/span&gt;</description>
+</item>
+<item>
+<title>ScentOR: Semantic-Only
+Heterogeneous Knowledge Distillation
+for Odorant Receptor Deorphanization</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02123/5472433/ScentOR-Semantic-Only-Heterogeneous-Knowledge</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02123</guid>
+<pubDate>Wed, 18 Nov 2026 13:00:39 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02123/1/m_ci6c02123_0009.png?Expires=2147483647&amp;amp;Signature=0wyZ2vLwpe3wUJv6JkxWCtfK0AP0fPZnUOlXNOtUoDpUyG6rYInGIJjay9FnmPCAjXNw0MyGJ3OE9HPicdHXv8CViiVHWQj98k9zWredGDMFrjfnccec5ukD0j2tMtftcQDh5Tky4CBG4pev3vMhnj~~mi8suQIbCMAlpzjt6mmfcFBE6Jvm6oOXo-ieA4RO7EVJSmO4oDQ9PAjJyHNA7SbnvwgSLbiSXFmvrUbMBDdIijHeGZInGvLb9736kz4ltZ9jGGb1FAPmcHcQGp4ByX9PKVEawkXkyXE5qFdjwaK1Nh~HJWoJVvKqrP4Ei8mzj56wWCzJROBSS66coIOftg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="ScentOR: Semantic-Only
+Heterogeneous Knowledge Distillation
+for Odorant Receptor Deorphanization" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Predicting interactions between odorant ligands and odorant
+receptor
+(OR) proteins is hindered by the scarcity of experimental structures
+and the wide sequence divergence within the OR family. We introduce &lt;span style="font-style:italic;"&gt;ScentOR&lt;/span&gt; (&lt;span style="font-style:italic;"&gt;S&lt;/span&gt;emantic &lt;span style="font-style:italic;"&gt;C&lt;/span&gt;hemical &lt;span style="font-style:italic;"&gt;E&lt;/span&gt;ncoder via &lt;span style="font-style:italic;"&gt;N&lt;/span&gt;eural &lt;span style="font-style:italic;"&gt;T&lt;/span&gt;ransfer
+for &lt;span style="font-style:italic;"&gt;O&lt;/span&gt;dorant &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;eceptors), a heterogeneous
+knowledge distillation framework that transfers the predictive distributions
+of a gradient boosting (GB) &lt;span style="font-style:italic;"&gt;teacher&lt;/span&gt; into a neural
+network (NN) &lt;span style="font-style:italic;"&gt;student&lt;/span&gt; using only one-dimensional (1D)
+semantic representations, achieving an area under the receiver operating
+characteristic curve (AUROC) of 0.954 and a Matthews correlation coefficient
+(MCC) of 0.602 on the curated M2OR data set of 39,723 odorant ligand-OR
+protein pairs, matching the current best-performing model while reducing
+the run-to-run standard deviation approximately 3-fold. A systematic
+comparison of eight scenarios shows that statically predicted three-dimensional
+(3D) topologies, encoded as geometry alone and at the accuracy currently
+attainable for ORs, add no complementary value: student models assign
+them near-zero importance, and the small gain they produce without
+distillation does not survive it. We further characterize what post
+hoc attribution reports for a model of this design, showing that integrated
+gradients (IG) and &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt; alanine mutagenesis
+concentrate on the family-conserved DRY motif arginine yet carry no
+pair-specific information, even though pair-specific interaction dominates
+the predictions.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Predicting Mutation-Induced Alterations in Protein
+Solubility Using an Attention-Guided Multimodal Learning Method</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03622/5472239/Predicting-Mutation-Induced-Alterations-in-Protein</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03622</guid>
+<pubDate>Wed, 18 Nov 2026 07:00:49 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03622/1/m_ci6c03622_0008.svg?Expires=2147483647&amp;amp;Signature=Y6ObEelymyE94BftBG~pIjAznzB9xbtfflh5a-swQKJPLECH7r95C~6f2bZHhYgZ142x96PN9fo49XSggfJ~8rbx7yRdkvq7aA2njTAP-OYbaRVzoZfCfLqWBxFFYdLiKPoEtliAaulTjFhvDCa2LqMnwdhTQzs7AaF0iOeOPiqAJtAESVumgbMBHWwRs3zMvwHuJxmiG1lXCqZBTGfv5KkjwQntMgYay1xH4oauY1b9AZdIg4QnryovhUrjmzU3owA67fblmwkpsx39DIZCSfMHDExsLgvU7s0EZQETy1nvYE5jqLmVmtrZzBf26FxhGQHJ6MT0gL331lfRpx0rzw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Predicting Mutation-Induced Alterations in Protein
+Solubility Using an Attention-Guided Multimodal Learning Method" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Protein solubility plays a crucial
+role in recombinant protein
+production and protein developability. However, the vast mutational
+space makes exhaustive experimental screening costly and time-consuming,
+motivating computational approaches to prioritize candidate mutations.
+Predicting mutation-induced solubility changes remains challenging
+because mutation effects are associated with both the sequence context
+and the local three-dimensional physicochemical environment. Although
+multimodal models can integrate complementary sequence- and structure-related
+representations, the predictive contribution and biological meaning
+of individual architectural components cannot be inferred directly
+from the learned fusion behavior. Herein, we developed AttenSol, an
+attention-guided multimodal framework that integrates mutation-sensitive
+sequence representations with topology-informed graph processing through
+a learned fusion mechanism. On the held-out benchmark, AttenSol achieved
+a balanced accuracy of 52.8%. Control experiments showed that AttenSol
+did not exhibit a statistically significant balanced accuracy (BACC)
+advantage over the evaluated direct-fusion and topology-informed GCN
+comparators, while the learned fusion gate showed a strong but nearly
+constant preference for the graph-processed branch. Fixed-gate and
+topology-perturbation analyses indicated that this weighting should
+not be interpreted as evidence of structural information dominance
+or strong sample-adaptive routing. Forward–reverse analysis
+showed strong directional consistency when reverse-mutation augmentation
+was used, whereas matched retraining without this augmentation reversed
+the correlation pattern and substantially increased the zero-sum error.
+Cross-data set evaluation on SoluProtMutDB yielded a BACC of 0.397,
+revealing a substantial performance reduction under data set and domain
+shift. Together, these results position AttenSol as a multimodal framework
+for mutation effect prediction and computational prioritization while
+emphasizing the need for explicit control analyses when interpreting
+learned fusion behavior.&lt;/span&gt;</description>
+</item>
+<item>
+<title>TH-CADD: An Integrated
+High-Performance Computing
+Platform for Large-Scale Computer-Aided Drug Discovery</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02916/5472236/TH-CADD-An-Integrated-High-Performance-Computing</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02916</guid>
+<pubDate>Wed, 18 Nov 2026 07:00:49 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02916/1/m_ci6c02916_0007.png?Expires=2147483647&amp;amp;Signature=SV~VzT~LeEycpgqSUFFXpm5-i14bn1gPIBae6r42G7ArvUBqCfziv0y~HQRo2HNziLEck0Uo0Np4cuC0Sc4bJ0a76dLA9DQHYnNBwEIBHEqjRGl989WdyceHEU9iOvDwCZh3pcyjGl0cq6BpeEX2kvxPdsfDHy8XaIL1BweOIojRi1jy41VWNugpTztfFtHv2ETs2Ba~zhVzQ8lMElI1Pym373RjJizlGHIEFc1u3Zxy0F6Np2ius-ENJmtOmSEUPhY8SA1ipODFZ4SgY2Xu9Cw0MUY0H7uEdQMcKcj5yEftBqccHOG4cmbByWcnQng6FlaARP08-Qyrmz9xl8dj~g__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="TH-CADD: An Integrated
+High-Performance Computing
+Platform for Large-Scale Computer-Aided Drug Discovery" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The growing scale of chemical libraries and the increasing
+complexity
+of biological targets have made high-throughput computer-aided drug
+design (CADD) an essential component of modern drug discovery. Here,
+we present TH-CADD, a high-performance computer-aided drug discovery
+platform built on the New Generation Tianhe supercomputer. TH-CADD
+integrates target preparation and analysis, ligand preparation, similarity
+search, molecular docking, postdocking analysis, and molecular dynamics
+simulation into a unified computational framework. A Django-Vue architecture
+deployed on Tianhe Cloud provides web-based access to high-performance
+computing (HPC) resources through scheduler-controlled execution.
+By organizing established CADD tools into a coherent workflow, TH-CADD
+supports accessible, traceable, and scalable computational drug discovery.
+The platform supports multiple molecular input formats, automated
+preprocessing, large-scale screening, and molecular dynamics evaluation
+of selected protein–ligand complexes. TH-CADD’s contribution
+lies in the system-level integration, automated job management, and
+scalable execution of established computational methods on the New
+Generation Tianhe supercomputer, together with a unified workflow
+view that supports direct cross-module reuse of compatible task outputs.&lt;/span&gt;</description>
+</item>
+<item>
 <title>HiFiPL-Bench: A
 Fidelity-First and Bias-Aware Benchmark
 for Diagnosing Protein–Ligand Scoring Functions</title>
@@ -4568,259 +4830,6 @@ to misfold. GA-repeat strands exhibit strong folding cooperativity─folding
 becomes more favorable in the presence of other folded peptides. A
 peptide with GE repeats on one strand and GZ on the other yields assemblies
 with alternating negative and positive strands.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Nonadditive Conformational
-Effects of tRNA Core Modifications</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02045/5447451/Nonadditive-Conformational-Effects-of-tRNA-Core</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02045</guid>
-<pubDate>Fri, 09 Oct 2026 00:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02045/5447451/Nonadditive-Conformational-Effects-of-tRNA-Core"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02045/1/m_ci6c02045_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Post-transcriptional modifications are known to regulate
-the structure
-and function of tRNA  molecules. Compared to modifications in the
-anticodon region, the mechanistic effects of modifications in the
-core region of tRNA remain poorly understood. Using all-atom molecular
-dynamics (MD) simulations on yeast tRNA&lt;sup&gt;Phe&lt;/sup&gt;, we investigated
-the conformational effects of incorporating chemical modifications
-in the core region (termed hereafter “core modifications”)
-of tRNA. Specifically, we focused on three core modifications, namely,
-7-methylguanosine (m&lt;sup&gt;7&lt;/sup&gt;G), 5-methylcytosine (m&lt;sup&gt;5&lt;/sup&gt;C), and 1-methyladenosine (m&lt;sup&gt;1&lt;/sup&gt;A). We discovered that individual
-modifications increased the structural stability of tRNA, but their
-combinations produced multimodal free energy landscapes with multiple
-distinct basins. We identified m&lt;sup&gt;1&lt;/sup&gt;A&lt;sub&gt;58&lt;/sub&gt; as a bifunctional
-regulator that locally disrupts structure while globally coordinating
-anticorrelated arm movement. The combination of m&lt;sup&gt;1&lt;/sup&gt;A&lt;sub&gt;58&lt;/sub&gt; and m&lt;sup&gt;5&lt;/sup&gt;C&lt;sub&gt;49&lt;/sub&gt; exhibited the lowest structural
-deviation from the crystal structure, while the triply modified variant
-incorporating all three modifications produced the most integrated
-residue community network, reflecting nonadditive allosteric coupling
-that cannot be predicted from any pairwise combination. Critically,
-core modifications established extensive allosteric pathways that
-prevent the consistent inward displacement of the anticodon stem loop
-otherwise observed in all simulations of chemically unmodified tRNA.
-Our results demonstrate that core modifications function as regulators
-of conformational ensembles rather than simple stabilizers.&lt;/span&gt;</description>
-</item>
-<item>
-<title>State-Constrained
-SHAP Distills Polymer Property Models
-into Transferable Structural Rules for Fixed-Interval Screening</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02120/5447316/State-Constrained-SHAP-Distills-Polymer-Property</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02120</guid>
-<pubDate>Thu, 08 Oct 2026 19:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02120/5447316/State-Constrained-SHAP-Distills-Polymer-Property"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02120/2/m_ci6c02120_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Polymer informatics has accelerated data-driven prediction
-of polymer
-properties, yet accurate prediction does not directly enable discovery.
-Here, we introduce state-constrained SHAP (SC-SHAP), an attribution-to-rule
-distillation framework for fixed-interval polymer screening. Using
-XGBoost as the teacher, SC-SHAP reorganizes SHAP and SHAP-interaction
-attributions on chemically interpretable MACCS fingerprints into support-qualified
-structural states defined by required-present and required-absent
-substructures. These states provide auditable property ordering, executable
-structural conditions, and candidate-level rule traces, while the
-learned library is reused across target windows with interpolation-only
-boundary calibration. Evaluation on experimental PoLyInfo datasets
-for glass-transition temperature (&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;g&lt;/sub&gt;),
-tensile stress at break (TSS), and electrical conductivity (EC) yields
-Spearman correlations between state scores and mean measured properties
-of 0.908 ± 0.008, 0.817 ± 0.069, and 0.835 ± 0.025,
-respectively. Benchmarks include direct XGBoost, MACCS-GCN, MACCS-Transformer,
-and rule-based screening. In the fixed-interval screening benchmark,
-SC-SHAP achieves higher mean scores than direct XGBoost, MACCS-GCN,
-MACCS-Transformer, and WRAcc on the smaller TSS and EC datasets. Multiple
-seeds and alternative structural splits further assess transfer to
-structurally distinct polymers. By unifying nonlinear knowledge distillation,
-chemically explicit rules, and cross-window reuse, SC-SHAP provides
-an interpretable screening framework spanning thermal, mechanical,
-and electrical polymer properties.&lt;/span&gt;</description>
-</item>
-<item>
-<title>FragDockRL: A Reinforcement
-Learning Method for Fragment-Based
-Ligand Design via Building-Block Assembly and Tethered Docking</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02851/5446760/FragDockRL-A-Reinforcement-Learning-Method-for</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02851</guid>
-<pubDate>Thu, 08 Oct 2026 11:00:31 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02851/5446760/FragDockRL-A-Reinforcement-Learning-Method-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02851/1/m_ci6c02851_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Efficient
-exploration of combinatorial chemical space under synthetic
-constraints remains a central challenge in computational molecular
-design. Here, we present FragDock, a molecular design framework that
-combines building-block (BB)-based virtual synthesis with tethered
-docking guided by a predefined core structure. FragDock defines a
-structured search space by assembling molecules from synthetically
-accessible BBs through known chemical reactions and evaluating candidates
-using tethered docking with a restrained core-binding pose. Within
-this framework, we introduce FragDockRL, a reinforcement-learning-based
-search method that uses rewards derived from rDock-based tethered
-docking followed by SMINA scoring and a modified Deep Q-Network (DQN)
-to guide stepwise molecular growth. We evaluated FragDockRL on three
-therapeutically important protein targets─the receptor tyrosine
-kinases CSF1R and VEGFR2 and the coagulation protease FA10─selected
-to represent distinct biological functions and target classes. We
-assessed its performance using training-cycle analysis and benchmark
-comparisons with One-Step Reaction, Random Search, Beam Search, and
-Monte Carlo Tree Search. FragDockRL progressively enriched molecules
-with favorable docking scores during learning and generated more cutoff-passing
-unique molecules than Random Search across all three targets, supporting
-the benefit of learning-guided prioritization. However, the best-performing
-search strategy was target-dependent: One-Step Reaction, FragDockRL,
-and Beam Search each showed advantages in different cases. Representative
-molecular case studies showed that selected compounds retained reference-like
-binding poses while introducing structural variation into peripheral
-regions. The reaction schemes used commercially available BBs and
-well-established medicinal chemistry transformations, which supported
-the synthetic plausibility of the selected compounds. Overall, FragDock
-provides a flexible framework for synthetically constrained, structure-guided
-molecular exploration, and FragDockRL offers a learning-guided search
-mode for productive candidate prioritization under limited-generation
-budgets.&lt;/span&gt;</description>
-</item>
-<item>
-<title>SAEKP: A Site Attention
-Enzyme Kinetics Prediction
-Method to Facilitate Enzyme Engineering</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01516/5446533/SAEKP-A-Site-Attention-Enzyme-Kinetics-Prediction</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01516</guid>
-<pubDate>Wed, 07 Oct 2026 17:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01516/5446533/SAEKP-A-Site-Attention-Enzyme-Kinetics-Prediction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01516/1/m_ci6c01516_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;While
-the determination of enzyme kinetic parameters traditionally
-relies on prolonged and costly experimental methods, machine learning
-models have recently demonstrated promise as predictive tools. These
-models still have limitations, such as limited training data and insufficient
-sensitivity to mutations at important sites. Here, we introduce SAEKP
-(Site Attention Enzyme Kinetics Prediction Method), which incorporates
-representations of enzyme sequence, substrate, and an additional weighted
-sequence representation that highlights functionally important sites.
-Trained on wild-type and mutant enzyme data from BRENDA and SABIO-RK,
-SAEKP outperforms existing models in predicting enzyme kinetic parameters,
-including turnover number (&lt;span style="font-style:italic;"&gt;k&lt;/span&gt;&lt;sub&gt;cat&lt;/sub&gt;), Michaelis
-constant (&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;m&lt;/sub&gt;), and inhibition constant
-(&lt;span style="font-style:italic;"&gt;K&lt;/span&gt;&lt;sub&gt;i&lt;/sub&gt;). The selected multimodal protein
-and substrate representation framework provides strong overall performance,
-while the site attention module further improves performance in predicting
-mutations at or near important sites through prior-knowledge-guided
-residue reweighting. SAEKP offers a robust and practical tool for
-predicting enzyme kinetic parameters, facilitating enzyme engineering
-and subsequent industrial applications.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Unified Multitask
-Model for Aquatic Toxicity Prediction
-across Organism Groups and Effect End Points: A Comparison of Molecular
-Representations</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02487/5446142/Unified-Multitask-Model-for-Aquatic-Toxicity</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02487</guid>
-<pubDate>Wed, 07 Oct 2026 14:00:30 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02487/5446142/Unified-Multitask-Model-for-Aquatic-Toxicity"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02487/1/m_ci6c02487_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Computational prediction of aquatic toxicity provides
-a rapid and
-cost-efficient alternative to resource-intensive in vivo ecotoxicological
-testing. However, most existing models adopt a fragmented modeling
-strategy, developing separate models for each organism group and toxicity
-end point. Such task-specific models restrict knowledge transfer across
-related biological contexts and fail to account for the biological
-ordering between multiple effect concentrations (EC50/EC10). Here,
-we propose a unified multitask framework to simultaneously predict
-effect concentrations for three aquatic organism groups (fish, crustaceans,
-algae) and two end points (EC50/EC10) within a single model. This
-framework integrates a molecular encoder with a Multigate Mixture-of-Experts
-(MMoE) network, a soft end point-ordering term that encourages the
-biological relation EC50 ≥ EC10, and a heteroscedastic regression
-output that provides per-prediction uncertainty estimates. We evaluated
-a multirepresentation fusion encoder combining physicochemical descriptors,
-molecular fingerprints, and a 2D molecular graph neural network (GNN),
-together with 3D-pretrained Uni-Mol and TRIDENT baselines. Under a
-common global scaffold/acyclic-cluster 5-fold pooled out-of-fold (OOF)
-protocol, the multirepresentation fusion model demonstrated robust
-predictive performance across all six organism–end point tasks,
-with lower prediction errors than TRIDENT across all six tasks and
-Uni-Mol in four tasks. Attention-based interpretation further highlighted
-chemically meaningful atoms and substructures that were consistent
-with plausible toxicity-relevant structural motifs. Together, these
-findings demonstrate that integrating multitask learning, biologically
-informed end point constraints, and complementary molecular representations
-provides a promising foundation for broadly applicable and uncertainty-aware
-models of aquatic toxicity.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Causal-Chemprop:
-Causal Machine Learning for Molecular
-Property Prediction and Design</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01429/5445903/Causal-Chemprop-Causal-Machine-Learning-for</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01429</guid>
-<pubDate>Wed, 07 Oct 2026 11:00:30 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01429/5445903/Causal-Chemprop-Causal-Machine-Learning-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01429/1/m_ci6c01429_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;&lt;span style="font-style:italic;"&gt;A priori&lt;/span&gt; estimation of molecular properties
-has
-long been a topic of immense interest to the pharmaceutical sciences
-for molecular design. While neural network-based models have achieved
-high predictive accuracy, they have limited utility in molecular design,
-particularly in small and out-of-distribution data regimes. Current
-neural network-based models lack mechanisms to explicitly incorporate
-prior knowledge from existing data. Herein, we introduce a causal
-machine learning framework built on the Chemprop and DAGMA architectures
-for molecular property prediction called &lt;strong&gt;Causal-Chemprop&lt;/strong&gt;. Its capacity for counterfactual reasoning supports human-in-the-loop
-optimization of molecular structure, which we demonstrate by improving
-the rank-ordering of out-of-distribution kinase inhibitor &lt;span style="font-style:italic;"&gt;pIC&lt;/span&gt;&lt;sub&gt;50&lt;/sub&gt; values─most where standard encoders
-extrapolate poorly─both within and across scaffold series,
-in a lead-optimization setting in which the test scaffold is known.
-We further integrate &lt;strong&gt;Causal-Chemprop&lt;/strong&gt; with the molecular
-optimization algorithm EvoMol as a scoring function, where it tends
-to yield more synthesizable molecules that more closely resemble the
-sought-after active compound than Chemprop. To our knowledge, this
-is the first application bridging neural network-learned molecular
-representations with structural causal models for molecular property
-prediction and optimization via counterfactual reasoning, suggesting
-several promising new avenues for exploration in molecular property
-prediction and design.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Temporally Validated
-Models for Target “Tclin-likeness”</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03088/5445688/Temporally-Validated-Models-for-Target-Tclin</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c03088</guid>
-<pubDate>Wed, 07 Oct 2026 00:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03088/5445688/Temporally-Validated-Models-for-Target-Tclin"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03088/1/m_ci6c03088_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Identifying which human proteins are likely to become
-validated
-drug targets remains a challenge in drug discovery. We build on the
-“Tclin” concept, which encompasses proteins for which
-at least one approved drug exerts its mode of action (MoA); these
-comprise only ∼3% of the human proteome. We developed disease-agnostic,
-knowledge-graph machine learning (KGML) models that estimate “Tclin-likeness”:
-how closely a non-Tclin protein resembles established MoA drug targets
-in knowledge-graph feature space. Single-class support vector machines
-(1SVM) and XGBoost classifiers were trained on Pharos data current
-as of December 2017, using static (Gene Ontology, Reactome, the Kyoto
-encyclopedia for genes and genomes, STRING, HPA) and dynamic (genotype-tissue
-expression, LINCS, DISEASES, cancer cell line encyclopedia) features.
-To prevent data leakage, 115 proteins that acquired Tclin status after
-January 2018 were withheld entirely from training. Sensitivity on
-this external set was 88%–95% across individual models. Because
-non-Tclin proteins are unlabeled rather than confirmed negatives,
-specificity and precision are reported as bounds: balanced accuracy
-is 54%–75% for individual models and 73.7% for the eight-model
-consensus, which flags 5019 non-Tclin proteins (27.4%). The 1SVM models
-also identified a set of 1290 consensus negatives for XGBoost training.
-Benchmarked against two KGML druggability models, DrugnomeAI and PINNED,
-a consensus of 1133 proteins emerged. The Tclin-like consensus recovered
-145 of 181 non-Tclin proteins in Phase 1–3 clinical trials
-(80.1%) and 23 of 28 proteins that reached Tclin status in 2023–2025
-(82.1%), each approximately 3-fold enriched over background; it is
-statistically indistinguishable from PINNED (McNemar &lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.42) while flagging 40% fewer proteins and outperforms DrugnomeAI
-(&lt;span style="font-style:italic;"&gt;p&lt;/span&gt; = 0.0015). The three-model consensus places the
-druggable genome between 1860 and 5745 genes. Tclin-likeness is a
-prior, not a proof of tractability: these features encode nothing
-about binding pockets, ligandability or therapeutic modality. The
-“Tclin-like” consensus score is best used as an independent
-filter alongside disease-specific evidence and modality-specific tractability
-assessment.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Correction to “Enhanced
-Regioselectivity Prediction
-of sp 2  C–H Halogenation via Negative Data Augmentation
-and Multimodel Integration”</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03353/5445634/Correction-to-Enhanced-Regioselectivity-Prediction</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c03353</guid>
-<pubDate>Tue, 06 Oct 2026 18:00:30 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;National Natural Science Foundation of China10.13039/50110000180922071249&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

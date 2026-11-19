@@ -5,6 +5,20 @@
 <link>https://pubs.rsc.org/dd/latest-articles</link>
 <description>Digital Discovery (mirrored feed)</description>
 <item>
+<title>PSE-RepairBench: a simulator-grounded benchmark for evaluating large language model-based setpoint correction in executable chemical process flowsheets</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00673f</link>
+<guid>urn:rsc-latest:d6dd00673f</guid>
+<pubDate>Thu, 19 Nov 2026 10:25:01 +0000</pubDate>
+<description>Authors: Wataru Takahara, Ryu Suganuma, Souta Miyamoto, Katsuaki Tanabe&lt;br/&gt;DOI: 10.1039/d6dd00673f</description>
+</item>
+<item>
+<title>Democratizing Reaction Kinetics through Machine Vision and Learning</title>
+<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00225k</link>
+<guid>urn:rsc-latest:d6dd00225k</guid>
+<pubDate>Thu, 19 Nov 2026 00:03:55 +0000</pubDate>
+<description>Authors: Mitchell A. Baumer, Liliana C. Gallegos, Dylan M Anstine, Andrew Kubaney, Jose E Regio, Olexandr Isayev, Gabriel dos Passos Gomes, Stefan Bernhard&lt;br/&gt;DOI: 10.1039/d6dd00225k</description>
+</item>
+<item>
 <title>Pocket-Based 3D Molecular Generation: Binding-Environment Representations and Pocket Adaptability</title>
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00558f</link>
 <guid>urn:rsc-latest:d6dd00558f</guid>
@@ -16,7 +30,7 @@
 <link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00179c</link>
 <guid>urn:rsc-latest:d6dd00179c</guid>
 <pubDate>Tue, 17 Nov 2026 14:03:34 +0000</pubDate>
-<description>Authors: Kenneth López Pérez, Ramon Alain Miranda-Quintana&lt;br/&gt;DOI: 10.1039/d6dd00179c</description>
+<description>Authors: Kenneth Lopez-Perez, Ramon Alain Miranda-Quintana&lt;br/&gt;DOI: 10.1039/d6dd00179c</description>
 </item>
 <item>
 <title>NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer</title>
@@ -1039,20 +1053,6 @@
 <guid>urn:rsc-latest:d6dd00159a</guid>
 <pubDate>Thu, 03 Sep 2026 10:44:13 +0000</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00159a"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00159a/1/d6dd00159a-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;Authors: Maryam Zarghami Dehaghani, Thomas Fabiani, Sotirios Tsaftaris, Simone Dimartino, Maria Grazia De Angelis&lt;br/&gt;DOI: 10.1039/d6dd00159a</description>
-</item>
-<item>
-<title>[Graphical abstract added] ParetoMol: a free web application for multi-objective pareto analysis of molecular safety and pharmacokinetics</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00366d?rsc_ga=1</link>
-<guid>urn:rsc-graphical-abstract:d6dd00366d</guid>
-<pubDate>Wed, 02 Sep 2026 15:02:50 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00366d?rsc_ga=1"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00366d/1/d6dd00366d-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;Authors: Ilkham Yabbarov, Rodrigo A. Vargas-Hernández&lt;br/&gt;DOI: 10.1039/d6dd00366d</description>
-</item>
-<item>
-<title>[Graphical abstract added] Learning unfolded band structures from spectra</title>
-<link>https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00185h?rsc_ga=1</link>
-<guid>urn:rsc-graphical-abstract:d6dd00185h</guid>
-<pubDate>Wed, 02 Sep 2026 15:02:50 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.rsc.org/dd/article/doi/10.1039/d6dd00185h?rsc_ga=1"&gt;&lt;img src="https://rscj.silverchair-cdn.com/rscj/content_public/journal/dd/pap/10.1039_d6dd00185h/1/d6dd00185h-ga.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;Authors: Yeongrok Jin, Jaekwang Lee, Teruyasu Mizoguchi&lt;br/&gt;DOI: 10.1039/d6dd00185h</description>
 </item>
 </channel>
 </rss>
