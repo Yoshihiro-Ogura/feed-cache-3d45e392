@@ -5,6 +5,106 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Allosteric Control
+and Glycan Shielding Adaptations
+in the SARS-CoV-2 Spike from Early to Peak Virulence</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02291/5473723/Allosteric-Control-and-Glycan-Shielding</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02291</guid>
+<pubDate>Fri, 20 Nov 2026 01:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02291/1/m_ci6c02291_0009.png?Expires=2147483647&amp;amp;Signature=H3JQJ59a2mhsT0fPopP4a1GRJedHoJ3bKcY6Q6fhlF24zIgThbu-C4AJu6XQv7UuQEcAZQkIC1DuE6C4Xuy1Z8iLoAvbxSTZ31gOfa3xJUefcYsnoiey0UKEtEEw62LmJxo1eRgEa3BlEdZaxf5WdzBtU0-t9SYBK-1zkLZzgpXdO5gm5u7iJun60rriUbUdWehRjbrfnQXNkiV1w6wYP97IGQq6B-M1miDvw9wqy6FRaNg1vHNTKpPGxaGwUApdqpc6yyvpcgkD-g5tB985pQLbzRYAWIkw2Su1xUSR2WEZGndhgu2eKeG07vvu7~7WIzqW05tqal61~HX5OcmsFg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Allosteric Control
+and Glycan Shielding Adaptations
+in the SARS-CoV-2 Spike from Early to Peak Virulence" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The SARS-CoV-2 Spike glycoprotein is central to viral
+infectivity
+and immune evasion, making it a key target for vaccine and therapeutic
+design. This trimeric peplomer undergoes dynamic conformational changes,
+particularly in its Receptor Binding Domain (RBD), which transitions
+between closed (down) and ACE2-accessible (up) states relative to
+the rest of the protein, to facilitate host cell entry. Structural
+understanding of such critical interdomain motions, as well as epitope
+exposure quantification, is essential for obtaining an effective biochemical
+handle over this protein and, in turn, exploiting it toward improved
+immunogen development. Focusing on the early circulating D614G form
+and the later emerging Delta (B.1.617.2) variant with higher virulence,
+we performed large-scale molecular dynamics simulations of the soluble
+form of the Spike in both “down” and “up”
+conformations of the RBD. Guided by differences in domain-scale fluctuations,
+we constructed targeted reaction coordinates capturing NTD and RBD
+rotations and tilting motions, enabling variant-specific structural
+distinctions to be quantitatively extracted. Conformational landscape
+mapping and principal component analysis (PCA) reveal a previously
+uncharacterized dynamic coupling between the NTD and RBD, wherein
+tilting motions of the NTD are coupled to RBD gating on the neighboring
+protomer. While several elements of this interdomain coupling are
+conserved, the Delta variant exhibits a more constrained and functionally
+optimized RBD-up conformation that favors ACE2 engagement. Concurrently,
+Delta-specific mutations restructure NTD-local glycans to enhance
+shielding of the immunogenic supersite, diminishing neutralizing antibody
+accessibility. Finally, the D950N substitution at the heptad repeat
+HR1 helix reshapes long-range interactions and alters bending/twisting
+dynamics of the Spike stalk, likely contributing to both fusion efficiency
+and immune evasion. Together, these simulations uncover chemically
+encoded strategies of variant adaptation─through long-range
+allostery, glycan repositioning, and conformational bias─that
+shape Spike structure and function. These biochemical and structural
+insights offer valuable guidance for rational vaccine and therapeutic
+design against SARS-CoV-2 and emerging variants.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Shake It Off: Abl
+Kinase Regulatory Domain Dynamics
+Explain Conformational Changes upon Activation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02968/5473656/Shake-It-Off-Abl-Kinase-Regulatory-Domain-Dynamics</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02968</guid>
+<pubDate>Thu, 19 Nov 2026 21:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02968/1/m_ci6c02968_0007.png?Expires=2147483647&amp;amp;Signature=wHzqkT9StP~WBd9bBbnGnLSVOYE1OZ1YsfJ5CnooCUzPk8deqHgAtu~Uaa6VnejFoDhWekq0O~8el6JWstYJqqSXLLDKeEAemSotLcbxELQAe8TILr2oRPP3bEeMLp4g42b0a7isOLPqrk4-Sy5R999XR~LZlWhzdZSJ9muptxlfI01RnsVSYUw8~3TFNHSH7UiKpkOs18w7K7MyWXdCHzdSifnaMuiotSqPw4zq-2UsgFOeBpaeTy1WM5ZZGoChtY31dC~eaQ0e2hl1aBrZqUMZ6KPr4UL1Vl7NNy3C8jxrNurpEmBLnH1qayuaA~q9GyGPtytd6DOJrY9BAZLHzg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Shake It Off: Abl
+Kinase Regulatory Domain Dynamics
+Explain Conformational Changes upon Activation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Abl kinase is a major molecular target for chronic myeloid
+leukemia
+therapy. Its activity is tightly controlled by its regulatory module,
+composed of the SH3 and SH2 domains and the SH2–kinase linker.
+Although the assembled autoinhibited and extended active conformations
+have been structurally characterized, the molecular pathway connecting
+these states remains poorly understood. Simulations initiated from
+the end point structures failed to sample the complete transition,
+even when Gaussian accelerated molecular dynamics (GaMD) was employed
+to enhance conformational sampling. To overcome this limitation, we
+combined multiscale modeling with extensive molecular dynamics simulations
+and Markov state modeling to reconstruct the Abl disassembly pathway.
+The resulting kinetic landscape revealed two coupled conformational
+equilibria: a faster exchange between the canonical assembled state
+and an intermediate ensemble that captures the initial rotation of
+the regulatory module, and a slower transition toward the extended
+state, characterized by migration of the regulatory module atop the
+kinase domain N-lobe. The assembled ensemble is favored (∼88%
+of the equilibrium population), with the canonical autoinhibited arrangement
+alone accounting for approximately 60%, while early disassembly disrupts
+the E98–K294 and SH3–linker interactions and releases
+Y226 from its protective interactions, while Y70 remains accessible
+through the intrinsic dynamics of the SH3 domain. By revealing how
+these phosphorylation-sensitive residues become accessible during
+the earliest stages of disassembly, our model provides a mechanistic
+framework for Abl activation and identifies regulatory interfaces
+as potential targets for allosteric stabilization of the autoinhibited
+state.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Comment on “Hybrid
+Graph–Machine Learning
+Framework for Accurate and Interpretable Band Gap Prediction”</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03192/5473589/Comment-on-Hybrid-Graph-Machine-Learning-Framework</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03192</guid>
+<pubDate>Thu, 19 Nov 2026 16:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03192/1/m_ci6c03192_0002.svg?Expires=2147483647&amp;amp;Signature=4qncJbsIudllUUYeI8-ZYArXNStg-kZdchrZSMOP4SMi1a56JtP-dWvwOqPrWhgpuSbxT85iz0PkK1pyl22Gfla-SJR26QGOw7--WjrooWJlg7kU9-fB10Yau9MPW6iVzOR3eF52ZitcJJlyZgsIw8CAGMClJB8AA~0RVgq~KcU9nZ3yEUQt438xh6WqhIJ~~TKO~5VyX~y5f1WDyhFF2sQDE~EwzQHEWY~p9sfug53qf6PpEsK-EFMbbFoSLoM4zNoF-iYaLBv6iKVKBwk8Qi-AYIcqfU3B2C1NS1t3z2AI73A8TOntpx7uztYbmJRijNqNry4Dq1c7I9g0dDZu-Q__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Comment on “Hybrid
+Graph–Machine Learning
+Framework for Accurate and Interpretable Band Gap Prediction”" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Aydin et al. reported &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; =
+0.921 for
+band gap prediction using hybrid graph neural networks. Reproduction
+shows this performance is inflated by data leakage from post-DFT proxies
+(is_metal, is_gap_direct) and embedding contamination. Controlled ablations reveal a genuine
+GNN gain of 0.08–0.11 in &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt;, while
+leakage contributes ∼0.06, lowering honest performance to 0.82–0.86 &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; (MAE 0.28–0.30 eV).&lt;/span&gt;</description>
+</item>
+<item>
 <title>DeepChem-DEL: An
 Open-Source Framework for Reproducible
 DEL Modeling and Benchmarking</title>
@@ -4736,100 +4836,6 @@ Prediction</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02659</guid>
 <pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02659/5427833/A-Task-Adaptive-Multimodal-Pretrained-Framework"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02659/1/m_ci6c02659_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>FlexENN: A Graph
-Neural Network for Binding Energy
-Prediction of Globular and Intrinsically Disordered Proteins</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01545/5448434/FlexENN-A-Graph-Neural-Network-for-Binding-Energy</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01545</guid>
-<pubDate>Sat, 10 Oct 2026 02:00:37 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01545/5448434/FlexENN-A-Graph-Neural-Network-for-Binding-Energy"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01545/1/m_ci6c01545_0008.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Intrinsically disordered proteins (IDPs) drive a large
-fraction
-of cellular signaling, transcription, and assembly through interfaces
-that often lack a defined geometry, making the prediction of their
-binding energies challenging for methods developed primarily for folded
-complexes. Here, we introduce FlexENN, an interface-focused message-passing
-graph neural network framework comprising two independently trained
-models: FlexENN-F for folded protein complexes and FlexENN-I for complexes
-containing a disordered partner. The FlexENN architecture constructs
-a local interface graph in which each residue node integrates the
-relative geometry, flexibility-related structural descriptors, and
-sequence information, allowing the network to learn structure-affinity
-relationships from a single resolved bound conformation. We also construct
-an IDP-containing dataset for training the FlexENN-I model. Benchmarked
-across folded complexes and IDP-containing systems, including tubulin–tubulin
-interfaces within microtubules (MTs) and MTs in complex with microtubule-associated
-proteins (MAPs), with reference binding affinity values extracted
-from our experiments, the models reproduce physically reasonable energetic
-profiles, including the stronger interdimer relative to the lateral
-MT interactions, while feature-ablation analyses reveal system-dependent
-contributions of selected descriptors to the predictions. More broadly,
-this work delivers an accurate, structure-aware approach to predicting
-binding free energies for complexes of folded protein and complexes
-that contain ordered or partially ordered IDP regions for which a
-sufficiently well-defined bound structure is available.&lt;/span&gt;</description>
-</item>
-<item>
-<title>COMPLAX: A Python
-Tool Package for Automated Microsolvation
-of Organic Molecules</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02105/5448227/COMPLAX-A-Python-Tool-Package-for-Automated</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02105</guid>
-<pubDate>Fri, 09 Oct 2026 18:00:32 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02105/5448227/COMPLAX-A-Python-Tool-Package-for-Automated"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02105/1/m_ci6c02105_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Since the solvent choice drives organic reactivity, accurate
-computational
-modeling of explicit solute–solvent interactions remains crucial
-but preparation-intensive. We present COMPLAX, an open-source Python
-tool that automates the generation and optimization of targeted microsolvated
-clusters around highly localized active sites. Unlike unconstrained
-global optimizers, COMPLAX employs a rigid-core approach to preserve
-delicate solute geometries. To ensure unbiased spatial sampling, it
-couples a deterministic Fibonacci spherical lattice with three-dimensional
-rotational randomizations. Generated structures are refined via a
-two-stage xTB geometry optimization, utilizing a constrained pre-relaxation
-step to prevent unphysical solvent detachment. By automating conformer
-ranking and energy evaluations via a simple command-line interface,
-COMPLAX provides a reproducible, out-of-the-box solution for explicit
-microsolvation workflows.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Sequence Dependence
-of Folding and Self-Assembly of
-Glycine-X Repeat Peptides on Graphite</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02272/5448186/Sequence-Dependence-of-Folding-and-Self-Assembly</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02272</guid>
-<pubDate>Fri, 09 Oct 2026 16:00:31 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02272/5448186/Sequence-Dependence-of-Folding-and-Self-Assembly"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02272/1/m_ci6c02272_0010.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Cyclic peptides consisting of glycine-X repeats have
-been shown
-in simulation and experiment to fold at the graphite–water
-interface into beta-hairpins, which then self-assemble by intermolecular
-hydrogen bonding. In this contribution, we investigate the role of
-the hairpin turn sequence, strand length, and the X amino acid on
-folding and self-assembly. Simulations of relatively large systems
-with 9 initially unfolded peptides allow us to observe spontaneous
-folding, which, together with free energy profiles as a function of
-RMSD, enable comparison of folding thermodynamics and kinetics among
-sequences and identification of metastable misfolded conformations.
-Likewise, spontaneous assembly also occurs in these simulations, which,
-together with absolute binding free energy calculations, enable comparison
-of assembly kinetics and preferences for different intermolecular
-alignments. We find that the GPGG sequence best enforces folding with
-the desired hairpin turn compared to GGGG and GDGG sequences. While
-our previous peptide design was head-to-tail cyclized, here, we demonstrate
-that disulfide cyclization is a viable alternative. Peptides having
-strands with GT, GA, GG, GS, and GD repeats, as well as those with
-charge-complementary GE/GZ pairs (where Z is diaminobutyric acid),
-can fold correctly, but vary in their folding free energy, tendency
-to adopt misfolded conformations, folding cooperativity, and preference
-for different intermolecular alignments. GT-repeat strands most favor
-folding into the desired beta-strands; however, they yield the weakest
-intermolecular assembly. GG-repeats yield the strongest intermolecular
-assembly, but peptides with all GG repeats show a greater tendency
-to misfold. GA-repeat strands exhibit strong folding cooperativity─folding
-becomes more favorable in the presence of other folded peptides. A
-peptide with GE repeats on one strand and GZ on the other yields assemblies
-with alternating negative and positive strands.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
