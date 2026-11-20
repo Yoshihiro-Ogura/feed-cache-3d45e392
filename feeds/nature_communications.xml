@@ -5,6 +5,13 @@
 <link>http://feeds.nature.com/ncomms/rss/current</link>
 <description>Nature Communications (mirrored feed)</description>
 <item>
+<title>[Representative figure added] Depth-enhanced molecular imaging with two-photon oblique plane microscopy</title>
+<link>https://www.nature.com/articles/s41467-026-78668-6?publisher_figure=1</link>
+<guid>urn:publisher-representative-figure:5fe0bfe15f90e45e31649685</guid>
+<pubDate>Fri, 20 Nov 2026 22:03:19 GMT</pubDate>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://www.nature.com/articles/s41467-026-78668-6?publisher_figure=1"&gt;&lt;img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-78668-6/MediaObjects/41467_2026_78668_Fig1_HTML.png" alt="Representative article figure" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Representative article figure (not a graphical abstract)&lt;/em&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;</description>
+</item>
+<item>
 <title>Chemical upcycling of mixed polyolefins via rapid C–H nitration</title>
 <link>https://www.nature.com/articles/s41467-026-79649-5</link>
 <guid>10.1038/s41467-026-79649-5</guid>
@@ -59,6 +66,20 @@
 <guid>10.1038/s41467-026-78682-8</guid>
 <pubDate>2026-11-20</pubDate>
 <description>&lt;p&gt;Nature Communications, Published online: 20 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78682-8"&gt;doi:10.1038/s41467-026-78682-8&lt;/a&gt;&lt;/p&gt;In this study, the authors report case-control studies in Mali and Malawi showing that cerebral malaria is associated with increased transcription of var2csa and EPCR-ICAM1 dual binding PfEMP1s, rather than EPCR-binding variants alone suggesting that var gene regulation may be a driver of severe disease.</description>
+</item>
+<item>
+<title>Laser ablation rapid evaporative ionisation mass spectrometry imaging with few-micrometer sampling pixels</title>
+<link>https://www.nature.com/articles/s41467-026-79489-3</link>
+<guid>10.1038/s41467-026-79489-3</guid>
+<pubDate>2026-11-20</pubDate>
+<description>&lt;p&gt;Nature Communications, Published online: 20 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-79489-3"&gt;doi:10.1038/s41467-026-79489-3&lt;/a&gt;&lt;/p&gt;In mass spectrometry imaging, smaller pixel sizes usually come at the cost of reduced signal and more complex sample preparation. Here, authors develop a gentle infrared laser ablation approach that maps metabolites and lipids at few-micron pixel sizes in fresh-frozen and clinical tissue in open air.</description>
+</item>
+<item>
+<title>Wnk1 drives CD4+ T cell lineage fate determination and bone marrow homing in a mouse model of retinal autoimmune disease</title>
+<link>https://www.nature.com/articles/s41467-026-79609-z</link>
+<guid>10.1038/s41467-026-79609-z</guid>
+<pubDate>2026-11-20</pubDate>
+<description>&lt;p&gt;Nature Communications, Published online: 20 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-79609-z"&gt;doi:10.1038/s41467-026-79609-z&lt;/a&gt;&lt;/p&gt;CD4 T cells are central to the pathogenesis of uveitis and related inflammatory responses by promoting myeloid cell infiltration. Here, by leveraging scRNA-seq and a mouse model of experimental autoimmune uveitis, the authors identify the kinase Wnk1 as a key regulator of CD4 T cell differentiation, migration and metabolic reprogramming and as a coordinator of T cell-bone marrow crosstalk that contributes to myeloid-biased hematopoiesis.</description>
 </item>
 <item>
 <title>Disturbance increases soil microbiome functional redundancy but decreases capacity for insurance via winnowed environmental responsiveness</title>
@@ -562,7 +583,7 @@
 <link>https://www.nature.com/articles/s41467-026-78668-6</link>
 <guid>10.1038/s41467-026-78668-6</guid>
 <pubDate>2026-11-13</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 13 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78668-6"&gt;doi:10.1038/s41467-026-78668-6&lt;/a&gt;&lt;/p&gt;Two-photon oblique plane microscopy combines high-numerical-aperture single-objective detection with two-photon light-sheet illumination, resolving subcellular and single-molecule dynamics deep in multicellular systems through standard glass-based mounting.</description>
+<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://www.nature.com/articles/s41467-026-78668-6"&gt;&lt;img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-78668-6/MediaObjects/41467_2026_78668_Fig1_HTML.png" alt="Representative article figure" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Representative article figure (not a graphical abstract)&lt;/em&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;&lt;p&gt;Nature Communications, Published online: 13 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-78668-6"&gt;doi:10.1038/s41467-026-78668-6&lt;/a&gt;&lt;/p&gt;Two-photon oblique plane microscopy combines high-numerical-aperture single-objective detection with two-photon light-sheet illumination, resolving subcellular and single-molecule dynamics deep in multicellular systems through standard glass-based mounting.</description>
 </item>
 <item>
 <title>Scaling medical imaging report generation with multimodal reinforcement learning</title>
@@ -1032,27 +1053,6 @@
 <guid>10.1038/s41467-026-79381-0</guid>
 <pubDate>2026-11-05</pubDate>
 <description>&lt;p&gt;Nature Communications, Published online: 05 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-79381-0"&gt;doi:10.1038/s41467-026-79381-0&lt;/a&gt;&lt;/p&gt;This study develops non-van der Waals superlattice roll-ups to enhance MXene films, overcoming the strength-conductivity trade-off and revealing multiscale reinforcement mechanisms for advanced multifunctional materials</description>
-</item>
-<item>
-<title>Effective enzyme engineering through modeling kinetic parameter changes upon mutations with geometric deep learning</title>
-<link>https://www.nature.com/articles/s41467-026-79287-x</link>
-<guid>10.1038/s41467-026-79287-x</guid>
-<pubDate>2026-11-05</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 05 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-79287-x"&gt;doi:10.1038/s41467-026-79287-x&lt;/a&gt;&lt;/p&gt;Predicting how mutations affect enzyme catalytic efficiency remains challenging. Here the authors build a benchmark dataset and develop DeltaCata, a geometric deep learning model that predicts changes in enzyme kinetics and guides enzyme engineering.</description>
-</item>
-<item>
-<title>Molecular-level control of nitrogen sites enables CO&lt;sub&gt;2&lt;/sub&gt; electro-reduction under industrially relevant conditions</title>
-<link>https://www.nature.com/articles/s41467-026-79247-5</link>
-<guid>10.1038/s41467-026-79247-5</guid>
-<pubDate>2026-11-05</pubDate>
-<description>&lt;p&gt;Nature Communications, Published online: 05 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-79247-5"&gt;doi:10.1038/s41467-026-79247-5&lt;/a&gt;&lt;/p&gt;Direct conversion of dilute carbon dioxide requires catalysts that maintain access to scarce reactants. Here, the authors show that enriching pyridinic nitrogen near nickel active sites promotes local carbon dioxide capture and selective conversion to carbon monoxide.</description>
-</item>
-<item>
-<title>Recent extreme heatwaves are no match for future events</title>
-<link>https://www.nature.com/articles/s41467-026-76809-5</link>
-<guid>10.1038/s41467-026-76809-5</guid>
-<pubDate>2026-11-05</pubDate>
-<description>&lt;!-- publisher-bridge-image:start --&gt;&lt;p&gt;&lt;a href="https://www.nature.com/articles/s41467-026-76809-5"&gt;&lt;img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-76809-5/MediaObjects/41467_2026_76809_Fig1_HTML.png" alt="Representative article figure" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Representative article figure (not a graphical abstract)&lt;/em&gt;&lt;/p&gt;&lt;!-- publisher-bridge-image:end --&gt;&lt;p&gt;Nature Communications, Published online: 05 November 2026; &lt;a href="https://www.nature.com/articles/s41467-026-76809-5"&gt;doi:10.1038/s41467-026-76809-5&lt;/a&gt;&lt;/p&gt;This paper shows that current temperature and emission-reduction targets provide only limited protection against future heatwaves, which are found to surpass recent exceptional events across multiple regions of the world.</description>
 </item>
 </channel>
 </rss>
