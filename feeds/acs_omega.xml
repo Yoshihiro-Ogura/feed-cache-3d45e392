@@ -5,6 +5,392 @@
 <link>https://pubs.acs.org/rss/acsodf/asap.xml</link>
 <description>ACS Omega (mirrored feed)</description>
 <item>
+<title>Trust in Machine Learning-Aided Docking: A Systematic
+Review of Good Practices for Chemically Reliable Predictions</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07068/5474371/Trust-in-Machine-Learning-Aided-Docking-A</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c07068</guid>
+<pubDate>Sat, 21 Nov 2026 01:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c07068/1/m_ao6c07068_0006.png?Expires=2147483647&amp;amp;Signature=zkS8QFPDakxtRrBmOaybtH9h0XZUOlckqTbE1aDXzgTefoUHZQvJm5fleQNMAQsqMMprfcBMrlyfQytPD9QS4vvZGzB09-jKXMtSYtUCoLLJQ2KDQCj6TA7zBTFCPw53wWPEVMd5hWSr7YWf0CF3KJz9C7k9gAKXXbj-qcgsy1EwicXXabj2u9ES6wNM971BRLTQ9Ef0GZuzSHiK1dHjhUr6tzvVnc-gWdFaKzbQ3ChicAOSmLdOAlsVOTwfwi24O7p8VO5igrEh5DiZjrxOtEoOToVbLpOEmn-lMjN9L-Qi8Sy1juYXovw1cIbfK4thr6FwyWrfEhkbsS9vxX7GYA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Trust in Machine Learning-Aided Docking: A Systematic
+Review of Good Practices for Chemically Reliable Predictions" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The massive growth
+of chemical libraries presents both an opportunity
+and a challenge in large-scale virtual screening. Machine learning
+(ML) algorithms have successfully accelerated this process with surrogate
+docking models that learn patterns between molecular representations
+and docking scores for ranking undocked molecules. Deep learning (DL),
+which represents the majority of ML-boosted docking approaches, has
+a sophisticated capability of finding nonlinear, complex relationships
+in voluminous data. However, DL algorithms operate as black boxes,
+face difficulties in generalization and raise concerns on whether
+correct predictions are, in fact, made for causal relationships between
+chemical structure and biological activity. Candidate molecules cannot
+be confidently tested if predictions are not understandable in human
+terms. The lack of understanding of relevant chemical properties impairs
+compound discovery, optimization and novelty, reinforcing the high-risk
+and high-cost scenario of drug design. To offer insights for expanding
+the recent breakthroughs achieved with the docking/ML integration,
+this review included 57 ML-aided docking papers from January 2020
+to August 2026. We assessed how ML predictions are generated, refined
+and chemically interpreted to reliably reduce docking simulations
+and ideally increase experimental hit rates by data-driven and expert-driven
+decisions on compound selection. On this matter, the proper implementation
+of eXplainable Artificial Intelligence (XAI) techniques is informative
+to elucidate if and how trustworthy are predicted hits from a chemical
+perspective, assuring a safer and more effective decision-making process
+for finding true hits. Nonetheless, only four (7.0%) out of 57 papers
+applied XAI techniques, mostly involving feature attribution methods,
+but not the state-of-the-art contrastive explanations method. Therefore,
+the implementation of XAI in ML-boosted docking is still scarce and
+needs formalization to avoid misinterpreting results. We review the
+various opportunities and limitations for integrating ML-aided docking
+with XAI techniques alongside complementary trust-enhancing strategies
+present in the included studies, such as sampling strategies, target
+diversity, ensemble and consensus docking, active learning, ensemble
+models, physicochemical and pharmacophore-based filtering, multiobjective
+optimization of molecular properties, confidence metrics of predefined
+acceptable errors, and expected model improvement along iterations.
+Given the broad applications of XAI across scientific domains and
+proof-of-concept studies in computational chemistry, we believe benchmarking
+and combining current and novel trust-enhancing strategies in ML-aided
+docking can go beyond finding initial hits. It supports both the statistical
+assessment including XAI in predictions and the mechanistic understanding
+of chemically relevant drug candidates for transparent and credible
+model and drug development.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Synthesis of Biographite
+from Starch Biomass Using
+Additive Assisted Templating Approach</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08092/5474370/Synthesis-of-Biographite-from-Starch-Biomass-Using</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c08092</guid>
+<pubDate>Sat, 21 Nov 2026 01:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c08092/1/m_ao6c08092_0010.png?Expires=2147483647&amp;amp;Signature=l81-J66Ifd~A8Eukg9jw09r-Pq0rAdUMCHWqJtghbb0mk7wwJCs95~mvm3vocCV-4rffT1yXbbxGR0Rfi7gJyklGDvNJcYM3xd66-1D3ZP41tP2R3~paqitLHnPgvOAsOCGUsN9Bg-GrqFyjj8TL5y4L5ky6SDDv-fv8O64WJ-Vkd3m0xC7Dp64i5s8cnr1NjCoL5Nkm0bTkXw14VG72IxsLpxZR42gjRqXsusQ5tCQf4QmTRJMO-NIXqhrN5jFZXUchiS563-Rl9R5~gbrU0RCT4~oU6sNn3aMtGbqxr6FT53HhxBbLUL8Wm2iZdfh4I0EfSDbWk24pObFbh4d5WQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Synthesis of Biographite
+from Starch Biomass Using
+Additive Assisted Templating Approach" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Graphite is a critical mineral with wide-ranging applications
+in
+electronics, energy storage, and advanced materials manufacturing.
+As natural reserves remain limited, there is growing interest in using
+carbon-rich renewable precursors as alternative feedstocks for synthetic
+graphite production. Starch, being a widely available, renewable,
+and carbon-neutral biopolymer, is a compelling, sustainable alternative
+precursor for graphitic carbon synthesis. However, its inherently
+nongraphitizable nature requires templating additives to achieve graphitic
+ordering. In this study, we present a catalyst-free thermal route
+to produce graphitic carbon from starch-biopolymer-based packing peanuts
+through carbonization and graphitization, using graphene oxide (GO)
+and graphene (Gr) as templating additives. The resulting carbon structures
+were characterized using high-resolution transmission electron microscopy
+(HRTEM), selected area electron diffraction (SAED), X-ray diffraction
+(XRD), and Raman spectroscopy to evaluate the improvements in crystallite
+parameters L&lt;sub&gt;a&lt;/sub&gt; and L&lt;sub&gt;c&lt;/sub&gt;. At the optimal condition
+of 2.5 wt % GO loading, crystallite parameters of L&lt;sub&gt;a&lt;/sub&gt; =
+77.9 nm and L&lt;sub&gt;c&lt;/sub&gt; = 25.94 nm were achieved, closely approaching
+those of natural graphite (L&lt;sub&gt;a&lt;/sub&gt; = 100 nm, L&lt;sub&gt;c&lt;/sub&gt; =
+24.6 nm). Oxygen content, edge-to-basal oxygen ratio, sp&lt;sup&gt;2&lt;/sup&gt; π-network, and stacking height are identified as the key factors
+governing the formation of graphitic or hard carbon from the starch
+precursor. Unlike conventional catalytic graphitization, this approach
+requires no metal catalysts, eliminating postprocessing purification
+entirely. The results establish starch biopolymer as a viable and
+sustainable precursor for graphitic carbon production.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Practical Approach to Efficiency Calibration of
+an HPGe Gamma-Ray Spectrometer for Soil Matrix Measurements Using
+Reference Materials</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c02183/5474365/A-Practical-Approach-to-Efficiency-Calibration-of</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c02183</guid>
+<pubDate>Sat, 21 Nov 2026 01:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c02183/1/m_ao6c02183_0005.png?Expires=2147483647&amp;amp;Signature=sJ22ouBDx9ddlVCMx5Ni-x3PiF6dnPcOsDxvVXWPehbEPgG8H-vunqIc5VPDxuEf6f5Ka6VXzUzgT3KQkIzyBp5Qritvbt~oUO23lCA2p8FG6XyeR9Q6MX~wgq65B0MkITLwTYSr9v9-EHjnl6jlliPy4tWVgOa~d5Mn0M0OS0RGed-kTy4vauQSSTQxx~kBYnVZI6o6fsfbXHRRf3AnFuBQS8u2s9-XID8L6mUW8jwT3lXcK33zrR-EAx4yKblnN6Kv-o1NLvh-J94cF~0gLZ1Ql58lCcmKeMSgjU914cjfI4QY7S-4RAPDFvLU6JL-sCBZE86BpAQrPRCzkW4klQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="A Practical Approach to Efficiency Calibration of
+an HPGe Gamma-Ray Spectrometer for Soil Matrix Measurements Using
+Reference Materials" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In this study, a
+metrologically traceable and cost-effective efficiency
+calibration method for a coaxial HPGe gamma-ray spectrometer was developed
+using the IAEA–312 soil reference material and validated with
+the IAEA–447 moss-soil reference material. The efficiency curve
+was derived from selected gamma-ray lines of &lt;sup&gt;214&lt;/sup&gt;Pb and &lt;sup&gt;214&lt;/sup&gt;Bi in the energy range 242–1764 keV and fitted using
+a fourth-order logarithmic polynomial. The fitted model showed excellent
+agreement with the experimental data (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; ≈ 0.996), with residuals within ±6%. The calibration
+was applied to determine the activity concentrations of &lt;sup&gt;226&lt;/sup&gt;Ra, &lt;sup&gt;232&lt;/sup&gt;Th, &lt;sup&gt;137&lt;/sup&gt;Cs, and &lt;sup&gt;40&lt;/sup&gt;K in IAEA–447.
+The measured values were in good agreement with the certified values,
+with relative deviations below 6% and all zeta-scores well below unity,
+indicating no statistically significant bias and confirming the traceability
+of the efficiency transfer. A comprehensive uncertainty analysis showed
+that the uncertainty in the efficiency calibration primarily determines
+overall accuracy, whereas counting statistics dominate for weaker
+gamma-ray lines. The results demonstrated that this approach provides
+a practical, matrix-matched calibration in which geometry-specific
+effects are inherently accounted for through empirical transfer and
+verified by reference material validation.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Retraction of “Cyanopyridinone- and Cyanopyridine-Based Cancer Cell Pim-1 Inhibitors: Design, Synthesis, Radiolabeling, Biodistribution, and Molecular Modeling Simulation”</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c13908/5474351/Retraction-of-Cyanopyridinone-and-Cyanopyridine</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c13908</guid>
+<pubDate>Fri, 20 Nov 2026 22:00:34 GMT</pubDate>
+<description>&lt;span class="paragraphSection"&gt;The editor
+retracts “Cyanopyridinone-
+and Cyanopyridine-Based Cancer Cell Pim-1 Inhibitors: Design, Synthesis,
+Radiolabeling, Biodistribution, and Molecular Modeling Simulation”
+(DOI: 10.1021/acsomega.2c08304) due to inappropriate reuse of images from a prior publication and
+the unavailability of key raw data, undermining confidence in the
+reported results. Specifically, the mice imaging in the graphical
+abstract is duplicated from 10.2147/IJN.S325322, and raw data for
+the biodistribution study, MTT assay, and partial NMR data are unavailable.
+As such, the Article is being retracted.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Isatins: Historical
+Exploration, Sources, Biosynthetic
+Pathways, SAR, Biological Activities, Targeted Drug Delivery Systems,
+and Applications</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c07171/5474331/Isatins-Historical-Exploration-Sources</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c07171</guid>
+<pubDate>Fri, 20 Nov 2026 19:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c07171/1/m_ao6c07171_0017.png?Expires=2147483647&amp;amp;Signature=NzkRKOv~E06dM9sHveS218LqrWD~VVDRgafG26SSVTS2ieOkOHgW2hzlcM-Fmbrv4s1mkVoovmr3UfYFYECIbreWLo6I5BbCV~4sCRfdyRHIVJ-Y68Eykhk9dypXEJD0qAdaLNxkDWDQ5gCaYhIEos0ub4WiMLm30P6kjM6Cdp1Xr4PshSDyCYBAabRc~nOZkTQJRxti6h2A54Qdesx4P1UIoq7noTbewkPWwEE2xOp5g9hVxUTnMU-EqauAT2Dd7I~8FadmZPHOBXEpM9GY8299mrqDiGPqRPy1dCaa9DkZExPa1JjsZF5TsJZbRB3dZXfODLeQhrgjvr2BepWdLw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Isatins: Historical
+Exploration, Sources, Biosynthetic
+Pathways, SAR, Biological Activities, Targeted Drug Delivery Systems,
+and Applications" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Isatins have attracted
+significant interest from research
+groups
+worldwide due to their structural diversity, multifunctional biological
+activities, and medicinal properties. This review outlines the historical
+exploration of isatins, their synthetic and natural origins, biosynthetic
+pathways, structure–activity relationships (SAR), biological
+activities, targeted drug delivery systems, and applications. Based
+on data from various databases and publication societies, by the end
+of 2025, about 19 naturally occurring isatins have been reported and
+categorized into phenylpentyl-, prenyl-, halogenated-, hydroxy-, and
+sesquiterpenoid isatins. We also elucidated the intricate biosynthetic
+mechanisms underlying the formation of naturally derived isatins.
+We broadly and systematically outlined the SAR of isatins and reviewed
+their biological activities (anticancer, antimicrobial, antioxidant,
+antituberculosis, anti-inflammatory, anticonvulsant, anti-HIV). The
+review also covered the targeted drug delivery systems and applications
+of isatins.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Janus Bimodal Peptide
+Nucleic Acids (bm-PNA-C) n : pH-Controlled Assembly of  i -Motif
+Tetraplexes and Fused bm-PNA:DNA Triple Duplexes</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05581/5474328/Janus-Bimodal-Peptide-Nucleic-Acids-bm-PNA-C-n-pH</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c05581</guid>
+<pubDate>Fri, 20 Nov 2026 19:00:34 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c05581/1/m_ao6c05581_0013.png?Expires=2147483647&amp;amp;Signature=EZ4SifqYa7wEnX70F9AuTciRJa9uQFalF1wZKGEKMOHq9DQgUiTBQKWw52hkj2auHTY-csT14fDi3QNt620Emffwm79C5Yh3eFleRk~g56Et5pOIvBv8CPcwCnHgz1hmCE4ebnvRaHmp81~KjkZllo3dLxj8kKCfqMg0MKMDFxNm7oyDoZu~D8QzL5xZ1T0hfCiPKrUBP0dpWOolyuh2BBoSLH4K3cZKizz-mDZq0GI5TCoLhV1HG4qhMrd0Zob~~R2fWbQxtKu0rXv9o3c4pbEbRYBgywiZKgUGa3WLmRZI7e1r1uYXOKUAx89GOMAPxmdxB5Jvz0wfraaaXme8ig__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Janus Bimodal Peptide
+Nucleic Acids (bm-PNA-C) n : pH-Controlled Assembly of  i -Motif
+Tetraplexes and Fused bm-PNA:DNA Triple Duplexes" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Our recent designs of Janus bimodal peptide nucleic acids
+(&lt;span style="font-style:italic;"&gt;bm&lt;/span&gt;-PNA) have nucleobases attached to both sides
+of the aminoethylglycyl
+PNA backbone, equipping them for concurrent binding of two complementary
+DNA strands to form fused double duplexes. On the basis of the design
+of Janus PNA sequences, we have earlier shown that these form a variety
+of polyplexes ranging from double duplexes, triplex of duplexes, and
+ tetraduplex of G4-tetraplexes. In this manuscript, we elaborate on
+this range to demonstrate Janus &lt;span style="font-style:italic;"&gt;bm&lt;/span&gt;-PNA-C&lt;sub&gt;n&lt;/sub&gt; with cytosines attached to the PNA backbone via a flexible alkyl
+triazole linker, forming &lt;span style="font-style:italic;"&gt;i&lt;/span&gt;-motif tetraplexes through
+C–H&lt;sup&gt;+&lt;/sup&gt;···C at pH &amp;lt; 5.0, similar
+to the t-amide link as in standard PNA or via the glycosidic bond
+in DNA. At pH &amp;gt; 5.0, when cytosine N3 is nonprotonated, C:C duplexes
+occur by direct C:C base pairing from the triazole face. In such &lt;span style="font-style:italic;"&gt;bm&lt;/span&gt;-PNA C:C self-duplexes, the mixed base sequence on two
+outer t-amide sides forms two duplexes with complementary DNA, leading
+to DNA:PNA-C:C-PNA:DNA triple duplexes, with synergistic stabilization
+of the constituent duplexes. The pH-dependent &lt;span style="font-style:italic;"&gt;i&lt;/span&gt;-motif
+tetraplex (acidic pH) and triple duplexes (neutral pH) extend the
+repertoire of multistranded assemblies from Janus &lt;span style="font-style:italic;"&gt;bm&lt;/span&gt;-PNAs. These open up future possibilities to build programmable functional
+supramolecular assemblies of multiplexes by tuning the sequences of
+both &lt;span style="font-style:italic;"&gt;bm&lt;/span&gt;-PNA and DNA/RNA/PNA.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Facile Synthesis
+of Porous 2H-MoS 2  Nanoflowers
+for Highly Efficient Electrocatalytic Degradation of Azo Dye Eriochrome
+Black T</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08450/5474258/Facile-Synthesis-of-Porous-2H-MoS2-Nanoflowers-for</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c08450</guid>
+<pubDate>Fri, 20 Nov 2026 16:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c08450/1/m_ao6c08450_0014.png?Expires=2147483647&amp;amp;Signature=5MQM0Neaer5P81fNDp1dBAmh5wnKrCqexu50RSpnfGwQ6xmbUqBIVfRPIJySzeNbBVdxMaxLvKCjteK8H2pIPVKEvcT7bZ8Fm64K64EDqEGXBnOAfxnQkuOmt3QOBV~~BAgC4UO0l3pRZx-ioNsSPZljYhWboTHgTZBKLHGGibNzQgU9DbVvCMvbtYhLuMlse5T9djYd56JPxqvjNRbQozYXHoRCyVHkvZMJzvh54jsrQmycX2F8OUIcpLXEDfHsq64dz76lNwd8PTrnqjuVyAIBEPO1EBdVphTTZELW4ki8ihiihhjHDC7hNABCbItb~DOzCovG8iYMCD0bJ93W0g__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Facile Synthesis
+of Porous 2H-MoS 2  Nanoflowers
+for Highly Efficient Electrocatalytic Degradation of Azo Dye Eriochrome
+Black T" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The extensive release
+of toxic azo dyes, particularly Eriochrome
+Black T (EBT), creates significant ecological and public health concerns.
+The development of efficient wastewater treatment technologies is
+therefore important for supporting the objectives of the Sustainable
+Development Goals (SDGs), particularly SDG 6 (Clean Water and Sanitation),
+SDG 12 (Responsible Consumption and Production), and SDG 13 (Climate
+Action). In this study, molybdenum disulfide (MoS&lt;sub&gt;2&lt;/sub&gt;) nanoflowers
+synthesized using a single-step hydrothermal technique were used as
+high-performance electrodes for the electrochemical degradation of
+EBT. Comprehensive characterizations (FE-SEM, TEM, XRD, XPS, and FTIR)
+revealed the formation of a phase-pure 2H-MoS&lt;sub&gt;2&lt;/sub&gt; with an
+open, mesoporous structure of ultrathin nanosheets and a BET surface
+area of 10.54 m&lt;sup&gt;2&lt;/sup&gt; g&lt;sup&gt;–1&lt;/sup&gt;. Systematic evaluation
+of the electrochemical parameters revealed that the MoS&lt;sub&gt;2&lt;/sub&gt; electrode achieved an excellent degradation efficiency of 100% within
+90 min under optimized conditions (pH 3, applied voltage of 9 V, and
+initial dye concentrations of 30 and 50 ppm). The decolorization efficacy
+of the electrode was monitored using UV–visible spectrophotometry
+at 540 nm, while CV and LSV studies at varying concentrations confirmed
+efficient, concentration-dependent electrocatalytic oxidation. The
+degradation process followed pseudo-first-order kinetics at all temperatures.
+Mechanistic investigations using scavenger studies identified electro-generated
+holes (h&lt;sup&gt;+&lt;/sup&gt;) as the primary reactive species driving oxidation.
+Furthermore, gas chromatography–mass spectrometry (GC-MS) analysis
+of the degraded EBT solution confirmed the successful cleavage of
+the toxic azo (−N═N−) bonds and the progressive
+breakdown of complex aromatic rings into simpler aliphatic intermediates
+such as acetic acid. COD removal efficiency was found to be 81.8%.
+These results demonstrate the efficacy of MoS&lt;sub&gt;2&lt;/sub&gt; nanoflowers
+as potential electrocatalysts for wastewater treatment.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Phase Behavior
+and Separation Performance of Ethyl
+Lactate/Carbohydrate or Salt ATPS for Cypermethrin, Amoxicillin, and
+17β-Estradiol</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06453/5474203/Phase-Behavior-and-Separation-Performance-of-Ethyl</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06453</guid>
+<pubDate>Fri, 20 Nov 2026 14:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c06453/1/m_ao6c06453_0006.png?Expires=2147483647&amp;amp;Signature=Ttts0gwVSclBK0gW905Z7A638RM0020quGcDY2~Q8PPSzDLAzWHUbhTY2bevDrkYdg7SkDSJ4t65IgYsVnW0r4eLodBpy9JOQIXAog4HcUb4o6Xp3ICYDTCF1ua9riVtYnhaTg2XFvCfUk6itCcGgM9Hh2Mbepqjxfltmo0SP7xwM0Ydgw~-CWfSIquVMTR0bp3KvWE9CjNKxg33C9-lOFHXWJ21O9Ji4Q6gfKC0FsD3LrZkY6v1iw-9GUH-gNxi~YNj7Sy2d9t0D48cYtPoXWBRecQfVOxMA3whj1MZeReraGA7BsHbhTNlaQYBfMrMLtSRVzcw61uIwkHURKOljg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Phase Behavior
+and Separation Performance of Ethyl
+Lactate/Carbohydrate or Salt ATPS for Cypermethrin, Amoxicillin, and
+17β-Estradiol" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We evaluated aqueous
+biphasic systems (ATPS) based on ethyl lactate
+formed with sodium salts or carbohydrates as green liquid–liquid
+extractants for representative pollutants─cypermethrin, amoxicillin,
+and 17β-estradiol (E2). Solubility curves and tie lines were
+determined at 298.15 K to map phase behavior. Partitioning occurs
+preferentially into the ethyl lactate-rich phase, &lt;span style="font-style:italic;"&gt;K&lt;/span&gt; = 10.24 ± 0.1 (EE = 95.13 ± 0.8%) for cypermethrin, &lt;span style="font-style:italic;"&gt;K&lt;/span&gt; = 6.83 ± 0.6 (EE = 93.15 ± 0.7%) for amoxicillin,
+and &lt;span style="font-style:italic;"&gt;K&lt;/span&gt; = 11.42 ± 0.3 (EE = 92.37 ± 0.3%)
+for E2 in the system containing 35 wt % ethyl lactate + 40 wt % Na&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;. A 100-fold concentration factor was achieved
+in 58.2% (w/w) Na&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt; + 6.2% (w/w) ethyl lactate
+(TLL = 86.4), enabling enhanced detection of trace pollutants. Phase
+formation was correlated with the salting-out effect and the stereochemistry
+of carbohydrates (equatorial −OH groups), and the effects of
+the salts’ hydration free energy were discussed. The results
+demonstrate a biocompatible and operationally simple route for the
+preconcentration of priority micropollutants, supporting integration
+with analytical monitoring and water treatment processes.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Malachite Green and Methyl Violet Adsorption by High-Silica
+Fly Ash-Based Materials: Comparison of Alkali-Fusion-hydrothermal
+and SDS-Assisted Surface Modification</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06202/5473925/Malachite-Green-and-Methyl-Violet-Adsorption-by</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c06202</guid>
+<pubDate>Fri, 20 Nov 2026 11:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c06202/1/m_ao6c06202_0021.png?Expires=2147483647&amp;amp;Signature=l9IPm1C9-7cHmQgCgkb0gv3l1f0itd-hXafENjbDn6SReV4OrVeXa5gtZ-YFOoH2IGWJ8bM36zclYc9txD6Dc~2EC7dgEOvy4~KkLXqZm654tKsbJMRicVLh3ssvjSP3D1-2~2p0q3lhVwtHmqCxwFhERXpWk6tVoF50uMIlYbbtAbAo7dJoa0D4ojl6-pAgut~uQT4CZogRaeVazBp~TnQTZi1KU3GUPWYpkxM-xCXGyaN21XL8G0fpDaIe4ROpJBQZlv6qNEn~sbbZYtyfZP2PoKI6lxDwIkydY6qsS6VwSdMDzuIFnc-5eQaNLRRXkfJiwVTXSn8TPHHQjyWBTw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Malachite Green and Methyl Violet Adsorption by High-Silica
+Fly Ash-Based Materials: Comparison of Alkali-Fusion-hydrothermal
+and SDS-Assisted Surface Modification" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;High-silica fly ash
+was converted into a mesoporous high-silica
+fly ash-based material (MHS) through alkali-fusion-hydrothermal treatment
+and an alkyl-modified high-silica fly ash-based material (AMHS) through
+SDS-assisted surface modification. This study aimed to compare the
+effects of these two modification routes on the adsorption of malachite
+green (MG) and methyl violet (MV). Batch experiments identified an
+adsorbent dosage of 2 g L&lt;sup&gt;–1&lt;/sup&gt; and an equilibrium time
+of 180 min for both materials under the investigated conditions. MG
+adsorption by both MHS and AMHS was better described by the Langmuir
+model, whereas MV adsorption was better described by the Freundlich
+model. The Langmuir-derived maximum adsorption capacities of MHS for
+MG and MV were 85.32 and 67.20 mg g&lt;sup&gt;–1&lt;/sup&gt;, respectively,
+while those of AMHS were 98.33 and 95.33 mg g&lt;sup&gt;–1&lt;/sup&gt;,
+respectively. Binary-dye experiments indicated that MHS preferentially
+adsorbed MG, whereas AMHS exhibited comparable affinities toward MG
+and MV. The combined adsorption and characterization results suggest
+that the performance of MHS was associated primarily with its accessible
+mesoporous structure, while that of AMHS reflected the influence of
+SDS-assisted surface modification and accessible surface sites.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Chitosan-Based
+Palmarosa Essential Oil Nanoemulsion:
+Formulation, Characterization and Enhanced Larvicidal Activity against  Culex Quinquefasciatus</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c09623/5473841/Chitosan-Based-Palmarosa-Essential-Oil</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c09623</guid>
+<pubDate>Fri, 20 Nov 2026 07:00:55 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c09623/1/m_ao6c09623_0010.png?Expires=2147483647&amp;amp;Signature=kQJ-Owi-bJeH6xVx4mZzPnzvXKh5bbT9w~EgCk-EjeqtUUelj7Z7cwezUc~yy~DkTESw8A1uWlM3~ctqn7fMCn6LxpFbrt8we777MqWxTx1emVnvbzoxTBVAOSvNnkbQmQRSmAJUFjHmFx7dehI~dXphf4klHulZXDMWs3c6hs6wLsWtlILw4GWmhuEReiIC2h8YTMLgErU1Lkp9tkmN6XfbThIxzrUcJlLqUK3HPGK-M-wlGEWhwxLw5g~JBD8SJJ25H-TOUxrwZis8ewYgL3UIYU5h94zGjukXgkQho2TUKJjBO9m4D3E7qJb7zhGZucm4YQrXrOnSer1Id-RQQQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Chitosan-Based
+Palmarosa Essential Oil Nanoemulsion:
+Formulation, Characterization and Enhanced Larvicidal Activity against  Culex Quinquefasciatus " /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Rising multigenerational resistance in &lt;span style="font-style:italic;"&gt;Culex quinquefasciatus&lt;/span&gt; underscores the need for safer,
+more sustainable control methods. &lt;span style="font-style:italic;"&gt;Cymbopogon martini&lt;/span&gt; (palmarosa) essential oil (PEO)
+repels insects, yet high volatility and limited stability restrict
+field use. To address these limitations, we developed a chitosan-loaded
+palmarosa oil nanoemulsion (CPN) to improve stability and larvicidal
+performance. Chemical profiling identified geraniol (67.6%) as the
+primary bioactive component. FTIR spectroscopy verified entrapment
+within the chitosan matrix, while DSC thermograms showed greater thermal
+stability with an endothermic peak at 57.52 °C. TEM, XRD, and
+DLS provided complementary structural confirmation of CPN stability.
+In larvicidal testing, CPN (LC&lt;sub&gt;50&lt;/sub&gt; = 22.515 ppm) proved markedly
+more potent than bulk PEO (LC&lt;sub&gt;50&lt;/sub&gt; = 124.466 ppm) within 24
+h. Histological review of CPN-treated larvae revealed severe internal
+damage, including foregut tissue disintegration, myofibrillar fragmentation
+in thoracic muscles, and extensive fat body vacuolation. Gene-expression
+analysis indicated time-dependent upregulation of a protein kinase
+gene (PKA000798; ∼1.0-fold) and induction of an ER degradation
+gene (LOC6038600; ∼0.5–0.55-fold). Acute toxicity testing
+in zebrafish (&lt;span style="font-style:italic;"&gt;Danio rerio&lt;/span&gt;) under OECD
+Guideline 203 showed no mortality at 100 mg/L, suggesting low acute
+toxicity under the tested conditions. Overall, these results present
+chitosan-encapsulated palmarosa oil as an effective, eco-friendly
+larvicide with minimal impact on nontarget organisms.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Stress Adaptation
+in Mycobacteria through Reprogramming
+of the Transcription–Translation Axis</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c10365/5473811/Stress-Adaptation-in-Mycobacteria-through</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c10365</guid>
+<pubDate>Fri, 20 Nov 2026 05:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c10365/1/m_ao6c10365_0004.svg?Expires=2147483647&amp;amp;Signature=BLUDZBzMpBR2uZce3e-HfdEKUh5yU5NVCJcAS4p4HQ4Oy3FtXCCTuJYhziIjg5K434qW8bGmUeckDkBGx97RtaG~0zxKxQI-iOJZ-SYy4tXvAm6HXci1of6unJzeAyAN6bT7~G5fQV4egDRdmOJr3h0VGML2ULDbmkuCffaVWfcUI6loW-Y9dQw7YAEChF2EsB1~Lqo1S7cvf4AuZV21YEy-clzxP9E1TJapbrTfEqAMT5fmDFJgpgu1sK-akx3iHC-LTXU7SoompvmRlUiBGe1gThKj~dtA~g4ya-DmCAFa2LX6rkys0Xg2TgkupxgDnS148Wi94d6~abveRKR2nQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Stress Adaptation
+in Mycobacteria through Reprogramming
+of the Transcription–Translation Axis" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Mycobacteria are highly resilient species with an extraordinary
+ability to survive a range of stresses and antibiotics, making it
+difficult to treat mycobacterial infections. This challenge is particularly
+apparent in the months-long treatment of tuberculosis, which is caused
+by infection with &lt;span style="font-style:italic;"&gt;Mycobacterium tuberculosis&lt;/span&gt; and
+kills over a million people every year worldwide. Over the last two
+decades, a significant body of knowledge has emerged on mechanisms
+employed by mycobacteria to survive under host-relevant stresses.
+However, only recently have we begun to appreciate the interconnectivity
+of these responses, often linked to shared transcriptional regulatory
+networks. While reviewing the literature, we highlight here the interlinkage
+in various stress responses in mycobacteria with particular focus
+on stress-induced regulation of transcription and translation pathways.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Mechanism and Coordinated
+Control Technology for Large
+Deformations of Deep Roadway under High Mining Stress: A Case Study</title>
+<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08830/5473804/Mechanism-and-Coordinated-Control-Technology-for</link>
+<guid>http://dx.doi.org/10.1021/acsomega.6c08830</guid>
+<pubDate>Fri, 20 Nov 2026 04:00:36 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c08830/1/m_ao6c08830_0021.png?Expires=2147483647&amp;amp;Signature=DDVH8JJDrzLzNG9qf43pVUhibJydNONB-qYEZHFYD3addyybkKzLhVpa6L3EKLXQJC1bSybLjlVaUweFPrwRsvOHBIa4RGatib2aeiGzf2yaOsEQC0kug4qrg84n0MkX--ifgkgsXs8xRW3GXDRB5J3MTDAVKFM4ZXkMvDBTfP2E4Ujgh8EmVp02LDeFw3IeEpVU4hfzfyhRWIP6QMNfdf-JQyp-W9N8PIJjQw-hfxFcl~a4fug94-I9Cpzbqi4tviX~hS5xtsllEcsWRw2qQKmfwJMLEajl524e4wusWkZWNBQA9MBFOm81urhykEztIq3DxU9-RenoZVOZmE~f3Q__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Mechanism and Coordinated
+Control Technology for Large
+Deformations of Deep Roadway under High Mining Stress: A Case Study" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Deep roadways under
+high mining stress suffer remarkable
+asymmetric
+deformation and severe floor heave. Support failure mainly arises
+from inadequate consideration of asymmetric deformation and stability
+interactions among surrounding rock zones. To address large deformation
+control of deep roadways under high mining stress, this study investigates
+the roof–rib–floor coordinated control mechanism and
+technology via theoretical analysis, numerical simulation, and field
+tests. The results show that high mining stress, soft rock mass, and
+absent floor support dominate the deformation and failure of the 1103
+roadway. Enhancing roof–rib support strength mitigates floor
+deformation and plastic zone depth, while strengthened floor support
+reduces rib deformation and plastic zone depth. Stable floor and ribs
+further improve roof stability. A roof–rib–floor coordinated
+support technology is proposed by integrating roof–rib hierarchical
+support and grouted floor cable bundles. For the roof and ribs, short
+and long cables construct a hierarchical support structure with strong
+shallow and weak deep reinforcement to achieve mechanical coupling
+between supports and surrounding rock. For the floor, high-strength
+cable bundles combined with grouting reinforcement improve deformation
+resistance. The corresponding control parameters for the 1103 roadway
+are determined and verified by field tests. The proposed theory and
+technology offer references for surrounding rock control of deep roadways
+under high mining stress.&lt;/span&gt;</description>
+</item>
+<item>
 <title>New Polyneolignans from  Nothotsuga longibracteata  Growing in China</title>
 <link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05859/5473787/New-Polyneolignans-from-Nothotsuga-longibracteata</link>
 <guid>http://dx.doi.org/10.1021/acsomega.6c05859</guid>
@@ -4857,404 +5243,6 @@ mitochondrial damage by elevating the protein levels of PINK1 and
 Parkin in UVB-stimulated fibroblasts. Collectively, this work demonstrates
 that the newly identified saponins from &lt;span style="font-style:italic;"&gt;C. chekiangoleosa&lt;/span&gt; serve as promising natural candidates for the prevention and treatment
 of skin inflammation and UV-triggered photoaging diseases.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Potential Involvement
-of Collagen in Skin Chemiexcitation</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06301/5469740/Potential-Involvement-of-Collagen-in-Skin</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c06301</guid>
-<pubDate>Thu, 12 Nov 2026 20:00:33 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c06301/1/m_ao6c06301_0011.png?Expires=2147483647&amp;amp;Signature=mTuyGrtZNTzjtz1N7s7EIGwZvhPm25H7ylFUK9sp0VzV4cZLcKgn7-jXt8zVX3ftPbxAnBTM3PUaI8cHAgO9Dme3JOHxLCgsr0WpCZHP6X~yqHCEFCVg2CV7LuMNPVpf-0YzYbgAAYUui0jESMubnpDDpu1GMNgS2GPsLWfEXNAyBYfQiIVW2ajIlsQAmqYZGV0Ao1JokLt5QQ8EkF1QTszIXsdsIUsyFiv2LGiK8s-ZbNNuCN5xQowfsywXnc~~vlIn0q4YvCBw1IshjGDcNCxkzA5-Tp6GExnWlV0gvQDgvogz23K9QPFoq~O0Yonvq7Xmt5PD8y8iRyUsL2r~OA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Potential Involvement
-of Collagen in Skin Chemiexcitation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chemiexcitation is the formation of electronically excited
-states
-through oxidative reactions, in which biomolecules such as lipids,
-proteins, nucleic acids, or pigments are oxidized by reactive oxygen
-species. The electronically excited states may transfer excitation
-energy to nearby biomolecules or emit ultraweak photons. Chemiexcitation
-has been most convincingly demonstrated in pigments (melanin oxidation)
-and lipids (lipid peroxidation), whereas only limited evidence suggests
-that protein oxidation may contribute to this process. In this study,
-we investigated the potential contribution of collagen oxidation to
-chemiexcitation in UV-exposed skin. Imaging of ultraweak photon emission
-revealed a sustained increase following UV irradiation, which correlated
-with the formation of collagen carbonyls. In addition, the formation
-of oxidized tryptophan derivatives, including kynurenine, is consistent
-with the involvement of tryptophan oxidation in the observed photon
-emission. Together, these findings suggest that oxidative modification
-of collagen, particularly of tryptophan, may contribute to chemiexcitation
-in the skin. The exploration of chemiexcitation associated with collagen
-oxidation expands the current understanding of oxidative processes
-in skin and may contribute to the development of more effective photoprotective
-strategies.&lt;/span&gt;</description>
-</item>
-<item>
-<title>From Chemistry
-to Biology: Zinc(II)–1,10-Phenanthroline-5,6-dione
-Complex Exhibits Potent Activity against Mammalian Stages of  Trypanosoma cruzi  with Controlled Host Cell Toxicity</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08331/5469739/From-Chemistry-to-Biology-Zinc-II-1-10</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c08331</guid>
-<pubDate>Thu, 12 Nov 2026 20:00:33 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c08331/1/m_ao6c08331_0010.png?Expires=2147483647&amp;amp;Signature=3iGbGElA5vywCQdgGDtFh-pcT7Cbos~ey-UStJo4SGiX6D6nO2qLPkrH34rI8fMlEpetZoELshjFNDRcj3w2imUK76~LwcJioiXr7SK-N7VZf7T0Nd9srXHTTtOlHR8jDjzqv4m4GgMr9U-Wc6KcyjUW~TGJaMnWGpwaulKpodBcd93cFJtusSldVuBbxilSGZWLKk0elsUUMHuSc2VAqtsx3jZrY3qDE3mdt1zTiRWWc1vk2tB1zHgDSbkQvcSm3VkIeumpXxnLA7xlEYRk5sHxde0~A1ALeuFLA8Vfn9173jGuRpukv4yt9NuAYd487XdvR6koJAR-4OYTAxjiyQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="From Chemistry
-to Biology: Zinc(II)–1,10-Phenanthroline-5,6-dione
-Complex Exhibits Potent Activity against Mammalian Stages of  Trypanosoma cruzi  with Controlled Host Cell Toxicity" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chagas
-disease, caused by &lt;span style="font-style:italic;"&gt;Trypanosoma cruzi&lt;/span&gt;, affects 6–7 million people worldwide
-and causes ∼12,000
-deaths annually. Treatments are limited to benznidazole and nifurtimox,
-both associated with toxicity, adverse effects, and frequent treatment
-discontinuation, highlighting the need for new therapeutic strategies.
-Here, a coordination compound was synthesized and evaluated against
-cell-derived trypomastigotes and intracellular amastigotes of &lt;span style="font-style:italic;"&gt;T. cruzi&lt;/span&gt;. The compound, [Zn(1,10-phenanthroline-5,6-dione)&lt;sub&gt;3&lt;/sub&gt;](ClO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;·6H&lt;sub&gt;2&lt;/sub&gt;O (Zn-phendione),
-consists of a hexacoordinated Zn(II) center bound to three phendione
-ligands, forming a dicationic complex. The anti-&lt;span style="font-style:italic;"&gt;T. cruzi&lt;/span&gt; activity of Zn-phendione was initially evaluated
-in trypomastigotes, in which it reduced parasite viability in a dose-dependent
-manner after 24 h, with an LD&lt;sub&gt;50&lt;/sub&gt; of 3.30 nM. This activity
-was higher than that of the free ligand phendione (LD&lt;sub&gt;50&lt;/sub&gt; = 7.56 nM) and was 388-fold greater than benznidazole (LD&lt;sub&gt;50&lt;/sub&gt; = 1,280 nM), whereas the zinc salt alone showed no activity. Zn-phendione-treated
-trypomastigotes, as observed by optical and scanning electron microscopy,
-exhibited pronounced morphological alterations, including cell twisting,
-swelling, and partial or complete loss of the unique flagellum. Notably,
-1-h exposure to Zn-phendione decreased trypomastigote infectivity
-by ∼50% at the LD&lt;sub&gt;50&lt;/sub&gt;. Moreover, Zn-phendione dose-dependently
-inhibited intracellular amastigote replication after 72 h (IC&lt;sub&gt;50&lt;/sub&gt; = 36 nM), outperforming benznidazole (IC&lt;sub&gt;50&lt;/sub&gt; =
-210 nM), while showing no toxicity to the host cells used for amastigote
-maintenance. For trypomastigotes, 24-h exposure resulted in selectivity
-index (SI) values of &amp;gt;312.5 for benznidazole and 64,800 for Zn-phendione,
-whereas for amastigotes, 72-h exposure yielded SI values of &amp;gt;238.1
-and 83.3, respectively. These findings highlight Zn-phendione as a
-promising candidate for the development of new therapeutic strategies
-against &lt;span style="font-style:italic;"&gt;T. cruzi&lt;/span&gt;.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Ignition Theoretical
-Prediction Model for Aircraft
-Fuel Tanks Impacted by Polymer-Based Reactive Materials</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08574/5469737/Ignition-Theoretical-Prediction-Model-for-Aircraft</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c08574</guid>
-<pubDate>Thu, 12 Nov 2026 19:00:42 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c08574/1/m_ao6c08574_0019.png?Expires=2147483647&amp;amp;Signature=rxL~c3xlhIcsWJ8P7s5TGw4bIl-94Rpk5dPPASurvqwxpalOq~WiOx~CphIHCf~XQW8z6VKI8B-6D0CVMolstNOtnDlX6fmGn0VgwrfszjlVMkk-cFffZmO5XVfyq6Nb95KCPlz~PgEfRYpwkY1FfYhuz39QeOY-3hxt9RchbEkF-1mIpBJ~mgtNtybbK1WAM-sFDKF9XZVTQ-LiK65ZSpLoFrv3y3HlVo8wLWz79~o70j~tI~4reiiEvF5AE7g7fVz0hyx~DBU~3~lEdU4nMGpqDZbSLeKKAt0WYTPxEDoInnz8jg5gzuZLL33MmdSAeBe6tdXxlWPnWC57P2ZAVA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Ignition Theoretical
-Prediction Model for Aircraft
-Fuel Tanks Impacted by Polymer-Based Reactive Materials" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Reactive fragment Al/W/PTFE is a novel polymer-based
-composite
-material, which is mainly applied to impact aircraft fuel tanks. The
-coupled kinetic-chemical energy damage of Al/W/PTFE makes the damage
-process of the aircraft fuel tank ignition extremely complex. Currently,
-there is no comprehensive model to predict the outcome of ignition
-damage. In this study, an ignition theoretical prediction model was
-first established. First, based on the comprehensive temperature rise
-of reactive fragments and an improved Avrami-Erofeev equation incorporating
-the proposed nonlinear reaction rate, a new computational model was
-developed. Second, considering the fuel characteristics of RP-3 kerosene
-and calculating the state parameters and the temperature rise of the
-ullage layer in the tank, an ignition theoretical prediction model
-accounting for the coupled kinetic-chemical energy damage of reactive
-fragments was established. Finally, impact ignition damage tests were
-conducted in which reactive fragments impacted an aircraft’s
-equivalent fuel tank, and the model’s accuracy was verified
-against experimental results. The research results show that the theoretical
-ignition critical velocity of a reactive fragment impacting the ullage
-layer of a nonfull fuel tank ranges from 520.00 to 535.59 m/s, with
-an error of 2.67% to 5.74% compared to experimental data (506.49 m/s).
-The model calculates a theoretical autoignition velocity of 877.19
-m/s for RP-3, which aligns with experimental observations of violent
-combustion occurring at impact velocities exceeding 810 m/s. A single
-ignition delay curve cannot accurately predict the ignition results
-of reactive fragments impacting the fuel tank. The research will directly
-guide the design application of a fuel system protection for military/civilian
-aircraft and also provide an applied basis for the engineering evaluation
-of the lethality of polymer-based reactive materials based on chemical
-effects.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Retraction of “Investigating
-the Neighborhood
-Degree Based Topological Indices of Certain Isomeric Natural Polymers”</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c12706/5469635/Retraction-of-Investigating-the-Neighborhood</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c12706</guid>
-<pubDate>Thu, 12 Nov 2026 18:00:35 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;University of Alberta10.13039/501100000190NA&lt;/span&gt;</description>
-</item>
-<item>
-<title>Low-Barrier H 2  Dissociation on the Al 9 Sc 4  –  Nanocluster:
-Superatomic Shell Effects and Implications for Low-Temperature
-Hydrogen Activation</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c11744/5469612/Low-Barrier-H2-Dissociation-on-the-Al9Sc4</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c11744</guid>
-<pubDate>Thu, 12 Nov 2026 17:00:37 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c11744/1/m_ao6c11744_0008.png?Expires=2147483647&amp;amp;Signature=JSYyYNwWMttUvlmTdkcFUTG-QD8qNsJVeM8axSybmFfinCHmUgm2gq6gs3-wBDCHisy7TXJiaU-LlmTMjGqK3zcEJokRMbszswoVquq8hwYU2QUgZvDEkEMS7UFgizvqjMz~ZuJ-L1~Kodf0PkjF1q5esxWvynmURVOxlELX7X~NEkOzjJs5LTz9C7MQ97f8MtPEWJLyD7kTXdLTzr9LocVlupuyhQqvzznGuyqwmYjXTxNNXE3C8BZwrVGCrN8aL7KazxXXL1RAHPymz~R9IE6ZVXX0Be5KFVjWnyT4z-uAq7qOwWDyIilseEWrOC4j9gySIUuNQ72aD~NVhmlJFg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Low-Barrier H 2  Dissociation on the Al 9 Sc 4  –  Nanocluster:
-Superatomic Shell Effects and Implications for Low-Temperature
-Hydrogen Activation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Low-temperature activation
-of the H–H bond on nonprecious,
-lightweight materials is a key elementary step for hydrogen technologies,
-including hydrogen storage and hydrogenation catalysis. This study
-systematically investigates the hydrogen adsorption and dissociation
-properties of bimetallic anionic nanoclusters [Al&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;Sc&lt;sub&gt;y&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt;] (&lt;span style="font-style:italic;"&gt;x&lt;/span&gt; + &lt;span style="font-style:italic;"&gt;y&lt;/span&gt; = 13) using density functional
-theory. Our results demonstrate that substituting Al atoms with Sc
-atoms significantly stabilizes the dissociatively adsorbed hydrogen
-state and enhances the reactivity toward H–H bond cleavage.
-Upon hydrogen adsorption, the cluster geometries remain largely intact
-and preferentially undergo dissociative chemisorption, as evidenced
-by dissociative adsorption energies and negative Gibbs free energies
-of adsorption for all Sc-containing clusters, whereas the molecularly
-adsorbed precursors are endergonic. For the first H&lt;sub&gt;2&lt;/sub&gt; molecule,
-the Al&lt;sub&gt;9&lt;/sub&gt;Sc&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt; cluster exhibits a submerged-barrier dissociation
-pathway: the transition state TS&lt;sub&gt;1&lt;/sub&gt; lies 0.04 eV below the
-separated reactants but 0.07 eV above the molecularly adsorbed precursor,
-so that H–H cleavage is nearly activationless on the electronic-energy
-scale. In contrast, other [Al&lt;span style="font-style:italic;"&gt;x&lt;/span&gt;Sc&lt;sub&gt;y&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt;] clusters
-exhibit TS&lt;sub&gt;1&lt;/sub&gt; energies of 0.04 to 1.25 eV relative to the
-separated reactants, while pure Al&lt;sub&gt;13&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt; exhibits a substantially higher barrier
-of 1.45 eV. However, the dissociated product is strongly stabilized
-(−1.61 eV; Δ&lt;span style="font-style:italic;"&gt;G&lt;/span&gt; = −1.30 eV), so
-that the reverse recombination/desorption barrier amounts to 1.57
-eV (1.51 eV in free energy); the molecular adsorption of additional
-H&lt;sub&gt;2&lt;/sub&gt; molecules is slightly endothermic and the dissociation
-barriers rise to 1.28 and 1.48 eV for the fourth and fifth H&lt;sub&gt;2&lt;/sub&gt;; and the gravimetric capacity at the highest loading considered
-is 2.33 wt %. Electronic-structure analysis suggests that the two
-localized Sc 3d electrons of bare Al&lt;sub&gt;9&lt;/sub&gt;Sc&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt; (1S&lt;sup&gt;2&lt;/sup&gt;1P&lt;sup&gt;6&lt;/sup&gt;1D&lt;sup&gt;10&lt;/sup&gt;2S&lt;sup&gt;2&lt;/sup&gt;2P&lt;sup&gt;6&lt;/sup&gt;1F&lt;sup&gt;12&lt;/sup&gt;3d&lt;sup&gt;2&lt;/sup&gt;) facilitate charge transfer to H&lt;sub&gt;2&lt;/sub&gt; and,
-together with the two H 1s electrons, complete a delocalized 42-electron
-superatomic shell (1S&lt;sup&gt;2&lt;/sup&gt;1P&lt;sup&gt;6&lt;/sup&gt;1D&lt;sup&gt;10&lt;/sup&gt;2S&lt;sup&gt;2&lt;/sup&gt;2P&lt;sup&gt;6&lt;/sup&gt;1F&lt;sup&gt;14&lt;/sup&gt;3S&lt;sup&gt;2&lt;/sup&gt;) in Al&lt;sub&gt;9&lt;/sub&gt;Sc&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt;@2H, which destabilizes the H–H bond while strongly stabilizing
-the resulting metal-H bonds, whereas the availability of Sc–Sc
-bridge sites and the local cluster geometry also contribute to the
-barrier trend. These results identify Al&lt;sub&gt;9&lt;/sub&gt;Sc&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt; as a model
-system for low-temperature H&lt;sub&gt;2&lt;/sub&gt; activation and provide electronic-structure
-design principles for Al-based clusters for H&lt;sub&gt;2&lt;/sub&gt; activation,
-while showing that the same shell completion that facilitates H–H
-cleavage also hinders hydrogen release, so that a submerged dissociation
-barrier alone does not guarantee reversible hydrogen storage.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Phenethylamine-Derived
-β-Lactam Derivatives
-as Antibacterial Leads against Respiratory Pathogens:  In Vitro  Evaluation, Cytotoxicity Profiling, and  In Silico  Insights</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06993/5469609/Phenethylamine-Derived-Lactam-Derivatives-as</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c06993</guid>
-<pubDate>Thu, 12 Nov 2026 17:00:37 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c06993/1/m_ao6c06993_0007.png?Expires=2147483647&amp;amp;Signature=2-qQtDWPAHUMcGG4mTFdUOU7-faaILKbPYJyqoFaUSAlDw6VIbNZ4NbcftxhQtM5F91FDhI7nXd2dXuceUYb-nzrIL9-M9w9gakUc3xUgw~vnN8xAEpHjggeEfOGf6agZlTBco-qNSqC9Uzaanb2i9r8fKKPJoGrkcKGwyWrdgYrU4rtMMhGK2f9nD3Aw8YpyUUtKaxOXUcZ30QXvtMyKWreWFPdoqNSHvi4aX5RL3F6VhCEG-1-aIAcXjA8~xiBdp1~0SC1uE~Qj8Je0vo4EUkPLxYAz2zK1MRYDoeu1g35aEYQZvLj66X~TqBrNX9dyorw6oMQInsxhzPb4gLVdg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Phenethylamine-Derived
-β-Lactam Derivatives
-as Antibacterial Leads against Respiratory Pathogens:  In Vitro  Evaluation, Cytotoxicity Profiling, and  In Silico  Insights" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Secondary pulmonary
-bacterial infections represent a
-severe clinical
-complication in lung cancer management, necessitating effective antibacterial
-strategies. In this study, a series of phenethylamine-derived imines
-(&lt;strong&gt;1–6&lt;/strong&gt;) and their cyclized β-lactam derivatives
-(&lt;strong&gt;7–12&lt;/strong&gt;) were systematically evaluated as prospective
-antibacterial leads against respiratory pathogens (&lt;span style="font-style:italic;"&gt;Klebsiella pneumoniae&lt;/span&gt; and &lt;span style="font-style:italic;"&gt;Streptococcus pneumoniae&lt;/span&gt;), alongside cytotoxicity profiling in A549
-human lung cells. Phenotypic antibacterial assays showed that open-chain
-imine precursors (&lt;strong&gt;1–6&lt;/strong&gt;) had no discernible activity,
-whereas core cyclization into β-lactam derivatives (&lt;strong&gt;7–12&lt;/strong&gt;) conferred antibacterial activity (MIC: 12.5–50 μM),
-including activity against &lt;span style="font-style:italic;"&gt;K. pneumoniae&lt;/span&gt;, which showed no inhibition zone with ampicillin. Compounds &lt;strong&gt;7&lt;/strong&gt; and &lt;strong&gt;11&lt;/strong&gt; had the lowest MICs against &lt;span style="font-style:italic;"&gt;K. pneumoniae&lt;/span&gt; (12.5 μM). Comparing MIC values
-with A549 cytotoxicity gave an &lt;span style="font-style:italic;"&gt;in vitro&lt;/span&gt; selectivity
-index (SI) of &amp;gt;16 for compound &lt;strong&gt;7&lt;/strong&gt; against &lt;span style="font-style:italic;"&gt;K. pneumoniae&lt;/span&gt;. This is a censored lower bound (A549
-IC&lt;sub&gt;50&lt;/sub&gt; &amp;gt; 200 μM) that reflects low cytotoxicity
-in
-a lung cell line and does not indicate cancer selectivity. Preliminary
-molecular docking against bacterial penicillin-binding proteins (PBPs)
-and human MDM2 gave scores that differed little among compounds and
-did not follow the MIC values, so they are treated here as exploratory
-only. Overall, these findings identify phenethylamine-derived β-lactams
-as a scaffold for antibacterial lead development that warrants further
-mechanistic investigation and testing in noncancerous lung cells.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Competitive Adsorption
-of Pb(II), Zn(II), and Cr(III)
-on a Chitosan–Graphene Oxide Biocomposite: Experimental and
-DFT Insights</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05111/5469562/Competitive-Adsorption-of-Pb-II-Zn-II-and-Cr-III</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05111</guid>
-<pubDate>Thu, 12 Nov 2026 16:00:34 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c05111/1/m_ao6c05111_0014.png?Expires=2147483647&amp;amp;Signature=MfJntMdQINhb9NBoh0wZ0UkLkmqjnE~RZQ3tPa5MK200H2mEHNAynyvtK6GEV9uxyFZ7ZRdUBwZxxfp14rznMUA6Z8ziXl2DHkvFhYtr9yPiRoaJZxbt7G2B8zziXQZtIeMW8K-8isZ-PcST6sgE3-sMkv~LWhPMBxusJ6c9ElH43~TVrCVUZt-Me3RUPNFNFTRl6pWqPagrNbMMUgJySjthmWElWNPF5RktIqDkpUxcBxlW93GefD9xBwibnZY839J7jUD6g8p~fXL3qnu7huH2pC9ZomVqnOVe5a4bhMAR6AHQThKnNEKOPqjw25AVLRrgGR15sZ9LdzrUYT1jCg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Competitive Adsorption
-of Pb(II), Zn(II), and Cr(III)
-on a Chitosan–Graphene Oxide Biocomposite: Experimental and
-DFT Insights" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;A chitosan–graphene oxide (Cs/GO) biocomposite
-was evaluated
-for Pb(II), Zn(II), and Cr(III) removal using adsorption experiments,
-adsorbent-free controls, and density functional theory (DFT) calculations.
-The composite exhibited a predominantly amorphous, mesoporous structure
-with a specific surface area of 180.0 m&lt;sup&gt;2&lt;/sup&gt; g&lt;sup&gt;–1&lt;/sup&gt; and oxygen- and nitrogen-containing functional groups. Pb(II) uptake
-showed an apparent plateau from the first sampling point at 5 min.
-In competitive solutions containing 100 mg L&lt;sup&gt;–1&lt;/sup&gt; of
-each metal at pH 4.5, apparent distribution coefficients after 60
-min followed Pb(II) &amp;gt; Cr(III) &amp;gt; Zn(II), with Pb/Cr and Pb/Zn
-separation
-factors of 8.9 and 27.5, respectively. Adsorbent-free controls showed
-99.34% Cr(III) loss at pH 7.0, compared with 5.22% at pH 4.5, demonstrating
-the importance of distinguishing adsorption from pH-induced metal
-loss. DFT calculations incorporating six explicit water molecules
-around each metal reference ion, with ωB97X-D single-point energy
-evaluations, favored Pb(II) association but did not reproduce the
-experimental Cr(III)/Zn(II) ordering. Electronic-state analysis also
-revealed functional-dependent charge transfer in the Cr-containing
-model. The results support preferential Pb(II) removal by Cs/GO under
-the tested competitive conditions and highlight the importance of
-solution controls, hydration models, and electronic-state assessment
-when relating calculated metal binding to experimental adsorption
-behavior.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Retraction of “Impact
-of Thiourea on Wheat’s
-Morpho-Physiological and Ionic Attributes ( Triticum aestivum  L.) under Lead Stress: Reducing the Translocation of Lead from Soil
-to Roots, Shoots, and Grains”</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c12859/5469561/Retraction-of-Impact-of-Thiourea-on-Wheat-s-Morpho</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c12859</guid>
-<pubDate>Thu, 12 Nov 2026 16:00:34 GMT</pubDate>
-<description>&lt;span class="paragraphSection"&gt;King Saud University10.13039/501100002383RSP2025R347&lt;/span&gt;</description>
-</item>
-<item>
-<title>Gold Nanoparticles
-Stabilized by TEMPO-Oxidized Cellulose
-Nanofibers: Improved Redispersion and Colloidal Stability toward Sensing
-Platforms</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c08635/5469439/Gold-Nanoparticles-Stabilized-by-TEMPO-Oxidized</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c08635</guid>
-<pubDate>Thu, 12 Nov 2026 14:00:35 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c08635/1/m_ao6c08635_0008.png?Expires=2147483647&amp;amp;Signature=jBRakWNNeA~McT5agNWwGXqAUPFh-fLQ0coH7m33KlZT8wPkrb-wyIMNfs9CCx7X54ACjLq6xO4cJ7Nv6bFkr5FVg~LI5uC6~NhBzORumKobkZq3qOV1lqtY8KWTs1JoaYOpBrmA1NixA4WUEspVDpL9nXymjlEpjg1bR6r6Z3eqvQr3YxkchoL1U3u-ZckTmnK9YUgkKvj1ubdFxZN2EOXCgu-Wj1TflexYUru9Oj4Va9c3CBbILCdNFAeVjktBoAzUCtvMqQPstDWw4sTZTGdxiC3V9cL9EPtkXVdDK-Q0NMjSJhS6mLFOLFuD7NjRH4y0m5Crj-h33-nYNodTSw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Gold Nanoparticles
-Stabilized by TEMPO-Oxidized Cellulose
-Nanofibers: Improved Redispersion and Colloidal Stability toward Sensing
-Platforms" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Gold nanoparticles stabilized by TEMPO-oxidized cellulose
-nanofibers,
-AuNP-TEMPO, have emerged as promising sustainable nanomaterials, but
-their colloidal stability and integration into well-defined electroactive
-architectures for technological applications remain challenging. Here,
-AuNP-TEMPO were synthesized and subjected to a mild alkaline washing
-step to improve their macroscopic redispersion behavior and aqueous
-homogeneity for sensing applications. FTIR and UV–vis analyses
-indicated changes in AuNP-TEMPO surface chemistry after washing, consistent
-with deprotonation of carboxylic groups and modulation of the plasmonic
-response, while TEM confirmed the formation of well-dispersed nanoparticles
-within a cellulose-derived matrix. The washed AuNP-TEMPO suspension
-was then combined with chitosan to produce multilayer films by the
-layer-by-layer (LbL) method. Compared with casting films, the LbL
-architecture provided better structural organization and controlled
-buildup, as evidenced by FTIR and UV–vis measurements. Electrochemical
-characterization showed that increasing the number of bilayers enhanced
-the amount of electrochemically accessible gold, with the 30-bilayer
-film exhibiting the best performance. This film was then applied to
-Cu&lt;sup&gt;2+&lt;/sup&gt; detection using linear sweep anodic stripping voltammetry,
-showing a concentration-dependent response with two linear ranges,
-10 to 100 ppb and 200 to 400 ppb, and limits of detection of 0.54
-and 3.0 ppb, respectively. Taken together, these results indicate
-that AuNP-TEMPO/chitosan multilayers constitute renewable and tunable
-electroactive interfaces with promising potential for copper stripping
-detection.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Boosting CO 2  Foam Flooding Performance
-with Tailored CO 2 -Soluble Fluorinated Surfactants
-AC18xHFPODA/TA</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c05678/5469435/Boosting-CO2-Foam-Flooding-Performance-with</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c05678</guid>
-<pubDate>Thu, 12 Nov 2026 14:00:35 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c05678/1/m_ao6c05678_0011.png?Expires=2147483647&amp;amp;Signature=FSLaC1j2nKtNY06dJXhkx58ARdj4KgjcY9EeseXYvvKuy2P8gj59inH3eZOEI61ggZXHUKq5PX7iMYbwRJB7Jf2DPiKF4UANK8qSPB46t~OGk0NzyNeUaKFs04270MZtzr3jerdxJRKnCgwKAV3uv-linBEteQR7ijToJI~PUcleSgt1ttzPKBx~oiisYBgIfuJOof1lALevorq899ePg2QgV94Vsdwc9vD5RBe9kFQmBbJUhEPUH3dC3H-MwD-fyH1GKe4-ZOPDPg-gSCyV6Q~jbzIyFcMWcONSBBmFNpeGYg9CV95Ajs7YZDjl3nUBWdraIIdAS8BZ5uk7qhqvpA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Boosting CO 2  Foam Flooding Performance
-with Tailored CO 2 -Soluble Fluorinated Surfactants
-AC18xHFPODA/TA" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;CO&lt;sub&gt;2&lt;/sub&gt; foams generated with water-soluble surfactants
-are
-often limited by substantial adsorption losses, poor long-distance
-transport, and insufficient foam generation in deep reservoir regions.
-Herein, a series of CO&lt;sub&gt;2&lt;/sub&gt;-soluble fluorinated surfactants,
-denoted as AC18xHFPODA/TA (where AC = C18 alkyl chain, x = EO chain
-length, HFPO = hexafluoropropylene oxide oligomer, and DA/TA denote
-the HFPO dimer and trimer segments, respectively), were synthesized
-by grafting short-chain fluorinated ether segments derived from hexafluoropropylene
-oxide oligomers onto an alkylamine polyoxyethylene ether backbone
-through a molecular hybridization strategy. The chemical structures
-of the synthesized products were determined by FT-IR, &lt;sup&gt;1&lt;/sup&gt;H NMR, and &lt;sup&gt;19&lt;/sup&gt;F NMR spectra. The effects of fluorinated-chain,
-polyoxyethylene-chain, and alkyl-chain lengths on foaming performance
-were then systematically evaluated to clarify the relationship between
-molecular structure and foam-regulating properties. The results showed
-that incorporation of the fluorinated segments significantly improved
-CO&lt;sub&gt;2&lt;/sub&gt; solubility and interfacial activity, while also enhancing
-adsorption and interfacial stabilization at the CO&lt;sub&gt;2&lt;/sub&gt;/water
-interface. Among the synthesized surfactants, AC1815HFPODA exhibited
-the best overall performance, with the critical micelle concentration
-of 0.158 mmol/L and the corresponding surface tension of 28.68 mN/m
-(at 25 °C), and the cloud-point pressure of 26.75 MPa with concentration
-of 2.5 wt % at 50 °C. Core flooding experiments further demonstrated
-that AC1815HFPODA could comigrate with the CO&lt;sub&gt;2&lt;/sub&gt; phase and
-generate stable foams in-situ upon contacting the aqueous phase, increasing
-the resistance factor to 31.86 and substantially improving CO&lt;sub&gt;2&lt;/sub&gt; mobility control. The generated foam mitigated gas channeling
-along preferential flow paths by increasing the apparent viscosity
-of the gas phase and strengthening the Jamin effect within pore throats,
-thereby improving the potential of foam-based strategies for deep-reservoir
-mobility control. These findings provide a solid experimental basis
-for the molecular design of CO&lt;sub&gt;2&lt;/sub&gt;-soluble fluorinated surfactants
-and support their potential application in CO&lt;sub&gt;2&lt;/sub&gt; foam flooding.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Coexposure to Regulated
-and Unregulated Organohalogens
-through Omega-3 Fish Oil Supplements: A Retrospective Screening
-of Products Purchased in 2014–2017</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c10079/5469421/Coexposure-to-Regulated-and-Unregulated</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c10079</guid>
-<pubDate>Thu, 12 Nov 2026 14:00:35 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c10079/1/m_ao6c10079_0004.png?Expires=2147483647&amp;amp;Signature=GaUyjtKCa3MI7Dzs2qb1j9khKQuN1NUp0vzfs9Mh4AZDAGRdCnvvZekQiwJQCQ6l1lJgD1l4Lwf5-zooZtkRQ5laCQDXYlrUxqV9cCMV6vzto-EkTpGo~8rQrwJNbjWA8HC2qXjqf9Tt9Fbui42WcwjrVHK3TAJYDrxf1Ytcd3dXV~s3S8PtU9nloDEgcv~yoS4omG79ZnhpDnll17AdTQlpFZ1By7gcTOyXGxhVx~Lllle7h0x-OioZRuFJ2odMJL8Oc9rDDYkUN7hon3F9cG~-v5P6t7KFI3zvFqdO8IdvPSRgt0eFQqwKSymyYYZLWO5XMgiyh-cbmzPOcLu6Qg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Coexposure to Regulated
-and Unregulated Organohalogens
-through Omega-3 Fish Oil Supplements: A Retrospective Screening
-of Products Purchased in 2014–2017" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Omega-3 fish oil supplements are nutraceuticals widely
-recommended
-for long-term daily consumption. However, they may also carry bioaccumulative
-and lipophilic pollutants, and for supplements sold in Latin America
-the co-occurrence of anthropogenic residues with naturally produced
-organobromines remains uncharacterized. We therefore determined 23
-polychlorinated biphenyls (PCBs), including 11 dioxin-like congeners
-(dl-PCBs), seven polybrominated diphenyl ethers (PBDEs), eight natural
-methoxylated PBDEs (MeO-BDEs), and total mercury (HgT) in 47 supplements
-purchased in Brazil and abroad in 2014–2017 and reassessed
-exposure retrospectively under the 2022 WHO toxic equivalency factors
-and the 2026 EFSA tolerable intake for dioxins and dl-PCBs (0.6 pg
-TEQ kg&lt;sup&gt;–1&lt;/sup&gt; week&lt;sup&gt;–1&lt;/sup&gt;). MeO-BDEs were
-quantified in all products and dominated the organobromine burden
-(median ∑MeO-BDE:∑PBDE ≈ 4), yet no widely adopted
-health-based guidance value exists for them. On a quantified-only,
-lower-bound screening basis pending confirmatory analysis, six products
-exceeded the current tolerable intake for dl-PCBs at the label-recommended
-dose, four of them by more than 3-fold and the highest by 19-fold.
-Only the most contaminated product exceeded the value in force at
-the time of purchase (14 pg TEQ kg&lt;sup&gt;–1&lt;/sup&gt; week&lt;sup&gt;–1&lt;/sup&gt;). PBDEs and MeO-BDEs covaried at the brand level (Spearman ρ
-= 0.40), a pattern compatible with a shared marine driver whose origin
-the data do not resolve. All 15 products bearing contaminant-absence
-statements contained quantifiable contaminants, although the unrecorded
-scope of those statements precludes any conclusion about their accuracy.
-These historical data provide a baseline for coexposure to regulated
-toxicants and to ubiquitous natural organobromines that still lack
-toxicological guidance.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Distribution of
-Calcium Carbonate Polymorphs upon
-Carbonation of Oil-Well Portland Cement under Geological Conditions</title>
-<link>https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c09759/5469420/Distribution-of-Calcium-Carbonate-Polymorphs-upon</link>
-<guid>http://dx.doi.org/10.1021/acsomega.6c09759</guid>
-<pubDate>Thu, 12 Nov 2026 14:00:35 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/acsodf/pap/10.1021_acsomega.6c09759/1/m_ao6c09759_0008.png?Expires=2147483647&amp;amp;Signature=RNS~8iLQ~B6~xLuGfXQgGZoUqgJZnvzMKoRGkkpOgIgY8MrpsL0R0Q45aBSU57XP9qGE-67wfxN1GI86FXoPmudfKZIJ~dIHFOctmiH1uAQRz6yO-lz9Wj9lul1f24NN-idlVW~QWmN-9N9KgfCKaKi93grqcMVnFmQq7HyaEycL1H8-ST5~b50uuMJic4sr0ZDjWVs4Ly-40RwntuD8WSPQJO9q7yJhCrfvfApSgkcxt9mVuujgoslft0r7niar3hEqC53L2ACVUcXoGcrit-VMVP736tk4rAElaoZ7cQeOjd8nQZAf25gU-Ac5djCpMkaVl2eWwg7D4l~kX-Jnng__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Distribution of
-Calcium Carbonate Polymorphs upon
-Carbonation of Oil-Well Portland Cement under Geological Conditions" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In oilwells CO&lt;sub&gt;2&lt;/sub&gt; reacts with Portland cement,
-inducing
-portlandite dissolution and C–S–H decalcification, which
-reduce compressive strength and increase permeability, thereby compromising
-zonal isolation and wellbore integrity. From a different perspective,
-the integrity of oil wells may be leveraged due to the autogenous
-self-healing of cement in CO&lt;sub&gt;2&lt;/sub&gt;-rich environments. Regardless
-of the approach, it is of paramount importance to understand the progression
-of carbonation under geological conditions and analyze the associated
-distribution of calcium carbonate polymorphs due to their distinct
-stabilities. To that end, in the present study, X-ray microtomography
-(microCT) has been employed in conjunction with thermogravimetry (TGA)
-to investigate the progress of carbonation on samples subjected to
-CO&lt;sub&gt;2&lt;/sub&gt; attack at 2,000 psi and 60 °C for 14 and 28 days.
-In the case of a low-density cement matrix (water-to-cement ratio
-= 0.45), the volume of CaCO&lt;sub&gt;3&lt;/sub&gt; departs greatly from the volume
-of the specimen affected by the CO&lt;sub&gt;2&lt;/sub&gt; attack. On the other
-hand, in high-density specimens (water-to-cement ratio = 0.35) the
-volume of formed CaCO&lt;sub&gt;3&lt;/sub&gt; is substantially closer to that
-of the affected sample. These results are explained by the porosity
-of cement matrices. Low-density matrices (thus highly porous) allow
-extensive permeation of CO&lt;sub&gt;2&lt;/sub&gt; leading to CaCO&lt;sub&gt;3&lt;/sub&gt; precipitation, whereas high-density specimens (thus with low porosity)
-were found to resist CO&lt;sub&gt;2&lt;/sub&gt; attack to some extent. Finally,
-the proportion of CaCO&lt;sub&gt;3&lt;/sub&gt; polymorphs was found to depend
-on the porosity of the sample and CO&lt;sub&gt;2&lt;/sub&gt; penetration, a result
-explained in terms of kinetic and thermodynamic products.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

@@ -5,6 +5,130 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Multiscale Topological
+Transcriptomic Analysis for
+Alzheimer’s Disease Drug Repurposing</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03396/5474242/Multiscale-Topological-Transcriptomic-Analysis-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03396</guid>
+<pubDate>Fri, 20 Nov 2026 16:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03396/1/m_ci6c03396_0008.png?Expires=2147483647&amp;amp;Signature=EcyOVxVg81zuMOu5M~szGWHbgYl2AFveoEXvygYsOx5xW2SLnBlE44M0qXdxQ1q31edrRcif9weQysBqaRyEXyD8xiAIgF47EJaKU1B-CZBDqK23Omlnn48B90tOYcx8gcJ9vMpjkI~9d~QnboJ99m2RHRfXVt-xPgwqRfXpzW2rC2YvVfcQQhvU4RU9qP-wUfrSLmZ0kJ32~O4Ow2V2RbLA2trLJ~zVS1QWQj17c-P5rkbE1jQHOOgx3OlCOLei6vT2d5LC~6DL5omghzxYA8lPSOItsPU1XqSmVOLso6LUS4DzGv-WZY3O6CSEMLkI0C4FJ0CXWKRZBAIgtD3g~A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Multiscale Topological
+Transcriptomic Analysis for
+Alzheimer’s Disease Drug Repurposing" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Alzheimer’s
+disease (AD) is a complex neurodegenerative
+disorder driven by multifactorial molecular mechanisms, which severely
+limit the efficacy of current therapeutic interventions. To accelerate
+the discovery of novel treatments, we propose a comprehensive computational
+framework integrating transcriptomic analysis, topological network
+characterization, machine learning (ML), and structure-based evaluation.
+By analyzing eight independent AD transcriptomic datasets, we constructed
+protein–protein interaction networks and implemented a multiscale
+topological differentiation strategy based on persistent homology
+and persistent spectral theory. This approach quantified the topological
+importance of each gene, prioritizing 67 nonredundant key genes. To
+bridge target identification with drug screening, we mapped these
+genes to the ChEMBL database, yielding 4,493 bioactivity records across
+five primary targets. We evaluated three ML algorithms across diverse
+molecular representations, including two natural language processing-derived
+molecular embeddings and a conventional molecular fingerprint. Deploying
+these predictive models for large-scale virtual screening of the DrugBank
+database yielded several promising repurposing candidates. Subsequent
+molecular docking against the target proteins GLP1R and CASP1 generated
+predicted binding poses for selected compounds. Physicochemical profiling
+identified differences relevant to their further assessment, although
+these computational results do not establish binding stability, pharmacokinetic
+suitability, or safety. This study not only identifies viable therapeutic
+candidates for AD but also provides a scalable, generalizable pipeline
+for target prioritization and drug discovery applicable to other complex
+human diseases.&lt;/span&gt;</description>
+</item>
+<item>
+<title>MolCodon: A Codon-Based
+Molecular Language for Interpretable
+Structural Representation and Similarity Search</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02132/5474003/MolCodon-A-Codon-Based-Molecular-Language-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02132</guid>
+<pubDate>Fri, 20 Nov 2026 12:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02132/1/m_ci6c02132_0010.png?Expires=2147483647&amp;amp;Signature=4OZMj~sTF1mTnbukFsNMVdlZ2Nkp9G6gvtsQMeZqfMfLDdoKLDSkuVE7IiP8-O0~LElmbVfC8V5GKY5lXsb~Cb5gWIX8Z1hlQRK247dtEBhqLkZuIGxLHGpYPoyyJpXO6O3KSD9flEB-SRLjN15EFfe4gWb~Md2sPL9yUSZbcn7a-wYntkcs39RF0YTSFqSocoNdEFSnITJMnk3grMFiMmkYtnC~rpWbACtsbDVkGO~ukTs60eSBSHLwpzUJ11b8~XAXcjxFK6b4FRPf2aS5NzPkHuQxZsrBPywe1FuDuOBexqIWBP-AR1qENt-ZTnEcoyzwZZgEhY54yGbP0AKqBg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="MolCodon: A Codon-Based
+Molecular Language for Interpretable
+Structural Representation and Similarity Search" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular representation determines which aspects of
+chemical structure
+can be learned, compared, and interpreted in computational drug discovery.
+Existing encodings typically emphasize either compact string description,
+as in SMILES and SELFIES, or efficient similarity search, as in circular
+fingerprints. Although canonical SMILES already provides a deterministic
+string, its tokens are variable in width and carry no fixed chemical
+role. No existing representation simultaneously offers fixed-width,
+role-assigned tokenization, graph-level interpretability, pharmacophore
+annotation, and high-fidelity molecular reconstruction. Here, we introduce
+MolCodon, a codon-based molecular language that represents small molecules
+as deterministic sequences of fixed-width three-character tokens over
+a five-symbol alphabet, C, N, O, S, and X. Inspired by the triplet
+organization of the genetic code, MolCodon assigns chemically defined
+codon families to atoms, bonds, ring and branch topology, fused-ring
+references, pharmacophore features, bond mobility, charge, and stereochemistry.
+A deterministic graph traversal with ring-contiguity preservation
+produces sequences in which chemically meaningful substructures remain
+locally organized and traceable to the underlying molecular graph.
+Across approximately 2.9 million molecules from six commercial screening
+libraries, MolCodon achieved 98.93% InChIKey-level round-trip fidelity,
+supporting its use as a high-fidelity sequence representation for
+drug-like compounds. Across ten QSAR tasks, MolCodon-derived sparse
+sequence and trace features showed statistically supported advantages
+over the SMILES and SELFIES-based representations in most data sets
+while achieving competitive performance with classical fingerprints.
+These findings are supported by five  repeated cross-validation and
+Tukey-adjusted pairwise comparisons.
+As an application of the representation, the MolCodon similarity engine
+decomposes molecular similarity into ring topology, branch context,
+attachment architecture, and pharmacophore correspondence, enabling
+interpretable scaffold-hopping searches. In a PARP1 virtual screening
+case study, MolCodon retrieved scaffold-diverse candidates using a
+known PARP-1 inhibitor Olaparib  as the template compound. Together,
+these results establish MolCodon as a new molecular representation
+paradigm that transforms chemical graphs into high-fidelity, interpretable,
+and alignment-compatible codon sequences, opening a direct path for
+bioinformatics-inspired analysis of small-molecule chemical space.
+The MolCodon encoder, decoder, and similarity engine are freely available
+as open-source software at https://github.com/DurdagiLab/MolCodon.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Atom-Wise Allocation
+of Message-Passing Scale for
+Molecular Property Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03221/5473968/Atom-Wise-Allocation-of-Message-Passing-Scale-for</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03221</guid>
+<pubDate>Fri, 20 Nov 2026 11:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03221/1/m_ci6c03221_0005.png?Expires=2147483647&amp;amp;Signature=xzSHJCokEVMwN3KAIn-XRJVoLktm6H5w5lggo1aw8wXfSiPOYOVOYMy2fOYarTOZWxRYTnCAmInWag3vBb0iomBie8xrP4XouuLeTEzeTzhwmh1bdrO39~Hko6PbUtpTgpvnsfbdBwsajtdiYYRX7W7ZzF-rrTak8fhxq5GdrcZbTBDfSQ04bH-SOe87B7oEKOVaSpj4ZzPeC2BcKKkPPqOrE1DxuQpYcSq3p8TyIHEZdAyZ-M91GDvGLwo5dgLnK8J2J5-mJsmzRX3wh7uDcQCDTD6dMAJtHusmkVf2FcKf0o0OVmfXbrdhp1SRBeAYLj63SyKAjTFpancdV7YPoQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Atom-Wise Allocation
+of Message-Passing Scale for
+Molecular Property Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Molecular properties depend on chemical structure at
+different
+ranges, from local polar groups governing solvation to extended substructures
+shaping bioactivity, yet graph neural networks usually fix one propagation
+scale for every atom. We present PRISM (Per-atom Routing over Intermediate
+States of Message Passing), in which each atom’s encoded features
+produce a bounded scalar that positions a unimodal distribution over
+retained message-passing states and matching circular-fingerprint
+radii. Because one coordinate translates the whole profile, allocated
+depth responds to the routing scalar in closed form: at fixed temperature
+it is nondecreasing, its sensitivity scales with the profile variance,
+and it saturates in the clipped regions. Beyond providing closed-form
+analyzability, this constrained one-parameter profile matches or significantly
+outperforms parameter-matched, unconstrained node-wise gates and Jumping
+Knowledge attention. Under scaffold partitions with equal tuning budgets
+against eight graph, fingerprint, and geometric baselines, PRISM trained
+from scratch without three-dimensional coordinates achieves the lowest
+mean error on aqueous solubility and hydration free energy and strong
+accuracy on BACE and BBBP. As a general layer-combination rule, PRISM
+transfers directly to GCN, GIN, and GAT backbones, reducing hydration
+free energy error by up to 29% relative to last-layer readout. Applied
+to a pretrained GIN, it improves on last-layer readout on four of
+six endpoints and gives the lowest lipophilicity error overall. In
+trained models, allocated depth differs systematically between atom
+types in a task-dependent way, and permuting profiles among a molecule’s
+atoms raises prediction error on several endpoints, so the rule acts
+as a learned counterpart of atom typing.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Allosteric Control
 and Glycan Shielding Adaptations
 in the SARS-CoV-2 Spike from Early to Peak Virulence</title>
@@ -4809,33 +4933,6 @@ Simulations via a GROMACS-CP2K Interface</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02073</guid>
 <pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02073/5427534/Seamless-QM-MM-Simulations-via-a-GROMACS-CP2K"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02073/1/m_ci6c02073_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Mechanistically Informed Open-World Enzyme Retrieval
-with a Dual-Tower Graph-Sequence Model</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02414/5425803/Mechanistically-Informed-Open-World-Enzyme?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02414</guid>
-<pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02414/5425803/Mechanistically-Informed-Open-World-Enzyme"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02414/1/m_ci6c02414_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] SynOmega: Simplifying
-Retrosynthesis for Efficient
-Synthesizability Scoring</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02529/5426436/SynOmega-Simplifying-Retrosynthesis-for-Efficient?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02529</guid>
-<pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02529/5426436/SynOmega-Simplifying-Retrosynthesis-for-Efficient"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02529/1/m_ci6c02529_0005.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] A Task-Adaptive
-Multimodal Pretrained Framework for
-Antibiotic Virtual Screening with Joint Activity and Cytotoxicity
-Prediction</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02659/5427833/A-Task-Adaptive-Multimodal-Pretrained-Framework?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02659</guid>
-<pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02659/5427833/A-Task-Adaptive-Multimodal-Pretrained-Framework"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02659/1/m_ci6c02659_0006.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
