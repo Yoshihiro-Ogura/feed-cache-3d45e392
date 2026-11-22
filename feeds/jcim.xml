@@ -5,6 +5,36 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Chemical Language
+Models for Prediction of Radiolytic
+Transformation Products from Molecular Structure</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03614/5474410/Chemical-Language-Models-for-Prediction-of</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03614</guid>
+<pubDate>Sat, 21 Nov 2026 15:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03614/1/m_ci6c03614_0007.png?Expires=2147483647&amp;amp;Signature=NTfe0JtGC3p51MrbU2rOFhygPxTxqIVzaEWFIEKHq5-X3fPjuJiOdkyH681vneKLRJdbDi146g6sKtwc1Nd-W1TWSoAdK817xerUo0CNdY~-arAUHwXE9NvLNlVzsUOuAowt6YPXeA5kQkjBisxqNjQogHftd0SMxjrvCcID8q0C5V6ZYMgBdZPIIXXJUOcIKUOgEaYUCRCUSSZwiXvCTnAZherG-Z-SlLgOsJZ4c9zLoPv6Hd6~lsHUSVLO20Bx8ilegcNcvBmXSPxogG2E0x57hdz3oQwpK7VcmgDz2xCmKnswWYlZxKCiFV4g9R5qQaK5SAEVqqA~j9ZqtxjHJA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Chemical Language
+Models for Prediction of Radiolytic
+Transformation Products from Molecular Structure" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Assessing the fate of organic compounds
+under ionizing radiation
+requires knowing which degradation products form, yet identifying
+them experimentally is slow and costly. We ask how well machine-learning
+models can generate those products from a parent compound’s
+structure alone. Because reported product distributions depend on
+irradiation conditions that studies record inconsistently, we target
+a condition-agnostic screening task: recovering the set of products
+reported for a parent under any condition. We compile a curated benchmark
+of 446 experimentally reported reactant–product pairs across
+128 parent compounds from the primary radiolysis and photolysis literature,
+and cast prediction as one-to-many SMILES generation under reagent-level
+repeated cross-validation. GT4SD achieved the highest mean Hit@10
+among the models evaluated under shared cross-validation, recovering
+at least one reported product for 59.4% of parent compounds, compared
+with 41.1% for nearest-neighbor retrieval. These results demonstrate
+the potential of chemistry-pretrained language models to generate
+radiolytic transformation-product candidates for experimental follow-up.
+Open-weight models further enable local deployment and control over
+molecular data, supporting their practical use in radiolysis research.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Multiscale Topological
 Transcriptomic Analysis for
 Alzheimer’s Disease Drug Repurposing</title>
@@ -4925,14 +4955,6 @@ RNA-Small-Molecule Binding Sites Using Surface Characteristics</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02039</guid>
 <pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02039/5426417/MultiRSF-A-Deep-Learning-Approach-for-Predicting"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02039/1/m_ci6c02039_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Seamless QM/MM
-Simulations via a GROMACS-CP2K Interface</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02073/5427534/Seamless-QM-MM-Simulations-via-a-GROMACS-CP2K?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02073</guid>
-<pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02073/5427534/Seamless-QM-MM-Simulations-via-a-GROMACS-CP2K"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02073/1/m_ci6c02073_0004.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
