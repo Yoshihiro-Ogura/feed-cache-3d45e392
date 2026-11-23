@@ -5,6 +5,20 @@
 <link>https://pubs.acs.org/rss/jaaucr/asap.xml</link>
 <description>J.Am.Chem.Soc. Au (mirrored feed)</description>
 <item>
+<title>Metallurgical Insights into Cu Reconstruction During CO 2  Electroreduction</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01734/5474555/Metallurgical-Insights-into-Cu-Reconstruction</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01734</guid>
+<pubDate>Mon, 23 Nov 2026 01:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01734/1/m_au6c01734_abs.png?Expires=2147483647&amp;amp;Signature=GKwpEpXD-abLwBCx9H00BEysVZIjNXB8AxM91G8YAoc6D7m8xsjUWW4nt8sn1F7gx-8iBY52vLIswEtPTjnHpbcYCRktxiICH~owDEZoMACE3rwgAxsNBu6XdsIodJE6mCAeiGWbUpFmR2oQfv1ykuD4PnG8U9VeGLosa-ZLT2q7IqvPswbR~Lx7NcPnCQpdEIzYsnATdkIcvzg8FOHFzbk~kpdZWTFUewTREHAVNMazVGNL-kSn7Wu5l-a~Btb1Lb-I7R5A4zaSn0ebORyuboOPpKi60oMsWM8xlXhst4gi9tBJBM9-d81OtL2zDvMmcImhqQBQx1c4YVPwTSBFdQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Metallurgical Insights into Cu Reconstruction During CO 2  Electroreduction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The electrochemical carbon dioxide reduction reaction (CO&lt;sub&gt;2&lt;/sub&gt;RR) to multi-carbon (C&lt;sub&gt;2+&lt;/sub&gt;) products on copper (Cu) catalysts offers a sustainable route to efficient carbon utilization, yet its industrial deployment remains severely constrained by catalyst reconstruction during CO&lt;sub&gt;2&lt;/sub&gt; electrolysis. To understand and harness the structural and phase evolution of catalysts during CO&lt;sub&gt;2&lt;/sub&gt;RR, this Perspective shows that catalyst reconstruction can be systematically rationalized through the principles of metallurgy and thermodynamics. Within this framework, we evaluate the reconstruction behavior of diverse Cu-based catalysts, with particular focus on atomic-scale structural changes and phase transformations in Cu compounds and alloys. Crucially, this metallurgical understanding enables us to predict the reconstruction pathways under electrified conditions. Building on these insights, we examine previously overlooked factors that emerge under industrial-scale stressors and govern catalyst failure. Finally, we propose advanced real-time diagnostic platforms that close a rational feedback loop, providing strategies to suppress degradation and extend the operational lifetimes of next-generation Cu catalysts.&lt;/span&gt;</description>
+</item>
+<item>
+<title>MS 2 Forge: Bayesian Flow Network for De Novo Molecular Structure Generation from Tandem Mass Spectra</title>
+<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01423/5474553/MS2Forge-Bayesian-Flow-Network-for-De-Novo</link>
+<guid>http://dx.doi.org/10.1021/jacsau.6c01423</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:44 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c01423/1/m_au6c01423_abs.png?Expires=2147483647&amp;amp;Signature=K8RmFByGUrbFumtAquJe7Np9tdvKvdZQ6ub4zcWEq3fSqQffmM0SCVZJLLUh-W~Ab3jU-nw~D3GYxua6T2mukN-PcR9zI-an1ebGTgUnNF-4xFvFz2oe9F7HLw8xcRuB1xA4sh0ULw2SytASVONCk8PzNgTVgq~3W2nxqip7v4Daz3fChiVTdZ8UNsasRUc6oW~u81niMv5SDleLxVgQOo1SjEL5lyLaBAaWYiHDtcsWPj7slJ~d-Gd5WDnWzlTO~~I70mU4cLtQoVa8qqlx~HAmuIV0ntxb6LZNpjoaa7Fu8H-sGNp2mKS249GkHg~AdY8QLJG82q0faZH5hQGz-A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="MS 2 Forge: Bayesian Flow Network for De Novo Molecular Structure Generation from Tandem Mass Spectra" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Metabolite structure annotation remains a central challenge in untargeted metabolomics, particularly for compounds absent from spectral libraries and candidate databases. Here, we present MS&lt;sup&gt;2&lt;/sup&gt;Forge, a four-stage framework that employs Bayesian Flow Network for de novo molecular structure generation and prioritization from tandem mass spectra. MS&lt;sup&gt;2&lt;/sup&gt;Forge reformulates spectrum-to-structure inference as progressive Bayesian refinement of probabilistic bond-state beliefs over molecular connectivity, allowing ambiguous spectral evidence to be incorporated through iterative structural inference. Molecular-prior pretraining and cross-modal transfer enable structural knowledge learned from molecule-only data to guide spectrum-conditioned generation, while EvidenceRank prioritizes generated candidates using fragmentation and spectrum−structure compatibility evidence. Under matched graph variables, conditioning information, and candidate budgets, the Bayesian flow generator outperformed the corresponding discrete diffusion and flow-matching variants. MS&lt;sup&gt;2&lt;/sup&gt;Forge achieved the best overall performance among the evaluated methods, reaching top-1 exact-match accuracies of 24.1% on MassSpecGym and 31.7% on NPLIB1. On a stringent CASMI 2012−2022 cohort whose targets were absent from all enumerated paired-spectrum training sets and molecular-pretraining sources, three-seed mean top-1 and top-10 exact-match accuracies were 15.5% and 22.8%, respectively. These results demonstrate that progressive Bayesian connectivity refinement can extend MS/MS-based structure elucidation beyond a database lookup toward the generation and prioritization of testable structural hypotheses.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Gram-Scale Synthesis of the Opiate Alkaloids Mitragynine and Speciociliatine</title>
 <link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c01429/5473073/Gram-Scale-Synthesis-of-the-Opiate-Alkaloids</link>
 <guid>http://dx.doi.org/10.1021/jacsau.6c01429</guid>
@@ -3619,68 +3633,6 @@ efficiently in the cavity through a stepwise grinding-stirring protocol.
 Otherwise unstable multicationic accumulation as well as unusual cationic-nonionic
 co-accumulation are demonstrated in the adaptable cavity of the polyaromatic
 capsule even under hydratable aqueous conditions.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Enhanced Sampling
-of Protein Conformations in AlphaFold3
-with Repulsive Bias in the Diffusion Generative Model</title>
-<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00596/5329160/Enhanced-Sampling-of-Protein-Conformations-in</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00596</guid>
-<pubDate>Wed, 26 Aug 2026 05:01:18 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00596/5329160/Enhanced-Sampling-of-Protein-Conformations-in"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00596/1/m_au6c00596_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Conformational changes in proteins are vital to their
-function
-yet remain challenging for state-of-the-art artificial intelligence,
-such as AlphaFold3 (AF3), to predict. It has been observed that AF3
-sometimes fails to capture ligand-induced conformational changes,
-even though it explicitly includes ligand molecules that induce such
-changes. To address this challenge, we develop an enhanced sampling
-scheme that leverages the diffusion-based generative model used in
-AF3 to predict protein structures. Interpreting the diffusion generative
-model as a stochastic sampling process analogous to molecular dynamics
-(MD) simulations, we introduce here a repulsive biasing potential
-between predicted structures to explore wider conformational space.
-We demonstrate that the developed sampling scheme, AF3-ReD, successfully
-samples multiple conformational states in the AF3 distribution, including
-ligand-bound conformations of motor, kinase, and transporter proteins,
-which are rarely captured by the default AF3 settings. Consistency
-with experimentally determined structures not only at the global structural
-level but also in local ligand-binding poses confirms reliable conformational
-sampling with AF3-ReD. Notably, AF3-ReD succeeded in sampling conformational
-states of transporters that were unresolved at the AF3 training cutoff.
-Compared to another strategy based on multiple sequence alignment
-(MSA), AF3-ReD predicted intermediate conformations that are relatively
-closer to the stable states. Thus, AF3-ReD provides a promising approach
-to predicting dynamic conformational changes of proteins associated
-with ligand binding, which could be further extended to other diffusion-based
-generative models, such as those for protein design, potentially expanding
-their accessible design space.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Comprehensive Evaluation
-of Oxidation Resistance for
-Tertiary Phosphines Using Universal Machine Learning Interatomic Potential-Aided
-Molecular Dynamics Simulation</title>
-<link>https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00783/5312647/Comprehensive-Evaluation-of-Oxidation-Resistance</link>
-<guid>http://dx.doi.org/10.1021/jacsau.6c00783</guid>
-<pubDate>Sun, 23 Aug 2026 15:01:01 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jaaucr/article/doi/10.1021/jacsau.6c00783/5312647/Comprehensive-Evaluation-of-Oxidation-Resistance"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/pap/10.1021_jacsau.6c00783/1/m_au6c00783_0016.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Tertiary phosphines
-play important roles in a wide range of chemical
-reactions, but they suffer from oxidation in air. Here, we propose
-a computational workflow for the comprehensive prediction of oxidation
-resistance in tertiary phosphines based on molecular dynamics (MD)
-simulations using Matlantis PFP, a universal machine learning interatomic
-potential (uMLIP). MD simulations were conducted for 51 different
-tertiary phosphines and analyzed to estimate mean survival time by
-survival analysis (τ). The resulting τ reproduced experimentally
-and theoretically recognized trends in oxidation resistance across
-chemically diverse phosphines. In particular, it captured electronic,
-steric, and aromatic effects on oxidation resistance, even in systems
-where these factors are intertwined. Comparisons with reported oxidation
-behaviors further showed that τ correctly identifies both highly
-air-sensitive and highly air-stable phosphines. These results demonstrate
-that the present workflow provides a practical, generalizable tool
-for pre-experimental assessment of phosphine oxidation resistance
-and for more rational ligand design.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>

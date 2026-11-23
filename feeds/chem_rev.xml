@@ -5,6 +5,38 @@
 <link>https://pubs.acs.org/rss/chreay/asap.xml</link>
 <description>Chem.Rev. (mirrored feed)</description>
 <item>
+<title>Good Practices and Common Pitfalls in the Research
+and Development of New Electrolytes for Flow Batteries</title>
+<link>https://pubs.acs.org/chreay/article/doi/10.1021/acs.chemrev.6c00476/5474533/Good-Practices-and-Common-Pitfalls-in-the-Research</link>
+<guid>http://dx.doi.org/10.1021/acs.chemrev.6c00476</guid>
+<pubDate>Sun, 22 Nov 2026 15:00:41 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/chreay/pap/10.1021_acs.chemrev.6c00476/1/m_cr6c00476_0011.png?Expires=2147483647&amp;amp;Signature=SAcbItzGP~Vy6h24EoWnSYsQnqN~bTbNscOXfnYOM6v34-v7kJVt3GVsVcpdkb9PFidlu6QbvOQbAvrUw8pppHye7G32UIXEik8TB2ceMU88g~sSza4LN3GgdNaaASGHazNknEh3Vzl-FUTKnT8Rhuwg313YybSj-odwsj0qdhfPIXXAAA-G1lPfT4Xxruq-I0sPxAwZAXEpf8XlWOU6hBSbn0vfQdZYh8ZB~eoCrq7N9NcM27KezlKI3abtphwS-U3dzTHjO6XLcpKPmsWT749sa-x~QEr4tlIeneXjgzV8CjAeVwMCZKS3oVyvOzEZabVZC9favGkDKMtdH1d-fA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Good Practices and Common Pitfalls in the Research
+and Development of New Electrolytes for Flow Batteries" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Redox flow batteries
+represent one of the most actively investigated
+platforms for grid-scale electrochemical energy storage. The rapid
+expansion of electrolyte chemistries has broadened the field, but
+has also introduced significant inconsistencies in experimental methods,
+testing protocols, and reporting practices. This variability impedes
+interlaboratory comparison and, in some cases, produces misleading
+assessments of electrolyte performance and stability. This article
+presents structured, practical guidance for researchers working with
+novel flow battery electrolytes, organized around four core activities:
+electrolyte formulation and physicochemical characterization, electroanalytical
+screening, flow cell assembly and hardware selection, and performance
+and lifetime evaluation. Key topics include staged characterization
+of redox-active compounds from dilute cyclic voltammetry through operationally
+relevant conditions, component selection and compatibility checks,
+the distinction between symmetric and full cell configurations for
+performance versus lifetime testing, and the role of potentiostatic
+cycling protocols in generating reliable capacity fade data. Finally,
+the reporting of capacity fade is discussed with consideration of
+the underlying degradation mechanisms. The guidance is condensed into
+ten practical recommendations, and the article is published as a living
+document on GitHub, open to continuous community revision and peer
+review to work toward a community consensus on experimental and reporting
+practices in our field.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Asymmetric Amyloid
 Cross-Seeding Beyond “Like-Seeds-Like”</title>
 <link>https://pubs.acs.org/chreay/article/doi/10.1021/acs.chemrev.6c00727/5473660/Asymmetric-Amyloid-Cross-Seeding-Beyond-Like-Seeds</link>
