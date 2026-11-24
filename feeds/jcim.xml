@@ -5,6 +5,103 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>LICA: A Multiview
+Relation-Aware Equivariant Graph
+Neural Network with Interfacial Atomic-Pair Attention for Protein–Ligand
+Binding Affinity Prediction</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02767/5475150/LICA-A-Multiview-Relation-Aware-Equivariant-Graph</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02767</guid>
+<pubDate>Mon, 23 Nov 2026 17:00:33 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02767/1/m_ci6c02767_0007.png?Expires=2147483647&amp;amp;Signature=LCnYf12epaqK~oVDEcBy9cENJqyRB2dPyd3q6Ck~dGiDqpFjf6LSuokSzcQ2YbSL4rHknmIDOWvr-BrV8l4WKnzmRq6pcO~K37uW9bp8xJduL7xq2QwckJujprri6qo6KBzJwgicpXQTWXFt6ZV46uGQSONpuapg9FezC4Ov58IUS3fnbsuM6ii4K9rndhuBY6IDO~pWwGVHO8bT1YvhS06GhMaGNC57EQtFdBIJpfDf~xg0rkK9052TfQqMIgwVmcdXyH~u8vQWxN~l9QihoP1NU8-6bemBQoVAhVwIo9fJmEHC0nUw0tze4MAOEyrfJbDmgSHXSdqkXx843EV1jw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="LICA: A Multiview
+Relation-Aware Equivariant Graph
+Neural Network with Interfacial Atomic-Pair Attention for Protein–Ligand
+Binding Affinity Prediction" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction of protein–ligand binding
+affinity is
+foundational in structure-based drug design, yet existing 3D graph
+models often mix heterogeneous chemical relations and dilute sparse
+interfacial signals through global pooling. We present LICA, a relation-aware
+equivariant graph neural network that explicitly distinguishes covalent,
+spatial, and interfacial contacts on a unified 3D graph. A multiview
+readout extracts complementary information from the ligand, the pocket,
+and explicit interfacial atom pairs. Trained under a leakage-controlled
+Tanimoto split and tested independently on CASF-2016, LICA shows that
+prediction errors concentrate in sparsely sampled extreme-affinity
+regions, exhibiting a regression-to-the-mean extrapolation bottleneck.
+Ablation studies demonstrate that the explicit interfacial atom-pair
+attention provides a meaningful geometric inductive bias rather than
+merely adding parameters. This bias is particularly effective for
+spatially directional interactions, such as cation−π
+contacts. Using structural annotations as a reference, we further
+show that the learned interface attention highly overlaps with true
+short-range contacts. However, case studies reveal that these attention
+weights serve as a qualitative map of physical interactions and should
+not be interpreted as a quantitative decomposition of binding free
+energy. Overall, explicit interface pairing improves affinity regression
+while yielding a chemically verifiable representation of protein–ligand
+interactions.&lt;/span&gt;</description>
+</item>
+<item>
+<title>RMG-Py  v4: 17 Years of Open-Source Reaction
+Mechanism Generation</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02215/5474821/RMG-Py-v4-17-Years-of-Open-Source-Reaction</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02215</guid>
+<pubDate>Mon, 23 Nov 2026 14:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02215/1/m_ci6c02215_0007.svg?Expires=2147483647&amp;amp;Signature=xr8TB6Sa13Jbkw3gu8OJdpmGt8vU2z1-PdGgbMB2MJx691LjwDJyS1T1K2pUnoV7prAq9IlszjHIg~K-rZU03ABg9VCqNZBOjmjs1D1NE-zkj358rWGh-EZBt2bubJOd9wPykxD2Ju8bpuBxdVw0QIK3KDIzPws~u0TFbcT4mBE7Y3da07RAiwJxwOdK6cX8Xp-EM5Pidq97D0VkyDLLLa3ugFx86pcs-eWcz0H8YFae4rr57uEWcdl8WXj6LNToZFAblMsifFoiaUO5LAVx0fWFcZf1VcyE0AVydwzxdw0w82UkgMQv6DOh-qTekbZeq63VSUjmZVi27DzZ3Bm4sg__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt=" RMG-Py  v4: 17 Years of Open-Source Reaction
+Mechanism Generation" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Kinetic modeling describes reacting chemical systems
+through networks
+of elementary reactions and their associated rate parameters. Reaction
+Mechanism Generator (&lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;RMG-Py&lt;/span&gt;) automates the construction of
+these networks by simulating reaction fluxes to identify dominant
+chemical pathways &lt;span style="font-style:italic;"&gt;in silico&lt;/span&gt;. &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;RMG-Py&lt;/span&gt; v4.0.0
+marks 17 years of open-source reaction mechanism generation, introducing
+substantial improvements in performance, usability, and chemical scope.
+Benchmarks demonstrate higher throughput in constructing combustion
+models relative to prior versions, alongside streamlined installation
+via Docker and binary distributions. Key new capabilities include
+automated library selection, improved species selection algorithms,
+integration with the Julia-based &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;ReactionMechanismSimulator.jl&lt;/span&gt; for simulating arbitrary reactor configurations, and PySIDT-based
+property estimators. Heterogeneous catalysis support is improved by
+the addition of new adsorbate thermophysical property data, new reaction
+families, resonance templates of surface-bound species, and uncertainty
+quantification for parameter sensitivity analysis. The release also
+extends &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;RMG-Py&lt;/span&gt; into new chemical domains, including electrochemical
+mechanisms for battery and CO&lt;sub&gt;2&lt;/sub&gt;RR applications, and an automated
+fragment-based modeling framework for the pyrolysis of large molecules.
+Together, these advances improve new users’ experience, expand
+the range of tractable systems, and maintain &lt;span style="text-transform:lowercase;font-variant:small-caps;"&gt;RMG-Py&lt;/span&gt; at the
+forefront of computational kinetic modeling.&lt;/span&gt;</description>
+</item>
+<item>
+<title>miRNA–mRNA
+Binding Prediction Model Using Unknown
+and Experimentally Nondetected Interaction Data</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03128/5474808/miRNA-mRNA-Binding-Prediction-Model-Using-Unknown</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03128</guid>
+<pubDate>Mon, 23 Nov 2026 13:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03128/1/m_ci6c03128_0014.png?Expires=2147483647&amp;amp;Signature=XnP8ubpt9fQnq~XDDtr53iv~n6tyxl3-ZS5Lemaz17dZ1SuTepDehkJjSZXhAi1OczT6J~dOstEYYukX9D-nooVgO9TrtG4ckds42u0Dxl3pnTbfkQbwZjlaOiGrm5fbhsd0lryALGcKuCIJ3PYPtxchLJjjSzzllMVAv09eAnhkXisvKT5N~7gXoAGs-OgMK8TJNdiJWYyq4QCGm8DIbAyKy8EYkKrNaNtC5O1H~BlTWTkyIIDGayNKwhrdey-HC5F3r0~-4Bwm6E1dBrbBC3C5e8VI0KcMde6EssLk3XxptAfS3R5HMqD3WwTMy2B5FA2TwqUW2uRobGvSQCFllQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="miRNA–mRNA
+Binding Prediction Model Using Unknown
+and Experimentally Nondetected Interaction Data" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;MicroRNA (miRNA)– messenger RNA (mRNA) interactions
+inhibit
+gene expression, including the expression of disease-associated genes,
+and therefore have broad applications in drug discovery and therapeutics;
+however, experimental identification is challenging owing to the vast
+number of possible combinations and the high cost of experimentation.
+In this study, we developed a method for predicting miRNA–mRNA
+interactions using pseudonegative sampling and ensemble learning.
+Unlabeled miRNA–mRNA pairs were randomly sampled as pseudonegative
+training data, and 100 LightGBM classifiers were constructed to reduce
+dependence on particular training data selections. Using 248 experimentally
+nondetected interaction pairs collected through a literature review,
+we evaluated the ensemble binding scores and explored the usefulness
+of different sequence-derived explanatory variables. The combination
+of screening, &lt;span style="font-style:italic;"&gt;k&lt;/span&gt;-mer first–last distance, and
+CKSNAP showed better discrimination between experimentally confirmed
+binding pairs and nonbinding pairs than the other feature combinations
+examined in this exploratory analysis. These findings suggest that
+pseudonegative sampling-based ensemble learning provides a useful
+framework for investigating miRNA–mRNA interactions.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Chemical Language
 Models for Prediction of Radiolytic
 Transformation Products from Molecular Structure</title>
@@ -4927,34 +5024,6 @@ Cell-Penetrating Peptide Design</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01267</guid>
 <pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01267/5428007/Closed-Loop-Multi-Objective-Optimization-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01267/1/m_ci6c01267_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Distinct Lipid
-Binding Dynamics and Sodium Ion Coordination
-in the TRAP Transporter  Hi SiaQM Revealed by Multiscale
-Molecular Dynamics Simulations</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01356/5426625/Distinct-Lipid-Binding-Dynamics-and-Sodium-Ion?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01356</guid>
-<pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01356/5426625/Distinct-Lipid-Binding-Dynamics-and-Sodium-Ion"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01356/1/m_ci6c01356_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] APDB: A Large-Scale
-Repository of Predicted 2D and
-3D Aptamer Structures</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02031/5431814/APDB-A-Large-Scale-Repository-of-Predicted-2D-and?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02031</guid>
-<pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02031/5431814/APDB-A-Large-Scale-Repository-of-Predicted-2D-and"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02031/1/m_ci6c02031_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] MultiRSF: A Deep
-Learning Approach for Predicting
-RNA-Small-Molecule Binding Sites Using Surface Characteristics</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02039/5426417/MultiRSF-A-Deep-Learning-Approach-for-Predicting?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c02039</guid>
-<pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02039/5426417/MultiRSF-A-Deep-Learning-Approach-for-Predicting"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c02039/1/m_ci6c02039_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
