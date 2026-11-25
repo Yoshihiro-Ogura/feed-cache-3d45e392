@@ -5,6 +5,112 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>ModBind dG  as a Physics-Based Oracle: Training
+Drug Discovery AI Models with Little or No Experimental Data</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02986/5476094/ModBinddG-as-a-Physics-Based-Oracle-Training-Drug</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02986</guid>
+<pubDate>Tue, 24 Nov 2026 17:00:40 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02986/1/m_ci6c02986_0008.png?Expires=2147483647&amp;amp;Signature=4xCv593K74XY19hHh~1Pi-VVxCvDODdubLyr3tsh6XsyX5Y848ZKpDlVBtSIOaisjVd9PgomyfLFD9tkwxRkdhRMxpST~qVMeAnctMuh6sT66Mn5GhDxctpjb040zqm6tFljJzZ-pJGSEDwg~gFim2XRJM-60RdFb7Hu4KMWg0CxWUaNURn81WA41dG0SMrpbKh2iY~Muey1-QfPjU1czEklxWzgEDlCnYN6ia5O44NJwS3xIJwT~2UZfuf9mH1d~xnEk1MHwLN5n0RbuNX41qf1TmkrreXo3WoTw9B4wVmV-i79Rw~RTMmnU1TgFUWa~eWk~1UhQ-Dz-LUZWUSagA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="ModBind dG  as a Physics-Based Oracle: Training
+Drug Discovery AI Models with Little or No Experimental Data" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;AI models of drug–target
+binding affinity are limited by
+the scarcity of experimental data, particularly for novel or understudied
+targets. Here, we show that ModBind&lt;sub&gt;dG&lt;/sub&gt;, a rapid molecular-simulation-based
+method for predicting absolute binding free energies, can serve as
+a physics-based oracle that generates synthetic affinity data accurate
+enough to train predictive AI models with little or no experimental
+data. First, we demonstrate across 16 diverse chemical series and
+16 X-ray structures, with diverse protein conformations and binding
+modes, that ModBind&lt;sub&gt;dG&lt;/sub&gt; predicts absolute binding free energies
+with a mean unsigned error of approximately 1 kcal/mol without per-series
+calibration. We then show that a target-specific AI model trained
+solely on ModBind&lt;sub&gt;dG&lt;/sub&gt; predictions, using no experimental
+labels, accurately ranks the held-out experimental affinities. Extending
+this idea to general drug–target interaction (DTI) models,
+we introduce ModBind&lt;sub&gt;AL&lt;/sub&gt;, an active-learning framework that
+uses ModBind&lt;sub&gt;dG&lt;/sub&gt; as the oracle to iteratively augment a general
+DTI model (DeepConvDTI). Across three additional kinase targets, synthetic
+data augmentation improved test-set Pearson correlation for all three
+targets tested. Because two distinct AI architectures both benefit
+from the ModBind&lt;sub&gt;dG&lt;/sub&gt; oracle, the accuracy of the synthetic
+data rather than any specific model appears to drive the improvement.
+In the course of this work, we identified and corrected substantial
+train/test contamination and a missing-negative-example issue in the
+CARA benchmark, establishing a fairer baseline for evaluation. Together,
+these results indicate that high-quality synthetic absolute binding
+affinity data from a physics-based oracle can build and improve AI
+models of drug–target affinity with minimal experimental data,
+with direct implications for all stages of early drug discovery.&lt;/span&gt;</description>
+</item>
+<item>
+<title>A Multiplexed Sampling
+Strategy for Generating Diverse
+Protein Conformations with Generative Deep Networks: A General Framework
+Illustrated with Aβ42</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02035/5476070/A-Multiplexed-Sampling-Strategy-for-Generating</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02035</guid>
+<pubDate>Tue, 24 Nov 2026 17:00:40 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02035/1/m_ci6c02035_0010.png?Expires=2147483647&amp;amp;Signature=xvCSgTEC0qbNOIJorhPD-wsZrjmHb-0VkIoik0uwumkgV1iJ-QpDiBZwpdah99fQr93gvfSCgKfQBAj9do7RnHGLI9ZNAlelHwKo810Im9aIArDhShtS6PmzwCo5dgSR113hfyUrlvJb9K4p4BgPOw3zsV8sqwmI8eX7S-B1GbhCsMlXugHqbN8ywOOJk3gGtOEV~92U0aD2FV7QvkDr8o2j7GI4a7iJBgpP4jpgEyxlI1Wh58EgJh~6zdIPhE-S2az7o015r8O8RuXue7JXiQYyeBIbvMMcubasKJI~cVGeXKuNX3wH~hxH~MBlFkSNVG2lMjvOssyFcdJ2vzuSDQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="A Multiplexed Sampling
+Strategy for Generating Diverse
+Protein Conformations with Generative Deep Networks: A General Framework
+Illustrated with Aβ42" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This paper introduces a novel generative framework, ProFormX,
+that
+combines variational autoencoding with GAN-style generation from noise
+to synthesize diverse and stable protein conformations, specifically
+focusing on Amyloid-β&lt;sub&gt;1–42&lt;/sub&gt; (Aβ42). Traditional
+methods struggle with Aβ42’s conformational flexibility
+and aggregation tendencies. ProFormX leverages a new sampling technique
+within its latent space to generate energetically stable and physically
+valid conformations, overcoming issues like mode collapse and poor
+sample diversity. The model learns from the intrinsic disorder of
+Aβ42 dynamics and explores its conformational space to produce
+novel structures not seen in the training dataset. Extensive computational
+experiments demonstrate ProFormX’s efficiency in generating
+novel Aβ42 structures, providing insights into its conformational
+landscape, and identifying key characteristics associated with Aβ42
+aggregation, which may provide candidate structures for future studies
+of neurodegenerative diseases. The study also highlights the model’s
+ability to capture biologically important structures, including specific
+hairpin formations and the interplay between salt bridges and hydrophobic
+packing in forming toxic conformations.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Conformer Handling
+in Machine-Learned  31 P NMR Prediction: How Many, How Weighted,
+and When It Matters</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02739/5476039/Conformer-Handling-in-Machine-Learned-31P-NMR</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02739</guid>
+<pubDate>Tue, 24 Nov 2026 15:00:37 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02739/1/m_ci6c02739_0008.png?Expires=2147483647&amp;amp;Signature=12RdfTNGaU5iKUe9eQHTnIIYh0GhqMmUgMlSCapM3PlFGakkAq5reTXejvIaQNLN-jm0u142972Zr0Is00H~gA3qKayoiz4F0EbXu9WEPcTSU~l-0vXU8ycIAy5bUzbsbF~qP5ieV9GEaun-LJFgDs8TJpN5HIO~r4nb6bRBkXnZmcUhs-DSPdXi5kbn7oQKu0Fp7DHB8zRDYACkDTm2AHayTKCM1410eZ~HKbliyJy~W77PvvBXqqNrCJ6LgdUtn57~-APZFWTiGOvnnALil1H57mxpAXp9MvEPLeuu3gws4mp-DTuoOv9xSCoayNasNmdi8SlZNCSWptr~jjCpag__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Conformer Handling
+in Machine-Learned  31 P NMR Prediction: How Many, How Weighted,
+and When It Matters" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Conformer ensembles
+improve machine-learned &lt;sup&gt;31&lt;/sup&gt;P NMR
+shift prediction, but the improvement is unevenly distributed across
+the workflow; aggregating predictions over an ensemble at inference
+time gains around 0.23 ppm against a 10.5 ppm baseline, whereas training
+on a conformer ensemble rather than a single structure gains about
+four times more. This paper examines the conditions under which conformers
+are worth generating and how many are needed by statistically evaluating
+experimental results on the Ilm-NMR-P31 data set. Both effects saturate
+at five conformers per molecule, recovering 94% of the training time
+benefit and 82% of the inference time benefit, and tripling the training
+set beyond that point yields nothing measurable, so the benefit does
+not follow from training set size alone. On unrefined GFN2-xTB geometries
+of the same conformers, the training time effect, the inference time
+effect of models trained on all conformers, and their saturation at
+five conformers are reproduced. For models trained on conformer ensembles,
+neither the weighting of the conformers nor their selection matters
+in practice; conformers drawn at random and averaged equally perform
+as well as energy-ranked, Boltzmann-weighted ensembles, thus allowing
+the expensive frequency analysis to be skipped. No significant difference
+in the usefulness of conformers was detected across phosphorus chemistry
+or local flexibility, although the statistical power of the smaller
+P(III) subgroups was limited. At a fixed training-set size, however,
+rows spent on previously unrepresented molecules are worth considerably
+more than rows spent on further geometries of molecules already present,
+so broadening the set of molecules is the better investment where
+conformer generation is the limiting cost.&lt;/span&gt;</description>
+</item>
+<item>
 <title>LICA: A Multiview
 Relation-Aware Equivariant Graph
 Neural Network with Interfacial Atomic-Pair Attention for Protein–Ligand
@@ -4961,69 +5067,6 @@ regimes, reducing tail MAE by up to ∼1.8 °C. AdventML
 also showed that competitive (&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;opt&lt;/sub&gt;) prediction
 is possible in the absence of organism growth temperature. Our &lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;opt&lt;/sub&gt; prediction models are made freely available
 as AdventML on GitHub.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Peptide Assembly
-Design Algorithm: A User-Friendly
-Computational Tool for Discovering Amyloid-forming Peptides</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01893/5449276/Peptide-Assembly-Design-Algorithm-A-User-Friendly</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c01893</guid>
-<pubDate>Mon, 12 Oct 2026 18:00:43 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01893/5449276/Peptide-Assembly-Design-Algorithm-A-User-Friendly"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c01893/1/m_ci6c01893_0011.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Rational design of self-assembling
-peptides that form
-amyloid-like
-structures is challenging due to the vast combinatorial sequence space
-for amino acids. To address this challenge, we have developed the
-Peptide Assembly Design (PepAD) algorithm, a Monte Carlo-based method
-for designing self-assembling peptides based on pre-defined amyloid
-backbones. In this work, we introduce the user-friendly package, PepAD,
-to the research community (GitHub link: https://github.com/CarolHall-NCSU-CBE/PepAD-User-Friendly-Package).
-This package allows users to flexibly design and customize peptides
-by specifying initial structure, amino acid composition, and constraints.
-Detailed instructions for code compilation, execution, and interpretation
-of outputs are provided. Guidance on selecting several important design
-parameters is provided. As an example to illustrate the use of PepAD,
-we describe the design of peptides that assemble into antiparallel
-fibrils with and without single-site constraints. We expect that this
-release will streamline the design process and speed up the discovery
-of programmable self-assembling peptides for biofunctional materials.&lt;/span&gt;</description>
-</item>
-<item>
-<title>CHARMM-GUI  Covalent Ligand Docker  as a Web-Based
-Molecular Docking
-Platform for Covalent Ligands</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02343/5448623/CHARMM-GUI-Covalent-Ligand-Docker-as-a-Web-Based</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02343</guid>
-<pubDate>Sun, 11 Oct 2026 20:00:36 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02343/5448623/CHARMM-GUI-Covalent-Ligand-Docker-as-a-Web-Based"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02343/1/m_ci6c02343_0007.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Covalent inhibitor
-research is an emerging topic in drug
-discovery
-because of its superior performance in specificity and inhibition
-effects. While molecular docking is a popular strategy in predicting
-and assessing ligand conformations or poses in receptor proteins,
-covalent ligand docking requires nontrivial preparation efforts as
-the ligand structure changes during the covalent complex formation.
-In order to facilitate molecular docking for covalent ligands, we
-have developed CHARMM-GUI &lt;span style="font-style:italic;"&gt;Covalent Ligand Docker&lt;/span&gt; (CGUI-CLD),
-a new module for covalent ligand docking supported by AutoDock4. CGUI-CLD
-automates ligand preparation, supports ligand modification, implements
-docking simulations, and presents results through an intuitive user
-interface. A knowledge-based library built in CGUI-CLD currently supports
-66 warheads and 8 amino acids, which can be used to automate the covalent
-ligand transformation from a prereaction to a postreaction adduct
-form seamlessly. Moreover,  CHARMM-GUI &lt;span style="font-style:italic;"&gt;High-Throughput Simulator&lt;/span&gt; is integrated for rapid generation of multiple molecular dynamics
-simulation systems. CGUI-CLD is expected to significantly reduce the
- unnecessary workload of covalent ligand docking and advance covalent
-ligand research.&lt;/span&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] Closed-Loop Multi-Objective
-Optimization for Receptor-Selective
-Cell-Penetrating Peptide Design</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01267/5428007/Closed-Loop-Multi-Objective-Optimization-for?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01267</guid>
-<pubDate>Sat, 10 Oct 2026 15:02:56 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01267/5428007/Closed-Loop-Multi-Objective-Optimization-for"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01267/1/m_ci6c01267_0006.svg" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
