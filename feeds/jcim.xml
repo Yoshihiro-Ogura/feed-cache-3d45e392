@@ -5,6 +5,43 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>A Minimal Hamiltonian
+Predicts Genome Architecture
+across Resolutions and Cell Types</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02776/5476423/A-Minimal-Hamiltonian-Predicts-Genome-Architecture</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02776</guid>
+<pubDate>Wed, 25 Nov 2026 11:00:41 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02776/1/m_ci6c02776_0009.png?Expires=2147483647&amp;amp;Signature=XG~OHajhEukObwqolDE-cIclsLQp3A49BgmKA5E07qDSaYpo3~4hZ8amtAFg31Ak4x1BDcSFxfDFNgdkKd9Oe3ICsUK4tR7w9EtA9DzYCtjgDuA07y9upEotj6UsLiXymyM86D6s3kjZsSC9TDjB~fz-bcysO7lhdt1ub2vu5C-iT3wPs2vrT~GYL0EgD0DnqDUiGzlyQR~VapJwqGbeeUK71C74ozlh1MzJYgyvrn3b0L3vSIdFKGmjw1x~HXoqIAAsUdTmhtB518g1LSQW1i86dQsk9t7bMvvOC~RSyiXhajGdTWE0HhDNBjtlqKDKSplOsxzegO1tAkWlWIsXfQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="A Minimal Hamiltonian
+Predicts Genome Architecture
+across Resolutions and Cell Types" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The three-dimensional organization of the genome underlies
+essential
+regulatory processes and is commonly inferred from two-dimensional
+Hi-C contact maps. Although higher-resolution data sets reveal increasingly
+rich structural features, training polymer models at fine genomic
+resolutions remains computationally demanding and often unstable.
+Here, we show that the Minimal Chromatin Model (MiChroM) learns a
+Hamiltonian whose underlying energetic principles remain remarkably
+consistent from 100 kb down to 10 kb resolution. While compartment-driven
+interactions are largely preserved across scales, refinement of the
+effective potential describing genomic-distance-dependent chromatin
+compaction, the ideal chromosome potential, progressively resolves
+finer structural features, including local contact heterogeneity and
+topologically associating domains, without altering the global folding
+framework. We further introduce an efficient sliced-map training strategy
+that optimizes the key energetic terms using only a representative
+subset of the Hi-C matrix, enabling rapid and stable construction
+of high-resolution models. At a given resolution, the learned Hamiltonian
+accurately predicts chromatin organization across the genome and diverse
+cell types without additional chromosome- or cell-type-specific optimization.
+Across resolutions, the conserved interaction hierarchy provides a
+transferable initialization, whereas numerical parameter values require
+resolution-specific calibration. These results demonstrate that chromosome
+architecture can be understood as the interplay between a universal
+physical Hamiltonian and cell-type-specific compartment annotations,
+providing a practical and physically interpretable framework for predictive
+modeling of genome organization.&lt;/span&gt;</description>
+</item>
+<item>
 <title>ModBind dG  as a Physics-Based Oracle: Training
 Drug Discovery AI Models with Little or No Experimental Data</title>
 <link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02986/5476094/ModBinddG-as-a-Physics-Based-Oracle-Training-Drug</link>
@@ -5047,26 +5084,6 @@ Action from Transcriptional Profiles and Sequence Information</title>
 <guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01275</guid>
 <pubDate>Mon, 12 Oct 2026 21:02:50 GMT</pubDate>
 <description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01275/1/m_ci6c01275_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>AdventML: Advanced Enzyme Temperature Prediction with
-Transformer-Based Embeddings and Resampling Strategies</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02109/5449357/AdventML-Advanced-Enzyme-Temperature-Prediction</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02109</guid>
-<pubDate>Mon, 12 Oct 2026 20:00:45 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02109/5449357/AdventML-Advanced-Enzyme-Temperature-Prediction"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02109/1/m_ci6c02109_0009.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Accurate prediction
-of enzyme optimal catalytic temperature (&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;opt&lt;/sub&gt;) is important for enzyme applications, particularly
-for identifying biocatalysts stable in extreme conditions, but experimental
-measurement remains costly and time-consuming. Here, we present AdventML,
-a machine learning framework for (&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;opt&lt;/sub&gt;) prediction that expands the available models, evaluates protein
-representations and model architectures, and compares resampling strategies
-for improving performance at extremes. The base AdventML model achieved
-the best global held-out performance among the evaluated methods (&lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; ≈ 0.64), MAE ≈7–8 °C,
-while tail-focused variants improved selected extreme-temperature
-regimes, reducing tail MAE by up to ∼1.8 °C. AdventML
-also showed that competitive (&lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;opt&lt;/sub&gt;) prediction
-is possible in the absence of organism growth temperature. Our &lt;span style="font-style:italic;"&gt;T&lt;/span&gt;&lt;sub&gt;opt&lt;/sub&gt; prediction models are made freely available
-as AdventML on GitHub.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
