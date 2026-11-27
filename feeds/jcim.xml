@@ -5,6 +5,123 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Reaction Yield
+Prediction under Distribution Shift
+via Structured Chemistry-Aware Representation and Conditional Fusion</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02103/5477714/Reaction-Yield-Prediction-under-Distribution-Shift</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02103</guid>
+<pubDate>Fri, 27 Nov 2026 03:00:38 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02103/1/m_ci6c02103_0008.png?Expires=2147483647&amp;amp;Signature=Ht2cWzK9i5Y4xAAxCGsESWPw278DK3M3JB5YMPkqIQZTjwl9YTx2sO9RPrVw-f17qIdU-hz2y0XNaGixUWDed6zkAaeFRmDRCz9VFMxxExxeZueCKUFX7dkQQtqdFLvYHrCGZKximc2O0plL21xAwfsfJYBW-O32GeHtovXKPjmNQXf6FLe74rKFoiDtditEYF6tupB9B9xmoedTfcLnkv~8rwH-3rmdkQhA2yxRwxYdaLrqkP8BEtOJ4cGcAN7pfXH0FzyyOWEs4te5Ho0IOGW2NtnhUn4EzCYHuj52YAhyGf9raKsbm5K0Skcqj8ydRift~bCCBqiN9kJFu6Nkgw__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Reaction Yield
+Prediction under Distribution Shift
+via Structured Chemistry-Aware Representation and Conditional Fusion" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Reaction
+yield prediction is central to synthesis planning and
+reaction optimization, but reliable generalization beyond observed
+chemical space remains challenging. Here we propose a structured chemistry-aware
+framework for out-of-distribution reaction-yield prediction that encodes
+reaction-component topology, reaction-center priors, and chemistry-informed
+descriptors in parallel and integrates them through conditional graph–chemistry
+fusion. The method is evaluated on two public high-throughput experimentation
+benchmarks using additive-held-out Buchwald–Hartwig reactions
+and scaffold-held-out Suzuki–Miyaura reactions. Compared with
+a graph-only baseline, the proposed model reduces the mean split-level
+MAE by 17.2% across ten Buchwald–Hartwig additive-identity-held-out
+splits, while achieving MAE reductions of 19.2–35.5% across
+three Suzuki–Miyaura ligand-scaffold-held-out splits. Ablation
+results indicate that reaction-center guidance and chemistry-informed
+descriptors provide complementary improvements. These results suggest
+that chemically targeted inductive bias can improve reaction-yield
+prediction under distribution shift, although strongly shifted chemical
+regimes remain difficult for all tested methods.&lt;/span&gt;</description>
+</item>
+<item>
+<title>PHCNet: Context-Aware
+Prediction of Peptide and Protein
+Half-Life</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03486/5477222/PHCNet-Context-Aware-Prediction-of-Peptide-and</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03486</guid>
+<pubDate>Thu, 26 Nov 2026 12:00:44 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03486/1/m_ci6c03486_0006.png?Expires=2147483647&amp;amp;Signature=XhJQYHgLA1uvlvJsexZd2UFqHHTc3c3bWmrkCq83poKtH8jheYX6KAq47tekBLfAidfCuu7eZgitRexHVCXvMcCX74Kgi-K332VE8xMkI1br3OFfRHfTFIhqYbosxrPoMh0UCFidPYHFcicsCTYbP5MwaMom2PwnN51ytBjvAP~popfKbz9ssUTHwDbhGkZI~3NTDFWZGItMtQqXZVZAMI5Rfa2KyBYTZfZHzCxrXbUhztj77guoEz79umBuhqd2ekiadpVgcJIPgRGKciW1oFjh8oq5IOxD7bV02cXdLN7vfpHhkHuUp8GfiraXMIXIPCDVi2Ghyv2mlbLIjOovKA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="PHCNet: Context-Aware
+Prediction of Peptide and Protein
+Half-Life" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Peptide
+and protein therapeutics provide potent and selective mechanisms
+of action, but poor bioavailability, rapid degradation, and clearance
+can limit exposure and increase dosing burden. Half-life extension
+strategies can improve pharmacokinetics, yet their effects are difficult
+to predict before candidate synthesis and experimental testing. We
+developed the Peptide Half-life Context Network (PHCNet) to predict
+half-life by jointly modeling amino acid sequence, molecular modifications,
+and experimental context while retaining information on reported within-study
+variability. Frozen ESM2–8M, ESM2–650M, and ProtBERT
+encoders were used separately to extract sequence representations;
+each representation was then combined with experimental context, modification,
+and physicochemical information in PHCNet, and the resulting predictions
+were combined by equal-weight ensembling. In a curated literature-derived
+cohort, 1,556 primary single-value records were used for model development
+and evaluation, whereas 655 auxiliary mean ± SD records were
+restricted to dispersion-weighted training supervision. In an exploratory
+measurement-level 10-fold internal evaluation on the cohort previously
+used in model development, pooled outer-test predictions from the
+equal-weight ensemble yielded an RMSE of 0.5324, an &lt;span style="font-style:italic;"&gt;R&lt;/span&gt;&lt;sup&gt;2&lt;/sup&gt; of 0.7186, and a Pearson correlation of 0.8478, compared
+with an RMSE of 0.5708 for the Extra Trees baseline. Lower performance
+under sequence- and source-grouped evaluation indicates that the primary
+estimate reflects interpolation within the available literature data.
+PHCNet provides a context- and reliability-aware framework for learning
+from heterogeneous half-life measurements; its potential use in candidate
+prioritization requires validation in independent retrospective cohorts
+and prospective experimental studies.&lt;/span&gt;</description>
+</item>
+<item>
+<title>Overcoming the
+Limitations of ESP Fitting with Distributed
+Charges and SAPT Training─Application to Water</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c03056/5477050/Overcoming-the-Limitations-of-ESP-Fitting-with</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c03056</guid>
+<pubDate>Thu, 26 Nov 2026 05:00:35 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c03056/1/m_ci6c03056_0009.png?Expires=2147483647&amp;amp;Signature=Suw3hCxAiPJpVDEruiUZMokm5NzdObTO2Gf6C9aML859CBWrhB-sKTAEJN3twCOnPQOuUMdEqbWSnaqqO4W1GY60aSL92BwQepQkqJHUzAf4J3XmXI0keLjSivbJSO3FFseGY16ZaYzPSYgMgZjcTd96UqXqrERbSba2lab9Ax7zqamIooFW7tiGKJwBvBinF5yXRgyYRyrX1NZabVlbRnDWDQtiyUCm56n4xmaOcQ-~9KN-UI72PF08RPrO3GcJBMBdkHhSmjWtrxUL7Kn8dWccWGVOq5JECHoBN6-5xwGN4t2db~IPUJ6r~SU-MqAO-34-zAUtG--IpnMp2tY5zQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Overcoming the
+Limitations of ESP Fitting with Distributed
+Charges and SAPT Training─Application to Water" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Electrostatic models in classical force fields are routinely
+parametrized
+by fitting partial charges to the quantum-mechanical electrostatic
+potential (ESP) of isolated molecules. Recent work by Hosseini et
+al. (J. Chem. Theory Comput. &lt;strong&gt;22&lt;/strong&gt; (2026), 2220–2231)
+showed that models fitted to ESP can exhibit substantial errors in
+intermolecular energies. Here, we use water as a well-defined model
+system to investigate the origin of this discrepancy by systematically
+separating the effects of the electrostatic representation and the
+training target. We consider models of increasing complexity, ranging
+from three- to six-site point-charge models to architectures combining
+point charges with Gaussian- or Slater-distributed charges. Parameters
+and virtual-site positions were trained either against monomer ESPs
+or directly against electrostatic interaction energies derived from
+symmetry-adapted perturbation theory (SAPT) using the Alexandria Chemistry
+Toolkit (Van der Spoel et al., Digit. Discov. &lt;strong&gt;4&lt;/strong&gt; (2025)
+1925–1935). Increasing the number of point charges alone does
+not substantially improve the interaction energies, with both ESP-
+and SAPT-trained point-charge models yielding Root Mean Squared Errors
+(RMSEs) of about 14–15 kJ mol&lt;sup&gt;–1&lt;/sup&gt;. On the other
+hand, distributed-charge models reach RMSEs of 1.2–1.3 kJ mol&lt;sup&gt;–1&lt;/sup&gt;, but only when trained directly against SAPT. The
+corresponding ESP-trained models remain at 4.9–7.7 kJ mol&lt;sup&gt;–1&lt;/sup&gt; and show larger variation between independent trainings.
+At larger intermolecular separations, both training strategies perform
+similarly. In contrast, more complex SAPT-trained models perform markedly
+better than ESP-trained models at short distances, while retaining
+realistic monomer dipole and quadrupole moments. Combining the pretrained
+electrostatic models with Lennard–Jones 12–6 or buffered
+14–7 van der Waals potentials showed that more accurate electrostatics
+did not consistently improve total interaction-energy accuracy. Joint
+refinement against total energies and SAPT components reduced dispersion
+and exchange errors, but improved total accuracy more consistently
+with buffered 14–7. These results show that accurate short-range
+electrostatics can be achieved by combining finite-width charge distributions
+with direct training against intermolecular electrostatic energies.
+While the exterior monomer ESP adequately constrains the longer-range
+electrostatic field, it does not fully determine interactions at close
+contact. Distributed-charge models trained against SAPT therefore
+provide a practical route to improved short-range electrostatics,
+but translating this improvement into accurate complete interaction
+potentials requires coordinated derivation of the remaining interaction
+terms.&lt;/span&gt;</description>
+</item>
+<item>
 <title>A Minimal Hamiltonian
 Predicts Genome Architecture
 across Resolutions and Cell Types</title>
@@ -5006,84 +5123,6 @@ Finally, challenges for standardized molecular-evaluation systems
 are analyzed, and future trends of chemometrics-assisted multiobjective
 optimization and large-model-driven intelligent molecular profiling
 are prospected.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Deciphering Cellular
-and Spatial Regulatory Identities
-from Sparse Chromatin Accessibility Landscapes</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02880/5449424/Deciphering-Cellular-and-Spatial-Regulatory</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02880</guid>
-<pubDate>Tue, 13 Oct 2026 02:00:35 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02880/1/m_ci6c02880_0008.svg?Expires=2147483647&amp;amp;Signature=ezUTNrkrpOEL43UV-mlqCedbjomIEub8LIwOqq79JcmpAqfZfu4hRguHWaXIkt3B19Jx3lV6xFdpqGqgbUVei-3dMXf9945Oyumnkyw0QpnvMnag~z-Z2UHc4BMqqhihsTFCJ5XVctshbtH1qu-AQzOaLv4skyTyX0n14vbQA3s5P6FONYbIgsT~p4avtQzMriiCe8MTWkTVYqygNKH4U5zlsT13NX~O1Py0upi4JSSy-e5MRjm~KOwFlJ-ymjWhzEhjIbZB3C8ajvBh2ZUX2m0zfNZgrOzZDKcJhgEJXD9cvc70995UbBIWvzbVTCFuYDjuZjv7Zml2MQZVuSOS3A__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Deciphering Cellular
-and Spatial Regulatory Identities
-from Sparse Chromatin Accessibility Landscapes" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Chromatin
-accessibility profiling provides a powerful view of regulatory
-landscapes across heterogeneous biological systems, enabling the investigation
-of cell-state diversity and spatially organized regulatory programs.
-However, deciphering meaningful regulatory identities from sparse
-and noisy accessibility landscapes remains challenging, particularly
-for closely related cellular states and neighboring regulatory domains.
-Unlike transcriptomic measurements, chromatin accessibility does not
-directly capture canonical marker expression, and regulatory identities
-must therefore be inferred from indirect evidence, including gene
-activity scores, transcription factor motif activity, and reference-based
-annotation. These signals often become ambiguous, limiting the reliability
-of unsupervised clustering followed by post-hoc interpretation. Here,
-we present CASSIA (Chromatin Accessibility Semi-Supervised Identity-Aware
-representation learning), a unified label-guided framework for decoding
-cellular and spatial regulatory identities from chromatin accessibility
-landscapes. CASSIA leverages limited high-confidence anchors to learn
-informative accessibility representations while preserving intrinsic
-regulatory structures. The framework integrates a binary accessibility
-denoising autoencoder, a Jensen–Shannon divergence-based clustering
-constraint, and a similarity difference-aware triplet objective; spatial
-neighborhood consistency is further incorporated to preserve regulatory
-organization when spatial information is available. Across diverse
-chromatin accessibility datasets, CASSIA reconstructs cellular and
-spatial regulatory identities with improved agreement to biological
-annotations and tissue organization compared with representative baselines.
-Identity-associated accessible regions and transcription factor activity
-profiles reveal distinct regulatory programs underlying inferred identities,
-demonstrating that CASSIA transforms sparse accessibility landscapes
-into interpretable cellular and tissue-level regulatory maps.&lt;/span&gt;</description>
-</item>
-<item>
-<title>A Transferable
-Descriptor for Accurate Prediction
-of Excitonic Couplings in A-D-A Organic Photovoltaic
-Acceptors</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02209/5449418/A-Transferable-Descriptor-for-Accurate-Prediction</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02209</guid>
-<pubDate>Tue, 13 Oct 2026 02:00:35 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02209/1/m_ci6c02209_0007.png?Expires=2147483647&amp;amp;Signature=KSTVPuQiw6J8mZC5n5cSvXjzpWRCEah2aCHDUo88dSgNYpbzi5BBlw98cxWpyZusA50oVcniiMIBAzhrvicqHXYJdFShq4P3PUy5NOKdxLtbosnTqQD4uum9ukBJU6wnd3j0LblAhpILvg7ok~eM4kmqUT0I2zwcXdVn-qB9Zvqe5d4GZJwy2jeoLoWfo-st9bbsZeBcYiw-GncxIUU3PVcWrqmAQZjMuRjqMPlquHPUZHJRWEYd2ewbQpZC3dMhnmUHR8uXB1kSHZVaaA1YWNlv7VuXDBwAJeZAixoUFJ8V~izmNAMFfFCjOwar8GBBRoSK5QdB-WkzB~1hqkcwkQ__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="A Transferable
-Descriptor for Accurate Prediction
-of Excitonic Couplings in A-D-A Organic Photovoltaic
-Acceptors" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Exciton diffusion length (&lt;span style="font-style:italic;"&gt;L&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt;) is a
-key parameter determining the power conversion efficiency of organic
-solar cells (OSCs), yet its fast and accurate calculation is computationally
-challenging due to thin-film structural disorder and the long-range
-nature of excitonic coupling. Herein, we introduce a coarse-grained
-Coulomb matrix (CG-CM) descriptor that enables rapid and accurate
-prediction of excitonic couplings. By mapping molecular conjugated
-backbones onto a fixed number of beads, our descriptor eliminates
-the dimensionality dependence on the number of atoms, allowing the
-machine learning model to generalize across molecules with different
-sizes and chemical structures. The model achieves high accuracy with
-a coefficient of determination (R&lt;sup&gt;2&lt;/sup&gt;) exceeding 0.92 across
-diverse nonfullerene acceptor systems, including Y-type and ITIC-type
-materials. We further demonstrate the model’s reliability in
-capturing excitonic coupling fluctuations, predicting &lt;span style="font-style:italic;"&gt;LD&lt;/span&gt; in disordered thin films, and reproducing &lt;span style="font-style:italic;"&gt;L&lt;/span&gt;&lt;sub&gt;D&lt;/sub&gt; anisotropy in crystalline systems. This work
-provides a powerful and efficient tool for high-throughput screening
-of high-performance organic photovoltaic materials.&lt;/span&gt;</description>
-</item>
-<item>
-<title>[Graphical abstract added] MoaNet: Learning
-Protein–Ligand Mechanism of
-Action from Transcriptional Profiles and Sequence Information</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action?acs_ga=1</link>
-<guid>urn:acs-graphical-abstract:10.1021/acs.jcim.6c01275</guid>
-<pubDate>Mon, 12 Oct 2026 21:02:50 GMT</pubDate>
-<description>&lt;p&gt;&lt;a href="https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c01275/5429683/MoaNet-Learning-Protein-Ligand-Mechanism-of-Action"&gt;&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/18/10.1021_acs.jcim.6c01275/1/m_ci6c01275_0008.png" alt="Graphical abstract" style="max-width:100%;height:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
