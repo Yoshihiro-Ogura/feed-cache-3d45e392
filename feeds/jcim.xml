@@ -5,6 +5,42 @@
 <link>https://pubs.acs.org/rss/jcisd8/asap.xml</link>
 <description>J.Chem.Inf.Model. (mirrored feed)</description>
 <item>
+<title>Deciphering Antigen–Antibody
+Interactions via
+Geometric Graph Representations and Transfer Learning</title>
+<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02176/5477829/Deciphering-Antigen-Antibody-Interactions-via</link>
+<guid>http://dx.doi.org/10.1021/acs.jcim.6c02176</guid>
+<pubDate>Fri, 27 Nov 2026 07:00:52 GMT</pubDate>
+<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02176/1/m_ci6c02176_0005.png?Expires=2147483647&amp;amp;Signature=0IWl6Y0XJPC27NkKt4ACL~1iXtG-HmlPTkvHCsoVxmaKLq0pfMwcxHRST5i5L14LzLhbfkGEqMgE1S4Y4H0uE6vr0FcKcvFUCiGG6w~SgczIK1uKsStPcVciGckoq0am5fqjAE6KGzQ5hEgtR7wplCQc8VQOrdfn3RGAXMoH6bRggVyo4Ut78PCIgXzbt1hqU3lCQ5kbB2xIkXEOQWWKuVnRtcCAXtWTRq5BlLG0AREnZYW0nq4z~TCPkPQW~VEfYQIxz3ZrCFkSdS40ZagPBmAOXYfAkx8l7hcsooZs3xxetQsD4bYsbncdMaj3IEbRZXGAc9hkWXrGXbqA10~K8Q__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Deciphering Antigen–Antibody
+Interactions via
+Geometric Graph Representations and Transfer Learning" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Deciphering antigen–antibody interactions is pivotal
+for
+understanding immune recognition and accelerating therapeutic antibody
+development. However, experimental characterization remains costly
+and labor-intensive, while existing computational approaches have
+not fully exploited protein structural geometry. Moreover, these predictors
+often struggle to effectively bridge the gap between identifying general
+protein binding sites, mapping antigen epitopes, and quantifying antigen–antibody
+binding affinities. Here, we present GALA, a versatile graph learning
+framework that leverages a structure-aware protein language model
+and invariant geometric representations to decode these interactions
+hierarchically. GALA was first pretrained on a large-scale protein
+binding site corpus and subsequently adapted to antibody-agnostic
+epitope prediction via transfer learning, substantially outperforming
+existing methods in both tasks. To enable antibody-specific prediction,
+we further integrated antibody information into GALA via a cross attention-based
+bidirectional interaction module. The resulting antibody-specific
+epitope predictor surpassed state-of-the-art methods, including AlphaFold3
+and GEP, and improved the reranking of predicted antigen–antibody
+complex structures. Finally, fine-tuning this antibody-aware model
+for antigen–antibody binding affinity prediction yielded substantially
+higher Pearson and Spearman correlation coefficients than existing
+docking-based scoring functions and affinity prediction methods. The
+model also showed promising performance in prioritizing SARS-CoV-2
+antibody variants. These results underscore the high potential of
+GALA for rational vaccine design and therapeutic antibody screening.&lt;/span&gt;</description>
+</item>
+<item>
 <title>Reaction Yield
 Prediction under Distribution Shift
 via Structured Chemistry-Aware Representation and Conditional Fusion</title>
@@ -5088,41 +5124,6 @@ exhibits robust long-time dynamical fidelity across a broad thermodynamic
 range. These results establish Hiccup as a practical and scalable
 infrastructure for automated construction of high-quality interatomic
 potentials for chemically complex systems.&lt;/span&gt;</description>
-</item>
-<item>
-<title>Drug-Likeness,
-Druggability, and Molecular Developability
-via Chemometric Evaluation: A Review</title>
-<link>https://pubs.acs.org/jcisd8/article/doi/10.1021/acs.jcim.6c02860/5449434/Drug-Likeness-Druggability-and-Molecular</link>
-<guid>http://dx.doi.org/10.1021/acs.jcim.6c02860</guid>
-<pubDate>Tue, 13 Oct 2026 03:00:33 GMT</pubDate>
-<description>&lt;img src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/pap/10.1021_acs.jcim.6c02860/1/m_ci6c02860_0009.png?Expires=2147483647&amp;amp;Signature=ABBoMgbUCh0ZbJdC16SG3pUDyBHhGmskvhZn2qgaXIhxYlbss83wc9jAKChSUdsN7QuXuFrg6eX34kZ9QbFBjOgCsZuiaqNRnxouLFS7qnvVWrlNx0uEEJBdl2hGcjVr8nNkzpeZ6qXV11aMcus5gQY3qii83kRF4v6wsbHPldj6sOlx7iadvGHhgi0Bp79f38j2WtuX-W1JB33qkZwgxPREAeLu9sJqdP7zb~OyV1b6oPj1yWdcDqnKmY27ZHG4RPy-S94Yo7fQknrkG3DpU-2xzLjgGHhph~ncfvzQnvq0KITy74bHpY9cwQSuU-jn4BwwJTJIkSV5q7TrsoxarA__&amp;amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Drug-Likeness,
-Druggability, and Molecular Developability
-via Chemometric Evaluation: A Review" /&gt;&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;High attrition rates constitute a major bottleneck in
-small-molecule
-drug discovery, largely arising from poor molecular developability
-rather than an insufficient pharmacological activity. Drug-likeness,
-druggability, and molecular developability represent complementary
-evaluation concepts that address different aspects of small-molecule
-drug discovery. Nevertheless, inconsistent terminology, fragmented
-evaluation frameworks, and inherent drawbacks of traditional empirical
-workflows impair the reliability and applicability of molecular property
-assessment. As powerful multivariate analytical tools, chemometric
-methods overcome these limitations and enable quantitative, systematic,
-and high-throughput molecular property evaluation. This Review clarifies
-the definitions and relationships among the three concepts and summarizes
-their classical evaluation approaches. Following the paradigm shift
-from empirical rules to chemometric modeling, multiobjective optimization,
-and large-model prediction, advanced computational pipelines are categorized
-into direct molecular similarity evaluation and predictive modeling
-of key molecular properties. We discuss the principles, progress,
-performance, strengths, and limitations of each technical strategy
-and highlight their synergistic values in lead discovery, structural
-modification, multiobjective optimization, and focused library design.
-Finally, challenges for standardized molecular-evaluation systems
-are analyzed, and future trends of chemometrics-assisted multiobjective
-optimization and large-model-driven intelligent molecular profiling
-are prospected.&lt;/span&gt;</description>
 </item>
 </channel>
 </rss>
